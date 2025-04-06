@@ -18,14 +18,12 @@ very little useful information, more like PR for PWC
 non-practical course, concepts are only mentioned
 Too much useless introductions.
 empty talk, no content.
-superficial
 Had to re-enrol after failing the final peer review, not because the work was poor but because there is NO assessment criteria to go on. You just wing it. So ok I pay again - repeat the peer review - no feedback on the grade - have to re-enrol again - $71 later the message is my grade will be ready on Jan 16. What a rip off.
 This is a general introduction with no practical applications or exercises in decision making. The instructors look like more stock actors from an infomercial with the personality of white bread.
 Peer Reviewed Assignment not a well planned marking system. Grades can be to vary. Dependent on fellow students for pass not most ideal.
 Blatantly unfair and subjective. Also, rubric doens't match the questions. The only good news: I learned some stuff.
 Pathetic n hopeless.no tools on data analysis, only shallow talk about the importance f data analysis
 Boring course, with little contents and lots of catch phrases.Most of it is PwC advertisement.
-Boring lectures. No applyable content.
 big words but very few substance
 i want to unroll
 Positive is that this course gives you basic understanding of data analysis. 2 weeks of this course went quite okay, although I noticed in the first week already that presenters are reading what they are saying. The third week is SO boring and I cannot wait for this course to end. I can say for me it's the most expensive and the most boring course on coursera so far. I tried several courses here and none of them was so bad. Honestly, I expected more from this one as it's PWC but honestly it seems to me like 'Yeah, let's read some paragraphs from fancy lectures and books and make some money of it'.
@@ -94,11 +92,8 @@ Nice introductory overview of the application of analytics
 We expected to learn pratical skills during this training
 Could have been much shorter.. too much repetition.
 GOOD COURSE BUT TOO THEORETICAL NOT DEEP ENOUGH
-Demasiado teórico, poco práctico.
 There are so much ads about PWC
 extremely high level
-overview was good
-Overview is good
 Very Theoretica
 It was OK.
 Explains Data Analytics and its basics in a really simple way. Also the simulation quiz and the peer graded assignments are worth a mention. P.s. A little more info. on the kind of questions in the Rubric test, would have probably helped me to formulate a better business plan, for the peer graded assignment.Best, Kinjal
@@ -197,7 +192,6 @@ Its a good start for people who want to start their career with data & analytics
 it's my first online course , i liked it too much . it was an amazing experience
 Very good introduction into the field. Peer reviewed assignment could be better
 high-level overview; little hands-on experience. good primer on key concepts.
-Primera parte muy teorica, pero productiva, se adquieren muchos conocimientos
 Too much theory, but the course is really inspiring and interesting. Thanks!
 Great course for new comers but not very much information, just an overview
 A great introduction to data science, although it lacks a lot of depth.
@@ -241,11 +235,8 @@ Good Insights and well structured course
 got very good insights how to read data
 Its amazing,i can do it over and again
 Too many speeches with too few slides.
-Please add Case Studies in every week.
 get to know about data analytics :D
-An Excellent introduction course.
 High-level overview. Good intro
-Basic intro to data in business
 Good summary in data decision.
 very useful course for analyt
 Good intro to Data Analytics
@@ -256,9 +247,7 @@ Insightful with a lot of
 Enjoyed it! Thank you!
 Good foundatIon of how
 was an excellent c
-very enlightening
 Great insight.
-Good basics
 Lear
 Is was disheartening to put 4 weeks of effort in 1 to try and maximize the trial window period and then you don't receive the certificate because peer-to-peer review is an unstructured process and dependent on a 3rd party who has nothing to do with my investment, my time and my performance.I was trying to evaluate a few Online training options to decide which is the best to recommend to my organization but this has been an absolute deal breaker. The course has been stretched over 4 weeks when it could have been wrapped in a week. All in all a design to stretch the time and hence gain more revenues on purpose I feel - not very pro-customer.
 This is a great course in data and analytics for the every day professional. It gives great insight into how data and analytics can support decision making. The mode of delivery of the course is e
@@ -293,7 +282,6 @@ I would like to recommend this course to all those professionals who are seeking
 Thanks! PWC to lending this excellent learning opportunities by the platform Coursera which is enriching great knowledge for the global learners. The concepts prescribed in this course were clear and precise. My knowledge from this course were there importance of Data analysis, Big data, visualization and decision making with driven data. I would like to thank for my course instructors for their valuable guidance during their lessons. Looking forward to learn some new concepts in this field.
 As an overview, introducing not only an analytic framework, but walking through how to apply it and the rationale behind its use, this course has been quite helpful in organizing thoughts around problem solving. The different scenarios offered give some measure of flexibility to think about the applicability of what's learned (available tools, changing trends, guiding principles) across different industries. The lectures are clear and concise, and the progression made sense.
 The course is amazing and substitutable to college courses. I put some effort on the course, and it did not eat much of my time. I think even employees who have a lot of work can take it and don't have to rush through it. If you are like me who don't know where to start and when to stop, I recommend this course to you. It clearly states how is data used to make correct decisions and gives a special process to follow in doing data analytics.
-Curso bastante completo para todos aqueles que querem aprender a teoria geral de como deve funcionar a aplicação de soluções empíricas baseadas em dados.Anteriormente ao curso já vinha estudando o tema Big Data e Power BI com afinco, porém faltava uma modelagem teórica para me dar suporte nas minhas resoluções, nesse caso, o curso Data-driven decision making preencheu essa lacuna que havia no meu aprendizado, super recomendo.
 Great course for anyone that's interested in data analytics. It gives a good introduction to the area with  a real-world perspective which makes it easier to grasp and understand the material. Its not a professor-type course. The project makes it even more worthwhile as it helps drive home the concepts you've learned. Overall, extremely great course!! I highly recommend it if your new to data analytics.
 The course is really a life blood for any Finance Professional as no analysing the quantitative statements & facts and interpreting them and draw meaningful conclusions from them is the first and foremost task.Course is really designed in the way that what you will learn in the course so far,you will able to practise the same.Mind blowing course from Master Class Leader in Auditing & Assurance.....
 This course give you the basics and taught you how to think as an analyst.  Excellent lectures.I did not appreciate having to  review my peers coursework, but in doing this, it also taught me exactly what to look for and what to do, when i have a client.  I definitely don't like talking in the forum, I dont have the time for this, but i guess in the long run, it has a value i am still to learn.
@@ -303,7 +291,6 @@ It was an excellent course on data-driven decision making. There were industry e
 This course is very good in the sense, it had the basic tutors, the people from the industry, the consultants, everyone had their input in different ways in which we can absorb. However I expected the tutors to have an extra video or two and make a data analysis of a business problem or situation. Very good course, worth the money and everyone must take it!
 A great module that has enhanced my knowledge and given terminology to data types and an array of available data systems  The final assessment really helped cement the syllabus.  Week 3 was a bit overwhelming. If this is new to you, like it was to me, recommend watching, reading the accompanying notes and attachments a few times over.  Enjoyed it!
 Very outstanding course to help build a strong knowledge on data mining, data management, data analysis and next generation analytic tools and more importantly helps one in differentiating all types of data in order to gain value for data gotten and deploy this data in decision making to aid growth of business or make everyday living easier.
-El curso está muy bien planteado, presentaciones cortas que no te mantienen concentrado en el punto que están tratando, permitiéndo así tomar apuntes y retener la información, adicionalmente al material que exponen cuentan con ejemplos prácticos que permiten entender el tema y como se debe implementar el conociemto adquirido en el trabajo
 My name is Jose Antonio from Brazil. I am looking for a new Data Scientist career (https://www.linkedin.com/in/joseantonio11).I did this course to complete my CV in English to the area of Data Analysis. 
  The course was excellent and the classes well taught by teachers.Congratulations to Coursera team and Instructors.Regards.Jose Antonio.
 This first part of the specialization was 
@@ -323,7 +310,6 @@ This courser is really cool ! The consultants from PwC gave very impressive and 
 The course was well written and useful for gathering an applying concepts at both a macro and micro level.  The mixed use of video and handouts was well balanced.  The peer reviewed assignment was challenging and provided opportunity to demonstrate competencies in a meaningful way.
 Amazing Course! A few months ago I was given the opportunity to work in business intelligence at my company and for that reason I have read several books on the subject. This course has brought all that knowledge together and I am looking forward to continue learning with Coursera!
 This course provided me a comprehensive information on data analytics and techniques used in it. Also, the case studies and examples helped me understand the scenarios better. Thank you for this detailed course. Looking forward to working on other courses in this specialization.
-Curso muito bem estruturado. Os vídeos, as lições e os projetos tem muita qualidade e são de fácil compreensão. O material compartilhado em PDF foi de muita ajuda para compreender os desafios atuais e futuros, que a quantidade e complexidade dos dados estão impondo as empresas.
 The course have covered essential aspects such concept of data, big data and along the tools used in gaining  insights from data which can play significant role in making better and swift decision.  The course is very influence for existing competitive business environment.
 Very good course until now. A good overview of core concepts, and a wonderful contextualization, showing students the theory, the application, and the company's vision about the data. It is a very good way to get some insights about how to generate business value from data.
 Today's businesses are facing constantly changing economic environment. To survive in this situation, businesses need to become nimbler and more insightful. To achieve that, it is very important for businesses to gather real-time data and understand what data tells them.
@@ -335,7 +321,6 @@ The best course with an in-depth understanding of Data-driven decision making an
 The course gives beginners a very good introduction to Data and Analytics, and their role in todays world. The course also introduces us to concepts pertaining to approaching Data analytics and everyday tools that assist analytics in top notch organisations.
 PwC professionals really put everything in perspective. Presenting real life examples of different challenges while keeping all things crisp and clear is rare. Overall and excellent starting foundation for anyone looking for a career in this field! 10/10!
 The course was really good. It was structured very well and at a great pace. I would have liked more handouts as there was a lot of information and descriptions. Also, more examples could be really helpful to remember all the information and scenarios.
-Este curso me ayudó a mejorar mi rendimiento profesional y académico. Ahora, cuando alguien me pide investigar sobre un tema o realizar un análisis de vigilancia tecnológica puedo hacerlo más rápido y entrego conclusiones más precisas y estructuradas.
 The course breaks down the definition of Data and Analysis, gives you a high level understanding of how Data and Analysis can be used in real world to create valuable insights for businesses. It was easy to understand because of how it is structured.
 Excellent introduction - I always recommend taking the full courses/certifications as you get a valuable foundation to work and build out from. The examples, and coursework were really excellent in driving home key points. I won't forget much of it.
 I was always curious to know learn about data, how Big data is managed?, what all techniques are applied in management of data? this course answer all my queries and all my doubts are clear now. Thanks PWC Thanks Coursera for this amazing program !
@@ -389,14 +374,12 @@ Great introduction to data analytics. This course is undeniably accessible and w
 It was an amazing course, learning from the top officials of PWC. I had a great experience. Anand sir had an amazing level of explanation. I would definitely recommend this course to all.
 This course offers great foundation to anyone who is starting out in data analytics field and it's really providing valuable insight that will set your mindset on right analytical track.
 The explanation on each and every topic was very much easy to understand and there is not pre requisites required for this course.. I would like to thanks PwC for this great opportunity.
-Excelente curso, muy bien dirigido y estructurado. El material provisto es de gran ayuda; los conceptos son fácilmente comprensibles incluso si no tienes experiencia previa en el tema.
 This course is well defined and well structured for a beginner in the field of data. It will assure you that you get all the basic knowledge about the data and related terminologies.
 Good and comprehensive introduction to the matter with providing a framework and a very analytical approach. Well presented by  the speakers with high quality video, sound and files.
 This course was a splendour  with so much insight on how to handle a real-life problem with well explanatory videos and exercices that enlightened me. Thank you for the privilege.
 Very relevant material. Great for aspiring and new consultants to get a feel of the business view of  the Analytics goal of Business Intelligence and Systems Integration efforts.
 Very helpful for building an outline for data-driven decision making. The exercises are also well designed for helping to review and strengthen the things learned in the courses.
 I really liked this class. It started at a basic level and then went into more detail. I also liked the quick videos and the final project. I will continue to take more classes.
-Хороший обзорный курс, русскоязычным будет приятно подтянуть необходимую английскую терминологию в сфере анализа. Дает понимание прикладной необходимости аналитики для бизнеса.
 Gained a lot of insights from this course. Really opened my eyes on the basics of Data driven decision making. Will definitely complete all the courses of this specialization!
 Provides a very insightful introduction to Data and Analytics on a more theoretical perspective that is necessary to understand all the tools and techniques used in the field.
 A very nice course for beginners and professionals.It helps one to improve, achieve results and also gives a chance to experience the knowledge and expertise of Professionals
@@ -417,7 +400,6 @@ The course is very well structured to get a holistic view of Data analytics. It 
 Very eye-opening. It makes sense now to make decisions by going through and analyzing data; no more gut feelings and intuitions (probably just a little bit).
 Amazing course it really shows the importance of data in the business world and how it can transform a business into a successful one. I highly recommend it
 Excellent introductory course for aspiring data analytics professionals. Step by step, clear cut methodology followed which develops interests in students.
-Es una excelente introducción al mundo de la analítica, me permitió conocer y diferenciar las materias de las que se ocupa y en qué ámbitos me puede ser út
 A very informative course on the most important trends in business. Helpful in getting to know the job opportunities that we have as professionals at pwc.
 This course is a complete introduction to Data and analytics and how organizations uses it to solve business problems. It really an interesting course!!!
 Great overview of data-driven decision, especially week 4's simulation and last assignment. It's an insightful guide for me even to recognize consulting.
@@ -521,7 +503,6 @@ Enjoyed the class. Very informative,  learn the importance of data and how to us
 Good for beginners, easy to understand and with proper practice and quiz to see if understanding is correct.
 Great course. Instructors did a very good job in designing the programe. The final assignment is real world.
 The course is really good for budding managers and see how decision can be taken using various data analysis
-Curso introductorio al análisis e datos y toma de decisiones muy intersante y planteado de forma muy clara.
 A very challenging course. I strongly recommend it for those who are interesting learning of great quality.
 A good introduction to Datas, decision making and PWC approach. A good way to begin this specialization :)
 Extremely informative. The project work in the end provided a good practical view and a hands-on approach.
@@ -607,7 +588,6 @@ Amazing course, with great insights that I applied to my job soon after taking i
 Excellent Course with really pleasing presentation that keeps you wanting to learn
 Well paced and the content is sure to be useful even after you finish the course.
 Very good introduction and interesting sample case. Easy to follow and comprehend
-Excelente!Voy por la primera semana apenas pero es el mejor curso que he tomado!!
 Good course for beginners who wants to make their future in data and analytics.
 I have really learn alot about data driven decision making...Thank you so much.
 It was very interesting and useful course to start looking into Data Analysis.
@@ -618,7 +598,6 @@ Very detailed course and got a lot to learn from this course and assignments.
 One of the most practical oriented online course.Keep it up PwC and Coursera.
 A good course for the beginners to understand how data impacts the business.
 Very nice videos.  It's important to understand the language of the subject.
-Excellent course to intro learners to data driven decision making techniques
 Helpful course and practical case studies to assist learning.Thanks pwc team
 Thank you Very much. Excelente course to Learn how to manage Data Analytics.
 Excellent course for the beginner!  Organized very well--great instructors!
@@ -634,7 +613,6 @@ Foundation course to understand how data and analytics works in parallel
 Loved the course !!! Happy to be a part of the learning experience .....
 Great entry-level course for those who are interested in data analytic!
 Very useful for students and professionals who seek job in data fields.
-Muy buen curso, explicado muy bien, el material para leer es excelente.
 An amazing course for Data Analysis or Data Science aspirant students.
 Gives an idea about the basics. Very good for a newbie in this domain!
 A very interactive course which gives a deep dive into data analytics.
@@ -691,7 +669,6 @@ Very good class. A lot of good information laid out well.
 Perfect course for beginners in data analytics, enjoy it!
 i enjoyed the course and i have gained useful knowledge.
 Best for beginners who want to start a different carrer.
-Excelente, muy bien explicado y las dinámicas muy buenas
 This course is good way to get started in this materia.
 Highly recommended  for the practical insights from PWC
 Great course; a lot of learnings and in a lucid manner.
@@ -703,7 +680,6 @@ Very good at focusing your attention on what matters.
 High level overview of data and analytics in business
 Really a good course. I got to learn many new things
 Thank you for providing this wonderful opportunity.
-Genial cuso... excelente material e instructores !!
 Great to understand how to tackle clients problems
 Very insightful and good introduction, Thank you P
 Great information, key for anyone interested in DA
@@ -712,7 +688,6 @@ excellent course, looking forward to the next ones
 Extraordinary course. Thank you PWC and Coursera!
 Provides overview of data analytics very clearly.
 Excellent overview and industry relevant material
-Este curso está sendo muito importante para mim.
 well structured outline, explicit and practical.
 Well structured and layered course to start with
 Nicely summarized contents on Big data analytics
@@ -785,20 +760,16 @@ great course. fully recommend it
 ITS WAS INTERACTIVE AND ENGAGING
 Very well content driven course.
 Very useful and thorough course.
-Excellent course. Thank you PWC.
 Insightful lectures and modules
 Good structure. Easy to follow.
 Excellent!! Highly recommended!
-Muy completo y muy interesante.
 This is a knowledgeable course.
-I couldn't have asked for more
 Love the simulation assignment
 Very detailed and interactive.
 great fun and lots of insights
 Very good and well structured
 Great Course full og insights
 Good course. Really liked it.
-it's best course for biggener
 Coursera makes learning easy.
 Love the systematic approach!
 Practical and market driven..
@@ -813,25 +784,19 @@ Great Learning experience
 Fantastic Course material
 Great videos and readings
 It was Excellent Course.
-Excellent Introduction!!
 Satisfy with the content
-提供了很好的解决问题的思路，谢谢每一位授课老师
 Really excelent course!
 This is a Great Course!
 Such a great programme
 best one in the Market
-I liked it so much....
 Very useful and clear.
 great base information
-valuable course！！！！！！
 Highly recommended!!
 Very useful overview
-INTERESTING AND FUN
 Good for a beginner
 Real world approach
 Very nice material.
 Absolutely the best
-Excellent overview!
 Very insightful!!!
 Good start for AI
 Happy to learning
@@ -844,7 +809,4 @@ Solid course
 Thanks A lot
 Great going
 Its great.
-A real adv
-Unenroll
 Awsome!!
-like it!

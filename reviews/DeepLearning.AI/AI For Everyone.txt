@@ -8,8 +8,6 @@ too dificult, and the professor was not helpful in clearing his point of view
 This course is very useful for these days technology.
 I'm not getting my certificate by mail
 Nice. Good experience
-not pratical
-Umbu
 I only found the optional videos to be useful, AI for everyone should be a stepping stone for non programmers to understand how different techniques work without them having to code.
 Pretty basic and not very insightful. Some interesting videos and use cases, but was expecting a little more and a bit more challenging.
 This was really basic. I expected much more content. Not sure this content qualifies anyone to make any sound decisions about AI.
@@ -22,7 +20,6 @@ good course very useful to all the people
 kind of vague. not much actual substance.
 the content was not that much good
 Boring course
-no
 I found this course to be helpful. But this is very basic. A direction on how to pursue the understanding further would have helped. Also, the fee for the content and was not that worth.
 I feel the content is too light on actual advice and too generic. I understand it was meant as a non-technical course, but only 4 weeks of content that can mostly be found in previous speeches made by the author does not represent enough value for the price, especially compared to previous courses made by the same author.What is there is good, there is just not enough.
 Very good coursePostitive:Clear commentary and methods of communication (visual, audio, etc)Good pace for something relaxingEasy to understand subject matter explained in a respectful wayNegative:Locked quizzesSome minor UI bugs when switching tracks, the checkmark doesn't activate. Also, the scrolling on page should keep video anchored, while speech-to-text scrolls.Suggestions:Unlock quizzes. People aren't going to pay $ for quizzes, but it helps in feeling satisfied. Locking them makes it feel like an attempt to get money, which makes sense if someone wants the Certificate, but not for quizzes. For example, should a school textbook (being borrowed from the library, perhaps) eliminate practice lessons with answers, and only provide quizzes if the book were used in a paid, formal educational setting?If the goal is to monetize the course, then it makes sense. In that case, thank you for providing the content for free. I found it valuable and interesting.
@@ -55,7 +52,6 @@ Only a general overview; did not get any practical experience building any syste
 This course can be made more interesting by showing more AI application videos.
 Would loved it if it included some case studies in brief and more interactive
 Decent course until week 4 when Andrew introduces political correctness.
-更多是概念性的讲述，适合对AI缺少了解且英文较好的公司中高层。对于想要进入AI行业的技术人员帮助不大，缺少中文字幕也是一个比较遗憾的地方。
 The sound was very low in every video also unclear voice sometimes.
 very helpful .... got full understanding of artificial intelligence
 It's not that much good, his accent is not properly understandable
@@ -95,16 +91,10 @@ Easy to understand.
 very basic course
 Some waste of tym
 Good experience
-good so far,,,
-Excellent Sir
 too simple an
-Nice session
 Very basic.
 It's good
 I really
-Precise
-Not bad
-liuy
 This is nicely put course but is an extremely introductory and elementary introduction to the idea of current AI wave. It does not lead to concrete learning that you can take back to work. It should have been offered absolutely free of cost including the certificate track given Andrew Ng's reputation and thus the demand for the course.
 After I did this course, I'd say I skimmed over a book explaining what AI is, what it does, how it can be used, what had been done, what can be done, what should not be done. I say skimming because it should discuss a little more in technicality and not completely in layman terms. nonetheless, I learned things I didn't know and I am happy about it.
 Good overview of AI.
@@ -145,7 +135,6 @@ This Course taught me a lot about AI technology and the Impact that it could mak
 Such a wonderful course, I really appreciate this effort, especially for Mr. Andrew and the entire Corsera team. I will recommend Corsera to my colleagues, my professors, as well as to all future researchers like us, I am sure and will certainly complement the gap in their research.
 cordially
 Thanks to Coursea , Deeplearning.ai and Sir Andrew Ng he is best teacher and teaches very well but he is very serious teacher even his jokes are serious too when tells a joke after few minutes of thinking i decide whether to laugh or not :D well sorry its just a joke Once again Thankyou sir
-El curso esta muy bien estructurado y anima a hacer buen uso de las aplicaciones IA. Explica de manera clara y presenta buenos ejemplos aunque es muy genérico. Es un buen curso para empezar a comprender la tecnologia IA y saber que debes tener en cuenta antes de aplicarla en tu empresa.
 Nice! :) This is a nice course for everyone as its course name suggests. I'm a student at university level; Although Mr. Andrew talks about using AI in companies I found it help full; and it is understandable by everyone. AI for everyone!!! :)))) Mr. Andrew you are a good instructor.
 I learnt so many things from this courseAnd the videos are very clear and description also provided,and at begin I won't know what the ai means and by completion of this course,I came to know what is ai clearlyAnd,I confidently say that I know what ai meansThanks for u r course
 It is a good course for those who haven't massive knowledge about AI technology.This course encouraged me to learn more about AI technologies and it shows how important will it be in future to have a knowledge about AI and other technologies which are related to AI technology.
@@ -202,7 +191,6 @@ It is an amazing course to develop a baseline understanding of AI systems. Profe
 Excellent course ! Thank you Andru to provide valuable input and detail explanation.  Little monotonous,  sometimes difficult to concentrate when you are watching the video for long duration,.
 Andrew explains AI very well and simple. Also, he makes clear what AI can and cannot do, how to begin with AI, how to setup a team, how to start a project and ethical aspects of the use of AI.
 SIR I am  Heartly  thankfully to you for this oppurtunity and i  need your blessings                                                        to gain much more prosperity in my upcoming future
-Trés bonne vision globale des concepts et des enjeux de l'IA. La dynamique du cours pourrait être améliorer : en usant davantage d'exemple concret d'application de l'IA dnas notre quotidien
 Great explanation for non technical fellows.  I am a technical guy, still wanted to take it as I want to understand things at core and generic level.  It really helping a lot to go ahead...
 It's really a wonderful journey for me to learn AI through these weeks . Teacher Andrew Ng taught me some basic information about AI through an easiest way . He is too much proficient .
 This course is good as an introduction course so i think this amount of fee is a lot for a student like me. But i could gain a lot of information from the course in Corona virus period.
@@ -219,7 +207,6 @@ Well designed content and easy as well as understandable explanation of such a c
 Great course for a basic AI understanding. Good to know for what AI can be used and cannot be used, and also to have a general knowledge about all the AI nomenclature. I like it.
 Very easy explanation about artificial intelligence. Beginners must enroll this course before starting any project so that we will have an idea for the project to be successful.
 Nice jump start towards starting of understanding AI, its role in industry and impact on society. This course gives comprehensive outlook about AI's benefit and adverse effects.
-Excelente! Gostaria mais se houvesse roteiros de aplicações, uso de ferramentas e estudos de caso, mas o conhecimento superficial acerca da tecnologia foi abordado com sucesso.
 It was a great introductory course. It could have been better if there was a link to a specialization of this course, I had seen one specialization offered by deeplearning.ai.
 This is an excellent starting point for someone who has some vague idea about AI but want to get more clarity.  That the course touches a lot of relevant areas is very good.
 Course is very resourceful and gives great insights for people who are new to A.I. It is a very basic course to get better understanding of Artificial Intelligence field.
@@ -235,7 +222,6 @@ From this course i have learned a lot,thank u coursera for providing this course
 A Perfect kickstart course for anyone aiming to learn or apply AI . Thank you Mr.Andrew Ng ,and later did I realize that you are one of the co-founder of coursera :)
 The course very well explains the terms in which people usually get confused such as deep learning, artificial intelligence, machine learning, data science, etc.
 This course was really good. The lecturer was really a humble person. I would've given 5 stars if the course had short quizes for each video. (On screen quizes)
-El curso fue bueno explicando las bases de AI y como esta afecta en nuestras vidas y la industria, pero se necesita mas imagenes para la teoria que se explica.
 Fantastic Course which gives a good overview of AI led discussions and help executives leading organisations through digital transformation across industries.
 A very useful course for the beginner level. Concepts explained in a simple manner and thus a person who is having least knowledge will understand the basics.
 Its very interesting course and learnt so many interesting points regarding AI,  will also suggest my friends and colleagues to undergo the course. Thank you
@@ -373,7 +359,6 @@ The subtitles were very unimpressive but the course content was up to the mark a
 Well organised and described course with real filed examples. Many thanks to the course instructor.
 Thank-you for this course sir,I have learnt about Ai,machine learning and impacts of AI on society.
 The instructor is good at Explaining and elaborating all the topics that are covered in this course
-Excellent cours, riche qui présente clairement les grands principes de l'intelligence artificielle.
 Providing all the content explained as a pdf material would have helped more for future reference.
 As a new area to me, this course perfectly explain lots of things. It's great as a opening course.
 i did not about AI but after this course i am able to learn new in this field. Thank you so much.
@@ -460,7 +445,6 @@ great examples, good starting point for those that want to consult on AI.
 Very good introduction to AI targeted mostly at a non-technical audience.
 very good explanation. needed more detailed project-specific explanation.
 This course was simple and effective at explaining the relevant concepts.
-Extremamente básico mas um bom começo.  Professor explica de forma clara.
 Thanks Andrew for nice presentation & clear explanation of each topic.!!
 detailed explanation in  simple terms. very handy and useful information
 Great course to gain an understanding of the basic building blocks of AI
@@ -512,7 +496,6 @@ in this cousre is too good for me and thanks for this course
 Perfect orientation and arrangement of topic for beginners .
 It is very pleasure for giving this course to me. Thank you.
 The learning module should have been bit practical oriented.
-유익한 강의였지만.. 비기너용이라도.. 조금 더 디테일하고 심화된 내용이 포함되었으면 좋았을 것 같습니다.
 The course is very good . It is very simple to understand .
 yes it was good and intresting about artificial intelegence
 I like the drawing on the screen to give better explanation
@@ -564,7 +547,6 @@ It is a very good and helpful course for beginners
 Very well explained and guided by conclusive examp
 The content is very simple and easy to understand
 Such a great experience for learmimg the subject!
-How to use data machine learning can do cannot do
 Ai is very useful to the students tnqq sir/medam.
 Very good and informative for starting ML and DL.
 Very insightful learning and I really enjoyed it!
@@ -577,7 +559,6 @@ Overall a very good course.You will learn a lot.
 easily understandable with a good explanation...
 Well clear explanation ,proper way to understand
 This is very basic and well explanatory course.
-Muy buen material para una vision general de AI
 great course for beginner to  learn foundation
 THIS IS A GREAT COURSE REGARDING BASICS FOR AI
 STUDY MATERIAL SHOULD INCLUDE MORE FLOW CHARTS
@@ -599,7 +580,6 @@ Wow it's a great course by Andrew ng sir🙇🙇
 Its a good course . Worth taking this course
 Its is good introduction to the beginners .
 It was good chance to understand AI overall
-Je vous remercie, c'est un très bon cours !
 A very good introduction to AI for everyone
 It was a very informative course. Loved it!
 good overview about AI and machine learning
@@ -637,7 +617,6 @@ Nice detailed course for any beginner!
 Good explanation with proper examples.
 it was very useful,easy to understand.
 good to gain better knowledge about AI
-Excellent course and course instructor
 Now I got How AI works And what is AI?
 it's a really nice introduction to AI
 great couse learn manythings about AI
@@ -697,7 +676,6 @@ It was amazing to learn with u
 Easy to follow and understand.
 A useful course for beginners.
 Good to start with AI learning
-Student will leaarn deep in AI
 it is very useful to learning
 Good course for begin with AI
 Good theoritical course on AI
@@ -710,12 +688,9 @@ It is hard to understanding.
 Very Good also nice examples
 Good to start for beginners.
 good course for beginners..!
-No real-time model training
 non covered techincal stuff
 Needed more technical stuff
 Really worthy course for me
-Very fundamentalClearUseful
-Understandable execllent .
 Very well organized course
 tis course is very helpful
 Its should be more helpful
@@ -725,8 +700,6 @@ interesting overview on AI
 Very good overview session
 It was a very good course
 We can understand clearly
-Nice and Excellent course
-Averygoodbeginnerscourse.
 Cool introduction to AI!
 It was a great course !!
 It was a good experience
@@ -750,22 +723,18 @@ Its is really Helpful.
 Good for more learning
 it was much learnative
 Just began. Seems fine
-I'd like slide sheets.
 Nice Overview about AI
 thankful to Sir Andrew
 really great lectures
-Most useful content !
 such an good course.
 informative course!!
 Well Designed course
-Good understanding .
 Its so good to learn
 its was a great fun.
 it was interesting.
 it was very helpful
 it was real amazing
 It is a good course
-an excellent course
 Good and excellent
 It's good training
 Good introduction!
@@ -773,55 +742,30 @@ introduction to AI
 It is very useful
 AI is very useful
 Good Explanation.
-Very interesting
 I gained a lot.
-good exoerience
 helpful courses
-AI for everyone
 Very Helpful..
 a BASIC COURSE
 very use ful..
 Knowledge able
-Must do Course
 It's very good
 Verygoodcourse
 Good Learning
 good to learn
-An eye opener
 That was good
-short videos
 very usefull
 It is useful
 good enough.
-Good one (y)
 Great!!!!!!!
 Loved it  ❤️
 Muy chevere
-Fine course
 It is good.
-AI is good
-Awesome AI
 Good one.
-Good job!
 helpful!
-exallent
 thank u
-awesome
 wothful
-HELPFUL
-Useful
-good..
-GOOD .
-???:)
-.....
-Lucid
-goodd
 Thank
 NIce
-9/10
-Nth
-Kk
-V
 Brilliantly delivered, contains all the most important stuff to help practitioners (not AI experts) orient themselves. I watch a video or two every day, and I'm learning. Really enjoyable and useful.
 I got a comprehensive overview of what AI is and the meanings of various concepts being talked about in this context. Excellent course for one to start on a solid ground. Five stars! Thank you Andrew.
 Highly recommended for anyone wanting to start learning about AI. Explained in an coherent and intuitive way and will help lay the foundation for a lifelong learning experience and a new career in AI.
@@ -877,7 +821,6 @@ sees elevation to plant, animals, mankind and ultimately God through invoking
 of all-pervading divine forces and power. This principle if can be propagated
 to large mass of people will do good for the world along with evolution of AI.
 This course gave me an abstract view of AI as well as a realistic view of AI i.e. a high level sense of what AI can and can not do.  So, for someone who is first trying to understand what is AI all about, what are the key tools of AI i.e. Machine Learning including Deep Learning and Data Science, this course provides a right perspective. It also mentions good case studies about complex AI products as well as the roles and responsibilities of large AI teams. AI transformation playbook will be really helpful for companies to get the feel of AI and strategies it for the right future of AI in their company. Finally there is a good perspective on how AI can impact society and how we can navigate the rise of AI in future. The course finally teaches us to keep learning to build knowledge.  Great foundational course and very well narrated by professor Andrew Ng.
-Este foi o meu primeiro curso sobre Inteligência Artificial, então isso deve ser levado em consideração na minha avaliação - ou seja, quem for ler deve saber disso. outro ponto importante é que não tenho background técnico. Dito isso, o curso foi bastante válido como um primeiro passo para entender o que é IA e, principalmente, o que preciso levar em consideração quando penso em "criar" uma aplicação em IA ou quando uma empresa pensa em fazer algo assim. Consegui caminhar os primeiros passos neste entendimento. O que seria importante como sugestão é uma continuação do curso, dando dicas do que devemos buscar conforme nossos objetivos e grau de conhecimento. Em resumo, não posso opinar sobre a qualidade do curso para quem já tem um background no assunto. Mas para as pessoas que, como eu, não tem conhecimento nem formação técnica, o curso é valido.
 It has been a wonderful experience learning AI, I am a Management Faculty, Dr. Anupama, Associate Professor in a Management School, in Hyderabad, Telangana , India. I always had curiosity to understand AI, as my children are graduating in computer science and having heard this buzz word, AI... could learn about it, and will continue to learn and see how to make use of it. Adding to it is Mr.ANDREW'S LUCID way of teaching which made it much more interesting. Im really thankful to Mr,Andrew for his patience and explanation which anyone can understand. Finally, i feel fortunate to learn this course from course era, with out which, this could not have been possible. Thank you once again, i will make all my friends who are equally interested in learning something new to attend this course.Thank you once again.
 I found this course very informative, specifically for the one like me, who is starting this AI from scratch. Andrew Ng provided a complete picture of how AI can be practically implemented for the betterment of society. I would like to suggest if some practical videos of AI applications could be added like how Alexa, siri are being used. As being a national of developing country Pakistan where technology is not very common. These devices are very expensive and are not frequently used, so a exposure is required. And another suggestion concept in case studies in which step expertise of software engineer, Machine learning engineer are required need to be emphasized. What kind of hardware support is required need to be discussed for the development of application Otherwise it was perfect. Thanks Andrerw Ng.
 This basic course about AI is really helpful to start career in AI. The first step in any course is to understand basics about the subject which is provided by this course about AI. As we see that AI is the future in any industry, the person belonging to technical as well as non technical background can study AI.This course is well designed for beginners. Being a beginner in AI, I understood the concept of AI, what it can do,most importantly what it cannot do, its limitations, steps to follow to implement AI, impact of AI on economy and society. Finally, I am confident that because of this course, I will be able to develop a suitable project to make system efficient and intelligent. I thank Coursera for providing such a nice course.
@@ -937,7 +880,6 @@ Amazing course! Everything explained is very easy to understand, even for those 
 It was really useful to get a holistic view of AI. The course conent is just perfect covering on various aspects of AI (technical, business values, workflow of an AI project, capability building, society etc.). I have been watching Prof. Andrew Ng's viedos and going through his courses for last two years. His teching method is really effective. His rich experience on AI with his humble way of teching makes him one of the greatest professors of the time. Thank you!
 The information in this course was presented in a clear and organised way, building on knowledge as the course progressed.Andrew has a very pleasant manner and is able to explain complex topics to people are unfamiliar with them so they are able to graps them easily. This is difficult and he made it look easy.I feel that I have learned something valuable and that I can now apply this knowledge to building out AI capability with my colleagues.Thank you very much!
 This course meant a lot to me now, I really learnt the importance of AI and how it is changing our industrial process and improving economic conditions. I have also learnt how to analyze, design, build and deploy AI Softwares and building the team in a company and which training is required to a particular role in a company. Simply this course has added advantage in my career to grow fast. Thank you, Coursera and deep learning team really appreciate your effort.
-Un curso maravilloso que a quienes tuvimos la oportunidad de tomarlo nos explica la importancia de empezar este tipo de proyectos dentro de una compañía y como nos puede ayudar a ser mejores en lo que hacemos cada día. También a entender y dejar el miedo sobre los mitos de que la IA nos va a reemplazar en el futuro y nos brinda las bases para poder participar en estos proyectos en las compañías donde laboramos y ampliar nuestras oportunidades laborales a futuro.
 Fantastic Course!this is a must for everyone, Many people start doing ML, AI, Data science without actually knowing why and what is the optimal way to use it, however, this course will surely provide you all the insights you need and the reasons why you should go about doing AI and helping make this world a better place. Moreover the calm, polite voice and love of learning attitude of the instructor (Andrew Ng) will make you get inner peace and Love for AI too.
 Completed this course in a day. All the topics covered are beautifully explained. Although the entire course is of theoretical knowledge, Andrew's charming personality keeps you engaged.Also, second and third week content gave me a lot of confidence into believing that I can become a good AI,ML developer by myself. I was following similar strategies and work flow but was not sure if industry standards are the same as well.Much appreciated and Much recommended.
 The instructor, Mr. Andrew Ng , is perhaps one of the best teachers I have ever had in my entire life. He breaks each & every concept down into bite-sized chunks that are easier to understand & fathom. I don't have anything but good things to say about this course. For anyone who wants to start with understanding all those buzzwords that you hear around you such as AI, deep-learning, neural networks, machine learning or computer vision, this course is for you.
@@ -970,7 +912,6 @@ Definitely geared for everyone and anyone.  The course is broken down into diges
 A million salutes to Andrew for making such a complex course so simple for us!  Well structured, well steered, simply explained!  For a "C" level executive like me at the age of 63 years, this was a wonderful experience.  I would have normally shied away from this potentially exciting field, resigning to the fate..."not for me"!  I am energized to drive AI initiatives in my company.Thanks again Andrew!!
 Takes us through the circumference of AI, Machine Learning and Data Science; covering the technology and techniques involved in putting them to use for everyday use cases; while teaching the definitions, applications and limitations of what they can and cannot/should not do - in simple and easy to follow concepts and thought-exercises.An enjoyable must-learn for everyone!Thanks Andrew Ng and Coursera!
 Through this course, I am able to understand following and hopefully can apply in future:-AI Strategy & it's building blocks-How to create an AI team & AI company-Find use cases where a repetitive task can be replaced with AI rather than focusing on whole job function-How to make AI solution more effective by reducing bias and adversarial attacks-How to adopt and learn AI while using current skill set
-sumamente interesante , si bien yo ingrese por la opción sin certificado ( gratis)  considero los conceptos que se explicaron dan una introducción o conocimiento minimo sobre el tema que es muy valiosaY una cosa a destacar del instructor fuera de su gran conocimiento es el hacer caer en cuenta lo importante que es buscar los beneficios y evitar los sesgos en cualquier nueva tecnología muchas gracias
 This is a tremendous course for starters to understand what exactly does AI mean. Andrew breaks down the Content into digestible modules which makes understanding extremely easy. There are reasons to be optimistic as courses like these would enable a dramatic improvement in the understanding of AI. Thank you very much, Andrew for the excellent course and your efforts in demystifying this world of AI
 The course was very useful to know about AI, its limitations, what can and can't be done with AI. Learned about difference between machine learning and deep learning, Roles and responsibilities of various positions in AI era. The course faculty explained all the concepts very clearly and in understandable ways with case studies and examples, and also with some of remedial actions for AI company.
 Professor Andrew Ng is excellent at explaining complex topic into simple, easy to understand ideas that helps everyone learn about AI growth, limitations, and value to society and the world economy. Everyone should take this course small step for a big picture. Andrew Ng is awesome when explaining things. Quality and background is good compared to other videos. Became fan of Coursera after this.
@@ -986,7 +927,6 @@ Excellent course !  A must for everyone !Andrew Ng really motivates to learn as 
 It was my 1st course on Artificial Intelligence and I learned a lot about what AI can and cannot do, how to use AI to start a new company, what are the potentials of AI, the different types of Adversarial attacks on AI, AI and social impacts and lot more. So I would say this course will help me thrive a lot in my career of persuading my M.Eng. degree at Chulalongkorn University in AI.
 I got immense knowledge about A.I. by completing this course. It gives you an opportunity in the form of a launch pad to propel yourself into the transformation of world which is taking place because of A.I science. I found the course easy to understand and extremely well made for anyone from any field of work. I would like to thank Andrew Ng for his teachings and guidance. Thank you!
 I really enjoyed this course with Andrew. As a normal citizen and working professional wanting to learn more about AI and utilize this tool to do good, I find that his explanations are clear and concise. I would highly recommend this course for any beginner. It made me feel like I could grasp a basic understanding of the components of AI, which inspires me to continue learning more.
-Me encantó el curso!!! Aprendí conceptos básicos de la Inteligencia Artificial, lo que me permite entender y conversar acerca de proyectos de AI con equipos de trabajo más técnicos. Me entregó criterios para evaluar ideas de proyectos de AI y sus posibles escenarios de factibilidad, creación de valor e implementación. Muy didácticos los videos, excelente profesor! Thanks Andrew Ng.
 For a person to get information about AI concepts, it's career opportunities, it's advantages, it's disadvantages, it's fear among people, this is the best place to collect that information. I enjoyed every part of the course though I won't say it was a course as it was way better than a course. It was about enlightenment towards a topic of concern which is Artificial Intelligence.
 I really enjoyed taking the class. It was the first time I've taken a class with Andrew Ng and his presentation style was very good. He providing a calming voice reinforced with (obvious) real world experience in the space. While many of the AI concepts were not new to me, I did learn from this course specifically about how AI is being used at companies based on Andrews experience.
 This is a great course to provide introduction to AI for the general population. Although having first-hand knowledge in computer science and programming greatly helps fast comprehension on the topics discussed in the lecture, it is however not necessary and that the general population can still understand AI better and will improve the society should AI technology is implemented.
@@ -1243,7 +1183,6 @@ I took this course only for Mr.Andrew Ng and I enjoyed the course a lot,The cont
 I am thankful to Andrew Ng who makes this course, He explains AI in Deep detail and gives very much Knowledge about what is AI. before this course didn't know what is AI, But after this course, I Can Surly Explain the AI the topic I have to learn from MY (GURU) Andrew ng
 This course gives a complete overview of AI for modern professionals. I liked that it covered concepts such as supervised vs. unsupervised learning, machine learning, deep learning, knowledge graphs, etc. It also covers the wider societal aspects of the deployment of AI.
 This course is a great way to start your journey in AI. The instructor is a genius in his field and his teaching techniques are awesome. With a lot of practical examples really help me to understand AI better. I do recommend this course to everyone who want to learn AI.
-Personalmente no conocía mucho sobre el tema de las AI. Sinceramente este tema ha crecido bastante en los últimos años, y como una introducción a este mundo, y sus implicaciones, me parece que este curso merece la pena. Preciso, pero bastante bien explicado y didáctico.
 The best course to know what actually is AI. Mr. Andrew explained terms associated with AI like Machine Learning and Data Science. This course is specially designed for people working in an organization or high-level employees even that this course is best for everyone.
 This is a well-planned and well-delivered course by Andrew. It provides a very realistic interpretation of the current AI technology. This course is equally suited for engineers as well as executives by being not too technical. I would recommend this course to everyone.
 Great gateway to understanding AI. The instructor is pretty good at explaining things without getting to tied up in the jargon. The lessons are very easy to follow and makes it interesting to want to learn more. Disclaimer - we're still far from killer robots though :(
@@ -1304,7 +1243,6 @@ This is the type of course that you can take even if you are not related directl
 This course will be very helpful to those people who are indecision whether to learn or not AI. Andrew ng nicely describes what AI is, What are the challenges of AI, What can be done and what can't be. Differences among AI, ML, and DS attract me very much.
 The best course and the best instructor. Sir Andrew explain everything in a way that made us understand what is the worth of AI in today's world and in the near future. The way he explain things made me more interested towards opting this field as a major.
 The course is a good way to anyone to understand the basics of AI before deep diving into specific subtopics. Professor Andrew Ng explains everything in an easy to understand manner and differentiates the hype from the truth in a simple yet impressive way.
-Me gusto mucho, fue muy didactico y la información con ejemplos muy valiosa! Vale la pena para todo aquel que si tenia un concepto sobre IA básico reforzarlo o si no tienes ninguna idea. Porque te llevará a un nivel para tener una conversación mas alturada
 The course is informational specifically from non technical standpoint. Andrew is able to make his point on what and how an organization should proceed on AI. Also What AI can do and can't do which is a big misconception people have. Overall nice insights.
 This course is good enough to understand the concepts of Artificial Intelligence which can be consumed by everyone without prior knowledge of this area. It will be good if there are more exercises covering this concepts which can be appreciated by learners
 Completed the course within a week and highly recommend it to anyone who is interested in AI in general. The overall course material is non-technical and really easy to follow. I even encourage people whose mother tongue is not English, to take the course.
@@ -1348,7 +1286,6 @@ It is a very helpful course to understand the basics of AI, I would totally reco
 This was an excellent course with easy-to-understand concepts presented by Andrew Ng. Courses were broken into short videos making it easy to consume the videos in my spare time. Highly recommend this as a starting point for anyone interested in AI.
 Andrew NG is the best teacher possible to lead you to understand what is and what is not AI, ML and Data Science for starting your journey through your changes leveraging AI. Very useful to any person, this should be a must-attend course to everyone
 Great course if you are wondering where to start from in your AI journey... and what's better than learning it from one of the greatest pioneers in this area - Thanks Andrew Ng for the down to earth explanation of what it takes to get started in AI.
-Este curso fue realmente wow!, primero tenia muchas ganas de aprender sobre IA y segundo el profesor fue lo suficientemente dinámico para explicar, realmente quede con ganas de seguir aprendiendo pero como introducción considero un buen primer paso
 I would highly recommend it to everyone out there to know about AI and the hype created around it. In this course you will be able to gain insights in the terms that are widely used now a days and somone who would want to learn about AI in general.
 This course should be mandatory for every person specially the kids of this generation, because they should know in their early age that what you could be facing in their future, so that they have a right path in their early stage and progress fast
 As someone relatively new to AI, this was a really good intro course to familiarise myself with the various concepts. Really appreciate Prof. Andrew Ng's simple and concise explanations with useful illustrations which made for easier understanding.
@@ -1395,12 +1332,10 @@ Dr.Andrew NG is an excellent teacher and is able to explain the AI concepts in v
 Andrew explained the concepts extremely well and I am glad there was no technical jargon used. The case studies and examples referred were meaningful. Would recommend this course for everyone who want to understand the fundamentals. Thanks!
 It was great to understood better how AI is helping and could help the future of many companies World Wide, Is quite a challenge for every industry start thinking AI, and realize the benefits it could provide to each individual and company.
 I loved this course! I had no knowledge on AI prior to that and terms like 'Machine Learning' seemed very daunting to me. I gained great understanding on what these terms mean and now I feel like I have a basic understanding of what AI is.
-Tiene suficientes fundamentos sobre la IA y es amigable tanto con aquellos familiarizados con el campo de la ciencia de datos como con aquellos que recién comienzan. Un buen curso hecho por gente que comprende el tema que permite aprender.
 Really great course (very dense for such a short amount of time!) Andrew's explanations and examples are clear, concise and packed with information. Had to go over some of the videos a few times, because of the detail. Really great course!
 Great course to start your career in AI. Prof. Andrew Ng is a great instructor, the style of his teaching is remarkable. Further, the design of course content is commendable no doubt. Very thankful to coursera and course instructor. Thanks
 Absolutely amazing course, Andrew Ng does a fantastic job at breaking down complex topics into comprehensive and simple to understand concepts. Would definitely recommend it to anyone who seeks to get a rounded view of AI in today's world.
 I am so amased at the content and ease of explanation by Andrew Ng. This course has helped me in my  current project. I wish to see many more advanced course material from Coursera & Andrew Ng. Congratulation for everyone who completed it.
-Este curso me permitiu entender a definição de diversos conceitos da IA: Machine Learning, Deep Learning, Supervised Learning, etc. Também me permitiu compreender as limitações, vulnerabilidades e desafios da IA para o futuro da sociedade.
 It was wonderful to learn from sir who has dedicated his life to learn AI, (some subtitles are not downloading)I am from India ,I can easily understand English but subtitle would be helpful.Else thank you for teaching us to guide others!!
 As the course title suggests, it is for everyone. It is every person who belongs to any professional field. AI for Everyone teaches how Artificial Intelligence is impacting the world. Moreover, It discusses the common myths related to AI.
 This course will show a great path how and where to implement AI. It will also taught me what is AI , how to build your own AI projects and how to implement AI in your current project or company. Thanks professor NG for this great course.
@@ -1508,7 +1443,6 @@ Andrew Ng does a great job of helping me understand the basic concepts of AI. I 
 This is a non-technical course that everyone should take to learn about how AI will impact them and their jobs. The instructor, Andrew Ng, explains the concepts very clearly and illustrates them with a lot of examples.
 Very, very recommended for all people, especially for managers and non-IT people. AI can be applied in all industries, but what we really need is non-IT people to dream what can be done with this incredible technology.
 The course was well formulated and it was really interesting to know about the future of our world that is Artificial Intelligence. A special mention to the Instructure for such a great learning experience. Thank You!
-Excelente, el curso da los detalles necesarios para que cualquiera pueda entender la IA, sin entrar en detalles técnicos, y me gusto sobre todo la ultima semana que aborda temas éticos y de mejora de nuestra sociedad.
 Very informative and easy to understand. Anyone can do this course even if you have zero knowledge about the topic. It gives sufficient knowledge about all you need to know about artificial intelligence for beginners.
 Nice and simple course, completed in one sitting , mainly for spreading basic knowledge and awareness. Does not contain any programming assignment or math. Its basically what it says in thebttle ... AI for 'Everyone'.
 It's a good course to start learning what an AI is, what it does and how it could affect the everyday life.Useful for everyone, also for who doesn't work with AI at moment considering how it will spread in the future.
@@ -1534,7 +1468,6 @@ Before I didn't really liked the topic, but my dad convinced me to take the cour
 I had an eager interest over AI & came to know about it so beautifully & Andrew is a great teacher who will not bore you rather you'll enjoy his serene tone to get learned by his informative & not-so-boring slides.
 As a teenager, I was not super-excited to take the class. But, it surprised me - Andrew Ng was not boring and explained things perfectly. AI can be confusing, but now I feel like I know enough to take more classes.
 The course was very intuitive.I am a beginner in this field and was still able to understand almost all the sections at the very first go.The best part is, I Understand it!!!!Thank you Andrew NG and DeepLearning.ai
-Ce cours est très instructif, sa structure est pertinente et les mots d'Andrew Ng sont les bons pour s'adresser à un public sans formation ni expérience préalable en IA mais avec un intérêt pour ce domaine. Merci !
 I learnt a lot about Artificial intelligence from this course , I think this course is very helpful for students belong to non technical background. Thanks to Andrew Ng for deliver this course in a very simple way.
 I recommend this course to all of you. I have learned a lot from this, now i know what is A.I and What is its components. I love this course. I would request you to learn and teach others. It will change the world.
 Excellent course for those who got started with Machine Learning in Business. Throughout the course, you will understand the difference between data science and machine learning and limitations that A.I. cannot do.
@@ -1565,7 +1498,6 @@ Everyone should opt in for this course. It will give youthorough understanding o
 Extraordinary course to start getting familiar with the subjects of AI. This encourages me to further the studies in the near future, and also look to ways to implement this knowledge in my current job position.
 It is a very nice introductory course on AI on the concepts of AI. You don't need to have any math/stats/computer science background to understand the course. It gets me intrigued to want to learn more about AI.
 The class makes AI approachable. Andrew is encouraging at every turn and has a gift for communicating complex concepts in easy-to-understand language. Am looking forward to continuing to develop my AI knowledge.
-El profesor Andrew Ng explica de forma clara y dinámica cada tema y lo que he apredido de él ha sido bastante valioso. Ahora que he terminado el curso, me ha motivado a seguir aprendiendo mucho más sobre la IA.
 Good presentation and easily to understand, even for the non-technical person. With this course, everyone should be able to understand the overview of AI technologies and its impact to the business and society.
 This is a helpful course both for Computer Science and other who want to start working in AI. This course will help you to start your journey in this Field. Thank you Andrew Ng for your teaching in this course.
 Excellent course which encompasses most aspects of AI fundamentals in a very simplistic yet elaborate manner. The presenter is fabulous and the course seems to be worth every penny from a beginners perspective.
@@ -1595,7 +1527,6 @@ very good explanation of how to build and enhance your business using sophistica
 It was an amazing experience complete this course. This was my first approach to the AI World and I want to keep learning about this topic. Hopefully in the next years, AI will be so important for all of us.
 Very explanatory course! I recommend it undoubtedly to everyone who wants to learn what AI can and can't do and to have an idea about how it can be applied correctly in general! Very well structured course !
 I think the course is simple and nice presented. Even though this is a difficult subject, I think Andrew Ng has done a great job in making it simple enough for a layman to understand AI...Highly recommended.
-Cubre generalidades de concepto, interpretaciones erróneas, nociones administrativas de un equipo desarrollando IA, y algunas consideraciones éticas. Es un buen abre bocas al temas, desde mi punto de vista.
 I was thrilled by the information I learnt from Prof. Andrew Ng. The knowlage of AI and Delving deep into technical details of machine learning is mind blowing. I'm so great I have add this Course to my CV.
 I Greatly thank Mr. Andrew for this course. It really made me to feel soo comfortable in learning AI. This course is useful for each and every person whether technical or non-technical. Its a awesome course
 I have found good video presentations here, which are very easy to understand. The gestures, verbal delivery, body language of the lecturer made the subject to be more interesting. Thanks to the Coursera...
@@ -1780,7 +1711,6 @@ This course was so intriguing that I couldn't stop from not following it during 
 Great course, which gives a really good insight and covers the most relevant topics. Quizzes make you reflect and review some of the views which further increases the learning effect!
 This Course was very beneficial and valuable. Trainer explain many things in depth. This would be help me in every field of life.Thanks You Endrew NGGreate Effort Good Teaching method
 This course helps me to understand the importance of AI and the difference between machine learning and data science. It will also help me how to look into the problem in terms of AI.
-Ce cours m'a beaucoup appris et motivée à me diriger dans une voie qui auparavant me paraissait complexe et réservée à certaines personnes. J'ai adoré. PS: je l'ai fini en une journée
 Great materials and lectures. Every CEO/Startup Founder/Project manager who wants to enable or leverage AI into their project/product should go through this course. A real eye-opener.
 Thoroughly
 enjoyed learning AI insights and its impacts. This course actually wets the
@@ -1833,7 +1763,6 @@ You can learn a lot without doing all the videos and just doing the tests if you
 This is the best Introduction to AI course I have ever attended. Andrew Ng is a great teacher and his ability to explain all terminology, its meaning with examples is outstanding.
 To be honest, the most enjoyable course I ever enrolled in. the instructor is soo engaging and adorable, such an amazing learning experience. the content deserves a 10 out of 10.
 wonderful course, especially good for executive who wants to have a non technical understanding of the AI capabilities and a way to initiate a first AI project in her own company
-Excelente curso para entender qué es AI y saber en qué se puede utilizar. No conocía nada del tema y ahora estoy muy interesado en conocer sus aplicaciones con mucho más detalle.
 Andrew has an exceptional ability to distill complex ideas and communicate them succinctly in a way that is engaging for the student. This was a great initial introduction to AI.
 The course content is very simple to grasp and yet offers so much valuable insights, not many can strike this balance. Thank you Coursera and Andrew Ng for the excellent content.
 Approachable from every angle.  I'm a software engineer, but new to AI and ML, and found both the content and delivery balanced (not too simplistic and not at all condescending.)
@@ -1850,7 +1779,6 @@ Very insightful for beginners, teaches right from the cores of AI and how it dev
 Great introduction course to AI.  The instructor explains a complicated topic very well and with easy to understand (and relevant) examples. Highly recommend taking this course.
 It's a very good course for people with non-engineering background. Also, Andrew NG is brilliant. He has explained each and every concept so well. Totally enjoyed the learning.
 I am really glad to have completed this course. The instructor is really knowledge and explains the concepts in nice way. I wish all the best. Thanks for this beautiful course.
-Muito bom!! Aborda conceitos técnicos básicos e aspectos interessantes sobre gestão de projeto e times de IA. E por fim, traz questões éticas e sociais extremamente relevantes.
 amazing course and enjoy a lot by doing this.I'm technical student of computer engineering student of B.Tech but I took it for learn easily and simply of AI and related things.
 Great course from Andrew Ng. Enjoyed learning the AI concepts supported with awesome examples. Highly recommended for anyone who is really interested to understand AI concepts.
 The Fundamental concepts are explained very nicely. For the primary knowledge about AI, its uses, and how to implement with certain limitation, one must go through this course.
@@ -1997,7 +1925,6 @@ Got a better clarity of AI and its capability of bringing transformation into th
 Was provided a lot of insight for someone who never stepped into the field of AI. Definitely feeling a lot more smarter now! Absolutely worth the time and effort.
 It was really a nice experience. From scratch i got to learn about AI. Now i feel confident about my knowledge of AI after completion of this course. Enjoyed it!.
 Excellent explanation of AI and it's applications for beginners and business professionals looking to gain the best out of AI's capabilities in all walks of life.
-Es un curso que me ayuda a comprender mejor como hacer un proyecto de IA desde el diseño hasta la implementación, ahora deseo adquirir mas conocimientos técnicos.
 Andrew really put AI in perspective, so much that I can see the possibilities and the limitations in the implementation of these technologies in future endeavors.
 Andrew Ng you are the best. Thank you very much for taking some time out of your busy schedule to create this course. Hope to see more such courses in the future.
 Thank you, Andrew. It was a structured course, useful and well done. It will help me further start my learning in programming, machine learning and deep learning.
@@ -2014,10 +1941,8 @@ I learned so many new things from this course and I plan on learning more about 
 I recommend this course to be must before getting a deep dive into AI.Because it will shape your thinking at every step while working on AI.I like it very much.
 all the key terminologies were well explained.it helped me get a clear view on ai and its traits.i have gained an interest in artificial intelligence .thank you
 I loved this course. Mr Andrew explained it in such a easy and beautiful view that in spite of me being from non-technical background understood it pretty well.
-O curso foi ótimo! Muito didático e ao mesmo tempo bastante amplo. Eu tenho certeza de que poderei me aventurar por novas áreas depois de ter assistido o curso.
 Andrew has a way of explaining complex subjects in a very entertaining clear way and easy to understand, this is a great start for anyone looking into AI or ML.
 The course is pretty well-explained and well-organized in that it explains most of the things that you need to know as a beginner interested in the realm of AI.
-Je suis contente de suivre ce cours comme une initiation à l'IA et qui est accessible pour les débutants.J'apprends progressivement et c'est ce que je recherche
 I just love the way Andrew has shared all the ideas and real-world examples and his experiences to emulate the actual thing.I just want to say a big thank you.
 Great introduction to AI. The most useful knowledge I gained is what AI is capable of doing and how you can implement that into your current business strategy.
 VERY BEST COURSE FOR BEGINNERS IN ARTIFICIAL INTELLIGENCE ,REALLY WELL TAUGHT BY INSTRUCTOR ANDREW NG...I WILL RECOMMEND IT FOR ALL............................
@@ -2063,7 +1988,6 @@ It is really a wonderful experience for me to watch and hear from such an eminen
 This course is too good and helps to get basic understanding of what AI is and its importance. The topics were well organized and handled by the instructor.
 Great course to get a big picture view of what is AI, decipher the buzzwords and start understand the impact of AI as well as use cases. Highly recommended!
 I suggest it for who is interested in AI but have no idea on where to start or have no one to guide. Its very useful basic course on AI which anyone can do.
-Ótimo curso para uma visão geral de IA, de como indentificar projetos e suas aplicabilidades e uma visao gerão do que IA nos reserva para um futuro proximo.
 great strcuture, very good overview with good examples, can already use it for daily business. I already recommended it to my team to make this course, too.
 Fantastic overview of everything one needs to know about AI for non-practitioners. Andrew is an incredibly talented professor, and loved taking this course.
 This curse really helped me in understanding what actual changes are going to be held in our world in upcoming years and why everyone should be aware of AI.
@@ -2091,7 +2015,6 @@ This course has given the good information about the AI, with various examples l
 Ai was a black hole for me before, with this course I have a better understanding and knowledge about AI, very easy to understand, and good for beginners.
 Excellent and balanced introduction to the world of AI, machine and deep learning, and technology about to change the world the way we know it. Thank you.
 The best place to learned anything Coursera is best of best . this is the best leraning website i ever see in my whole life     .  thanks to team coursera
-Прекрасный курс, который дает крупными мазками основные знания по AI. Советую менеджерам, к-е планируют использовать AI в работе. Andrew прекрасный лектор
 Simple to understand and easy to follow...This course helped me understand the broad perspectives of Real-life implications of AI in the corporate world.
 Great introduction to AI. Despite it doesn't has practical exercises the course explain in a very complete way how to apply AI in small and big projects.
 This course gives a very good basics and understanding of AI and its application. This is a good starter for anyone who wants to start their career in AI
@@ -2178,7 +2101,6 @@ An excellent course for everyone who wants to gain a general understanding of wh
 This course was very helpful. Now I have a better view on AI. Andrew was very friendly. I felt very comfortable learning from him. So,  five star.
 An Excellent and a great start for everyone trying to learn AI and its aspects. Thoroughly enjoyed and learned a lot along the course progression.
 Thanks Sir Andrew Ng. You are too good in explaining concepts, only 1 issue that i feel the sound was little low. Except it, everything was great.
-Me gusto mucho el curso, honestamente pude conocer mas acerca de la Inteligencia Artificial en la actualidad y el impacto que tendrá en el futuro.
 A good overview of AI for non-technical people.  Provides some fundamental terminology and ways of thinking about the effective application of AI.
 This course helped me to understand basics of AI. Now I plan to take ML by Dr Andrew Ng. He is humble and polite and also can tell great jokes :).
 Brilliant course and very helpful to start an AI. It has given me a good kick start and relate to what am doing in my team and in my organization.
@@ -2262,7 +2184,6 @@ If you're seeking introductory, practical knowledge of AI, this is a great cours
 Very good introduction to AI. Andrew explains it very clearly and at the right pace illustrating his speech with visual examples. Excellent!
 Brilliant course. The material was really well explained and the examples provided allowed me to fully understand the topic being discussed.
 Best Course on AI. Highly Simplified. Even a layman can get the basics of AI after completing this course. Andrew Ng made this complex topic
-Es un curso que realmente se encuentra a un nivel entemdible para cualquiera como el titulo lo refiere, excelente curso y super recomendadoi
 I actually had a great journey and experience. thank you for providing this opportunity. I think this learning will help me in the long run.
 Very Informative course regarding AI technology . I can definitely implement some small project in my day to day routine & repetitive work.
 This was an amazing experience with AI first time. I am really very much interested to go deeply into the field of Artificial Intelligence.
@@ -2283,7 +2204,6 @@ An excellent, absolutely fascinating course I recommend everyone to understand n
 This AI for Everyone course gives me a clear insight about its overview of  technical aspects in regard with  implementation in business .
 Professor Andrew Ng did is his best to deliver what AI is, though Explainability is hard in AI but in case of this course surly it didn't.
 Enjoyed the course thoroughly and learned a lot. Andrew is a great teacher, demystified AI for me and motivated me to learn more about it.
-Hilfreich, motivierend, differenziert, vertrauenswürdig. Ich habe viele Einschätzungen erfahren, die sonst nicht so leicht zu finden sind.
 Efficient and interesting class, you learn a lot just in a few hours. Very good introduction (and more) to AI, that any leader should take
 Great course, concepts are explained clearly and with relatable examples. Very recommended if you want to start to learn what AI is about.
 Very useful overview of AI, covering many topics and core elements of ML. It really helped 'connect the dots' between what I already knew.
@@ -2359,7 +2279,6 @@ Very informative and easy to understand. It helped me to wide my horizons on the
 It was very good course.I don't like coding before this course but now I want to learn coding and do AI projects.Thank you Andrew Neg
 A great course to get an overview of AI.The instructor gave many real case studies to get a clear cut idea about what AI actually is.
 Great course as a starter to AI. The professor is a top talent in this field and teaches in a simple way so that anyone can undersand
-Ce cours est très riche en contenu. Les explications sont claires et il est un bon début pour ceux qui aimeraient en savoir sur l'AI.
 Excellent course for a beginner and for everyone to start thinking about how to use AI strategically to gain a competitive advantage!
 Very good introduction to Machine Learning and AI. Thanks Andrew for your efforts in making basic AI knowledge available to everyone!
 I learned a lot after going through the lectures of Andrew NG. It is quite scintillating and informative if one is really interested.
@@ -2448,7 +2367,6 @@ Thank you Andrew .N.G sir for sharing important knowledge about AI.I reccommend 
 the deep explanation and simplicity of examples make it more useful and informative best because of  andrew ng sir just awesome.
 There is not doubt that this is the best course on the internet on AI. Thanks a lot for sharing your valuable Knowledge with us.
 Excellent course. Andrew demystifies AI in a way that even a person with zero understanding of AI understands AI! Thanks Andrew!
-Gracias por tomar de su tiempo para preparar un contenido de calidad y altamente educativo para quienes se adentran a este mundo
 Very good overview of AI and this course has provided me with useful frameworks for piloting AI projects within my organisation.
 This course is very useful and i understood how companies use AI and how it is going to change everything in future.Thank u sir.
 This course is well prepared for technical and non-technical person, and if you're new to AI than I highly recommend this course
@@ -2561,7 +2479,6 @@ This instructor gives a very good introductory course on AI. I would recommend t
 very nice course in this platform.I thank my institution and Coursera for this brief course.I feel I learn something new.
 The examples provided were very clear and easy to understand. The content is well presented based on the target audience.
 Very useful! It explains all the basic concepts of AI and how to incorporate them in a business. All very well explained!
-Genial! , me gusto mucho la explicación. A pesar de estar en ingles, se pudo entender muy claramente todo. Mil gracias !!
 This is a very insightful course about AI. A perfect introduction and the requirements needed to work on AI are all here.
 A light course that is easy to be understood, bringing you new and basic paradigm to put AI into business transformation.
 its a nice course n sir andrew ng explained everything clearly.this course gave  me an interest of knowing more about AI.
@@ -2578,7 +2495,6 @@ Thanks Andrew / Coursera for this brilliant course. A section on what should be 
 A wonderful teacher, gently makes this topic accessible to anyone.  A great overview and understanding.  AI demystified.
 I understand this more than I learnt on campus, and of course, I really enjoyed this course. Thank you, Mr. Andrew Ng :)
 this course is very useful for beginners and the professor is also very good in explaining by using real world examples.
-Improving skillsHelpful to our skillsDeveloping  our time managementImproving our listening skills Improving eye contact
 A course which covers a basic understanding of AI. this course is quite helpful for me for a general understanding of AI
 It was an extraordinary experience to take this course, in order to incorporate it into my previous university knowledge
 really had a brief info on what engines are used in AI..not very brief but had a collective info..this really impressive
@@ -2814,7 +2730,6 @@ It is a good course for beginners to understand what is AI ? What are the keys s
 this has been a very informative helpful and amazing course. Whoever you are, you shoukd go for this course.
 Great course for gaining basic understanding AI, Data Science and Machine Learning at a non-technical level!
 Very interesting course. It is a good approach to understand and develop his intuition for machine learning.
-Excelente curso, muy didáctico y perfecto para iniciarse en el mundo de la inteligencia artificial. Gracias!
 As usual another Good course from Andrew. A Simple, but very important course for everyone interested in AI.
 I am an enthusiastic AI learner and i enjoyed this course a lot. Thanks to the mentor for awesome learning.
 A great introduction to AI that gives you a balanced, practical outlook towards this disruptive technology.
@@ -2943,13 +2858,11 @@ its the best course for beginners to get an idea of AI and can perform simple ta
 I got most valuable information about AI and this course  will be my turning point toward AI technology
 Great introduction of AI for all levels of audiences interesting in bringing AI to their organizations.
 This course takes you from what AI can and cannot do to how you can build an AI project in your company
-Muy buena explicación e introducción a lo que verdaderamente es la Inteligencia Artificial a día de hoy
 Great overview for professionals and leaders. Non technical focus makes the information easy to digest.
 Andrew sessions were well packaged to deliver the concepts with real practical usecases. Thanks Andrew.
 I consider this course is a good opportunity for an introduction to know about Artificial Intelligence.
 Great introductions to AI / Machine Learning. Third and fourth week are more geared towards management.
 Well organized content. Helps declutter all the buzzwords! Andrew makes it really approachable. Thanks!
-Increíblemente aplicable a mi área, muy sencillo de entender, incluso en inglés. Muchas gracias Andrew.
 A must for course for decision makers in organizations to gain understanding of the main concepts of AI
 Very well explained by Andrew. Covered all aspect regarding AI,ML,DL and DS to start in proper manner.
 Great course.  Easy to follow and understand.  Andrew does a great job in explaining AI for beginners!
@@ -2969,8 +2882,6 @@ The course really helped me with a fundamental understanding of AI. Thanks to An
 Simple and very insightful course, must for each person who wants to have v=basic understanding of AI.
 Andrew made it so easy  to sit in his class. I am not a techy so this was very helpful. Thanks Andrew!
 This is a great introduction to the field of AI and deep learning for a broad, non-technical audience.
-Uno de los mejores cursos que había tomado. Gracias a Andrew Ng por realizar cursos de este quality!!
-Muchas gracias Andrew por tomar el tiempo y explicar tan detalladamente cada uno de los temas vistos.
 Clear and to the point: it looks at AI from different angles offering valuable insight on each topic.
 this course hyped my excitement about artificial intelligence and i enjoyed this course all the time.
 One of the best course to understand the AI and really recommend to others who want to understand AI.
@@ -3045,7 +2956,6 @@ Comprehensive and easy-to-understand content balances theory and practical / exe
 Great overview course which gives a good, non-technical introduction to AI and what it really means
 I pretty much like this course, thank you, and definitely i will keep studying AI and data science.
 Very good course, helped me understand a lot of the subject and be able to talk with my colleagues.
-Excelente introducción al infinito universo de posibilidades que ofrece la Inteligencia Artificial.
 Expect to gain a good base knowledge of AI capabilities and functions and how it impacts our world.
 exceptionally interesting content, great presenter and well structured. I can absolutely recommend
 The instructor does a great job getting the difficulty level just right for non technical students
@@ -3061,7 +2971,6 @@ Best machine learning and Artificial Intelligence course ever it provides detail
 This course is very easy to follow and at the same time very informative, great work by Mr.Andrew.
 Very good course for the beginners to understand and appreciate the course. I strongly recommend !
 This was awesomw course i ever didThanks for teaching such courses online with such great examples
-VERY SIMPLIFIED METHOD OF TEACHING TECHNICAL TOPIC. EXCELLENT DAY TO DAY EXAMPLES. GREAT TEACHER..
 It was a great course by Mr. Andrew. explaining with his experience was a great step taken by him.
 The course was clear and address core topics on AI. I will recommend this course to my colleagues.
 It's really a good course. Learnt many things. Discussion points and pop questions are really good
@@ -3070,14 +2979,11 @@ a nice class,much relevant and significant. never thought an online class will h
 This course is very helpful. It provides basic information for getting started with AI, DS and DL.
 This course is the best I have seen as a starting point, for all, technicians and non-technicians.
 Andrew Ng is an AI expert and in this course teaches the fundamentals of this fascinating subject.
-Curso didático e muito bem preparado para ensinar os temas básicos de AI para pessoas não técnicas
 Great course - not too technical and provides a solid foundation for non-tech's to learn about AI.
 I have learnt a lot about Artificial intelligance and i thank coursea for providing an oppertunity
 Great concise course to help tell the wood from the trees and set out the broader landscape in AI.
-El curso es bastante claro explicando IA para personas que no tienen ningun conocimiento del tema.
 It's a great course to have an overview of AI. It is recommended to any profile. Thanks Andrew Ng!
 Thank You coursera for providing us a great platform for learning.. and special thank to Andrew NG
-Un curso excelente. Mis felicitaciones a los creadores. Saludos desde Colombia. I love this course
 It is  an extremely  informative course. It is really for everyone and a gem for the new starters.
 This course provide introduces AI technologies in simple language easier for people to understand.
 This course is extremely helpful for every
@@ -3145,7 +3051,6 @@ Excellent Course on AI for the beginners in this area. I had a great learning fr
 An essential one for all the learners who want to dive in the world of Artificial Intelligence.
 I took this with a lot of understanding already from IT Automation. Found several good nuggets.
 I learned the essential things to run a company also things to manage for success of AI project
-Excelente base para entender um pouco sobre AI. Muito bem estruturado e de simples compreensão.
 Great course, straight to the point, a must for the beginners. Thanks Andrew for making it fun.
 Interesting, covers many topics and gives a great insight. Ideal to familiarise with the topic.
 Very elaborate and explicit course on AI. It covers most of relevant aspects of AI as on today.
@@ -3195,7 +3100,6 @@ This is the best course  for a beginner in AI.Gives you the confidence that you 
 Andrew's explanation was perfect and I could grasp the overview of Ai in an efficient manner.
 Ver well paced out course. explained really complex concepts in an easy to understand format.
 Nice curse Artificial intelligence (A.I) is good platform to online study to free for student
-Perfecto para una primera toma de contacto con el mundo de la IA. Andrew es un gran profesor.
 Right amount of details for the scope and topics!! Thanks for putting this together as course
 Amazing Course! A great intro to the field of AI. It creates the burn to learn more about AI.
 Great introductory course about AI, really for everyone. I enjoy reading the technical cases.
@@ -3223,7 +3127,6 @@ Good introduction on AI/ML and an overview on how to start an AI/ML project at y
 Great introduction! This course is exactly what I expected to get started with AI. Thank you
 A great didactic introduction to AI. Thanks Andrew NG for such an enthusiastic vision of AI.
 Amazing Andrew! Being a dentist by profession learning the basics was a breeze :) Thank you!
-Excelente curso para introducirse en el tema de la Inteligencia Artificial. Muy recomendado.
 Amazing way to learn AI for non technical people who are eager to know what is AI all about.
 I recommend this course for everyone who hasn't any previous knowledge or experience with AI
 This course 'AI for Everyone' has given me a good insight of what AI is about for  beginner.
@@ -3392,7 +3295,6 @@ This course is one of the best course for you if you are beginner or new in this
 Thank you, Sir Andrew Ng for teaching these course,i learn a lot about AI then before.
 Andrew presented the topic in a way that's easy to understand with practical examples.
 Very well structured, very well thought out, comprehensive, and masterfully delivered!
-Très bien conçu, facile à comprendre, ne nécessite aucun niveau tech. Orienté business
 It's very helpful to gain your knowledge about AI and deeply understand the AI future.
 Simple and clear course materials. Narration of Andrew Ng was very easy to understand.
 It's a pleasure to have One of the best Facilitator on AI Mr. Andrew Ng in the Course.
@@ -3425,11 +3327,9 @@ Love the simplicity of this course. Thank you Andrew Ng for making this video se
 This course is explained in very detailed brief,this is Awesome,keep it up...COURSERA
 Great Course. Loved Andrew NG, the way of presentation and relevance of  the content.
 Very good course on starting the AI journey for individual as well as an organization
-Excelente curso para dar los primeros pasos en el mundo de la inteligencia arificial
 Very educational, easy to understand and true to the current and future of progress.
 it is really good course for everyone to get some accurate  basic insights about AI.
 It was an wonderful experience.resource person explained the concept in a simple way
-Un muy buen curso para entender la idea básica de lo que es la IA y Machine Learning
 Very interesting course and provided good examples of AI & other concepts around AI.
 It is good course to do for students to think in critical manner, critical thinking.
 It was an amazing course. Thank you Sir Andrew for explaining AI in such a nice way.
@@ -3464,7 +3364,6 @@ I enjoyed taking up this course. One of the best tutors I have ever been taught 
 yes course was very helpful. nice example were given. My best wishes to the teacher
 Andrew will let you know how and where AI should be implemented quite meticulously.
 Andrew Ng has done a great job in putting the concepts in a crisp and clear manner.
-Es un curso muy valioso. Me brindó un panorama adecuado y completo acerca de la IA.
 It was a very helpful course that included a lot of basic information regarding AI.
 Thank you so much for providing such a learning opportunity, it was really good. :)
 Great overview and understanding of AI along with its capabilities or lack thereof.
@@ -3485,7 +3384,6 @@ Good insight about AI, and how project can be done.  Liked the AI and society pa
 give you an overview of what AI is, explain some basic terms, good to have it free!
 it is very help full course to me and very good content for us. thanks you so much.
 Very good introduction for people considering AI for their company, or AI projects.
-Muy bueno el curso, es una muy buena introducción sobre lo que hay que saber de AI
 Brilliantly done, cuts through the complexity and lingo, well explained and clear.
 Andrew did an excellent job of explaining the insight of AI to the non-technicals.
 Very informative course, recommended if you need a general yet accurate idea of AI
@@ -3525,11 +3423,9 @@ Excellent course, gives a good foundation in understanding of building AI system
 Awesome course for beginner level. The explanations and examples are fantabulous.
 Great experience watching videos with good insight into how AI works.  Thank you!
 A really great course giving tremendous insights about AI in a simplified manner.
-Me gusto mucho el curso, es ideal para conocer los conceptos y fundamentos de IA.
 Excellent insights. Thank you Coursera for this amazing course! Thank Mr Andrews.
 Very good and entertaining course that explains the topic in a joyful way without
 I love this course. This course made lot of interest on AI. I will lean about AI.
-Excelente curso que abriu a minha mente para a IA e como ela impacta na sociedade
 Great introductory course for understanding the pathway to AI. Thank you, Andrew.
 The course is very easy to follow and provided information to understand about AI
 Thanks for the clear and brief lecture. I ccould understand overall fields of AI.
@@ -3545,7 +3441,6 @@ The course was very informational and made me realize about what is really an AI
 Well explained. A must do for all who are interested in AI and machine learning.
 Very good training on AI for everyone. Must attend for anyone thinking about AI.
 The course is very useful for us and it will help me in future for better future
-EXPLICIT  EXPLANATIONS WITH EXCELLENT APPROACHABILITY AND STANDARDISED SOLUTIONS
 Best course for apply AI in our business , I leaned many new things about the AI
 Great course, great teacher! Looking forward for the next course from Andrew Ng.
 Amazing course...you will get basic knowledge of AI to start your journey in it.
@@ -3618,13 +3513,11 @@ Best instructor to teach any AI course. This is a bias I am willing to accept.
 Very nice course. Well explained kudos. Brilliant knowledge of the instructor.
 Very informative and great platform to start the conversation with our company
 Is course very helpful for study of AI. I really appreciate it. Thanks so much
-Me ha encantado. Andrew divierte, enseña y de verdad que te inspira a iniciar.
 A very enriching journey to AI. Enjoyed it very much.  Thank you to the team!.
 This course is best for learners those who need to know more about AI in deep.
 Informative, simple to understand, great delivery of content, good example etc
 Great course for understanding the relevance in AI in the current environment.
 Gave me the foundational knowledge I craved. Thank you Coursera and Andrew Ng.
-Excelenete Curso Excelente maestro para aprender IA si no estas familiarizado
 Course is very insightful and Anderw's explanation is simple. Great learning.
 Very recommended! Now I know everything about AI itself. Thank you very much.
 An insightful course that anyone who has misconceptions about AI should take.
@@ -3689,7 +3582,6 @@ Very nicely executed abstract level description of a very technical subject.
 This course really helped me in understanding about Artificial Intelligence.
 It's a beautifully designed program to lay down the basics of AI. Thank you.
 This is an excellent introduction course, very comprehensive and accessible.
-Es un excelente curso para tener una visión general sobre el mundo de la IA!
 Really well paced for a good learning and understanding of the AI dimension.
 Easy to understand and great learning even if I am totally new to AI and ML.
 the course structure and content really help me to learn various new things.
@@ -3713,7 +3605,6 @@ You can understand about AI and How it works. Informative session by tutor.
 It was a great experience to know about the new concept and advance vision.
 I am so happy. Because I will learn the how to apply AI in my project works
 Experience was nice. Got to learn new things about Artififcial intelligence
-Excelente para quienes necesitan una visión a nivel general de lo que es AI
 awesome course ! . Hope i can one day sit in your class at stanford for ai.
 Very Useful for everyone to know about the AI applications and technologies
 Very usefull for everyone , please utilities the wonderful opportunity ok..
@@ -3722,7 +3613,6 @@ A very good introduction for non specialist people interested in this tpic!
 This is a very good high level overview of AI for a non-technical audience.
 Good teacher, clear explaining.Volume a little low but all good!Nice course
 Very easy to consume materials that gives a global view of this huge topic.
-Excelente curso introductorio, sin código, con conceptos claros y concisos.
 Excellent way to start understanding the basic concepts about the AI world.
 Andrew is a splendid and patient teacher! I'd highly recommend this course!
 This course help me out in many aspects such as how to build AI company etc
@@ -3733,7 +3623,6 @@ Very good course for beginners for an insight into AI, very well explained.
 Great course for anyone interested in AI introduction and big-picture view.
 The slide deck is helpful and the instructor, Andrew is super interesting!
 So lucid a teaching that I for the first time learning beyond expectation.
-Excelente! Una visión general muy instructiva, ligera y profunda a la vez!
 I loved how everything was explained so simply and with a lot of examples.
 very good course for beginners to understand about Artificial Intelligence
 easy to understand very useful for a beginner to kick start working in ai.
@@ -3764,7 +3653,6 @@ Very good overview of the topic - clear explanations without using jargon.
 This course was awesome. It will give the over all idea and all about AI.
 Such an insightful course. I would encourage everyone to Take this course
 Very good course for Artificial IntelligenceGot lot of knowledge about AI
-Excelente curso, queda super claro lo que es la IA, Saludos desde Ecuador
 Easy and straight forward material to acquire general knowledge about AI.
 Its amazing Course. It helped me Very much and got the knowledge about IA
 I really liked the course.And it gave me more interesting things about AI
@@ -3850,7 +3738,6 @@ Wonderfull course I have learned a lot from our great teacher Dr.andrew
 This course gives to the point  knowledge of AI systems and technology.
 every detail and simple to understand for someone without AI knowledge.
 Highly informativeRight contentClear explanationGreat course to take-up
-Excelente el curso, Andrew verdaderamente digno de llamarse un Maestro.
 important course for those who want to start with AI much thanks Andrew
 Excellent course. Easy to follow and packed full of useful information.
 AI for Everyone. i think this is the best course...thank you Andrew Neg
@@ -3879,7 +3766,6 @@ make videos in a pdf format then we can read again when we have quiers
 Its interesting to learning this courses.thank you sir for this course
 GOT AN OVERVIEW OF CURRENT ARTIFICAL INTELLIGENCE AND ITS ADVERSE USES
 Love this topic course and the way of conveying concepts were awesome.
-Very interesting A I skills and most wonderful speaker seen in my life
 Awesome. Loved the course. The way profesor delievered it was amazing.
 very much informative ,learned lots of information from the instructor
 I really enjoyed this course, a great place to start to understand AI.
@@ -3908,7 +3794,6 @@ This course design is excellent especially for beginners to study AI.
 It was competent and an  excellent platform to learn many commodities
 It is a very good platform for learning new things and new technology
 I have learn many things about AI after watching the videos thank you
-Ein sehr strukturierter und einfach verständlicher Kurs der für jeden
 Great course for beginners to gain some momentum in AI understanding.
 That is my first step in learning AI and it's been a great experience
 Great videos, explanation & examples makes course easy to understand.
@@ -3920,7 +3805,6 @@ it so nice experience for me on coursera so nice teaching methodology
 Andrew is really a good teacher, he simplify the AI idea very clearly
 Learnt so much and applied it to my business as I read on. Thank you!
 Very good course content and explained very thoroughly with examples.
-Excelente! Mudou minha perspectiva de como gerenciar projetos com IA.
 Instructor is very good. Quite clear in concepts and thought process.
 I am very grateful to have this course，it's systematic and inspiring！
 Very understandable, covering wide range of topics. Thank you Andrew.
@@ -3969,7 +3853,6 @@ This course is very easy when I learn because Sir explains clearly.
 really enjoyed with this course.learned a lot about AI and some ML.
 IT IS VERY USEUL COURSE TO STUDENTS ,AND EXPLATION ABOUT THE COURSE
 Very interesting course with a passionated and enlightening teacher
-VERY USEFUL, VIDEO WAS VERY MUCH INFORMATIVE, UPGRADED MY KNOWLEDGE
 Thank you so much, I am happy to be a part of this outclass course.
 very nice course , all AI lovers will enjoy it and good explanation
 Excellent introduction to the world of the Artificial Intelligence.
@@ -3977,7 +3860,6 @@ Excelent course for an introduction and explanation of the AI world
 Very well explained and easy approach for the no technical profiles
 So wonderful to have Coursera offer this class for understanding AI
 Awesome, well constructed course. Loved the pictures on the wall :)
-EL curso cumple con los conocimientos fundamentales sobre AI y deja
 Best course to get started your career in Artificial Intelligence !
 Thank you Prof.Andrew Ng for giving a beautiful Introduction to AI.
 fabulous introduction- cant wait to learn more .thank you Andrew Ng
@@ -3999,7 +3881,6 @@ Very great overview for people who want to get the bigger picture.
 Excellent material, highly structured and of high quality Thanks!!
 this is a great start to someone who needs a introduction to Ai/ML
 It was an amazing course. Thanks for providing me the opportunity.
-Excelente curso, confeccionado para todo el que quiera aprender IA
 Thank you for providing such a wonderfull course to learn about AI
 Easy to understand and very informative course! Highly recommended
 Thanks to Prof. Andrew for an excellent introductory course on AI.
@@ -4025,7 +3906,6 @@ Excellent course for one to start on a solid ground. Great course!
 Great course, AI that is understandable to all.  Just get started!
 this is a high level intro to ai, lot of concept to get start, thx
 The course was quite thorough and I had a great time learning it.
-Excellent cours, très bien expliqué pour être à la portée de tous
 I didn’t get refund option. What to do for refund please suggest.
 Simple and Excellent way of learning with examples of real world.
 It was an interesting and I got more knowledge about AI.Thank you
@@ -4179,7 +4059,6 @@ Great overview anyone (everyone) could digest and learn from.
 A great popular overview of what AI is and where it is going.
 Good course came to know abou AI and its merits and de-merits
 Great course in covering every aspect of it. A 360 view of AI
-maravilloso curso introductorio a la inteligencia artificial.
 This course give you a good start in starting your AI journey
 Very easy to digest, propelled me to learn more on the topic!
 A very well covered topic to provide the required information
@@ -4214,8 +4093,6 @@ Made me fall in love with AI. It could not have been better.
 Great Course it makes me smarter at Artificial Intelligence.
 very good and covers all we need about this important field.
 Nice course, with basic, but usefull content for all people.
-Cours très intéressant et très synthétique. Merci beaucoup !
-Con explicaciones contemporaneas y  ejemplos claros a seguir
 It's awesome to learn modern day skills at Coursera. Thanks.
 Really nice introduction for a novice like myself, thank-you
 good course for those who want to start their journey in AI.
@@ -4352,7 +4229,6 @@ I was soo excited to learn this course finally completed
 the concept explanation is good and very much expressive
 Really it great course for inculcate knowledge about AI.
 It's a gud course to learn about artificial intelligence
-GOOD TEACHING FROM SIR ANDREW NG.......WORTH OF JOINING.
 Very rounded and approachable, a fantastic first course!
 Thankyou Sir! Best of wishes and prayers, from Pakistan!
 very thank full for sharing this type of advanced skills
@@ -4364,7 +4240,6 @@ good for getting awareness and to take first steps in AI
 Great course !!!! Complex concept made simple. Thank you
 Very interesting, good level of deep dive into material!
 Crisp and short course to understand fundamentals of AI.
-de gran valor los ejemplos que se entregan en este curso
 This course is too beneficial for me to start Al journey
 A very informative course delivered in a very simple way
 Very helpful for transforming my company! Thanks Andrew!
@@ -4382,7 +4257,6 @@ Very informative using simple language and explanations
 Easy to understand, cover lot of real cases as examples
 Simple introductory course for beginner. WEll designed.
 Learnt so many things through this course . Good course
-Excellent courses.It describes all about AI technology.
 Great course, more in-depth than I thought it would be.
 Fantastic intro to AI. I thoroughly enjoyed the course!
 It was really excellent experience to take this course.
@@ -4420,14 +4294,12 @@ The information is really useful and easy to understand
 This is awesomely explained by Andrew NG. Thanks a lot.
 Perfect Overview of AI from the very best in the world!
 Great Presenter, Great Content, Thoroughly Recommended!
-Artificial inteligient sangat bermanfaat.Terima kasih.
 Very efficient and easy way to explain AI. Thank you .
 Loved it..................It was so easy to understand
 Amazing Explanation about AI from general perspective.
 good time learning it. looking forward to more courses
 Very useful course and has great details for beginners
 Very good sir...I gained lot of knowledge, Very useful
-Excellent course and excellent instructor. I recommend
 This is the course to every one,not only for engineers
 It is useful for our career and to know it's in future
 Got a very good overview about Artificial inteligence.
@@ -4603,7 +4475,6 @@ its a great course. Everyone should do this course
 its an marvelous course.. Loved being a part of it
 Very clear presentation and to the point materials
 Really helpful for the people not in the AI domain
-very informative.. i love artificial intelligence
 Excellent teaching and the best explanation ever.
 Great sir for teaching to how to gaine this skill
 I really love this course. Thank you Mr Andrew Ng
@@ -4614,7 +4485,6 @@ Excellent Primer for the Artificial Intellegence.
 very useful course for beginners and much helpful
 Clear and to point. Updated course . Overall good
 Thank You! Good course, is a good overview of AI!
-Excellent course, presented to maintain interest.
 thank you for offering this wonderful course ....
 It is good flatform for creative ideas execution.
 A VERY GOOD COURSE TO UNDERSTAND THE BASICS IN AI
@@ -4641,7 +4511,6 @@ its a very good platform for learning new things
 great course! Andrew is an excellent instructor.
 this was a beautifully curated coures, thanks!!!
 This course is very interresting to begin in AI.
-Un curso muy didactico y super facil de aprender
 Andrew Ng can explain AI really well. Thank you.
 The expalantion is simple and easy to understand
 Super course and the ANDREW sir taught very well
@@ -4708,7 +4577,6 @@ I found this course very helpful as a beginner.
 Excellent teaching by andrew sir.really awesome
 This is really good course for understanding AI
 It is a real time caste to study the end to end
-كورس جميل يجعلك تفهم فلسفة الذكاء الصناعي حقيقة
 Easy to understand and learn by sitting at home
 Thanks a lot sir for your excellent explanation
 I learned a lot and gained a lot of experience.
@@ -4788,7 +4656,6 @@ Excellent overview of the current state of AI
 Andrew is a great facilitator. Kudos to you !
 Very informative course. Thank you so much :)
 A great course to deepen the knowledge in AI.
-Excellente introduction à l'IA. Merci Andrew.
 Great teacher and a lot of stimulating ideas!
 Thank you so much for sharing your knowledge.
 This is the best course Available on internet
@@ -4806,7 +4673,6 @@ This course is very helpful to me. Thank you
 awesome and useful for my future prepararion
 Glad to learn here...highly recommended...!!
 It's very knowledgeable and valueable course
-Great Content and Great assessment questions
 This course was really helpful to beginners!
 Great introduction and overview of AI today.
 This course is a perfect introduction to AI.
@@ -4822,7 +4688,6 @@ A necessary introduction to AI for beginners
 Very good course, from this I learned a lot.
 Best Course and i learn New things from here
 Nice and very helpful to understand about AI
-Good one, did great help in AI understanding
 This is one of the best courses i have done.
 This course was very informative and helpful
 it"s a good course that everyone should do..
@@ -4842,7 +4707,6 @@ Great course with good structure and content
 Simple and concise and will not hesistate to
 one of Best online course  and Great teacher
 Excellent class to learn import AI concepts.
-很基础的课程。介绍了AI的一些基本知识和在商业上的应用，以及如何成功开展一个项目并推广。
 Great Course for a high level overview of AI
 Wonderful conceptual course on ai.Thank you,
 I got a good understanding of AI, thank you!
@@ -4967,7 +4831,6 @@ Great course, easy to understand and usef
 A truly amazing course ! Thanks Andrew Ng
 Excellent overview about AI; Thanks Adrew
 Very well strcutured course for beginners
-Excellent course for business executives!
 Completed my 2nd week, but it is awesome.
 Highly relevant and well-delivered course
 It was really amazing and knowledge able.
@@ -4995,9 +4858,7 @@ amazing course with amazing teacher  :))
 Very good, help us to gain insight of AI
 It was very useful ...thanks to coursera
 Thankyou for giving best teaching.......
-better learning experience for beginners
 This is very good course in limited time
-Nice content and excellent explanation..
 Excellent overview course for beginners.
 Good explanation and also good syllabus.
 Thanks for the insight Knowledge into AI
@@ -5006,7 +4867,6 @@ Very informative overview of what is AI!
 Interesting, feasable and inspirational.
 Really useful course. you should try it.
 Excellent course to get started with AI.
-Muy contento, cumple con las espetativas
 Good for the beginner to learn about AI!
 This Course really helpful for beginners
 I really enjoyed learning AI from Mr Ng!
@@ -5015,7 +4875,6 @@ nice introduction! Even my son liked it!
 A very good insight into AI and starting
 Most contemporary and concise materials!
 practical advise and easy to understand.
-Excelente curso introductorio sobre AI.
 Nice n informative. Everyone should do.
 A very nice & balanced overview of AI !
 This course is a bit industrial biased.
@@ -5026,8 +4885,6 @@ This course was amazing, i learnt a lot
 nice explanation and real life examples
 Very informative but easy to understand
 No one could do it better than Andrew !
-Well laid out course. Quite informative
-PERFECT FOR KNOWING THE OVERVIEW OF AI.
 its very easy to understand the subject
 Very much interesting and useful cource
 This course help to Understanding of AI
@@ -5041,7 +4898,6 @@ I was direct and to the point thank you
 THIS COURSE IS REALLY BENEFICIAL FOR US
 Andrew's ways of teaching are the best!
 It is very useful for gaining knowledge
-Excellent Course content and instructor
 I really liked this course, fantabulous
 good explanation with real time example
 i've have clearly understand the course
@@ -5076,7 +4932,6 @@ Well explained and informative course.
 A very good introductory course on AI.
 it was amazing to learn about the AI..
 very nice lectures for introductory AI
-Excellent course content and delivery.
 Excellent platform to learn technology
 This course is useful to the students.
 This course is amazing for begineers .
@@ -5086,7 +4941,6 @@ More Informative and fruitful sessions
 Good Job and Very interesting subject.
 It helped me to get knowledge about AI
 Awesome course for beginners new to AI
-Excellent course!! Excellent teacher!!
 Best platform  to learn new skills....
 it helped me alot excellect experience
 Course just  amazing I enjoyed it much
@@ -5120,13 +4974,11 @@ coursera is the best website for study
 The course covered overall idea of AI.
 Great course again from Mr. Andrew NG!
 Excellent way of delivering a concept.
-OTIMO OBJETIVO E SEM DUVIDA ESSENCIAL
 Short but nice intro into AI world :)
 best for beginners thanks andrew ng..
 It was Informative and Knowledgeable.
 A very good introductory course to AI
 Great class.  Interesting instructor.
-Simples, direto e com lições valiosas
 Very Exciting for me as a new learner
 Great Foundation Course for Beginners
 Good course to learn AI fundamentals.
@@ -5147,7 +4999,6 @@ Really a very good introduction to AI
 it is very beneficial course for us .
 Good presentation of  AI by Andrew Ng
 nice course with a helpful instructor
-Excellent Course for beginners in AI.
 very useful. definately recommend it.
 Simple to learn and good explanation.
 Very useful .I learnt many new things
@@ -5162,7 +5013,6 @@ Very wise. An excellent course on AI.
 this helped me a lot to know about ai
 Got a lot of information.Good Course.
 excellent and fruitful of information
-Excellent! A must for all Executives.
 Very deep explanation of each topics.
 great course with great explanations!
 Very good course on AI transformation
@@ -5218,9 +5068,7 @@ Thank you for such a great knowledge
 Everything is better in this course,
 very good course and i enjoyed a lot
 it lifts my idea of understanding AI
-Thank you Sir. REALLY ENLIGHTENING !
 Great Course!! Very well explained!!
-I like it. I understand AI one step.
 Thank you for knowledge about AI. :)
 Excellent. I am very happy. Thank u.
 Great course with a wide view on AI!
@@ -5229,7 +5077,6 @@ Good Explanation on the basics of AI
 Great in-dept learning for beginners
 Best course for beginner to learn AI
 So good a course and great lecturer!
-excellentany time can learn no limit
 Thanks professor I have learned alot
 Bravo. Simple, direct, enlightening.
 This course was very helpful for me.
@@ -5282,21 +5129,18 @@ this course is helpful for everyone
 Wonderful experience.Nice and easy.
 Course is very helpful for learners
 very helpfull to start career in AI
-excellent course and good narration
 So far this is an excellent course!
 This is a great introductory course
 very good starting knowledge for AI
 Pretty good for introduction course
 Perfect course for general audience
 when can i receive the certificate?
-Una muy buena introducción al tema
 It was terribly great! I loved it!
 Nicely organized, Very informative
 i clearly learned so much about ai
 Amazing and super inclusive course
 A great introductory course in AI.
 One of the best course in coursera
-excellent course and instructor...
 the best lectures. thank u so much
 Its very useful sirThank u so much
 Good course for building AI Basics
@@ -5339,13 +5183,11 @@ Best and my hero andrew ng teacher
 Good to understand the terminology
 Full of key thoughts and insights.
 Every one must learn this course!!
-Excelente introducción al mundo AI
 Very informative.  'Launching pad'
 Awesome course from the best in AI
 Very nicely explained by Andrew Ng
 very useful and thought-provoking
 Great introduction for outsiders!
-Had better understanding about AI
 will recommend it as a good start
 Very nice and interesting session
 He explains the topics very well.
@@ -5361,7 +5203,6 @@ Nice experience and deep learning
 Was very informative, interesting
 great course.it was very helpfull
 A very useful course for everyone
-EXCELLENT EXPERIENCE AND PRACTICE
 It was great course for everyone.
 It is very important for everyone
 Excellent explanation by Speaker.
@@ -5369,9 +5210,7 @@ best explaination about AI,ML,DS.
 It is useful knowledge to acquire
 Its a pleasure to watch Andrew Ng
 i was satisfied with the teaching
-GOOD SAYING ABOUT AI FOR EVERYONE
 I learned a lot from this course.
-great material and lecture videos
 Very good course to stsrt with AI
 thank you for excellent teaching.
 A nice place to start learning AI
@@ -5414,7 +5253,6 @@ Very thank you that is very good
 Nice concept with great examples
 Very helpful for overview of AI.
 a brilliant course for starters.
-Friendliest ever AI explanation.
 Such a nice course for everyone.
 A really good knowledge about AI
 Great, wide-ranging intro to AI.
@@ -5488,8 +5326,6 @@ Great example based explanation
 It's very easy to understanding
 very good course really help me
 it is use full for many student
-great course for AI fundamental
-Excellent Course for Executives
 Thank you for the financial aid
 Great introductory course to AI
 It is a great effort, Thank you
@@ -5509,15 +5345,12 @@ AWESOME COURSE!!! NAILED IT!!!
 Wonderful Learning Experience.
 very good course for beginners
 Excellent Course by Andrew Ng.
-Sehr interessant und lehrreich
 Very Good course to start with
 Easy and an eye opening course
 Good coursera help full course
 Great course for the Beginner!
-VERY INTERESTING FOR BEGINNERS
 I'm so grateful to  Coursera!!
 Best classes I have ever seen.
-excellent course.Learnt a lot.
 good to understand basic of AI
 great simplified explanations!
 A very useful course indeed!!!
@@ -5544,16 +5377,10 @@ thanks mr andrew you are great
 Very helpful for the beginners
 a very nice and helpful course
 A complicated t explained in a
-Excellent content and delivery
-Très instructif, merci Andrew!
-Excelente curso introductorio.
 Much more helpful for everyone
 Excellent start to overview AI
 Fantastic course for beginners
-Excellent Course for beginners
-Excellent Course For Beginners
 Very good content thanks a lot
-Excelente introducción a la AI
 Thank you !! quite informative
 Clear and precise explanation.
 Very informational and useful.
@@ -5577,7 +5404,6 @@ Good start for AI learning :)
 this course was really awsome
 great !!! Thank you Andrew :)
 Great learning..! Enjoyed it.
-Excellent Course. very useful
 Good nice got great knowledge
 it is very interesting course
 very good course for learning
@@ -5585,14 +5411,12 @@ It is very useful to learning
 Nicely explained by Andrew Ng
 It was very helpful thanyou!!
 good, very easy to understand
-BEST COURSE THANKYOU COURSERA
 Best course to learn about AI
 Learn what the future will be
 help me to learn latest tech.
 it was a wonderful experience
 Good and best lectures videos
 Logical thinking and analysis
-Excellent course for students
 Excellent course for beginers
 Comprise primarily of routine
 great teaching by andrew sir.
@@ -5605,7 +5429,6 @@ The best course i could learn
 Andrew is the best AI Teacher
 Grate to instruct what is AI!
 Excellent course and teachers
-很不錯的課程，可以初步瞭解AI，及AI對生活與未來的影響。
 very good course for students
 Nice to learn AI For Everyone
 Very good course for Learning
@@ -5628,7 +5451,6 @@ nice course i have ever done
 Great course for learning AI
 clear, easy to understanding
 great step toward AI thanks.
-Excelente curso muy completo
 My First Online Certificate!
 Great Course,Really amazing.
 Gained Great knowledge on AI
@@ -5637,7 +5459,6 @@ Nicely and good assignments.
 This was an wonderful Course
 very imformative!! loved it.
 interesting subject to learn
-excellent course! i love it!
 Awesome learning experience.
 best instructor of the world
 Gave me a deeper idea of AI.
@@ -5647,7 +5468,6 @@ course is very nice...superb
 A great course for beginner.
 Its really nice for students
 the best course for beginner
-Excellent explanation on AI.
 Amazing Course.Learnt a lot.
 Thank you dear Andrew Ng sir
 More Useful to know about AI
@@ -5667,7 +5487,6 @@ It was my great experience..
 Good and informative course.
 Indeed worth it. Enjoyed it!
 Was a great initiation to AI
-best course i have ever seen
 andrew nick you are too good
 very good course recommended
 Very Well Structured course!
@@ -5681,13 +5500,10 @@ Really very helpful course.
 i like the course very much
 it was very good experience
 Very nice starter overview.
-GOOD EXPLANATION BY FACULTY
 Good Course for everyone!!!
 Very good course for basics
-Difficult but useful course
 superb course for beginners
 Good Course and interesting
-GOT EXCELLENT BASICS  ON AI
 Very useful and informative
 Overall great experience !!
 Beautifully designed course
@@ -5695,20 +5511,16 @@ This course is soo good ...
 this course was very useful
 this course is very helpful
 Great Course for beginning!
-amazing no technical course
 Course was very interesting
 I really liked this course.
 I is very use course for me
 Very informative and useful
-GOOD COURSE AND VERY USEFUL
 rly rly a great experience!
 gained good knowledge in AI
 Great Course for beginners.
-Improved my learning skills
 This course is great for me
 Best course i have learned.
 Best course on basics of AI
-Very useful for beginners !
 i learn about AI perfectly.
 really good and informative
 Informative and interesting
@@ -5721,7 +5533,6 @@ Great course for beginners!
 comprehensive and succinct!
 This is such a great course
 Great platform for learning
-Best online Course Web Site
 Great Thankyou For coursera
 Simple and very instructive
 This Learning helps me lot.
@@ -5731,16 +5542,13 @@ please send my certificate
 i really loved learning AI
 it was really enlightening
 It is an excellent course!
-とても分かりやすく、基礎から理解しやすい講義でした。
 go for initial steps in AI
 Very well done intro to AI
 It was a great incentive!!
 Great foundational course.
-Greta Course for beginners
 I'm happy with this course
 IT Was very awesome course
 it was great learning here
-My best course in coursera
 The course was very useful
 best starting course on AI
 very very profound course.
@@ -5768,22 +5576,16 @@ Perfect this for everyone.
 Its important for everyone
 great site to for learners
 absolutely  knowledgeable.
-Excellent course! Good job
 Best course for beginners.
-每個對AI趨勢有興趣與商學院的學生及從業人士都該學習
 Simple and straightforward
 The lecturer is phenomenal
-Excellent Detailed course.
 Great course- Thanx Dr.Ng.
 It helps me In AI Future..
-Best course for executives
 Great intro into AI world.
 It's very straightforward.
 Really Loved this course.
 Best Palce of learning AI
-Amazing. Well done Andrew
 Comprehensive yet concise
-MR.ANDREW SIR IS SO GOODD
 nice & easy to understand
 A Great Learning Platform
 super course for beginner
@@ -5802,11 +5604,9 @@ It was a wonderful course
 Very good course to learn
 Nice gives good knowledge
 informative presenstation
-excellent course material
 it was intresting curse .
 Hats of to Prof Andrew Ng
 Good course for everyone!
-Excellent course to learn
 Thank you for this course
 Its very engaging course.
 concrete and very usefull
@@ -5816,18 +5616,13 @@ Very helpful for newbies.
 Precise and Knowledgeable
 perfectcourseforbegginers
 Outstanding.. great couse
-covers basic fundamentals
 Extremely useful! Thanks!
 Well explained and clear.
 very supporting and clear
-Andrew Ng sir is amazing.
-Excellent , Supper Course
-good lessons for beginner
 easy and good explanation
 It was nice to learned  .
 Love the course designed.
 Great introduction to AI.
-让我对AI和ML产生了兴趣并决定去学习Python
 Great and easy to digest.
 It is very useful course
 Great introduction to AI
@@ -5842,7 +5637,6 @@ A relly good intro of AI
 This very amazing course
 In good experience for u
 Very much useful........
-very good for beginner .
 Great for a basic course
 very useful for academic
 Nice course. I liked it.
@@ -5861,7 +5655,6 @@ nice introductory course
 Nice course for starters
 Very good course indeed!
 Andrew is a great tutor!
-Informative for starters
 Good course for learning
 its knowledgefull course
 This Course is Excellent
@@ -5877,7 +5670,6 @@ Very Informative course
 nothing to say its good
 it was great experience
 Very clear explanation.
-Clear understanding....
 Amazing training course
 Everyone should Enroll.
 He made it easy !Thanks
@@ -5887,27 +5679,22 @@ Very informative course
 It's awesome experience
 Your course is awesome,
 IT WAS EXCELLENT COURSE
-Very helpful keep doing
 alll concepts are clear
 Good skills of Coursera
 Good knowledge about AI
-very good for beginerrs
 A very enriching course
 Easy and understandable
 It's a very nice course
 this course is too good
 Very much interesting..
 it is good for learning
-THANK YOU VERY MUCH....
 Very detailed . Good ..
 Good to get information
 Learned a lot about AI.
 yes it’s really amazing
 Very Informative Course
-Excellent primer on AI.
 really very good course
 Very Good and use full.
-HAD A GREAT EXPERIENCE!
 Easy to learn knowledge
 Thank you very much sir
 Very Nice Explanation .
@@ -5921,9 +5708,7 @@ Simple and Informative.
 very good insight on AI
 it was best experience.
 very good, blow my mind
-Amazing vulgarisation !
 Simple to understanding
-很棒的课程，尤其适合入门！～感谢Andrew～
 Thank You Sir Andrew Ng
 very benefiting course.
 Very Nicely explained.
@@ -5946,10 +5731,7 @@ The course was awesome
 Its a very good course
 Nice to gain knowledge
 Very useful and thanks
-VERY USEFUL INFRMATION
 It's good learning app
-amazing lecture videos
-Just excellent course.
 Gained Knowledge on AI
 Good platform to learn
 it is very good course
@@ -5958,36 +5740,25 @@ Very wonderful course.
 That's a great course.
 very helpful in future
 A very detailed course
-best course ever seen.
-教授非常認真且誠懇，課程設計深入淺出，推薦！
-Excelent explanations.
 Good explanation on AI
 best site for learning
 Very impressive course
 Very nicely explained.
-GOOD CONTENT DELIVERY.
 Andrew-ng is the best.
 Good to start with AI
 It was awesome course
-Excellent Experience.
 Great starting point!
 basic knowledge on AI
 Too good for a beginn
-Excellent explanation
 Interesting course !!
 very good intro to AI
 good  course to learn
-Excellent Experience!
 Must to learn for all
 good to know about it
-gained good knowledge
 great overview of AI!
 Very much interesting
 very good explanation
-GREAT COURSE TO LEARN
-Beginner Guide! Good!
 Extremely insightful!
-Un curso muy completo
 Very easy to learn AI
 good lecture delivery
 Amazing introduction!
@@ -5995,19 +5766,11 @@ A great Learning tool
 Well done, thank you.
 I enjoyed the course.
 Good insight about AI
-Excellent, just super
-Great for beginners!!
 liked the course! rec
-excellent explanation
-Andrew for President!
 Enjoyed it very much.
 very fruitful course.
-Amazing Experience :)
-Best course about AI
 Was very informative
-Nice some difficulty
 Nice and informative
-An excellent course.
 good for intrduction
 Easy way of learning
 great overview on AI
@@ -6018,7 +5781,6 @@ We should learn this
 it was very helpfull
 Very good experience
 Its Very Interesting
-great content course
 IT IS A GOOD COURSE.
 its very informative
 Good and Informative
@@ -6028,7 +5790,6 @@ good and interesting
 outstanding teaching
 Its was very helpful
 Good and informative
-Course is excellent.
 Useful for knowledge
 best course to learn
 good teaching skills
@@ -6037,14 +5798,12 @@ good，but too simple.
 Simple to understand
 Good for start at AI
 Very helpful course.
-best for Ai students
 Thank you Andrew Ng.
 very helpfull course
 Best teacher for AI.
 good course.. thanks
 very good experience
 Exceptionally well v
-好喜欢这门课呀！知识深入浅出，喜欢吴大神
 Great overview of AI
 Very helpful + best
 i loved this course
@@ -6052,15 +5811,12 @@ Very useful, thanks
 Good class to start
 Basics of ai and ml
 Thank you professor
-Amazing experience.
 extroadinary course
 very useful session
 It is very valuable
 This course is good
 It was very useful.
-Good job Andrew Ng.
 Very good course 👍
-Gud i learn so many
 Easy to understand!
 It is very helpfull
 It is a good start.
@@ -6070,35 +5826,24 @@ Enjoyed the content
 it was osum classes
 The course is nice.
 It helps me a lot..
-Absolutely amazing.
-Excellent Mentoring
 Best place to learn
-Good learning skils
 Good overview of AI
 Very usefull course
-Great experience 👍
 its brief and clear
-Great for Beginners
 Andrew  is amazing.
 it's a great course
 Very Well Explained
 Great introduction.
 Very Informative!!!
 Great basics for AI
-AI for everyone!!!!
-most helpful course
 Highly recommended!
-Nice starter course
-great for beginners
 Good Learning stuff
 great work andrew !
 thank you andrew ng
 This is good for me
-LOVED THE COURSE !
 Helpful and useful
 Insightful  Course
 I like this crouse
-Great material ...
 very nice elarning
 Interesting Course
 Nicely explained !
@@ -6106,19 +5851,14 @@ very usefull......
 Insightful Course.
 Amazing experience
 Good basic course.
-Great Experience!!
 Wonderful Learning
-i love tgis course
 content is helpful
 It was awesome....
 Everything is good
-ABSOLUTELY AMAZING
 Amazing experience
 It is very helpful
 It's a Nice course
-Best Ai Class Ever
 Thankyou professor
-good but too long!
 very good lectures
 Clear Explaination
 very good to learn
@@ -6126,113 +5866,78 @@ It is very usefull
 Good online course
 Good Introduction.
 Really Good Course
-excellent sessions
 its good to learn.
 Awesome Experience
 It's good learning
 Good for learning.
 outstanding course
 I love this course
-Excellent work Sir
 Highly Recommended
 A perfect overview
 An amazing course!
 Good experience!!!
 Great short course
-Well design course
 Very Good Course !
-Nice for beginners
-Excellent content.
 Nice introduction.
 Extraordinary.....
-excellent overview
 Thanks for you!!!!
-nice explaination
 Very instructive!
 thank you so much
 Helpful thank you
 Amazing professor
 Love this course!
 easy for everyone
-excellent courses
 more informative.
-THANKYOU COURSERA
-ITS VERY USEFUL .
 Well explained...
 Very good content
 Very illustrative
-Super cool course
-Excellent  course
 It’s very helpful
-it was quite good
-CLEAR EXPLANATION
-GOOD FOR LEARNERS
-excelllent course
 it is very useful
 An amazing course
 Good for learning
 Good teaching sir
 Great Explanation
 Great AI course !
-VERY nice cource.
 great into class!
 Bundles of thanks
 Great intro to AI
-AI에 전반에 대한 설명이 쉽게
-Great Experience.
 Clear explanation
-Best course ever.
-best for everyone
 Nice introduction
 Love it thank you
 great for studies
 thank you Andrew.
 Good basic intro.
-great course ...!
 Good intro to AI.
 It was very good
 The best course!
-Beautiful course
-Excelente curso.
 Good opportunity
 Thanks Andrew Ng
-great experience
 Best to learning
 Good information
+Very interesting
 Awesome Training
 very well for me
 Awesome teaching
 Very easy course
 Amazing teaching
-i enjoy alot!!!!
 It's very useful
 GOOD COURSE !!!!
 good informative
-Great expierence
 awesome learning
 It's simply nice
 Very Good Course
-excellent cource
 Very Impressive.
 Nice helps a lot
-VERY RESOURCEFUL
-niceeeeeeeeeeeee
-THANK YOU Andrew
-nice course dear
+Nice explanation
 awesome course!!
 Must go for it..
-BEST! Thank you.
 Great course!!!!
 Nice explanation
 Amazing course !
-讲的细致有耐心，感谢吴恩达老师！
 muy informativo
 Too Easy Course
 Wow.. it's done
 Well explained.
-perfect courses
-Nice experience
-Congratulation.
 wonderful class
 very insightful
 You're the BEST
@@ -6240,81 +5945,56 @@ new information
 Al for everyone
 welllexplained.
 Good and useful
-Excellent work!
 Great overview!
 Brainstorming!!
 AI for Everyone
 Great Course...
-AI for everyone
 very impressive
 Good and Useful
 This is helpful
-Content is good
 Thanks Coursera
 Clear and crisp
-Thanks Bawa Jee
 Good Learning!!
 its make future
 Thanks for all!
 Best Initiative
 awesome, simple
 Great Course !!
-Excellent Job!!
 very useful !!
 Great teacher.
-it was awesome
-Excellent 🙂🙂
-Awesome videos
 Great Course..
 great sessions
-Best course...
 awsome course!
 thanks so much
 Excellent Work
-nice excellent
 It was Awesome
-very greatfull
 It was Awesome
 an good course
-nyc experience
 Good for youth
 easy to access
 Very effective
 It was helpful
 Great learning
-Very very good
 it was usefull
 Great Learning
-VALUBLE COURSE
 Great Content.
 It is too good
-good knowledge
 This is Awsome
 Very exciting!
 Great session!
-very satisfied
 Interesting :)
 I learn a lot
 Very helpful.
-sumit shekhar
 learnt a lot.
 good content!
 good cource..
-nice tutorial
 IT WAS SUPERB
-Excellent !!!
-Superb course
 I was great!!
-Good Content.
 good material
-good learned.
 Good to learn
-Inspirational
 love to learn
 Useful to one
 Very Helpful!
-Thank you sir
-was awesome !
 Good learning
 Thanks 😘😍😍
 Its very good
@@ -6324,15 +6004,10 @@ GREAT COURSE!
 Very Helpuful
 Great article
 GREAT COURSE.
-nice 1st step
 IT was fun !
-Great useful
-increible!!!
-nice session
 out standing
 simply super
 New learning
-Excellent 💓
 I Love it :)
 Good courses
 very helpful
@@ -6340,16 +6015,11 @@ Thanks a lot
 Good Explain
 Beast course
 Very helpful
-Good Lessons
 Great stuff!
-Nice content
-Exceptional!
-Super Course
 Good Content
 so great...!
 Very useful
 Informative
-Feel happy.
 very hepful
 THANK U SIR
 knowlegable
@@ -6359,133 +6029,35 @@ Great!!!!!!
 very useful
 Great Work!
 Interesting
-VERY Useful
-Excellent:)
-VERY USEFUL
-Nice coarse
-interesting
-No comments
-JUST AWSOME
 best Course
-very nice..
-Excellent !
 loved it...
 thank you !
 Go for it!!
 BEST COURSE
-Wonderful !
-NICE CORSE
 Its Aswome
-buen curso
-bestest <3
 love this!
 Thanks sir
-Well-done!
 <Great Sir
 Great one!
 Very smart
 good class
-Excellent.
-Excelently
-intersting
-Excelente¡
 Good class
-Nice couse
-Thank you.
-tremendous
 Great lear
 Intresting
-Excellent!
-เข้าใจง่าย
-GOOD WORK!
-very good!
-Wonderful!
-soooo good
-Thank you.
 great outp
-Nice intro
-易于理解，非常有价值
-EXCELLENT!
 Very Good
-goooooood
 Thank You
 Very nicr
-good one.
-great job
-Helpful .
-satisfied
-good nice
-WONDERFUL
-Godd work
-very best
-Amazing !
 Loved it!
 Great one
-terrific!
 Its good
-Good job
-good....
-too good
-Superb!!
 Thankyou
 Good one
-excllent
 Itz gud
-Exllent
 Perfect
 thankes
-Thank u
-exilent
 Great..
-Superb!
 thanks
-nice!!
 Thanks
-THANKS
-gooodd
-i like
-USEFUL
 Great!
-SUPER
-nices
-grate
-Terri
-Vgood
-Goood
-Graet
-super
 GREAT
-Inter
-best
-Goof
-Good
-well
-awsm
-GOOD
-done
-TOP!
-GRT
-Yes
-WOW
-666
-==
-vg
-Hi
-da
---
-kk
-na
-w4
-👌
-b
-I
-B
-d
-t
-W
-E
-h
-
-R
-e
-f

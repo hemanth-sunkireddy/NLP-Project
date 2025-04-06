@@ -37,9 +37,7 @@ The labs were terrible in this course.
 The lab's not work. Please fix it.
 The labs don't work as intended.
 terrible qwiklabs tech issue
-THE LABS ARE HORRIBLE!
 Not help on any lab
-Labs are broken
 There isn't much exercise material. There's nothing provided to help iron in all the things taught in these lessons, and there is A LOT of material. Which mean most of what you teach is just in one ear and out the other. And the stuff you did teah is so horridly taught. You can't just be like, "Oh by the way, this concept exists and you should know about it. Here's a link to wikipedia with hours of text" Because if we wanted to read wikipedia entries to learn all this we'd find a study and google it ourselves. We're paying YOU to teach US what we need to know. Don't just give us "the basics". Furthermore, you say you want us to run and write these commands down with you but a lot of times you barely, and I mean BARELY give us enough time to even pause the video to look at the full command. Speaking of which, you need to break down the commands for us. This is a BEGINNERS course. When you need to tell us what the structure of a command is. You can't just give us a command like "sudo dd if=/devsdd of=~/desktop/" and not break it down. If the videos are 10 to 20 minutes long who cares? Because I personally spent well over a hour on a lot of videos reading up on the topics you so terribly covered.
 Many of the QuikLabs instances in this lesson will make you want to tear your eyes out. You will likely need to open and close each final lab 2 or 3 times to get it to run the way it needs to in order to be scored. Once you get it to run, your instructions may be VERY vague. This isn't a problem, except the grading algorithm is VERY SPECIFIC, and needs tasks to be executed in ONE of the 4,000 ways each of us knows how to complete any given OS task. (Week 6 Linux portion tells you [sudo] commands are required for _____ reason. The Windows instance gives no such advice, and thus you spend an hour or more bumbling around what would normally be a 10 minute chore list) If anything, the lesson here was "If you work in IT, don't set up a program like this."
 The course work that led up to the final exams did not adequately prepare me for the final Labs/Exams.  None of the videos or ancillary readings exposed me to what the exams would require to successfully complete them. I'm not saying that you should teach the test, but the course wok should expose the students to what they will be doing in the final Labs.  The Support Team personnel were fantastic; they were most helpful and knowledgeable, and I was glad that they were there to help.
@@ -105,7 +103,6 @@ i found it very boring
 This course covered lots of information.  However, it would be nice if the labs And graded assessments were somewhat interactive. What I mean is that it should ask students to complete some tasks based on the topic covered and not show them exactly how to do it.  But, if they get stuck stuck they can click on the hint button or something to help they move forward.  I feel that this course is defini Very important and sometimes Cindy was going through super fast with commands she was typing.  Lastly, if students are using Putty for Qwiklabs, then all of the course material should be shown in that instead of in Linux GUI.
 I had trouble with the last two quizzes and now I can't go back to take them because I exceeded the times for taking the test. Now I can't get all 5 certificates for taking all the courses the only thing I didn't pass were two quizzes which I didn't understand and I needed help with them and couldn't get any help.
 Good course, one must be willing to dig in much deeper on the subjects as they are discussed very briefly.
-Week 6 is broken
 It was very dense and could have been two courses.  I am experience GUI user and haven't worked in Linux or PowerShell and the pace felt overwhelming. The instructor was very intelligent and very experienced; I just wished the course was geared to beginners in writing commands.  I felt like she would gloss over REALLY important things and spend time on things that were important but not vital to building a solid foundation of knowledge. she would switch back and forth between Windows and Linux muddying (in my mind) which commands were used in each.  I know that there is a quite a bit of overlap but I think that I would have found it more helpful to focus on one and then focus on the other one.  Also, if she could have paused to let the viewer see the command that she was writing before hitting enter which in most cases made the command disappear. The transcript wasn't helpful with the grammar of the commands.  The readings would have been more helpful if the foundation of concepts had been established better.I also had issue with the labs: Weeks 1-5 were too easy, where the answers were  given to you and then in Week 6, you were basically on your own.  I first weeks needed to be more challenging before giving you barely any instruction on Week 6's labs.  In Week 6's labs, it would have been nice to have feedback on which ones were completed correctly and which ones needed more study.
 like all the courses i had a lot of trouble just accessing the linux lab with my chromebook. The instructions are incomplete in the labs and led to countless hours spent with help desk staff just trying to enter or setup the lab.....ultimately the solution was very simple but after countless hours, trying six or seven times just trying to get either cloudshell or secureshell up and running to do a simple lab, a helpdesk person gave me a simple bit of information which had i known a month ago could have saved me hours of headaches. The course was ok but i found the instructor would just breathe past command lines too quickly, moving on before i could really absorb what she was saying. A bit more explanation and a slower pace at times would have been helpful. Also a bit more explanation of the spacing in command lines would have been nice. She often typed commands without explaining why or how to place flags., the need to space everything correctly.
 Too many things were glossed over very quickly. There were many topics where there were multiple solutions to an issue and one or two options were given but more were suggested by the instructor saying " there are other ways but we'll talk about them in a later course" only for them never to be brought up again. Very heavy preference was given to explaining topics in Windows PowerShell, and granted most companies do rely on them more than Linux or macOS machines but to spend 90% of the time on Windows and then get the "it works the same way on Linux" and macOS ignored I find dismissive. With more companies switching away from Windows based IT due to higher IT support costs, I find it a bit narrow minded to take this approach. I still do find the course informative and am glad to be apart of the program.
@@ -210,7 +207,6 @@ Lost of issues between Quiklab and Coursera updating grades. Otherwise good cour
 it could be better organized and some of the supplemented links were just useless.
 it was really a difficult one i must say but the instrustor gives in her very best
 the linux portion of the last exam was vague and the delay was almost unbearable
-este curso es efectivo para aprender muchas cosas sobre los sistemas operativos
 Some improvements needs to address on the Labs, but overall interesting course.
 The labs both in function and form are the main area holding this offering back
 Not enough is done to explain and learn Linux commands during the course
@@ -244,10 +240,8 @@ Labs are buggy using Linux OS
 The labs are just awful.
 The labs are exhausting.
 The labs were buggy.
-itsgoodforbeginners
 Labs are confusing
 Very Challenging
-hardest one
 tough stuff
 Alright
 This has been a mixed bag. The course material itself was very good and the presentation was good. However the Qwiklabs malfunctioning for all of the windows labs during this period and the lack of communication and problem solving by the course admin has left me deeply disappointed with this course.Update: Adjusted to four stars. Qwiklabs problem solved and now finished the course. I feel a great level of relief after a somewhat stressful week. Had it not been for the Qwiklab problems I would have rated the course with a 5. I have learnt more new things in this course than others.
@@ -261,7 +255,6 @@ The course was globally good: the videos were always interesting and the topic w
 I want to give this 5 stars so much but I feel like it fell short on a few things. Firstly the linux labs with there pkk files were not well introduced so the first lab was a struggle to get into. Also all the other linux labs seemed to have there own quarks such as having to deviate from the parameters laid out. Which if done on purpose brilliant! If not then just a head ache. But the final labs were amazing and just made me wish all the labs had been like that. Because those were the best simulation of on the job work. The instructor was lovely. And the course material was great. Just need a little polish on the labs and an increase in difficulty and it would be exquisite.
 Qwiklab assignments are quite slow to recognize actions taken in the VMs (a couple of minutes), which is understandable. Sometimes, however, I would get 50/50 on a lab and then end the lab. I go back and it doesn't show up as completed (or even attempted). Wait a couple of days for the system to work. Nope still not there. Support was able to help quickly and resolve the problem after providing screenshots of the completed lab, but one lab I had to redo because I forgot to take a screenshot at the end of it. I have no idea where the grade gets lost between the Google Cloud Platform/Qwiklabs and the main Coursera system but it happened multiple times for me. :/
 This was good. I enjoyed course #2 much more than the other two so far. Many of the references that are given as "Supplemental Reading" in this course are quite boring considering the vast amount of stuff one could learn. Many topics in those sections are simply useless: I don't care about flags and options available for a command, that's what the built-in help command is for. Otherwise, you can quickly Google your way around. You won't be a power user after taking this course, but some notions are very useful and well presented, such as users and groups permissions, process management and troubleshooting with the help of system logs.
-Parecerá extraño lo que diré pero ha sido  el tema que más me ha gustado y disfruté mis logros; pero a la vez, me ha hecho sentir frustración, impotencia, y en ocasiones, ganas de dejarlo. Me sentía como una pelota de tennis donde Venus Linux y Serena Windows me agarraban a raquetazos tirándome de un lugar a otro o Messy Linux y Ronaldo Windows me daban a patadas y me mandaban de un campo a otro. Era como si estuviera haciendo dos cursos en uno. Pero uds.  y los del Qwiklab no dejaban que me diera por vencida. Así que, GRACIAS A UDS. lo terminé. Realmente preferiría ambos temas impartidos aparte con muchos Lab.
 Excellent material.  Excellent content.  The only reason I did not give this 5 stars was due to QwikLabs which are an astronomical waste of time.  I finally found the problem.  I did not need a workaround; the chat people are very friendly and entirely not helpful.  Sadly, the problem is a simple one and lies directly with QwikLab and connecting to the Secure Shell.  No one at Coursera and no one at QwikLab seems to care.  The student is left on their own to try to figure it out on their own.  After an astronomical 40 hours, I realized QwikLab's error.  Otherwise I would give the course 5 stars.
 I learned a bunch of new material in this course! I am especially happy with the labs at the end. Finally, a challenging lab. I actually had to use my head and my notes. I find the walk through labs interesting and helpful, but not nearly as much as having to try and figure things out based on what I was taught. My only gripes are the instruction seems to breeze past or gloss over certain details while going through things and there is an awful lot of "suggested reading" of things that probably should be covered. I hope to see more on those things, as promised in the videos, in the next courses.
 Check those last two labs(Windows and Linux Logs) for grading errors. I completed all of the assigned tasks, but only received a score of 80% for each lab. I completed both of the final labs a second time, and still only received an 80% score. All of the tasks to be completed in these labs are simple, and I know that I completed everything correctly, as I've been an IT Support Manager for 5 years now, and a Support Specialist for 10 years prior, and have performed all of the tasks in these labs about 300 times. Something is wrong with the Qwiklab grading system...
@@ -391,7 +384,6 @@ Would be 5 stars but understand most of the linux stuff can be done under the gu
 Linux is an extremely challenging OS. I will need an additional exercises to become comfortable with said OS. That excites me.
 it wish more practice through each segment i am more hands on it was tough to just have to do it once only in end segment lab
 excellent course - the labs are a little slow to spin up - wait for them to spin up before accessing especially Windows ones.
-Curso muito bom, mas tem que se ter atenção nos laboratórios alguns deram problemas principalmente os laboratórios windows.
 It has been most challenging course in series. Plan on seeking sources outside the course if you haven't learned Linux yet.
 Labs were an issue in this one. Ironically genuine troubleshooting was required but resolution required escalation support.
 I would have given it a 5/5 if all of the labs were working correctly on my first try. Overall, great information and labs.
@@ -515,7 +507,6 @@ Great knowledge as an introduction to Operating Systems.
 Week 6 linux assignment last task is unsolvable. Fix it
 the labs are good but often don't work like they should
 Difficult but informative. Learned a lot in this course
-Made extensive comments in Course Wrap-up comment box.
 Some issues with the lab, but otherwise a good course.
 Awesome course, My interest in Linux OS has increased.
 awsome i love cindy quach you should have her do more
@@ -560,7 +551,6 @@ Challenging but makes you focused.
 It was interesting towards the end
 Nice info on the common used OS's.
 Good course, I recomend it at all
-Buenísimo trabajo de aprendizaje.
 It was really informative for me.
 Very educational and interesting.
 The Labs are very slow at loading
@@ -580,11 +570,9 @@ Lots of great information!
 god hell yeah nice course
 So much learning about OS
 The Linux part was tough!
-Challenging but enjoyable
 Linux was tricky as hell
 A little too easy maybe?
 Hard challenging course
-Week 6 needs some work.
 lab is not clear enough
 nice...gives knowledge
 The labs are confusing
@@ -601,19 +589,12 @@ Really recommended!
 Very very difficult
 it was interesting
 toughest one yet!
-fun for everyone!
-Super awesome!!
-great Expeience
 it is very nice
 The lab is good
 Very Helpful.
 Thanks Cindy.
 A bit boring
-Well done.
-very g00d
 Quality
-uyu
-i
 Course was good and challenging.  Cindy did a great job.  I wish Windows and Linux were separated instead of back and forth every video change though. It made things confusing going back and forth.
 This is my most favorite module module, especially the Linux, which is my all time favorite OS ever enjoy learning, working Programing, and configuring, and will continue enjoying til the end of time.
 A wonderful course of prevention that I learned a lot from,
@@ -805,10 +786,8 @@ Although I'll need some time to remember some of the commands in Linux, I really
 With this course you do not only get the Windows side of things but I also really enjoyed learning more about Linux than I ever thought I could. Instructions are correctly paced so you won't miss a thing.
 I felt I learned a lot of practical information in this course. It was nice to learn that I actually knew some of the stuff, even if I didn't necessarily understand what I was doing or why - I know now!
 Again an excellent course by google for anyone interested to work on OS's using command shells.Those interested in becoming IT Support  Specialist must join this course in order to upgrade/build skills.
-Muito bom o curso. Os laboratórios trazem experiência única usando a teoria e a prática.Agradeço muito pela oportunidade de participar de um ensino de qualidade e com tantos recursos bem configurados.
 O my!!!!!!!!!  This has been the best learning experience of my life:)  Thanks go out to coursera and google and Devashish at quicklabs.  Thank you so much for letting me a part of this class.  WOW:)
 Excellent advice on carving it in a stone and being too stubborn to quit.  So much of what is seen is sugar coated instasnap filtered that hearing Leverage your Strengths and work hard is reassuring.
-Siempre había utilizado solo la GUI sin embargo este curso me enseño como trabajar con las terminales y consolas de los SO me pareció que aprendí mucho y con mucha practica mejorare mis habilidades.
 It is an amazing course where you will learn not only the basics of the mayor OS, but also go beyond and handle different useful commands and shortcuts when troubleshooting those challenging issues.
 It was a really good course.I knew some of the thigs showed through the lessons but, I learned a lot of new and useful things.I would really recomend this course to someone that is starting in this.
 Great labs, if you do the commands and perform what you are learning while you are going through the program the labs and quizzes are a breeze.  Loved the hands on experience. I'm glad I took this.
@@ -914,12 +893,10 @@ Learning command line stuff was pretty cool. Before this I had very little exper
 Favorite course in the certificate so far. Was challenging and the labs had some issues but overall really liked the content and the challenge.
 tough but i learned  a lllllllottttti am happy to have this opportunity  to learn how computer souls working ,not just know how  use it thanks
 It was a great experience with the IT support Operating System as there is more way to go ahead so I will keep myself for the challenges ahead
-Conteúdo de qualidade e técnicas muito úteis. Gostei de como o curso foi organizado, apresentando teoria e prática são de modo claro e direto.
 Good course.. I like Cindy the instructor was cool and very easy to follow. The material is definately a challenge but practice makes perfect.
 Bit lengthy course & lot supplementary reading which was vastly important to cover. Need this more explored in wide manner , just my openion.
 Quite an engaging course and learnt quite a lot. Loved the labs and the instructor was great! Highly recommended for anyone interested in IT.
 This one is very challenging, I failed the second assignment but that didn't stop me. I tried again and here i am. I got my certificate haha.
-Gostei muito do que aprendi no curso, diversas tarefas importantes que agregaram muito e com certeza serão usadas diariamente em meu trabalho
 Really loved the course. Learnt a lot about Microsoft Powershell and Linux Bash, both the C.L.I s are wonderful for them who knows commands.
 This course is well organized and well taught unlikely college course. I would recommend this course to anyone looking to get in IT program.
 Really informative, but quite challenging. Take lots of notes and review the content before you move on. The last labs are really difficult.
@@ -1086,7 +1063,6 @@ Working with Linux is kind of stressful but I love the way they organized the co
 Brilliant course so well presented! I learnt so much doing this I can't recommend this highly enough!
 helped me a lot.At beginning it kind of seemed tough but thanks to the tutor she made it an easy job.
 The labs really helped me learn the different Operating Systems. Thank you for hosting this training.
-excelente curso, me llevo experiencias y más conocimientos, acerca de diferentes sistemas operativos
 There was a TON of information in this course and the labs were tough at the end but it's been good.
 Super Fun course! Never thought I would like to use Bash or PowerShell but its very fun and helpful!
 The training is great.  The Qwiklabs needs work.  I have had issues that had to be resolved in chat.
@@ -1110,7 +1086,6 @@ Very useful and it makes you real command line wizard in operating system like W
 I love to learn new features. In this course I love to deal with log events in windows and Linux
 Was a really good lesson on OS's and how to do certain things within them from the command line.
 I learned so much I didn't know that I didn't know. VERY informational and dense. Pay attention!
-Muy recomendable, especialmente la parte de linux, ya que no siempre tenemos un entorno gráfico
 This course was very challenging, but I learned quite a bit of information and computer skills.
 The  course was well put together and easy to follow. I would definitely recommend it to anyone
 It's a good course for beginners for Windows ClI command and shell in Linux. Worth of learning.
@@ -1184,7 +1159,6 @@ This is an excellent tool to grow in the IT field. I fell more and more confiden
 The Course is awesome.It really covers knook and cranny of Operating system basics
 trutly amazing,very informative.Learnt alot from this course,great for begginers.
 Good course, intense and shallow both at the same time, good for beginning though
-Aprendi bastante pelos labs, alguns deram trabalho, mas são bastante instrutivos.
 great content end of the day I learned a lot I would like to say thanks to Google
 I liked the challenging Graded assessment where I had to operate mostly by myself
 learn deeper and deeper my knowledge level is going up! Linux was hard, but fun!
@@ -1310,7 +1284,6 @@ Great course! I have learned a lot with this course! thx google!
 It was teasing and yet interesting courseThanks for the lectures
 was very nice and helpful....also very learnfull. thanks a lot.
 Virtual Machine (VM) is totally a new experience for me indeed!
-Até hoje, foi o curso que mais contribuiu para meu aprendizado.
 Very Knowledgeable course and has improved my skills.Thank you.
 Thanks , Cindy, Google and Coursera for such an amazing course.
 Wonderful, Enjoyed Very much,  Thanks to the Coursera Team.....
@@ -1330,7 +1303,6 @@ This course gives you many command line things to think about.
 Its very useful for job as well you can learn a lot of things.
 Learned a lot this course and throughly enjoyed the experience
 constructor was awesome and engaging that i liked the most :)
-muy interesante ,el material  muy claro , recomiendo el curso
 This course was amazing!! i´ve acquired new  great habilities
 I learned a lot because of this course. totally recomended it
 I LOVE THE COURSE AS GOING THROUGH IT.IT IS FULL OF KNOWLEDGE
@@ -1338,7 +1310,6 @@ an excellent course. perfect for those without I.T background
 The Linux portion was a bit more challenging than I expected.
 Nice Course, watch out cause will make you a bit frustrating!
 It was nice, but the windows part could have been less basic.
-Muy bueno y desafiante para el que no conoce nada sobre esto
 Its been a wonder journey for me to scale up and well tuned.
 An amazing course, Keeping learning about Operative Systems!
 Very very very best course I have ever learned on Coursera!!
@@ -1421,14 +1392,12 @@ Whoa, a very demanding but highly beneficial course.
 Great course! Great instructors. Keep the good work.
 I like so much this topic. I'm glad in this course!!
 Learned so much in a short amount Great instructor !
-muy practico, educativo, interesante y enriquesedor
 Well taught, and the labs were fun and interactive.
 The Linux section was very challenging, but needed.
 Very well done on this course.  I enjoyed it a lot!
 Very very educational!Well explained, not too long.
 Learning every class... Nice course really helpful.
 Great course, fell proud to finish do not give up!
-estuvo muy difícil pero aprendí cosas que no sabia
 This one was tough and I'm glad I powered through.
 Super Cool cmd, Powershell, Linux so much to learn
 Great Course and Great Labs! Love it this course.
@@ -1456,7 +1425,6 @@ good, need to explain more better in the details
 Loved learning about basic command line prompts.
 Very good content ! Well prepared and presented.
 thanks google team for such a fantastic course.
-O curso ensina muitas coisas e muitos comandos.
 very important and very useful course i think..
 Cindy did a wonderful job, the labs are amazing
 Useful Course, I learnt a lot from this course.
@@ -1498,7 +1466,6 @@ I learned a lot about Linux, it was awesome!
 The best course for absolute beginners in OS
 Great intro on how to become a power user!!!
 Engaging and fun. Loved the Linux sections!!
-Muy completo y practico para el aprendizaje
 Learnt a lot with regards to files in Linux
 Linux command line was the most challenging
 Most challenging part of the course so far.
@@ -1509,7 +1476,6 @@ Maza aaya. Its been al really too awesome!
 this course was great. I've learned a lot!
 great course for learning deeply about os.
 Excellent course, i loved every bit of it.
-Se hizo muy llevadero y muy bien explicado
 It was a amazing experience with Coursera!
 it made me think how powerful commands are
 Thanks Cindy, you did great.God Bless you.
@@ -1523,10 +1489,8 @@ great course and fantastic instructors!!!
 So far, this has been my favorite course.
 This course is well worth the investment!
 They taught us essentials skills. Thanks.
-Muy bueno me gusto mucho y muy completo.
 I Like, this course is very interesting.
 Great learning and Lab was good to learn
-Excellent course to deep the Linux skill
 very difficult but useful.great teaching
 I loved this course!  I learned so much!
 The labs grades could be more intuitive!
@@ -1534,13 +1498,10 @@ Thanks Cindy; this is a great course. :)
 As a beginner it is very good experiance
 great course, it was a great experience.
 excellent teaching methodology thank you
-Good Course... long but excellent course
 Amazing course I ever learned so far!!!
-Bastante contenido y mucho que aprender
 Great course. Informative and detailed.
 Would like a few more "hands on"  labs.
 Awesome course structure really helpful
-Imparato tante cose e più approfondito.
 Good hands on exercises. Great teacher.
 Excellent information, I learned a LOT!
 Great content, wonderful teacher, A++++
@@ -1568,7 +1529,6 @@ Challenging and rewarding! Thank you!
 excellent and very informative course
 A more in-depth look into the IT role
 this taught me sooo much, many thanks
-Grande curso, aprendi muito com ele.
 Fabulous course! Highly recommended.
 It's difficult but I have achieve!!!
 cindy madam explaination is too good
@@ -1583,11 +1543,9 @@ Awesome course, loved the last labs
 Thank u very much for this lessosns
 Really Enjoyed Learning this Course
 General usage of OS for a beginner.
-Thank you! Thank you!! Thank you!!!
 The Linux was challenging, but fun.
 Easy to follow and great narrative.
 Greate Course; Learned a lot here.
-Eye-Opener, Challenging & Amazing.
 Very Informative course. Thank you
 Thank you i learned  alot # google
 Definitely a challenging courses!!
@@ -1606,14 +1564,12 @@ Awesome course. Thank you, Cindy.
 The best course until now for me.
 this course is very useful for us
 Great course lots to learn ahead.
-luar biasa, menambah wawasan saya
 It is a great experience, thanks.
 Learned alot through this course.
 Best Course for IT professionals.
 Hard but worth all the time spent
 Awesome, beneficial and impacting
 Excellent and challenging course.
-Um curso muito bom e bem prático!
 Awesome course to learn and Grow.
 The course was really beneficial
 nice qwiklab for practice thanks
@@ -1633,7 +1589,6 @@ Being a power user is awesome!
 Well rounded course. I enjoyed
 Great course, I learned a ton!
 very nice course learned a lot
-Best course I've taken so far.
 Very structured and methodical
 easy easyfinished it on 2 days
 I lot of info but very useful.
@@ -1663,15 +1618,12 @@ good training and activities
 I enjoy learning in Coursera
 Learned a lot in this module
 Very useful.  Great tutors!
-Excelente curso, recomendo!
 The lab work was really fun
 Informative and challenging
 one of the best course ever
-Excellent course I love it
 Excellent and very useful.
 Difficult but interesting.
 Very usefull for my career
-Challenging but still fun!
 Highly informative course!
 Thank you. It is worth it.
 really enjoyed everything.
@@ -1682,15 +1634,10 @@ good got to try new things
 i really loved this course
 Great course learned alot.
 Cindy is great!! Thank you
-Awesome Course structure.
 You get to learn alot !!!
 Very well taught! Thanks.
 challenging yet rewarding
 So good and really useful
-My favorite course so far
-Wonderful lab experience!
-I am very glad I did it.
-Buen curso. muy completo
 Awesome course. Thanks!!
 This course is very nice
 excellent knowledge gain
@@ -1700,7 +1647,6 @@ best course with teacher
 Thank you so much ...!!!
 A training worth taking!
 It is a very good course
-great but quite detailed
 A lot of great concepts.
 Challenging, but fun!!!!
 Loved the course Awesome
@@ -1709,19 +1655,14 @@ A Great Course Indeed!!
 It'was very nice course
 Great course but tough!
 tough parts to this one
-Very hard but enjoyable
 Fantastic Teachers!!!!!
 Good course, thank you!
 its tough but worth it.
 i learnt a lot. thanks
 Interesting Course !!!
-excelente treinamento.
 Concise, to the point.
 thanks for the support
-Es un buen curso. Nice
-Amazing and inspiring
 Indeed a super course
-get experience for OS
 This is a good course
 Loved every bit of it
 Learned a lot thanks.
@@ -1737,7 +1678,6 @@ It's worth studying!
 Cindy Quash is cool.
 This course is hard.
 It is a great course
-Exellent job Google!
 Good practice chance
 Very good course! :)
 challenging and fun!
@@ -1745,13 +1685,11 @@ clear explanation...
 i love the last lab,
 Thank you in advance
 Very thorough course
-Engaging and Useful
 i Like this course!
 Good Course awesome
 i really liked it .
 very very helpfully
 Thx for all, google
-had nice experience
 Good online course!
 Really Knowledgeful
 Very good lectures.
@@ -1766,9 +1704,6 @@ wow awesome course
 Power Users Unite!
 Very best course !
 A lot was covered.
-fantastic session
-ALFINALSEPUSORUDO
-Best Course on OS
 GREAT COURSE!!!!!
 very nice content
 Am really excited
@@ -1779,108 +1714,42 @@ Cindy was best !
 enjoyed a lot ..
 Very educational
 Thank You Google
-i love you cindy
-Awesome  course!
-Veryyy Gooood !!
 this so amazing!
-Super Cool  Like
 Exelent! Thanks!
 This is helpfull
 very challenging
 Very challenging
-best for student
 Learned a bunch!
 very hard course
 very good classs
-Fun and concise!
 Issues with labs
 I'm so excited!
 very in depth!!
-good linux labs
-excellent topic
 awessome course
 Great OS course
-Best course !!!
-Last Labs Sucks
-Great practices
 Taught me a lot
-just love it !!
 Great training!
-superbb course
 Amazing course
 That's great..
-Excellent job!
 very effective
-Very rewarding
-it is amazing!
-exelente curso
-Muy Buen Nivel
 It was a great
 learned a lot.
 Yew, worth it!
 grep knowledge
-So far so good
 great and fun
-Thank you :))
-labs are good
 Awesome class
-Thanks google
-sudo approved
 Learned A Lot
 Very usefull!
-challenging !
-Challenging.
-great.......
-nice program
-Keep spirit
 good  couse
-Was good :)
 Great stuff
-really good
-VERY USEFUL
 tons of fun
 lots of fun
-Good Job...
-kinda cool!
-Interesante
-very unique
-Excellent♥
 It is nice
-Super Hot!
-IMPRESSIVE
 good corse
 Got it all
-Awesome !!
-Hard work
-hard work
-fantastic
-Super fun
-amaizing
-I lovely
-dfsdsfds
-grateful
+good one.
 was fun
-YEAH!!!
-easyyyy
 I agree
-nice!!!
-GREAT!!
 Mt bom
-Genial
 Lovely
-......
-Nice !
-yessss
-Ideal!
-Nice.
-TOUGH
-Redo
-شكرا
-Wow.
-Joy!
-Yea!
-aasd
-good
-sudo
-bugs
 o

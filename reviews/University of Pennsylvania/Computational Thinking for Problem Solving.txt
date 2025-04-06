@@ -16,7 +16,6 @@ This was definitely a very frustrating course. Most, if not all,  assignments we
 There are giant leaps in logic for the assignments using python. It was not friendly for someone with no python experience.
 week 4 is impossible to complete with the knowledge they provide.The first three weeks were nice
 Not very rigorous course. However, it is OK for an introductory course for non CS students.
-it was nice But not in deep.
 The first 3 weeks of the course were great.   It really helped change my way of thinking to solve large complex problems.   I can use this in my role as a Business Analyst.The lecturers presented the materials in a clear manner, with real life examples to help the understanding.   Then, came the python coding.   The first few modules of the Python section were fine.   Then came section 4.7  It was a lot more difficult than the others, and I found that the helpdesk was slow to respond.   It took longer than it should have to complete that section, but I pressed on.Then, there was the final test.  Section 4.8.  There were some concepts in this exam that were not included in the lecture material.  The online help was non-existent.  It took DAYS to get a response from the TA in the discussion group.  Even then, the response was not particularly helpful.    We were then told to send a problem flag to review the code (since we were not allowed to share the code in the discussion group.)   I submitted a problem ticket a week ago, and still have not received a response.  Keep in mind that I'm not a developer.  I found help in other places, and was finally able to complete the assignment.    It's a shame that the problems with the last section of the course seemed to take away from what was otherwise an excellent course.
 The course is generally good. However, the assignment content and the lecture are not really getting along, especially the Python part. I suggest more "bridging" materials.
 Overall, great. However, I think the programming assignments were too hard to just do right off of the lectures. Needed extra research.
@@ -45,7 +44,6 @@ Very nice course of people who have no experience with computer and programming.
 Really great course. I found the wording of a couple homework problems to be confusing, but overall really enjoyed the course
 It was very joyful throughout the course and i learned a lot but there is a problem, the voice is so low.
 The last 2 assignments had some issues in the results. Those need to be fixed to save us some time.
-Muy interesante, especialmente para aquellos que estamos iniciandonos en entender este mundillo.
 The course is very well designed and taught, however the peer review system is a real pain.
 4.7 - an excellent class although be prepared for some challenging problems sets!
 Great introduction to computational thinking and coding.
@@ -254,7 +252,6 @@ Well structured great course!
 Very well laid out and paced.
 The course has been helpful!
 Interesting and informative
-Excellent! I recommend it.
 Excellent! Mindblowing
 Well formulated course
 Well Presented Course
@@ -262,4 +259,3 @@ Outstanding course!!
 it worth the time.
 Awesome learning.
 Neat and clear
-Excillent

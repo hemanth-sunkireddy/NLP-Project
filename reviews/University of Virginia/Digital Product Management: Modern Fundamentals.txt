@@ -5,7 +5,6 @@ A very very complex failed course, I rate 0 out of 10
 I understand that this is a multiple choice type assessment course, however many of the questions were created based on the professor's definitions, and quite often they used trickery around what is very grey lines between the choices. I felt in many cases many of the answers were highly subjective and could depend on multiple variables, that were left out. A better course would be like the Gamification one I did, wherein I explained my rationale given scenarios. I feel overall this would be a more reinforcing method of learning these theories.
 The slides were not informative enough, and the fact that the professor was constantly circling and underlining things on them was distracting and dirty. In addition, I found the division of videos into such small increments and dividing videos into parts was unnecessary.
 I'm not satisfied with this course. The content is interesting but explained in a very unprofessional way.
-Not exhaustive
 The course is not right to the point! Is needed to be more focused.
 Too much subjective information. Little info about tools, models and techniques. Overall ok
 The course is interesting indeed, but lot of reviews here are right in pointing out that there are also some problems that could be addressed. TO be more specific 1) Lot of content and not enough depth, so lot of topics get only surfaced and not fully explained and understood: 2) This idea of the teacher to scribble/write on top of the slides while explaining is not the best, at least for me. The final slides are very hard to read, and the original slides are not enough cause they missed annotations; 3) More practical examples would have been beneficials
@@ -24,12 +23,9 @@ This is definitely a good course for a newbie, however as I was parallel looking
 While I like the course, i feel it doesn't go deep into anything. I would have liked it better if we went deeper to sections like analytics, product planning, market analysis etc.
 course is great but mentor need more reality facts form real business life, use famous companies real cases.
 The quizzes are poorly written and instructor is very biased towards methodologies he created.
-apresenta o básico sobre Product Management. Bom para quem está começando ou quer começar
 I'd appreciate more detailed content and how to use the tools and less interviews
 This is a pretty high level overview for anyone curious about product management.
 The quizzes were extremely tough and often, questions made no sense
-No tiene subtitulo en español.
-Very unclear quiz-questions.
 Its ok
 Overall it was a great course, even as an experienced technologist I liked reviewing some of these topics or hearing different takes on them.  It's very hard to give due diligence to data science and analytics topics in 5 minute videos.   I found the first part of week 4 hard to get through, it was just not as engaging as week 1 and week 2.
 I wish there was an exercise and not just quizzes.
@@ -104,12 +100,10 @@ One of the best courses on Digital Product management with great content for rea
 Great course for introduction to modern Product Management. Helped a lot to gain insights into the mindset required to be a Product Manager.
 This is a really good course. Clear and concise. Good examples and collateral. I am using the information on my job as a scrum master now.
 The course was very interesting and instructing. It would have perfect if the presentation would have been more structured and consistent.
-本課著重於發展新產品時的概念及想法，有提到部分方法，但針對執行不會提供太多的敘述，需要另外去講師的個人網站自習。若是考慮創業或公司有餘力研發新產品的狀況下，此課程能給予一個不錯的概念。反之，針對舊產品優化類型的產品經理可能較不適合。課程並不難，還是建議產品經理都能了解一下！
 Interviewees were a bit of a bore (except for the female who drew out her thoughts), but I like how Alex structured them consistently.
 A very good course I would
 recommend to PMs to get understanding of critical business models and practical
 approaches for daily life.
-Es un buen curso para aquellos con alguna experiencia previa en disciplinas relacionadas al diseño y de desarrollo de software.
 Great course from a knowledgeable instructor. Especially loved sessions with real product managers from out there in the world.
 I love this course because it was really immersive, i also enjoyed the instructor, he had a good grasp of what he thought us.
 Well structured course but I think it will be better if there are more assignment related to implementation of the theory
@@ -152,7 +146,6 @@ Good, i really learn something new.
 Clear good pacing and information
 Great experience Thanks for alex
 very insightful and practical
-Could use more slides
 I felt like I went from only a vague understanding of what it means to be a product manager to a much more focussed view of what this role entails, common best practices, experiences from other product managers, etc. This course was great for helping me decide if I wanted to pursue Product Management as the next stage in my career seriously or not, and I am glad to say that I am hooked and when I become a successful product manager this course would have been instrumental in retrospect.
 I've been a Product Manager for a little over a year now, and have been working in the digital sector for over two. This is a really great course, consolidated much of my existing Product Management knowledge and built on other areas where I was lacking. I have taken notes to use as my 'cheat sheets' in my day to day Product Management to ensure I don't forget to implement things from it. Recommend!
 I enjoyed this course very much! This course helped me ground myself in some of the core principles of product management and I'm confident that I will take what I've learned and put it into practice.
@@ -242,7 +235,6 @@ Great course, many relevant frameworks to sharpen the positioning of the product
 Excellent course for existing product manager or aspiring product manager. Very useful for entrepreneurs. A large number of startups fail due to not having a clear understanding of the customer needs and this course has very detailed, action oriented approach to achieve this aspect.
 This course has a very nice blend of latest PM practices including Data science, design thinking and Agile.  The examples are very insightful and having Enable Quiz case study run through entire set of topics is very useful. Thank you Alex Cowan for very wonderful insights.
 This course is blessing. Professor Alex has put a very informative course. To give a particular example, the business model canvas is super efficient over pages long B-Plans. Even though I don't write a B-Plan but I do have read them and I can already see its effectiveness.
-Muy buen acercamiento a la gestión de productos y a los diferentes contextos en los que se puede crear o potenciar un producto. Se valoran mucho los videos con experiencias reales y aplicadas de los invitados y ex-alumnos de Darden y la interacción con Alex. Recomendado!
 AS a Product Manager, I'm finding the structure, content and frameworks used in this course of the utmost quality.  They are having a direct impact in how I  manage my products development, stake holders relations and hoy I relate with the rest of the team.THANKS!!!!!!!
 Great course for overview of Product Management. You can download the videos to take with you and watch while commuting. The exercises and quizzes stimulate thought and desire for continued learning. The course also contains links to other resources for deeper learning.
 Great course, among the best I have taken. Very well planed and clear way of explaining what a PM is, how he/she interacts within an organization, which should be his/her objectives and mindset and which tools he/she could use to achieve success. Congratulations Alex!
@@ -280,7 +272,6 @@ Greatly enjoyed this course. I thought the topics were high level enough to real
 A great Course! Highly recommended. Throughout the experience, I learned new methods and processes to build/ create better products and effectively communicate with team members! Thanks, Alex I enjoyed the interaction!
 This course is really good. I love to learn a lot of things from the basic of product management until how we can execute it during the sprint.All of the information is easy to use especially in my personal experience.
 a great summary of the fundamentals and I learned a lot. I work for a larger corporation so some of the examples didn't quite fit with my current role, but I was easily able to extrapolate how to apply what I learned.
-A pesar que el idioma ingles no es mi fuerte, agradezco a la forma didáctica de Alex Coman al momento de dedicar tiempo para enseñar un tema tan interesante. Gracias a la Universidad de Virginia por esta oportunidad.
 As a UX Designer, this course has been great great to see a wider picture of product development.I got lots of practical tips and many of the questions have trigger self analysis and profssional improvement, thanks!
 For someone, like me, who has no experience with Product Management whatsoever, this course definitely has been a window into this domain. It has helped me understand the basics of what Product Management is about.
 This is a hugely informative entry into the world of digital product management. Insights in the course, as well as the resources provided, will (I hope) prove to be invaluable to me as a DPM and my organisation.
@@ -367,7 +358,6 @@ A very good course and covers all the important aspects of product management . 
 I learned the key terminologies, framework and mindset a product manger should have. The examples and the videos from product managers are very insightful.
 Very informative and easy to understand. I liked how Alex brought in professionals across multiple industries to share their experience and insights. -Ryan
 Wow Incredibly comprehensive and actionable yet not to much time is required, clearly solid product management fundamentals were used creating this course
-Excelente curso. Me ayudó mucho a entender el rol del PM en una empresa y de cómo usar herramientas en mi trabajo o en mis proyectos personales. Gracias!
 Very informative, the topics were made clear and the professor made it a point to brush up concepts from previous classes to help better understanding.
 A very well explained and detailed course. It helped me gaining the necessary skills for this field and prepared me for future endeavors in this field.
 Well planned and executed the fundamentals of the course. It was really helpfull and I learned usefull tools and skills to my own career. Thanks a lot!
@@ -438,7 +428,6 @@ I'm so happy with the content of the course. I'm studying English too, so this w
 Must attend by All Product Managers. It's very Practical and Applied Product Management Technique Training
 This is the first course that I have used on COURSERA with my Girlfriend. Alex was 8.5/10 according to me.
 Excellent content, very effective teaching and apt interviews with relevant and hands on industry experts
-Ein sehr ausführlicher und hilfreicher Kurs um in die Welt des Digitalen Produktmanagements einzutauchen.
 A great course on Product Management. I learnt a lot of new concepts and provided me with a lot of tools.
 Excellent introductory course with real-life concepts and tools/processes that product managers can use!
 Really amazing course and i have enjoyed a lot .Hope it will give me a lot of help in my future planning
@@ -474,7 +463,6 @@ Nice coherent view on PM. Pretty dense. Community board looks a bit messy so I d
 Very practical advice and tools to update my PM skillset.  Off to brush up my SQL skiils now!
 The courses had great content, learning pace was quick, and I really enjoyed each interview!
 Great introduction, great teacher and slides clarifying what you need to become a great PM!!
-Curso fantastico! Bastante completo e traz uma perspectiva bacana para aplicar no dia a dia.
 Lots to take away-love the arsenal of useable tools I have to my disposal after this course.
 This has been one of the most amazing and interactive course I have come across in Coursera
 Gives excellent tools and insights regarding all the steps to creating or scaling a project
@@ -508,7 +496,6 @@ Really liked the course - I would recommend highly - must have for Product Manag
 Very good learning videos with excellent accompanying materials on Alex's website.
 Its really commended course to understand Product management tools and Techniques
 Content helped me in polishing my skills and help to think deeper about product.
-Excelente curso! Recomendo para todos que desejam atuar como gerente de produto.
 Excellent video lectures, great explanations, awesome real-world PM interviews!
 Best online course I have ever done. Great content, pacing and teaching methods
 Great course to be introduced into the PM profession and skills! Many thanks!!!
@@ -568,7 +555,6 @@ great overview and a lot of valuable resources to use right away
 Loved every minute of it! Will greatly help in my future new job
 The learning was invigorating that will be useful in my career.
 Great coverage and relevant depth; and Alex is a great teacher!
-Muy buen curso! completo, dinámico y con información relevante.
 A very good course especially if someone is looking to startup!
 Very useful and great course to learn modern fundamentals of PM
 It's the best course for development of product manager skills
@@ -608,13 +594,11 @@ It is a great course for some starting with products.
 Lack of cases but a lot of useful theory, thank you!
 It was a really cool course :) I enjoyed the format!
 great teaching, wonderful course, great work done .
-Engaging, fun. Broad curriculum. Helpful, pragmatic
 Great course. Love the instructor's teaching style.
 It's good opportunity to us, thank you coursera ☺️
 Awesome course! Looking forward to the next ones!
 Brilliant, well structured, very helpful course.
 Really great course with awesome practical tips!
-gREATCOVERAGE,ANDALOSGUESTSPEAKERSTHATISTOPICAL
 Concepts are explained with real good examples.
 Just amazing!I am impressed. Clever and useful.
 This is simply a Great course. Thank you, Alex.
@@ -622,7 +606,6 @@ It was very helpful and practical! Thanks Alex
 learnt a lot thankyou Coursera and Alex Cowan
 Great learning experience with Ceritification
 Great insight on Digital Product Management!
-Best course on Digital Product Management!!
 Well organized content and good explanation
 Great material, pace and awesome professor!
 Very completed, many information of value.
@@ -634,7 +617,6 @@ great course to learn product management
 Wonderful course. Alex is just amazing !
 Fantastic course content and instructor!
 I had a geart experience in course era.
-Excellent instructor, excellent course!
 Thank you for the opportunity to study
 It was an an amazing intuitive course.
 Great Course and even great Tutor Alex
@@ -645,17 +627,13 @@ Excillent course very helpful for me
 Excellent course to the fundamentals
 Amazing Course! Highly Recommended!
 All required knowledge is available
-Excellent material, perfect example
 Very very useful course coursera
 It was really a great experience
 It is really helpful, Thank you!
 Straight to the point. Excellent
 very insightful and interesting
-Excelente simplemente excelente
-Excellent syllabus and content.
 This cours is very interesting
 Great Instructor and material.
-comprehensive fundamentals :-)
 This course was very helpful !
 It was totally worth learning!
 Best Course for PM in Coursera
@@ -667,10 +645,8 @@ Super useful and insightful!
 It was really interesting!!!
 Great material and examples
 The Best Course !! Thank !!
-Excellent. Too many videos.
 It was an exemplary course
 very structure and handson
-Focus on digital products
 Please, share the slides!
 A very informative course
 Very relatable content !
@@ -678,25 +654,16 @@ This lessons are amizing
 Great Course, loved it!
 Great for start! Thanks
 great tools and tips
-Nice User Experience
 Best learning course
 good course, thanks
 This course is best
 A good way to start
-Great material! TY!
 Amazing and simple
 Really really good
 Best ever! thanks!
-Increíble curso !
 great teacher....
 Easy way to learn
-excellent content
 For the beginners
 The great course!
 Very good cource
-VERY NICE....!
-VERY BENIFITED
 Awesome info
-SUPER GOOD .
-buen curso.
-really like

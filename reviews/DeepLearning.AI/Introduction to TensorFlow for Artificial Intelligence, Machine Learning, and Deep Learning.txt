@@ -24,14 +24,12 @@ The course assignments seem to be locked despite me paying a subscription fee. T
 "your grader ran out of memory"... garbage site. i'll cancel before the end of the free trial
 Material is useful, but tests are trivial. This causes course certificate to have no value.
 when submitting the first assignment the server does not accurately check the assignment
-解約したいのですが、指示どおりにしても、エラーが出てしまい、解約できません。解約させてくださいますようお願いします。非常に困ります
 Not in depth in the technical part behind NNs. I expected more.
 Worst course. Worst teaching methods.
 Introduction to Keras, not Tensorflow
 Very, very basic course
 not in depth at all.
 Much too easy.
-dislike it
 This felt like a glorified tutorial for TensorFlow/Keras. I expected more in-depth treatment of the material. E.g. covering more ground (regularization wasn't mentioned at all), or going into more depth on the machine learning theory (why are we using this activation function, this loss, or this optimiser) or practical tips (e.g. discussions of network design) or the tools we are using (e.g. what exactly is TensorFlow, what is Keras, how do they relate to each other, how do they work under the hood).I also raised some issues and PRs on the github repo for the worksheets to correct problems in some of the worksheets, but these were not responded to by the time I had finished the course over a week later, despite the low volume of issues and PRs on that repo.I paid for the course upon getting to the first quiz so that I could have my answers graded, but I don't feel that I got my money's worth.
 I was expecting a more elaborate content and graded programming exercises for those who pay for the course. Instead the major part of the content is based on the  FREE tutorials available on TensorFlow website. Besides, the course is split to 4 weeks but the complexity of the content does not fit to the announced period. It can be easily completed within few days or less by any avearage CV researcher. It is populated with a bunch of very short videos with 'surface scratching' explanations.  A targeted learner seems to be an undegrad.  Also, some important concepts of TensorFlow were not explained (ex: what is tensor? etc.)  Overall, I am disappointed and consider this a waste of money. eventhough, it can be useful as an audit for those who need some structure in self-education as it provides the sequence of tasks and some quizes as many other courses by Coursera.
 This course barely touches what Tensorflow is and how it works, it is just a very basic introduction to Keras, and most of the time is spent explaining machine learning concepts rather than Tensorflow ones.
@@ -67,7 +65,6 @@ It´s well explained but way too basic and short.
 这课挺水的， 不如 deep learning specialization多矣。
 notebooks need work from the instructors
 Course was not rigorous enough
-meh
 I like the CoLab Intro, and basics of Keras.  But I think the 1st course are a bit too basic for someone who took the 5 courses Deep Learning Specialization.  And it is too fast for someone who had not taken the DL courses.   I would like the instructors to go over these topics in future courses: 1) TensorBoard and how to debug a faulty model2) TF 2.0 features (Eager execution, etc)  3) hands on example on how to fix the model if validation accuracy is much worse than training accuracy 4) LSTM models 5) how to productionize the model for real life use, like TF edge or TF.js
 Often coursera courses are a bit easy / superficial. This course is a bit too much so. There's just not enough meat-on-the-bone for my liking. The instructor came across very well, the material is polished and professional, there's just not enough material for me to think of this as being a course. It only takes about an hour to do each weeks' material; the programming examples provide almost no challenge. As a first course on the topic this might be okay, but if you've done anything in this space before then it will be too easy. The course also uses the highest-level TensorFlow APIs; in a sense I wonder if this is really about TensorFlow when that same API is usable with other frameworks. I hope the rest of the specialisation has more detail.
 Nice course with some flaws. It’s a course in Keras with Tensorflow under the hood but you won’t see it. It’s great it’s Keras, however the title of the course is misleading. The videos are only a few minutes per week. Mostly it’s self-study on Google-Colaboratory. If you have no clue about Python or Machine Learning you might quickly be overwhelmed by the coding involved. If you have knowledge in Deep Learning you can earn this certificate within a few hours just by answering the (rather simple) quizzes even without watching the videos because the programming assignments are not graded. The course doesn’t have the depth of the Deep Learning Specialization by Andrew Ng but Keras is a great Deep Learning Library
@@ -121,7 +118,6 @@ content and teacher are great!google collab and the submit process is tedious be
 Oveall, a good course. Very good program examples. One area for improvement: fuker, more detailed explanations for ech line of code (both in the videos and the comment lines within the code.)
 I was expecting an intermediate level course in which we learn how to create complex deep learning models using Tensorflow (and not keras).the course is still great for beginners... I guess
 This was a very basic course entirely solvable in a few hours. It gives you some insight how to use Keras in TensorFlow, and why convolution is a good idea. It was far too basic for me.
-Es un curso bastante práctico, se hace muy ameno y te engancha a seguir aprendiendo. Para ser un curso introductorio está bastante bien, aunque te quedas con ganas de profundizar más.
 It's not easy to complete all weekly exam for a lot of kernel errors.It is as a good starting point for TensorFlow, but is not newbie course in Machine Learning and Computer vision.
 Prior knowledge of CNNs is required, instructor just walks through the modules, you shoild be prepared to learn stuff from the documentations on internet amd the sample modules.
 Instructors, please take a look at the discussion forum and answer some questions. It would save students a lot of time. The content of the course was overall awesome though.
@@ -156,7 +152,6 @@ The assignment is too easy. In most cases, we only need to copy paste from the l
 Course was too shallow. I is targeted on only beginners and developers who has no ml or math background
 It was a little complicated for me, Intermediate level was specified before I enrolled the course.
 Little too short and basic. Recommended for absolute beginners to deep learning and tensorflow
-muy bueno, aunque debes conocer ya un poco sobre redes neuronales si no, no entenderás mucho
 The course is not designed up to the mark. The course is either very basic or very advance.
 too easy, I want to learn more detail rather than just simply know how to use tensorflow.
 Man there was no submission notebook that I didn't have to fix myself. Please fix those!
@@ -187,10 +182,6 @@ Nice to do more hands-on tf.
 too easy, which is not good!
 became too complex and fast
 Very basic Intro.
-Week 4 is weak.
-nice Content
-Just good
-Easy
 Some of the material is a little confusing: sometimes the exercises will open on Google Collab, others in a classic Jupyter Notebook; instructions sometimes seem to lack revision to make them more organized and less convoluted. Also, references in videos should be always made into links (e.g. Andrew's videos are usually referenced as links in the class video and they are not clickable. Since the graded course is paid (and is not cheap for most third world countries) it seems that a little more care and polish should be applied. The contents are excellent, but they lack the organization and quality of the original course from Professor Andrew Ng, which was, by the way, 100% free and didn't have exercise grading locked by payment, for example.
 The assignments need to be polished. They were very lackluster and non-rewarding.
 The course offers a great introduction to TensorFlow methods for handling data, training models, and inferring results. Two things could be enhanced, in my opinion:1) A better estimate of the time required to read the materials and do the exercises (the course takes less time than stated).2) More in-depth explanations for certain parameters (although it could be argued that you should just follow the other deeplearning.ai specialisation for that).Overall, though, a great crash-course for getting started with Tensorflow!
@@ -198,7 +189,6 @@ I took this course after taking deep learning ai CNN course. I found this course
 It take some time to change the code and run examples from this course with TensorFlow 2.0 locally on my computer. Today TF 2.0 is state of the art and required in practice. Please rewrite code for TensorFlow 2.0
 More or less the course takes on Tensorflow's implementation of Keras rather than Tensorflow native env. It also only focuses on computer vision domain. Kind of misleading course title.
 Learn a lot of tensorflow basics, which is good. However, the course is very short and easy to complete, and I cannot apply the neural network learned in this course to actual work
-Ce cours balaye les fonctions de bases de la librairie d'abstraction Keras et permet de construire rapidement des réseaux de neurones complexes.
 When each layer visualization was taught, I didnt get that part nor in the program. Else its a great starter course
 It's relatively simple course if you've already finished Andrew Ng's deep learning specialization
 Great introductory course to learn the application of TensorFlow with Keras.
@@ -251,7 +241,6 @@ It's good enough for beginners, but I have to say it's still a little bit easy. 
 This course offers a very solid introduction in tensorflow for CNN applications. One comment I had is that the quizzes did not test for deep understanding at all. They were more things you'd remember literally from the text and explanation, rather than new questions that can only be answered with some deeper understanding.
 It's really a good course for hands-on in Deep learning using TensorFlow and Keras.It's going to be great fun with very short videos and getting more focus on practical aspects.This course is very precise and I really liked it and recommend for everyone who have their interest in AI, Machine Learning, and Deep Learning.
 With this course I learned new things on tensorflow. However, It feels like it is very very simple introduction to tensorflow. After finishing Deep Learning Specialization I thought that this Specialization will be complementary. I'm disappointed a little bit on the first course. I believe other courses will be better!
-Me gustó el curso, muy explicativo y lleno de recursos, aunque solo rasca la superficial. Hay muchas cosas mas por aprender. Los foros no reciben respuesta tan rápida. Si bien es cierto google Colab, ayuda a esta tareas, cuando se quiere pasar al computadora personal se complica por versiones o librerías faltantes.
 Completed course - most issues I ran into involved submission related issues as I was running everything alongside on my machine and was successful. Part 4 also seems a little lacking in the middle for hands on time compared to the other sections, but I was able to figure it out by taking notes during the videos.
 Very, very basic course for absolute beginners. It makes sure you know enough to build and train models for simple image recognition tasks. 4 weeks is a crazy long period for it, though. I finished it in 2.5 days (I have previous exposure though), but even a beginner should be able to do it in 1 week.
 It is quite a good course. But you need to finish the additional materials along the way to really understand the purpose of parameters in different sequential layers. But that's only if have never studied DL. If you have, then like me you can rather focus on the computational features of tensorflow.
@@ -297,7 +286,6 @@ Videos are fantastic, especially when visually illustrates max pooling and convo
 Very well organized. Good speakers. Content is comprehensive for a Introductory Course. A little more explanation on Validation versus Testing and on some of the evaluation functions would be helpful.
 First of all, thank you coursera for this such a great learning experience, autograder was a bit problematic, but if you want to learn basics of tensorflow i think this course is great way to start.
 An excellent introduction to Neural Networks! At times, the exercises were quite easy. If the instructor could give more external links to datasets, it would allow students to try it themselves.
-Una muy buena introducción con bastantes ejemplos y notebooks para experimentar por tu cuenta. He echado en falta tal vez algo mas de dificultad, de profundidad, pero para empezar es perfecto!
 Love the material, Laurence is a great instructor. There were some strange technical issues with the exercises that should be improved, but other than that I've learned a lot! Thanks guys :)
 The course should included some information of how the hyper parameters of different models should be tuned and what are their effects.Apart of that, the course was very comprehensive !! :)
 Great intro to TensorFlow and Deep Learning for the typical software engineer. Week 4 could have been a bit more detailed - Week 4 tries to cover too many stuff.  Week 5 recommended :)
@@ -358,7 +346,6 @@ The content was really good and precise yet vague enough to engage your mind.Alt
 Loved it a lot nice course give intro to deep learning  ,ai ,ml using tensorflow Most loved part is the assignment and completing it
 This whole course is just awesome in every prospective but little improvement needed in course content like increasing more details
 very good course for the starters to acquire the basic use of tf. It is better to add course to show how to save the model. Thanks!
-Muy rápido, introductorio, ojala pusieran mas información sobre las opciones de configuración solo por ello no le doy 5 estrellas.
 you will know the implementation of neural networks with keras u will get practiced with the codes.Its preety easy amazing helpful
 I less start because being pretty green with Neural Networks, there were some concepts that I did not understand right off the bat
 I appreciated the bite-size introduction of the concepts involved. It has given me the confidence to handle more complex concepts.
@@ -497,7 +484,6 @@ More clear explanation on tensorflow modules would be helpful
 some assignments can be improved so it's easier to be graded.
 Hope to add an explanation for  eager execution & subclassing
 This first course is a short one, indeed an introduction one.
-Muy claras las explicaciones de parte del profesor Andrew Ng
 Nice introduction to using TF with some very simple examples
 The instructor could have explained some of the code better.
 This is a very good MOOC to start with tensorflow learning.
@@ -508,7 +494,6 @@ I would be great if there will be more practical examples
 Good course, though the material is very basic in nature.
 More practical marked exercises and exams should be good.
 It's really amazing and easy to understand for begginers
-significant advancement from previous coursesa practicum
 Good intro - perhaps a bit simplistic on the exercises.
 The quiz could be better. The overall content was good.
 Pretty good course for getting started with TensorFlow
@@ -527,7 +512,6 @@ amazing course for beginners. Great way to start
 Very practical and hands-on experience material!
 I guess, it could be much more than only 4 weeks
 A very commendable course by Professor Moroney.
-这门课程帮助我对TensorFlow和深度学习有了一个基本的概念，但是部分视频还没有中文字幕
 There are a lot of submission-related problems
 It was very repetitive. However, i enjoyed it.
 Really Interesting and an Easy to Go Course!!!
@@ -542,46 +526,33 @@ it is helpful but a little bit superficial
 Very good, but I would expect a bit more.
 A lot of code is not explained properly.
 Beginner rather than Intermediate level.
-Necesita más notebooks con calificación.
 should have add NLP also in this course
 I like the flow of course and material
 Elementary introduction to Tensorflow
 Great experience and nicely explained
-系统的初步了解了Tensorflow2.0版本，理解很深刻，讲解很好！！
 Simple course for beginners ! Good.
 Good, but expect more informative.
 Syntax should of been taught more
 What a beginning to TensorFlow!!
 A good experience as a beginner
-Increase more question in Quiz
 Very good course on basic CNN.
 It was pretty basic but good.
 it was very good for beginer
 Helpful but, Content is less
-Very helpful for beginners.
 good content for a beginner
 it's really an introduction
 Good Course for beginners.
 Great course for newbies !
-Week 4 assignment is buggy
 excercises could be better
-课程内容十分有用且清晰，只是内容较少、习题过于简单了
 Good introductory course.
 a little bit too simple
 Great Course, loved it
-good for tf begginner
 basic and interesting
-Improve Lab classes
 Pretty basic stuff.
-Not for beginners!
 It was a bit tough
 Great start of AI.
-fun & cool & sexy
-goodforbeginners
 Loved it...
 Very Easy.
-like it
-入门难度
 Good intro course, but google colab assignments need to be improved. And submitting a jupyter notebook was much more easier, why would I want to login to my google account to be a part of this course?
 The course demystified simple computer vision classification use-cases by leveraging TensorFlow. This is a great follow-on course to Andrew Ng's 11-week Stanford Machine Learning course.
 Great course to get started with building Convolutional Neural Networks in Keras for building Image Classifiers. This is probably the best way to get beginners into Deep Learning for Computer Vision.
@@ -602,7 +573,6 @@ I completed the 5 course Deep Learning Specialization before and was a bit unsur
 1 week into the course so far and I really, really enjoy this course. Been following Laurence for quite a long time now and more than happy to see two of the coolest guys in AI doing such an amazing work. Although I have exams I am not missing a day watching at least 1-2 videos of them :) 100% recommended!
 it is a very excellent course introducing some basic knowledge about TensorFlow , teaching students how to use TensorFlow to deal with some AI programs. This course provides students with access to try their effort to use TensorFlow, and obtain more understanding about this power python library.
 This is extremely gentle intro to TensorFlow. Additionally the course provides a lot of literature including free version of Deep Learning Specialization & Machine Learning course on YT. You can easily finish it in one week, it is not time consuming at all.
-Es un excelente curso para todo aquel que este interesado en las ciencias de datos y la inteligencia artificial ya que Tensorflow y Keras son herrameintas que acortan mucho el camino de desarrollo.
 It was great course to start hands-on in TensorFlow and convolution neural networks. I especially liked how the convolution feature viewing tool was used to see what the networks are learning.
 Simply Amazing Laurence! Please keep me posted on more content!!!! this is the best person to learn from he just has a way that clicks for me I hope anyone else that is taking this course!!!!
 As an introductory course, it filled my expectations. Short, focused videos, along with detailed notebooks. Can't wait to head on to the next course
@@ -646,7 +616,6 @@ The course material and presentation is excellent.  However some of the course t
 First of all, the course was amazing! I found it great for the following reasons:- Laurence Moroney (Instructor) was very professional and clear while delivering the knowledge- The introductions by Andrew NG were really nice- Easy to understand codes and understanding of thr underlying principles- Varied topics such as CNN, NLP & Time Series- Very insightful by providing expert opinions about different ways of model optimizationI really enjoyed the course and I thank the instructor for the same :)
 Coursera and of course the instructors have really got this online teaching down to a science allowing students to cover often quite complex topics in an easy to digest and efficient manner. Even though it does skim the surface it does give a very good 10,000 foot view of the objectives and capabilities of the topic and technologies. To get same perspective on my own would be a lot of googling, trial and error, without the benefit of knowing 100% that I was covering the appropriate knowledge.
 Introductory level course. Perhaps the best feature of this course is that you start to learn by doing right from week-1. The instructor doesn't spend time explaining every line one by one with every detail. That leaves you to figure out a few things on your own due to which you're bound to remember these details. Notebooks are also much better than the deep learning specilaisation. I often found myself going through the tensorflow documentation - learning and exploring as I did. Fun course!
-Cours intéressant, clair et facile à comprendre. L'enseignant est très sympathique et semble passionné. C'est également facile à comprendre même pour un non english native speaker.J'ai déjà suivit les cours d'Andrew Ng et comme de nombreuses interview d'Andrew et des références sont données dans ce cours cela les rends très complémentaire.On a qu'une envie c'est de continuer pour en prendre plus sur ce sujet passionnant.Je suis très satisfait de suivre cette spécialisationGilles Pierre
 Perfect Course, It tells you how to implement basic neural network to deep cnn. Week 1 : Intro to tensorflow/kerasWeek 2: building dense neural network; 2 applications fashion mnist and digit mnistweek 3: building cnn, improving accuracy on week 2 applicationsweek 4: using image generator to auto label the images, horse/human classifier and happy/sad classifierOverall a perfect course to begin with, though i would advice to have basic understanding of neural network and its working.
 Although the concepts can be a bit technical, the explanations are very accessible. You learn how to implement ideas instantly, and by the end of the course, you are very well suited to experiment on your own. I'll be continuing the specialization. This, together with the deep learning specialization (which I have already taken) will I believe fully prepare anyone to work or do basic research in this field (at a fraction of the cost of a CS or AI undergraduate degree). Fantastic!
 Very well structured course to get started with Deep Learning using TensorFlow. Laurence explains the flow of the programs and key concepts in a clear manner, which made it easy for a beginner like me to get familiar with the material quickly. Working through the problems without getting stuck in the theory was a fun way to see the possibilities of AI first hand and learn by doing. Highly recommend this course for any developers or programmers who want to explore deep learning.
@@ -705,9 +674,7 @@ as a beginner i have no idea on how to implement the CNN even though i know the 
 It was short and crisp, if assignments were bit more challenging it would have been a great learning. All things to the point no hour long videos to bore us. It is recommended for beginners. For mid to expert level u can complete the whole course in 4 hours with all the reading and assignment.
 This course is well structured with very good instructional delivery. The vivid explanations and the discussion forum does not let you feel that you are alone. There are answers to almost all our doubts even before we post them in the forum. Looking forward for the next course in this series.
 This course was really beneficial for me. It helped me understand the concepts in more depth. The mentor helped a lot by creating notebooks of algorithms being explained. This truly helped in visualizing the features or what really is happening behind the training of the model. Thanks a lot.
-Muy buen curso, aprenderás como implementar una red neuronal desde lo más básico. Recomiendo comenzar este curso después de ver los primeros cursos de la especialización en Machine Learning de deeplearning.ia, así se comprenderán mejor lo que se está haciendo y será muy trabajable el curso.
 I loved the way the modules are structured in this course: First, the instructor explains to you, then you can play with the code after you need to create the code and in the end, they allow you to use the Colab and almost redo the same. By the end of the course, you master the material :)
-Quise poner mi review en inglés, pero creo que servirá más para aquellos que hablen español. Es un curso simplemente impresionante, soy principiante en usar TensorFlow y es una muy buena manera de introducirnos en este fascinante mundo. Gracias a la UNAM que está financiando estos cursos.
 A rather basic course to introduce you to Tensorflow. The exercises are rather difficult due to the lack of information provided. However, the course is informational, and those who have completed the Deep Learning Specialization previously should have no trouble completing this course.
 Overall , an amazing course , and possibly a fruitful use of my time. The course was smaller than expected , but it opened my eyes to a new method of learning - Learning my trying things out - so instead of getting glued to the lecture videos , I spent most of my time trying things out
 I always thought Tensorflow to be a framework that had so many things that needed to be taken care of, actually it is quite the opposite. Today I came to know why it is known as a framework and not a library. Thankful to the team who created. Loved every-bit of this fast paced course.
@@ -811,7 +778,6 @@ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and De
 The series are a wonderful resources to learn TernsoFlow, Keras, and many other essential skills/knowledge to improve myself! Appreciate Mr. Laurence and Mr. Andrew for your tremendous effort to make them available for us!
 Perfect course to start with if you are a beginner candidate in Deep learning, Loved the discussion with Andrew NG at the beginning of each weekly topic, of course, he is an inspiration for many budding AI practitioners.
 An excellent course by Laurence Moroney on the basics of TensorFlow for training models ina short and sweet manner with good enough number of practical exercises to help us get acquainted with the methodology and syntax.
-Um curso muito bom para um aprendizado inicial de Deep Learning e TensorFlow de maneira bem introdutória. Você passa a ambientar-se no cenário do Jupyter Notebook e o Google Colab, ferramentas muito úteis ao contexto.
 This was good course i enjoy this course learning tensorflow and python along with jupyter notebook and also google colab i'm seeing next course which recommended  to improve my  knowledge with tensorflow and working.
 Loved the course, everything was taught in a very simplified way. Would definitely recommmend this course for those who are entering the field of ML and want an online course for gaining proper knowledge on TensorFlow
 Excellent¡ I'm very happy¡. I believe that is a course very accessible and friendly. It's was a clear course, I learned a lot and I feel very safe, because the teachers know this topics very well.Thank you, very much¡
@@ -870,7 +836,6 @@ It is my first course on Machine Learning and Deep Learning, it was amazing and 
 It's an excellent course to kick off the coding of machine learning algorithms and mainly enhances the better understanding of Convolutions by visualising the effect of it to a given input.
 Amazing course to get started with TensorFlow and Keras, if you want to have a better understanding of what you are actually doing I would suggest taking deeplearning specialization first!!
 one of the best courses till now i have completed for ML and understanding of topics like CNN, Callback great work. I would just like to thank  Laurence Moroney for this wonder full course
-Очень интересно и доходчиво. Рассказано (и показано) довольно понятно о столь сложных вещах и понятиях. И от этого они стали гораздо проще. Получил море информации и удовольствия. Спасибо.
 After taking the Machine Learning and the Deep Learning courses, this was a natural continuation in order to apply what was already learnt. Very smooth and pleasant intro into tensorflow.
 I learnt quite a bit about tensorflow and using convolutions to extract features. Then, understood how to input them into neural networks to make prediction algorithms much more accurate.
 This course gradually builds your understanding which lays the foundations for DNN. Easy, short and simple. Anyone can walk through this course without having a basic understanding of NN.
@@ -904,7 +869,6 @@ The experience was awesome. The course was taught in an easy, understandable man
 Very elegant introduction to tensorflow with high level APIs such as tf.keras, totally loved it. This course was very good for anyone who is just starting to code in tensorflow
 Perfect course for starting Tensorflow. Everything is explained in a very intuitive and easy manner and the course assessments and the collab books are very good for learning.
 This was a quicker refresher course after Andrew Ng's Deep learning course. In a compact form it tells you all the moving pieces that you must know about Tensorflow and Keras.
-Es un curso perfecto para introducirse en Deep Learning y Tensorflow. Todos los conceptos se explican en detalle y de forma gráfica, lo que es de mucha ayuda para entenderlos.
 A very nice Introductory course, and a very well explained lectures. The teaching is very interactive and you can complete the course in a short and equipped with many skills.
 The teaching style of Laurence Moroney will make help you understand Deep learning easily and effectively. One of the best courses in machine learning. I highly recommend it.
 This course is a must to start exploring the amazing field of A.I. The instructor does an amazing job at teaching the core tools needed to start building A.I projects. Thanks
@@ -935,7 +899,6 @@ Excellent introduction to Tensorflow. Links to resources for further reading and
 Really liked how coding ConvNets was taught and really enjoyed the resources provided and really had the freedom to experiment a lot with different hyper-parameters.
 I really appreciate how this course has demystified neural networks. I'm really excited to continue learning and eventually applying these techniques in my own work.
 The course is structured so that one can walk through step by step and learn at one's own pace. Very interesting and encouraging to do more. Thanks to the lecturers.
-Excelente curso para saber como funciona TensorFlow, bastante recomendable. Me fue de gran ayuda haber tomado los cursos anteriores de Andrew NG sobre Deep Learning.
 This is simple, clean and nice intro to the topic! I recommend to have a little bit of Python background training before jumping into the course. Thank you Lawrence!
 It was great to refresh my knowledge on image recognition plus learn about tensorflow classes such as ImageDataGenerator. Thanks for putting together a great course!
 Very clear and helpful course. Probably best suited for people who are already programmers and have theoretical knowledge of neural networks but want to learn keras.
@@ -974,7 +937,6 @@ Excellent Course for everyone especially beginners. A lots of practical and usef
 This course has been extremely helpful in learning Machine learning, deep learning and Artificial Intelligence on a programmer's level. Thank you, coursera
 Good Clarity and Gives great introduction into tensorflow + computer vision. Would recommend for people who are starting out in their datascience journey.
 This coursera is very great! I learned how to build a neural network, how to improve the accuracy of the network through convolution. Thank you very much!
-Excelente metodología!. Lo recomiendo para personas que ya tengan conocimientos básicos de machine learning porque el curso va directamente a la práctica.
 This is a fantastic course for the beginners! I'd like to recommend everyone to start learning tensorflow with this course. Thank you Andrew and Laurence!
 The best course to get yourself started in TensorFlow. It is my first time with Python and TensorFlow, but I don't have any trouble following this course.
 Really learned a lot, thank you! It was explained in such an easy way to understand. I started not knowing how to use Tensorflow and now know the basics.
@@ -989,12 +951,10 @@ Excellent course. Very good for learning basics of TensorFlow to use building ne
 This is absolutelly great into to Tensorflow library. It start from very simply examples and gradualry dive deeper  into exiting  world of Deep Learning
 Very  interesting course, better to understand and practice together with Deep Learning specialization, especially Convolutional Neural Networks course
 In simple words, "Awesome...". Thanks, Andrew NG sir and Laurence Moroney for providing this course, moving forward to earn the specialization program.
-Me parece un curso introductorio completo y bien explicado, entendí cada tema, bien en el video o en el cuaderno, creo que el curso logra su objetivo.
 Its been fun, I have enjoyed learning computer vision and the modern day neural networks, can't wait to use my new knowledge in my upcoming endevours.
 I like these courses because teaching me to improve my skills using TensorFlow with CNN. In other hands I learning from real cases to apply our model.
 It was really fun taking this course. I learned a lot about how to do basic machine learning, using convolution, and classifying images. Thanks a lot!
 Thank You so much for this course. I could practically do all the stuff that I have learnt in theory! Looking forward to more of this in next course.
-Muy útil para iniciarse, en el caso de tener conocimientos en el área es muy bueno para repasar lo básico de la framework y algunos conceptos claves.
 crisp clear and beautifully explained , congratulations google you have successfully hooked a data scientist to tensorflow for the rest of his life !
 Practical learning materials rather than theoretical stuff. I find it very good because it wasn't boring because I was required to code it by myself.
 This course was really helpful in understanding the basic concepts of machine learning and using TensorFlow, building convolutional neural networks.
@@ -1011,7 +971,6 @@ Great hands-on approach to tensorflow. Very insightful course if you have studie
 The Video Lecturing Taken by the Professor is short and compressed which makes the learner interested to study more and a sense of accomplishment.
 This course is really helped me to understand machine learning, the explanation was very detailed, and it was very helpful to understand the codes
 This course provides the imprtant fundamentals to get started with the TensorFlow which will very handful in understanding of complex topics of NN
-L'essentiel pour se mettre à niveau avec en plus des cas pratiques, conseils que l'on ne trouve pas dans les autres supports de cours généraliste.
 Videos are really informative, Only one complaint I have, It is quite hard to read the text in collab.  Even with the best quality video selected.
 It's a very nice course. Everything is well explained. It really helps me to understand the basics of convolution network from top to the bottom.
 The course was very simple to follow and made complex concept so easy to learn, as well as hands on exercise was great. thanks for the great work
@@ -1057,7 +1016,6 @@ This course is very helpful if you are so very new to Machine learning. It gave 
 A concise but rich introduction to Neural Networks and Tensorflow, that was easy to follow, engaging and informative. Well worth the time.
 An excellent introduction to using TensorFlow with Keras to build super- effective models with an extremely small number of lines of code.
 Great course, was easy to follow through and was really interesting to learn the concepts so quickly and apply them to real-world images!
-Muy buen curso, tiene elementos técnicos fáciles de implementar los cuales ayudan a entender la lógica matemática detrás de Deep Learning
 Very Good Introdution to the beginners! And well-designed curriculum with hands-on practices! Cannot wait to move on to the next course!
 This course  was overly helpful...almost all the buzz words I've heard and read about neural networks now seems to be coming together...
 this course is absolutely amazing. I started from the very bottom, with almost zero knowledge, but can see positive effects within days.
@@ -1074,7 +1032,6 @@ It is a near perfect introduction to AI and is structured in a way that not much
 Great refresher for individuals who have already taken deeplearning.ai courses! Lots of cool techniques for inline analysis of images!
 Very nice course with a very pleasant instructor, Laurence. His explanations are very clear and he has a very nice voice to listen to.
 awesome course, have gone through hundreds of random stuff on internet regarding tensorflow but I believe this is the best among all .
-一门相当不错的tensorflow入门课程，我喜欢课程设计的方式，这门课没有花大量的时间去阐述CNN的原理，而是直接以一个个项目去带领大家熟悉tensorflow这项工具，我必须承认在课程之余去学习CNN的原理是必要的，课程设计者大胆的取消了这些内容，让课程更为简化。
 Great introduction to Tensorflow. So glad that you're using keras, which makes constructing neural networks so much faster and easier.
 Very nicely done, thank you. The course gave me very practical basics on how to use Keras API from Tensorflow for classifying images.
 Excellent introduction to TF with python, I was afraid it were more focus on theory but balance between theory and practice is great.
@@ -1152,7 +1109,6 @@ I want to thank everyone involved in create this course. It is really well desig
 it's not so easy to pass the exercises, discussion forum will help you. I appreciate this course and, yes, I enjoyed it.
 Great course to hit the ground running with A.I and learn the very beginnings of the material. Very interesting and fun!
 Amazing course -especially the hands-on coding  part with challenging assignments - Thank you Dr.Morooney and Dr. Andrew
-Хороший курс. Я на конец то понял сверточные нейронные сети. С генераторами было не совсем все понятно. Но сдал. Освоил.
 A great hands on learning experience. Definitely recommend it if you want to practically see the magic of CNN in action!
 A very intuitive session on using TensorFlow for computer vision applications, with good utilization of the foundations.
 before doing this i did machine learning by andrews ng , this course is very good for those who want to learn tensorflow
@@ -1183,7 +1139,6 @@ This course provides good hands-on practice with TensorFlow with good tutorial e
 If a person has learned the basics of neural networks and the working of CNN then this course will teach them a lot.
 this course really helped thanks a lot coursera for these courses and giving us an opportunity to learn and explore!
 One of the best courses I have ever taken online. Looking forward to joining deep learning specialization programme.
-Genial te deja ir a tu ritmo, te deja involucrarte de una manera muy didáctica en el mundo de las redes neuronales.
 Thank you for a very simple way to introduce Machine Learning using Tensorflow. Will definitely recommend to peers.
 best course out there if you want to get started with tensorflow. every ML student should take this specialization.
 Nice course for beginner. Very well explained and address the core and key ideas of Tensorflow. Thank you so much!!
@@ -1223,12 +1178,10 @@ I love it. Really hands-on and practical. Would recommend this for those wanting
 It is a wonderful course to get you started with the basics of tensorflow, and actually do something hands-on.
 Great course, very practical. I recommend it to everyone who plan to develop their own models using tensorflow
 Very good course as an introduction to Tensorflow. Looking forward to start next course in the specialization.
-Ótimo curso, os aspectos práticos são incríveis, principalmente se você já possuir algum conhecimento teórico.
 Really fun course with short informative videos. I really enjoyed playing with Google Colab notebooks. Thanks!
 The course material and exercise problems are carefully designed and help enhance the understanding of topics.
 Excellent Introduction illustrating how easy it is to start building machine learning and deep learning model.
 Marvelous Experience Learning From Such A Great Teacher accompanied With the Co-Founder Of Coursera Himself!!
-Agradeço a oportunidade de poder aprender com este maravilhoso curso, que nos mostra como é útil o TensorFlow
 Very nice and easy course for python advance beginners to learn a very important application of the language.
 I really love those short videos where important things are compacted and explained so really well. Thank you
 I like the way all the code is systematically commented and a lot of things are simplified for the beginners.
@@ -1351,7 +1304,6 @@ Great course detailed and emphasize on code part is exceptionally well explained
 It's a great beginner course for those who are not familiar with Tensor Flow or Deep Learning
 Very nice course. Nicely arranged in small small parts. Excellent hands on practice excercise
 Very great course, all clearly explained with a bunch of hands-on projects, very recommended!
-Es un gran curso para aprender los principios de la AI tocando código desde el primer momento
 Excellent course really good, its complementing really well with the youtube videos of Andrew
 Super great hands-on course that allow you to go an directly apply to other projects! Thanks!
 Very good introduction course. Quite understandable even if never work before with Tensorflow
@@ -1405,15 +1357,12 @@ really great course and content, by getting straight to the topic and well expla
 Laurence makes it super easy to understand all the concepts in the course. Thanks a lot!
 very good course and attractive playground and such a rich reference to read and explore
 Nice and educational. I got some good practice and had fun learning the basics of Keras.
-Excellent course! Great examples and code examples! Laurence is an excellent instructor!
 It is great! It is very clear, I have get a basic try of tensorflow. I love this course.
-Excelente introducción a TensorFlow. Profesores excelentes y mucha información valiosa!
 Excellent course! Very well explained and to the point.Great resources too.Lots of fun!
 If you know Deep Learning and just want to learn Tensorflow, THIS IS THE BEST COURSE :)
 Fast paced and dense course which helps quick learning of important tools and concepts.
 A good starter course for anyone interested in using deep learning for Computer vision.
 The most important thing for me in this course is introduction to Google Colabs. Thanks
-Très bonne introduction à TensorFlow, à l'intelligence artificielle et au Deep Learning
 Well structured course to start with TensorFlow no matter what is your expertise level.
 this course was very helpful and very understandable to anyone who is new to this topic
 Great Course- Made it very accessible to everyone to learn the Deep Learning. Thank you
@@ -1436,7 +1385,6 @@ This is the course for learning TensorFlow with code and it does its job pretty 
 Even still a basic introdcution, video and exercises are really effective. Great job.
 Excellent course.I would like to thank Laurence Sirand a Special thanks to Andrew Sir
 Very good introductory practical course with interesting examples. I highly recommend
-Un Excelente curso introductorio a Redes Neuronales, y especificamente el uso de CNN!
 Content and steps are intuitive and easy to follow! Totally in love with this module!
 It was quite engaging and I was completely hooked to the content right from the start
 A nice and soft introduction to Tensorflow. Never imagined using it would be so easy.
@@ -1518,7 +1466,6 @@ this course is really very helpful and the study resources are really worthful
 Very nice introduction to Deep Learning with Keras. I learned some new things.
 Nice way to describe the content of this course which is helpful to any person
 Excellent Tutorials and really helped me to learn TensorFlow and Deep Learning
-Un curso practico, interesante y muy divertido para realizar recomendado 100%
 Really enjoyed the integrated examples. The instructors know their stuff too!
 This course is simply awesome. It boosts your confidence. Thank you courseera
 A very well defined course for any individual who is a beginner to TensorFlow
@@ -1553,7 +1500,6 @@ deep learning code could be so simple,it's amazing and exciting,thanks a lot
 The course gives me very useful content and helps me to start deep learning.
 A not too deep but entertaining and interesting introduction into TensorFlow
 It could be better if we get some hands-on for the pre-processing part too!
-Ce cours est très intéressant pour nous. Merci mes profs. pour les efforts.
 It was really good learning the course through videos n well explanations..
 Thank for creating this course. It really useful for my University Project.
 Excelent course to get on track with Tensorflow and learn about DNNs & CNNs
@@ -1658,9 +1604,7 @@ Great course...hands on and practical use cases. Highly recommend.
 Learned the basics got some useful resources for further learning.
 Great introduction to the basics of TensorFlow for a total noobie!
 Amazing Course. Like the name of the specialization -> IN PRACTICE
-Muy recomendable, muy didáctico y con buenos ejercicios prácticos.
 Yey!  Much much easier to understand than other courses out there.
-Buen curso teórico-práctico para empezar y comprender este mundo.
 Quick but very informative. Going to the second course right now!
 Amazing Course for Beginners.Loved the way the course was taught.
 This course was awesomeexcept some grading problems in assignment
@@ -1801,7 +1745,6 @@ great course cover the basics that we always over look.
 This course is awesome to explain tensorflow from basic
 it was really great, tough me a lot  about tensorflow.
 Nice teaching method, Language fluency and explanation
-O curso é muito bom. Deeplearning.ai está de parabens.
 A good way to start coding for deep learning!!!!!!!!!!
 Hands-on course. I really liked the teaching approach.
 Very nice - thank you! Liked especially the exercises.
@@ -1829,7 +1772,6 @@ One of the best courses to get start with TensorFlow.
 Nice high level introduction to keras and tensorflow.
 Nice introduction to TensorFlow and its capabilities.
 Great job! The course material was as clear as water.
-Me encanta que propongan ejemplos y pueda practicar.
 This is a introductory amazing course to TensorFlow!
 This is a basic course that is likely for beginners.
 Much easier to understand and to learn how it works.
@@ -1848,7 +1790,6 @@ Really good for beginners to begin with Tensorflow.
 Nice course. Some notebooks should be fixed though.
 Amazing course. Easy to learn. Recommended for all.
 Its a great course with good explanation of basics.
-Tiene bugs :C, salvo eso el contenido es muy bueno!
 Little Advance level which i really needed. Thanks!
 Useful to accelerate your learning in Deep Learning
 Great course ! Very good examples and explainations
@@ -1860,7 +1801,6 @@ More towards the practical approach of Tensorflow.
 exercises in this course helps a lot test learning
 Very good teaching, easy to understand and follow.
 Very cool small Introduction course in Tensorflow.
-Genial. Se aprende mucho, me gusta la metodología.
 The videos are short, which keeps us more engaged.
 Excellent course to learn the basics of tensorflow
 Easy to follow; Simple and well organised examples
@@ -1872,7 +1812,6 @@ very easy to understood explanation and technique.
 Excellent introductory course on using TensorFlow.
 Well explained with a lot of very useful material!
 Very Informative. Good for Beginners to Tensorflow
-以项目为导向的课程，快速上手TensorFlow。第一课比较简单，希望后续的课程能够传授更多知识。
 It's a good course for introducing in TensorFlow.
 Very useful! Really grateful, I took this course.
 Insightful series. Learned lots of basic concepts
@@ -1930,13 +1869,11 @@ A good introduction to both ML and TensorFlow
 But we can still have a sequel to this course
 Thank you very much! Your review is very fast
 very good and practical hands-on really helps
-아주 기본적이면서도 쉽게 놓칠수 있는 부분에 있어 채워나갈 수 있는 강의였습니다.
 Totally loved every second of it. Thank you !
 A practical way to study Tensorflow and Keras
 Excellent practical application of tensorflow
 This course helped me to dive into tensorflow
 What a nice course! Can't wait to learn next.
-genial,  con ejemplos sencillos y practicos.
 Great Introduction of TenserFlow from basics
 good for beginners to learn TensorFlow... :)
 Very nice overview of the tensorflow basics.
@@ -1948,7 +1885,6 @@ Amazing content for Deep learning beginners.
 very good, and very comprehensive. Thank you
 VERY WELL EXPLAINED THANKS TO THE INSTRUCTOR
 very simple for me to learn about TensorFlow
-VERY GOOD COURSE FOR BEGINNER AND MID LEVELS
 Good introduction with lot of practical tips
 Amazing practical view of the Deep Learning!
 Wow, amazing, true technical hands-on course
@@ -1976,7 +1912,6 @@ The course is quite basic and informative.
 Great Course for beginners to get started.
 One of the beautiful course to begin with.
 Best Course For Learning TensorFlow !!!!!!
-Vídeos super diretos e fáceis de entender
 Really enjoyed the course to the fullest.
 Excellent method of teaching! Very simple
 Easy to follow. The explanation is clear.
@@ -1989,7 +1924,6 @@ A very good introduction to AI, ML and DL
 Very good high-level introduction course.
 Well designed course. Best for beginners.
 This was great!! Learned and practiced ML
-すばらしい！！Andrew先生に次ぐ、分かりやすさです！ありがとうございました！
 Structured, helpful, friendly, awesome!!
 Good Start for understanding Tensor FLow
 The topics are well explained! Loved it!
@@ -2001,12 +1935,9 @@ Good Course For understanding TensorFlow
 I got hand's on Experience, good course.
 Excellent one ..specially for Tensorflow
 A good basic introduction to Tenserflow
-Muito prático e com excelente didática!
-차근차근 쉽게 잘 설명하는 동영상과 코드 및 주석이 도움이 되었습니다.
 Youre the best teacher!! great course !
 Very practical and to-the-point course.
 Very well explained, easy to understand
-我喜欢这门课程，它让我对整个tensorflow的开发流程有了一个清晰的理解！
 Great course with a great understanding
 Exceptionally taught and great examples
 Really good for a new one in Tensorflow
@@ -2016,7 +1947,6 @@ It was easy and I completed in one day.
 Awesome practical learning based course
 totallly amazing course i learned a lot
 Great way to get started with TF/Keras.
-Muito didático, parabéns aos envolvidos
 practical introduction to deep learning
 This course is amazing for new learner.
 Excellent course, i am waiting the next
@@ -2025,10 +1955,8 @@ It is a very good introductory course.
 Phenomenal introduction to Tensorflow.
 The hands on session is really helpful
 Good Course for beginners.............
-Es un curso muy cool, literal practice
 provides good information in clear way
 Very nice course from shallow to deep.
-Simple, complete and excellent course.
 Very good. Clear and very interesting.
 Good, fast face, cool and fun lecture!
 wILL RECOMMENDED THIS TO MY COLLEAGUES
@@ -2073,7 +2001,6 @@ Extremely helpful to understand CNN
 Nice Lecture and Detailed Materials
 Great content! Ideal for beginners!
 Great course! Very detailed design!
-A pretty good lesson for beginners!
 Basic, but really clear and useful.
 Excellent intro class to TensorFlow
 simplyExtraordinary...GOdblessyou!
@@ -2117,7 +2044,6 @@ Easy to understand, useful course
 Great introduction to Tensorflow.
 Short and to the point. Perfect.
 great introduction to Tensorflow
-excellent practical class on CNN
 the course is designed very well
 Thanks a lotIt is a great course
 It's amazing. Thank you so much!
@@ -2130,7 +2056,6 @@ Simple yet useful and efficient.
 easy and simple course to follow
 This is a really helpful course!
 Awesome content for starters!!!
-Excelente curso muy interesante
 Good introduction to tensorflow
 Excellent program on TensorFlow
 Want more from Laurence Moroney
@@ -2139,26 +2064,21 @@ Great course for every beginner
 great course. clearly explained
 Excellent coaching and guidance
 Awesome tutorial on TensorFlow!
-Muy buen comienzo a Tensor Flow
 Wonderful Course to begin with.
 It was a great course. Thanks!
 Very nice course. Recommended.
 It is very clear and engaging!
 Simple but very practical one.
 Awesome ! Totally understand !
-Good Course, Beginner Friendly
 easy to follow along and learn
 Perfect and easy to understand
 Concise and functional course.
-An excellent rapid jump start.
 notall concepts are 100% clear
 Excellent Introductory Course.
 best course, best instructors
 a very great starting program
 good way to start tensorflow.
-Excelent learning experiance!
 Great intro to Tensorflow ^_^
-excellent! you did a good job
 Great course. Easy to follow.
 A nice overview of tensorflow
 A good course for tensorflow!
@@ -2166,11 +2086,9 @@ Learned a lot as a beginner.
 Best Course on Deep Learning
 Nice Course! to get started.
 wonderful learning materials
-Nice for start for beginners
 Thanks for this great course
 good content and assignment.
 Great course! Great examples
-Nice CouseExcellent lectures
 Great introductory materials
 Awsm course must learn......
 Awesome, Really interesting!
@@ -2181,28 +2099,23 @@ My first sight of Tensorflow
 Much helpful for great start
 short videos. easy to follow
 Great course, Great examples
-Thank you. Bestest course!!
 Loved the hands-on approach
 awesome intro to tensorflow
 Nice according to hands on.
 very good learning platform
 Detailed Fundamental Course
-Un cours très bien expliqué
 This course is very clearly
 Good Course for beginners .
-A great start for beginners
 Very easy, but too helpful!
 Excelent!!! I really liked!
 Very good "hands on" course
 good material on tensorflow
 Great, simple and effective
-Buen curso, de menos a más
 Best course for Tensorflow
 Great course. Thanks a lot
 Good course for tensorflow
 Great Introduction course!
 hands on approach is goood
-excellent practical course
 Great course and teacher!!
 I really loved this course
 great intro to tensorflow
@@ -2210,8 +2123,6 @@ Nice Comprehensive course
 Nice and Good explanation
 Brilliant short and sweet
 great course.Learnt a lot
-amazing!!! thanks bangkit
-amazing curriculum design
 Good intro to Tensorflow.
 Very hands on programming
 Great introduction to TF!
@@ -2224,7 +2135,6 @@ great course and teacher
 good, easy to understood
 Good delivery of content
 it is very gooood course
-I love my certificate :)
 This Course Is the Best
 Really excellent course
 Awesome hands-on course
@@ -2238,7 +2148,6 @@ Good. I learned a lot.
 Good One ,Learnt a lot
 This is a Great course
 very fun and practical
-Excellent Basic Course
 GREAT JOURNEY to learn
 Perfect  for beginner!
 Good Hands-on examples
@@ -2254,8 +2163,6 @@ it's a amazing course
 this is great course!
 Extremely good course
 very clear ! thanks !
-Всё кратко и понятно
-A must for beginners
 Very amazing course!
 Perfect for Begineer
 very great ! Thanks!
@@ -2268,7 +2175,6 @@ Amazing as always :)
 it was a nice course
 Really Great Course
 Clear and Crisp !!!
-Clear understanding
 Good teaching skill
 learned many things
 Best In The World.
@@ -2284,70 +2190,35 @@ Very Great Course
 course is awsome!
 Must take course.
 Short and amazing
-Excellent course!
-Excellent Stuff !
 Course is owesome
 Good paced course
 it was just great
 Excellent thanks!
 Best for learning
-AMEI! EXCELENTE!
 Practical course
-Sehr guter Kurs!
 simple and good.
 Awesome Lectures
-Excellent intro!
-Really well done
 Best of the best
-i liked it alot.
 That was great.
-Excelent course
-Sensacional !!!
 Amazing Courses
-Very very good!
-아주 유익한 강의였습니다.
-Must do course
-Great lecture!
-Very good !!!!
 awesome simple
 good practices
-it was awesome
 Thank you all!
+great courses
 It is perfect
-Thank you!!!!
 this is good!
-TENSORFLOOOOW
 Great lesson!
-For beginners
 Good Class!!
 loved it : )
-awesome....|
 great intro!
 Super cool！
-...........
 Really Good
-实操性很强，由浅入深。
 It was fun!
 Pretty Cool
-buen inicio
 KerasFlow~~
 very cool!
-excellence
-practical!
-学到了很多的东西，赞
-nicecourse
 very cool
-best exp.
-Well made
 Cool one!
 Lovely!!!
 loving it
-Basics !!
-Beautiful
-fabulous
 Rigorous
-good!!!
-yeyeye
-Cute
-Gr8!
-gj

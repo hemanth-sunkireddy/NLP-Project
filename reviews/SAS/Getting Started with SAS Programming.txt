@@ -24,7 +24,6 @@ good course, many exercises.
 good more examples needed
 Good but very slow paced
 a good foundation of SAS
-Great tutor!!
 Great introduction to SAS, heavy focused on deep understanding of what's happening behind the scenes and how data is processed. The course offers a lot of interactive coding experience with SAS Studio platform through many activities and code-based quizes. Starting from zero level, but I think it may require a bit of understanding of some basic programming concepts as variables, loops, conditional statements, code compilation and execution.
 Thank you all the teachers for preparing all these courses and practice!What I admire:courses are short and one course for one topic at a time practice includes fundamental parts and advanced parts every step is set well before the courses such as "libname.sas" and output.sasSAS provides university edition for students whose organizations provide no access for them to legal SASCoursera offers me a chance or I wouldn't be able to join the course due to the shortage of financeand many so onWhat I have tried:besides the answers given, I've searched for more ways to solve questions. I've made and uploaded my own notes in markdown format on GitHub [https://github.com/karwamey/data-analysis-notes/tree/master/sas-notes]. Here I have to announce that the note is shared for spreading the knowledge and for no commercial use. If it is involved in infringement, please contact me [jasmine_xtmo@outlook.com] to delete it. I would apologize sincerely for it in a proper way so please don't charge me :)What I wish:some questions, which seem like "giveaway questions" such as "do you think...", can be changed into multiple-choice questions or other types of questions.there will be a final test for all the knowledge taught in courses such as a project or something else so that the knowledge can be applied comprehensively and organically.At the end of the course "Getting Started with SAS Programming", thank you very much for providing such a chance for me to consolidate my capacity of basic SAS programming!
 Great course for the learners who do not have any programming experience. This course is a hand holding techinique where anyone can learn the programming easily. The practise Exercise were great to brush up. I like the course very much. Thank You! Coursera. KEEP IT UP!.
@@ -67,19 +66,16 @@ Although it is a steep learning curve, the course was very well organized and ex
 The course is extremely well structured, has great inputs from the instructor; the activities and demos are comprehensive, and constantly made me excited about completing the course!
 A very well organized course . Each section contains the right amount of quiz/practice to really make even a beginner comfortable and able to handle and finish this course.
 It is a very well structured and highly informative course. A must go for beginners. A person with no background in any programming language can also learn a lot from this.
-Excelente opción para iniciar el manejo de SAS, las explicaciones son claras y los ejercicios buenísimos. A pesar de estar en inglés es de fácil comprensión y muy dinámico.
 This is a great course for learning the basics of SAS programming. They also explain how you can download the software for free, which is great! It is definitely worth it!
 The course is a good introductory course,I am actually able to get the general idea in more advanced SAS code having taken the Getting started with SAS programming course
 Brilliant course. The instructor explains with great clarity and covers all basic syntax and concepts involved in SAS programming. Would 100% recommend to beginners.
 I had used SAS previously, but years ago. This was useful for getting back into that head space, and there are some things I understand better now than ever before.
 A very basic and professional course for SAS beginners, paving an easy path to more advanced SAS programming. Lots of detailed instructions and elaborate exercises.
-Es increíble la verdad, la calidad del curso, los detalles, las respuestas en los foros y la énfasis en la practica para aprender y reforzar los contenidos dados.
 This is an excellent course to start the SAS with userfriendly technics, teaching style, course material, examples, all were marvelous. Thank you Team Coursera !!
 I like the learning structure with demo and exercises. It takes only few days to finish, friendly to beginner and  you will have great basic concepts about sas.
 This is very good basic SAS course that is perfect for beginner and even those who have experience with SAS programming but feel lack of solid foundation.
 I have learned  how to explore ,read and export and preparing for result as well as  to produce a sas table and more interesting SQl procedure.Thank you!
 Very informative comprehensive course to get started on learning SAS. I loved the interactive learning and the pace of the course. Thanks very much :)
-Justo lo que esperaba, se vieron las bases de SAS y cómo generar reportes útiles y con buen formato, así cómo las bases para generar gráficas
 Well prepared and simple to understand. Thanks for all the practice exercises. It really helped reinforce understanding of the language.
 I loved the course and the structure and I got good hands on practice in sas using the activities and practice sessions in the course.
 Topics in the course was explained in a step by step manner with lots of demos that helped me to understand those concepts. Thank you!
@@ -94,7 +90,6 @@ Excellent course. Brilliant teaching. Very responsive assistance on groups regar
 The course structure , the exercises the support forum, everything is excellent. The best online course  I have ever taken
 This course provides very detailed learning progress and resources. I extremely recommend this course for SAS beginners!
 well organized study materials and easy to follow. More importantly, the staff are very helpful and respond very fast.
-Não tenho palavras por estar tão feliz com este progresso. O curso é muito bom e não tem como não aprender. Perfeito!
 Loved the course! Loved the actual hands on practice problems to do throughout the course. Cant wait to learn more!
 The course was thorough with hands-on assignments. It helped me understand the functioning of SAS with very ease.
 This is the best course I have ever done. It gives much knowledge to understand the basics of SAS Programming.
@@ -104,7 +99,6 @@ This is great! Easy to follow and understand. The instructor has a nice serene v
 This course was an eye-opener on a new world for me, Thank you for your great efforts to share knowledge.
 As a beginner, it is easy for me to understand the lessons and the learning materials are really helpful
 Excellent introduction to SAS.  Many thanks to Coursera and SAS for all the course content and software.
-Increíble el manejo del tema y lo prácticos que resultan los ejercicios, muy dinámico para ser virtual!
 Very detailed course materials, a great course for SAS beinners, really help me a lot in learning SAS.
 This is great course to understand the SAS programing language. You can learn lots of usefull things.
 It's a useful course for students who want to have basic knowledge and programming skills about SAS!
@@ -142,10 +136,8 @@ I totally recommend the course. Take it if you want to learn more about SAS.
 i really recommand this cours for the beginners ... it's really good <3 tnx
 Excellent Course at a fair pace for someone without programming experience.
 Fantastic course that allowed me to use SAS at work. Looking forward to the
-Très bonne introduction à SAS soit en découverte ou pour reposer les bases.
 One of the best courses out there for implementing interactive learning!
 Possibly the best tool training videos ever.  The tool seems powerful.
-Muy bueno el curso, excelente manera de iniciarse en el mundo de SAS.
 Very nice course to establish the basics of SAS programming.  Thanks!
 Very helpful and a great place to start if you are brand new to SAS.
 Very good course. Well structured and excellent lenght of the videos
@@ -176,7 +168,6 @@ Thank you for this great resource. Highly recommended.
 This was great, really enjoyed and easy to understand!
 Great introduction to SAS. It covered a lot of ground.
 great start for who wants to be a good SAS programmer!
-Engaging way to teach a programming language: kudos!
 The best course I've ever come across. Thanks a lot!
 Very useful for those that have no prior experience.
 It's a wonderful course to set the foundation right
@@ -186,9 +177,7 @@ Best MOOC I have ever taken. Very engaging course.
 Really good and thorough intro to SAS programming
 Great course with lots of material to practice on
 it is a great introduction for a beginner of SAS.
-Un curso excelente que vale la total pena tomar.
 Nice and easy introduction to SAS for beginners.
-Very good course, provides all essential details
 a good course to get basic knowledge and skills
 very good to learn the basic of sas programming
 You must learn if you interest in SAS  program.
@@ -212,7 +201,6 @@ Best SAS course available in the market.
 Excellent hands-on course. Very helpful!
 Excellent introduction to sas programing
 This is the best course I´ve ever taken
-Excellent cours de base très bien pensé
 wonderful and well thought-out course.
 Very helpful and well organized class!
 I learn more things from this course.
@@ -232,7 +220,6 @@ Easy to follow and very practical!
 for beginners it is a great course
 This is a great course, thank you
 This is one of the best tutorials
-Excellent course for programmers
 Great introduction class to SAS.
 Great structure of the course!!
 Great course, very pedagogical!
@@ -248,7 +235,6 @@ more information about macros
 This course is very helpful!
 Excellent and well presented
 Great course for SAS basics.
-Excellent course on basics.
 the best programming course
 Great and detailed course!
 Excellent way of learning.
@@ -257,21 +243,12 @@ Great introduction to SAS.
 i loved doing this course
 Siimply Gorgeous. Thanks!
 Good introduction to SAS.
-Excellent for beginners.
-Excellent Course on SAS.
-C'est vraiment bénéfique
 Great and smart course !
 very clear and useful.
-Excelent basic course.
 very good explanations
 Amazing handful course
 Very Nice Explanation
-Excellent instructor
-I am so relieved...
 very much essential
 eXCELLENT TEACHING
-Very Well Taught!
 Good and satified
 It's great!!
-Thank you ~
-SUPERB

@@ -12,7 +12,6 @@ What a disaster! I spent more time trying to game the scoring service into accep
 On the first course I gave more detailed feedback why I disliked the course, and unfortunately those ideas and feeling are even stronger with this one. Summary: The course is way too shallow and puts focus on many different things rather than what it should have done which is build on the deep learning specialization and do in depth focus on tensorflow.
 Very less lecture videos, most are reading based. By reading,  it is hard to understand the topic and code implementatio.
 no graded exercicethe rest is good but without graded exercice it's hard to really put it to work
-Vague Assignment instructions.
 This is pretty simple. This doesn't give an idea of the real use of keras. also there is no programming assignments.
 The lectures are really good and quite engaging. The extra course content by Dr. Ng is also generally where I learn the most. This class does a decent job in introducing to you the Tensorflow library. However...It feels a bit like an very well done tutorial. After finishing my second class I don't any any more idea of how to build a neural network than I did before. The data that they give you has already been cleaned and is ready to use which never happens in real life. The data manipulations that they ask you to do in the homework has zero explanation of why you are doing it. Just that add an extra dimension or split the data this way. I don't know why we need it split that way and it never says why. Further, exercise 4 in particular uses a different method than has been used for the entirety of first and second class. You're given a list of numbers rather than real images. At the end of the class I wanted to understand how to build these models in the real world. If I want to predict cats vs dogs then great! However, if I want to try to categorize financial transactions or predict fraud or literally anything else, this class gives you no understanding of where to start, or how to approach the problem generally.
 The course does not provide much knowledge. In fact this is a tiny extension compared to first part ("Introduction to TensorFlow for..."). The assignments are trivial - you need to change one or two parameters from the excercise codes. But another story is that the codes you succesfully run in Jupyter need to be tailored to satisfy coursera system (e.g. data cannot be loaded due to out of memory, TF version is different etc.). Instead of working on the model, you loose time on experimenting with the code unrelated to tensorflow or look at the forum for solutions specically suited to pass the test (they do not change how the models works). Do not recommend this course.
@@ -105,11 +104,9 @@ course is a little too easy.
 It was not great and good
 A little bit too easy.
 not challenging enough
-Contenido superficial
 I wish it used TF2.
 Useful but too easy
 to much shallow
-just ok
 First, I think the course was great, very instructive. Thanks to Andrew and Laurence for putting this together, is a great source of information to understand more about DL. Some things I think could improve the course. I found the transfer learning lessons a bit unclear and I struggle generalizing this to other cases. Also, I was a bit confused by the flow of the course. The course starts with a multi classifier (or actually, the previous course), then the lessons focus on binary classifiers and it ends again with multi classifiers, because these should be the more complex ones.One last technical thing, only on the last lesson of this course it is mentioned that the classifiers output the probabilities on alphabetical order when using ImageDataGenerators (or at least, that's my impresision). I've wondered since the course introduced the ImageDataGenerators, how the probabilities are assigned on the outputs. I could figure out on the sigmoid that the classifier would look for the first class on the directory and output 1 or 0 based on that, but it would be good to have this mentioned at some point on the video when the ImageDataGen is introduced.Thanks again! Great course
 We go into deeper details following Course 1 with Convolutional Neural Network, using Data Augmentation & Dropout to reduce over-fitting, and with only a few lines of code thank to Keras (TensorFlow high level API). Easy useful examples. Just like Course1, there is no math, so you cannot understand what's under the hood, how and why it works. If you want deeper understanding, you must do the "Deep Learning" specialization, which is harder than this specialization.
 I liked the hands-on approach of the course, but felt that the last assignment (Week 4) was a little buggy into which parts of code to write and which ones not. Nonetheless, I had a lot of fun!
@@ -136,7 +133,6 @@ This course explores the topics of the first course for image classification wit
 Generally a really good course, but the last assignment is out of nothing very badly explained in terms of data processing, which causes the grader to fail or run out of memory and therefore passing it is quite a challenge. Besides that, a very good intro to CNNs.
 Course was quite good, but the last assignment was a little challenging,Well..that's what i really liked!. Also, i felt like more concepts in computer vision had to be covered like Object detection, segmentation. Fairly basic concepts were emphasized here.
 I think some parts of the assignments are not really the main objective of the course, they focus more on methods that involve just creating folders and copying files, which is not what I was there for. Aside from that, great ML content right here :)
-Excelente curso, casi no necesitas saber programar los conceptos super actuales y las actividades te permiten ejecutar procesos de inteligencia artificial y lograr resultados interesantes con un conocimiento tecnico minimo....super recomandable!!!!!
 This is another great course in the specialization. I wish only there were graded exercises like the previous course that we can submit and get a grade for. I understand maybe this is due to the long time of training and that is not possible to do.
 Maybe a bit repetitive, when you just finished Course 1. We see a lot of lines of codes explained again from course 1 and I think that could be avoided.However, the new concepts are nicely introduced and very interesting to implement!
 It was good, but similar to other learners I feel a little light in content. Though in tandem with the deep learning specialization gives a good view on convolutional neural networks as well as its implementation in tensorflow.
@@ -175,7 +171,6 @@ It the great course and good explainataion. Tensorflow 2.0 is quite good for qui
 Overall it was really good. Some of the code needed tweaking and the final test was not so easy to get right.
 Thank for a great course. Please make the code samples it work for TF2.X the TF1.X has run out of shelf life
 End assignment uses skills not practiced in the course itself. Otherwise very smooth and well presented.
-Es una gran continuación al curso anterior. No se puede hacer sin haber hecho previamente el otro curso
 Course is good to start but it should include other aspects of neural network than image processing.
 This rate refers to my global opinion. I had some trouble in the third week project send. Thanks.
 Assignments could be a little more tedious. Over all explanation of content in the course is good
@@ -194,7 +189,6 @@ More exercises should be available for students to practice and test their skill
 Some references to relevant code in tests would be nice, don't send me searching.
 Straight to point with a lot of useful techniques! Interesting examples as well.
 Nice course to learn about the basics about how to implement CNN's with keras.
-No le pongo las 5 estrellas por la falta de ejercicios prácticos calificables.
 Need to more specific about the instructions given for Programming Assignment
 Good practical course.  A bit heavy on visual images, but very informative.
 Excellent materials and assignments! May be lectures can be a bit longer.
@@ -223,7 +217,6 @@ Assignment material not very aligned with lectures
 I feel like this series of courses is too narrow
 Nice course! All detailed and explained. Thanks!
 A bit hard to understand the final assignment.
-I need more coding practice, not just quizzes.
 The final assignment was somewhat a steep step
 A good course for Keras but not for tensoflow.
 Last assignment needs much more explanation
@@ -241,15 +234,11 @@ needs to be more advanced too basic
 A very good course...thank you sir
 Assignments needs to be improved.
 Learnt to code a CNN effectively!
-Courseisverybasicgoodforgeginners
 I think the quiz should be harder
 Some overlap with first course.
-Pretty much enhanced my skills
 Too little things were covered
 A nice well-balanced course.
 Mind Boggling Experience!!
-A very brief quick course.
-Bom curso, muito prático.
 The quiz were quite easy
 Okey.. So easy but okey
 Thanks. Enjoyed it.
@@ -257,10 +246,7 @@ that's was awesome
 Super cool stuff!
 Great content!!
 Voice is low
-quite easy
 Very Cool
-Was okay
-Good
 Excellent material superbly presented by world-class experts.Sorry if this sounds sycophantic, but this series contains some of the best courses I've encountered in50+ years of  learning.
 I finally feel confident that I understand the basics of Convolutional neural nets and what function the various layers serve. It took a Polymath computer engineer/science fiction writer to finally break that mental block and get through to me. Take this class you won't regret it.
 this course is very useful for beginners
@@ -305,7 +291,6 @@ I have certainly enjoyed taking this course. The instructor has been so good at 
 The course is marvelous explain and with clear, concise & straight forward concepts alike the practice project.Take your time to understand the concepts, so you can move on.I'll recommend to watch the specialization of Neural Network from Andrew Ng, to deeply understand the "magic" ( linear regression, matrices, derivatives) of Neural Networks.
 I originally expected to learn more pure TF related stuff. But instead I learned Keras. Data augmentation with Keras is quite easy. Transfer learning is also easy to do if there is Keras model there already. But I do hope to learn a pure TF tutorial that are more common when you download other people's TF model and practice with your own data.
 Very good course and a good sequel to the first course. These courses give what we need to try our own projects. The course doesn't teach much theory, but it makes us interested and make us search and try to learn on our owns. The notebooks provided in this course, however, aren't as good as the notebooks provided in the first course.
-Muy instructivo y activo. A uno como estudiante lo obliga a interiorizarse de verdad en los conceptos para comprender mejor las etapas que se deben implementar para el tratamiento e implementacion de una red neuronal convolucional. En general, con explicaciones claras y comprensibles puedo decir que este este un curso muy bueno.
 This was the actual dealing with the dataset saved at local memory location rather than predefine dataset where the dealing with label and directory were ignored which learner actually face problems while learning and handling with the datasets stored at local drive. well this course actually helped for my major year project .
 Precise and to the mark. Good brief up of the concepts. 5 stars for ease of implementation through programming assignments. Suggestion to fellow learners: Couple these courses with those by Andrew Ng, so it would be the best merger of theory + implementation. Laurence Moroney never fails individual's expectations. :)
 Easy to follow. a lot of examples. I was expecting at least one assignment for the final! :)As for the convolution we never talked about DOG+SIFT or other feature extraction techniques. Also I would like to see how we can separate an object of interest from background e.g. using clustering or a video stream.
@@ -479,7 +464,6 @@ I really love this course! It is a lot of fun and I highly recommend this to oth
 Absolutely outstanding! And probably the best of all the 4 courses in this specialization
 Great introductory course. The last exercise from week 4 needs more documentation though.
 Great material taught in a way that's easy to digest with plenty of examples to practice.
-Un gran curso para aprender, algunos de los tópicos mas importantes en Redes neuronales.
 Excellent course to learn Coding with tensorflow. Clear examples and plenty of practice.
 Muy buena introduccion a CNN, construyendo Multiclass Classifiers y  Binary Classifiers
 This is the best course for NN. I learn many things with the best practical knowledge.
@@ -493,7 +477,6 @@ Simple understanding of concepts .Hands on approach .IN all an excellent course.
 The way this course was taught very easy and clear. Thank you for both of you :)
 Only if you want to take the learning process seriously, enroll in this course.
 this course was really helpful and it explaining advance topics in simple term
-Excelente, tanto el material, como las plataformas y el instructor. ¡Gracias!
 I liked a lot, was really straid to the head on the basics to practice CNN.
 The best option those who want to start computer vision / pure DL category
 It covers all the details of implementation of CNN in TensorFlow in depth.
@@ -529,7 +512,6 @@ Great course! All the content, the exercise. Thanks so much.
 Very clear and easy to follow course, I warmly recommend it!
 implement example is helpful, hope I can use these in my try
 Short sweet and perfect videos to be understood very easily.
-Great content, excellent explanations, no assignment hassles
 Really helped a lot in understanding CNN, transfer learning.
 Great course! Especially final programming task is the best
 It was a relatively easy course but a good one nonetheless.
@@ -547,13 +529,11 @@ Excellent structure and code alongs with great examples!
 An awesome opportunity to learn CNN and its application.
 The concepts are quite straightforward and enlightening
 Thank you very much. This course is very useful fro me.
-Muy buen ! Cubre lo fundamental y tiene ejemplos claro!
 Content and assignments were very relevant and helpful.
 Very nice course.  I learned many wonderful techniques.
 Nice because very quick to have good efficient basics !
 very good content and every point are explained nicely.
 An excellent course to keep learning about AI and DNN.
-excellent course, great techer, all concepts explained
 Great explanation of everything. I have learned a lot.
 ijustlovethewaylawrence teaches simple and convincing.
 learnt how to work on real projects in computer vision
@@ -579,14 +559,11 @@ Great Course! So well structured and explained.
 It was too much of a learning !!! Great Content
 one of the best course I have done on Coursera.
 A great place to start with CNN and tensorflow.
-Très bon cours sur les réseaux convolutionnels.
 simple, to the point and good notebooks! thanks
 Extremely Practical Course ! Really Enriching!
 Very easy to learn. Very practical and useful!
-Gostei muito do curso, aprendi muitas coisas.
 The course is professionally made. Well done!
 Its an amazing  course. 10/10 would recommend
-progressif et complet. Exercices intéressants
 very very useful and powerful toll i learn :)
 good course for understand cnn in tensorflow
 Great, but the code exercise must be updated
@@ -599,10 +576,8 @@ assignments should contain some guidelines
 Learnt a lot in this course. Thanks a lot.
 code and slides are nice and crystal clear
 Great course for Computer Vision problems!
-我太爱你了 吴恩达老师还有google这个老师 我在youyube上看过您的视频！
 It's very clear and useful! Thank you! :)
 Fantastic! I learned so much!!! Love it!
-excellent explanations and lucid content
 Excellent course with challenging tasks!
 well planned, to dip into deep learning.
 Very well detailed course. I enjoyed it
@@ -620,7 +595,6 @@ Excellent efforts and great Teaching!
 one of the finest courses on coursera
 awesome and i wanna say thinks a lot.
 Great, but less explanation in code.
-last assignment is quite a challenge
 Excellent course for beginner in CNN
 Good course for better understanding
 Very clear and concise introduction!
@@ -639,7 +613,6 @@ Excellent Course for the beginners
 a brief intro to transfer learning
 Best teachers in Machine Learning!
 Thanks for the teaching about CNN.
-Excelente el curso, lo recomiendo!
 Awesome course with nice content.
 great course, easy to understand!
 Great course, interesting content
@@ -674,11 +647,9 @@ One Of The Best Class...
 Very practical approach!
 Really love this course!
 Extremely helpful course
-very fruitful experience
 Easily Understand in CNN
 All is clear and simple.
 Clearly explain for CNN
-Wonderful Expriences!!
 great and very helpful
 Good one. Loved it. <3
 thanks!!!!!!!!!!!!!!!
@@ -686,26 +657,20 @@ Exceptional as always
 Great course! Thanks!
 pretty tough course.
 Good course for CNNs
-Excellent course. <3
 Very amazing courses
 Great course on CNN
-very weeeeelllll :D
 Astoundingly good.
 awesome as always!
 Great intro to CNN
-Best for beginners
 Good explanations
 Oh a great course
 Liked the content
 SImple and great.
 Good explanation!
-Super great !!!!!
 Thanks for course
 No words amazing
-Sehr guter Kurs!
 Course was good
 Great learning!
-good techniques
 Good Course !!!
 Easy and clear
 Simply great.
@@ -713,7 +678,3 @@ nice, thanks!
 Greate Course
 amazing couse
 Learnt a lot
-FUN AND EASY
-AWESOME !!!
-정말 쉽고 좋습니다
-Very nice!

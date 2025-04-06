@@ -48,7 +48,6 @@ Can be packed into a two-week course.
 Basic introduction to data analytics
 Very very entry level information.
 Easy and pointless.
-No content.
 Good concepts covered in the course (except for one week involving Financial services metrics), but I wish the examples and quizzes allowed for more hands on quantitative exercises where student have to  calculate specific metrics and strategically think about ways to increase business performance. Teaching style is a bit more fundamental/conceptual than hands-on.Also the week with Financial Services Metrics all of a sudden gets super detailed and way too advanced with all sorts of formulas and concepts we haven't even touched at all. That week is better to be left off the course.
 A good course for those looking to get an introduction to the world of Business Analytics. However, many concepts, specially in the Financial Metrics section were poorly explained or completely skipped under the assumption that the student would be familiar with them. Explaining them or providing reference material for them could have saved invaluable time of the student which was spent on trying to scour through the discussion forums, then reading about them online, and then trying to relate and match what they read with what was being spoken about in the videos.
 The lectures are good and clear, with many concrete examples and exercices to train. The topic itself is a little limited, mostly to finance, whereas there would be so much more equally interesting diversity in data to analyse. I just don't dream of money all the time. The course limitations for free attendance get in the way of efficient learning though, using cheap tricks to manipulate you into buying, though I haven't seen these features used this way in other curses, I bet they're using what they teach to increase conversion using any way available.
@@ -126,12 +125,9 @@ good but the tests can be better planned.
 The course was within expectations.  No
 Comprehensive and general techique
 Great introduction to the Subject
-Well done, but lite on content.
 Feels somewhat Boring!!!!
 Meh.  It was just okay.
 not of my interst
-content is less.
-Boring!
 Great course, which consists of lots of business-related metrics (goal of which is to increase efficiency of the enterprise) and interviews with specialists from different data-related jobs. However, in this course I'd like to have more information on how to chose the right metric for specific situation and create your own based on the data available.
 The use of actual business makes it much easier for professionals who are in the business world to pick up the concepts. A lot of courses are much heavier in theory and are a little more difficult to pick up if you have been out of school of some time.
 This course was a very informative base for the specialization. I enjoyed the videos, but I wish there was a little more hands-on work to put my new knowledge to the test. The multiple choice quizzes were fine, but my learning style is much better served when I have to apply my knowledge in a real-life scenario. All that aside, I was very excited to learn about the different career paths in the field of data analytics and I feel motivated to continue my learning through the specialization and other courses to consider pursuing a career as a data scientist.
@@ -231,7 +227,6 @@ Good professors but you will not learn a lot, since it is more or less an introd
 Good overview into Business Metrics. Had some focus on stock/financial terms which weren't applicable to what I was interested in. Overall a valuable course however.
 This is a great course to help student who is not in business field to  have a general picture of the metrics  that involved in business, revenue, profit, and risk.
 Great and easy way to know about business metrics, but I feel like it is just a light taste about business metrics for data driven companies, no deep going-through.
-Es un buen curso para recordar y seguir aprendiendo sobre el mundo de negocios. Algo básico si ya tienes un grado relacionado o estudio universitario, pero bueno.
 It gives some good base to understand the topics of measurement. The given examples in the training are tough to digest when you have not some base in economy.
 as a science student, I think the course is easy to learn. It provides a lot of concepts which I can only remember a little though I understand their meanings.
 It was good to learn about possible job positions and subtle differences between them, including business analyst, business data analyst, data scientist, etc.
@@ -321,7 +316,6 @@ It needs more clarification for people who do not have any familiarity with cour
 Good course for beginners. the final assignment should have been with a detailed data set.
 It was a great learning experience . It really value adding , compact short  tern program
 good overall information on what business metrics is and why it is important to learn it!
-Tiene conceptos un poco complejos pero que son explicados o aclarados de manera muy vaga
 Good course, but if you want to get a brief insight into company's metrics for analysis.
 Really useful introduction, helps to orientate oneself on the path to data analysis work
 Very good course and informative videos as well as case studies. Thank you Prof Daniel!
@@ -376,14 +370,12 @@ Valuable and useful info for aspiring business analysts.
 I really enjoy this course. It has a lot of information!
 this course is best to know how the data is used nowday
 Course is good for getting started with Data Analytics!
-jump over chapters instead of going deeper and deeper.
 good to understand a broad concept of business metrics
 It's fairly dense with sensible things to know and do.
 The course is very comprehensive and well structured.
 Very Good.  A case study illustration would be better
 Eggar was brilliant.but week 4 i could not understand
 A good intro course for those who are starting out.
-一些专有名词没有在课堂上解释，而是在课程的最后给了一个名词表，我觉得要是老师在视频中稍微讲一下会更好
 Good business case study and meaningful assessment
 Overall good introduction to business concepts.
 Good insights for beginners, not very complex.
@@ -397,7 +389,6 @@ Good for understand basic business metrics
 Very good introduction to Business metrics
 Very good course with details explanation
 Clear and great introduction for beginner
-Some questions in assignment do not clear
 Good Course! Nice coverage of the basics!
 Great introduction to business metrics.
 Great course for getting your feet wet.
@@ -414,33 +405,21 @@ I think the pace is a little
 Great interesting concepts
 Well taught and practical
 Excellent and informative
-Thank you Daniel Egger !
 Explanation is so good!
 What a wonderful course
-Versatile and enjoyable
 Teachers are excellent!
 well engaging lectures
 Good beginning course.
 Good first experience
-Its a decent course.
-Excellent course :)
-Apt, crisp, concise
-solid fundamentals
 very much loaded
 learned a lot !
-老师讲的很仔细，而且很可爱哈
 It is too easy
-excellent!!!!
 Thoughtful.
-great job!
-Gen
-很好恩
 This was a great introductory course. I took this up to get a better perspective of business analysis and i can say with surety that it served a lot of purpose. Thanks Coursera and Duke Professor.
 a very interesting course on business metrics, talks about business metrics itself, jobs and companies in this field, also some examples of the application of business metrics like Amazon, Costco.
 It's the first course from the specification, which makes us better understand the necessary business metrics for data-driven companies, and it is a good entry for following modules. Help me a lot.
 As a recent college graduate in management information systems, I wasn't taught most of these important business metrics in the context of business, and even then, I was only taught traditional metrics, not the dynamic metrics this course covers. I would highly recommend this course to those who are looking to understand the different measures to check the "pulse" of a business.
 This course is very helpful for people  who want to know more about the jobs related to data analysis. It gives me a general idea about what the main responsibilities of a data analyst and a data scientist is. It also offers me the very fundamental and key element on how to start the data analysis to improve business process in a company. Thank you for designing this course!
-Великолепный курс! Информация настолько четко структурирована и подана, что разобраться сможет каждый. Есть полный объем сопроводительного материала - создатели курса позаботились, чтобы все необходимое было под рукой. Практические кейсы - это вообще отдельная тема. Все примеры невероятно интересные (чего стоит история с пепперони). Отдельное спасибо за введение в специальность - невероятно важно разобраться в самом начале, кто есть кто в сфере бизнес анализа, и кто что должен знать и уметь. Эта информация действительно позволяет идти в правильном направлении.
 I have zero business background and I found this course to be challenging enough that I learned something new, but it didn't take me that long to master the basics so I could starting talking about what I learned with my business-trained friends almost immediately.I did have to think carefully about the final assignment which was great for my learning. I also enjoyed marking other people's assignments and gaining new insights of the case from my fellow MOOC students.
 Very thoroughly taught, with many business processes introduced and explained. I have a much better idea of how businesses can use data analytics to improve their sales, profitability, and operations. The quizzes are doable, but not a breeze, and requires review of the course material for a complete understanding and a good grade. I would recommend this course to anyone who wants to learn how data analytics actually function in real world scenarios.
 This course taught me a basic but very important thing about any business which we usually don't think about. It will help you to figure out what skill sets are required to get data related jobs in the market and then you can prepare yourself accordingly. I would strongly suggest this course to the freshers who are just beginning their corporate journey.
@@ -518,7 +497,6 @@ Professor Daniel Egger's lectures are entertaining, informative and relevant. Th
 Great Course, Daniel Egger explains very accurately the important business metrics nowadays and the important of the Big Data, it´s more approach than practice; but if you want to enter into this data-real-world, is a must this course for you.
 This course one of the best on the entire platform, the Lecturer EISH!! man you are a beast u killed this course, you know your stuff and would have loved to have a one on one chat with you because you are out of this world Egger I salute you.
 Very good information.  The course had a very effective way of taking some pretty complex concepts of business metrics and explain them in a way that a non business minded person could understand.......  That is the epitome of a good course!!
-Una buena introducción al análisis de datos para empresas, tal vez demasiado enfocado al ámbito financiero y descuidando otros aspectos.En general es bueno y muy recomendable como introducción ya que se explica bastante bien conceptualmente.
 Great class.   I'm very happy with my choice for a Specialization to take at Coursera.  The instructor is not only very knowledgeable, but also explain some very complicated processes in a way that helps in the understanding of the topic.
 I audited this course as it was recommended by my hubby who is a data scientist and see if i can apply the learnings in healthcare. This has immensely benefited me. Prof. you are so crisp and clear and is easy to understand.ThanksRamya.N
 The course provided a wide range of business data-driven information.  The videos were very easy to watch and read the materials provided. This course has provided me with insight on how to efficiently use business metrics data-driven.
@@ -551,7 +529,6 @@ This course is so practical and provides a very good orientation to those who wa
 Excellent course _ too bad about the peer grading which took VERY long &  by peers who were not on the same level_some people did case studies while other couls not even answer Q1 :( identify a business metric!!!
 I was not expecting this level of detail but it was appreciated. The course covered several foundational business concepts which would be important for anyone who would be looking to work in the business sector.
 A great introduction to the world of data analytics and business metrics. Easy to understand and enough time to deliver on assignments. A great introduction to those seeking to know more about Data Analytics.
-Очень интересно! Лекции богаты современными примерами, разобраны Case Study. Лекции все объясняются более, чем понятно, приведены решения для оптимизации бизнес процессов. Очень рада была изучить все лекции!
 It is the perfect course to get started with business analytics. Professor Daniel Egger's way of explaining each and every point with an example really made it easy for me to understand every topic clearly.
 This course provided a good overview of data analysis, its scope and its applications depending on the type of business you work for. It is a game changer when it comes to marketing and generating revenue.
 A great course that helps one to understand how data can be used by companies to change their processes and achieve more revenues, more profits and less risks. Great instructors! Daniel and Jana. Thank you
@@ -599,7 +576,6 @@ This course links 3 important ideas:1. Measure THAN act2. How do I analyze what'
 It is good to know that how to study the business analysis.  The time control of the course is in good pace for a full-time employee. I will recommend this course to my friend.
 Course was helpful and educational. It wasn't too difficult to follow, although I had some challenges in the week 4 module. The guidance from the community helped a lot though.
 Awesome Content i like, from Coursea. Thank You for Digital Education.Everyone can learn it easily but need to be passionate for a particular course. A lot to learn.Thank You.
-Excelente taller. Para quienes desean introducirse en el actual mundo de las métricas y el modelo de análisis de datos, les permite ir introduciéndose en este excelente mundo.
 Amazing course!!I am glad that I have selected this course to learn from out of thousands of course.and Also Daniel sir was excellent I am really looking for the next course.
 it is really a nice course. It's interesting and helpful. You can increase your skills. I will prefer everyone who is interested in business type of course to  go for this.
 To start business analytique it's a must have, take care for the others one, it's very financial oriented, If you are marketing, it's gonna to be complicate, unless tableau
@@ -650,7 +626,6 @@ A detailed description of a number of metrics, along with a comprehensive classi
 The course was very helpful in helping me understand the different types of metrics and how to apply them to different types of companies for analysis.
 This was a good course. It provides valuable insight for people who are curious as to whether they'd like to pursue a career in data analytics or not.
 Good intro course with just enough info to get you ready to dive into the new Big Data world. Really enjoyed the side-videos with people in the field.
-Excelente curso para aprender a identificar diferentes tipos de métricas de negocio que se pueden implementar en diferentes industrias y situaciones.
 Eye opener, great presentation by Professor Egger. The particular point of using dynamic metrics to influence performance is very useful for business
 The content is practical. It give me a overview of what business metrics are and how they are being used to lead / evaluate business process change.
 I loved the methodology of the course as well as the videos explaining the topics by professor Egger - they are entertaining and easy to understand.
@@ -663,7 +638,6 @@ Thank You Duke and Coursera for providing these world class knowledge to people 
 If you are looking for a foundation course that introduces you to the world of business metrics, this is a good starting point. Highly Recommend!
 I learned about business metrics, the types of positions that use business metrics and the companies that employ them. I finished it in 4-5 days.
 Useful course and first step for anyone towards business data analytics or data scientist. I really loved this course and instructor was amazing.
-O curso é muito completo, com uma didática incrível, o sistema de avaliação é muito desafiador pois nos leva ao nível mais alto do conhecimento.
 This course was amazing to learn about how big business operations and what kind of metrics they are used to evaluate their overall performance.
 good preparation from the instructors, challenging quiz questions, most importantly, a lot of real world examples make it fun and apprehensible.
 At the begining some what confused but during the course  i have  learnt how business metrics  plays a key role from this course.thanks you all
@@ -701,7 +675,6 @@ Good course, really comprehensive, but also professional, providing a lot of inf
 Excellent course, full with analytical examples, and a thorough approach on the subject with explanation of a lot of economical terms.
 Very useful course for learning data analytics for a beginners with a clear understanding of Business Metrics and their applications!
 A good class to learn about the work scope of a business analyst, business data analyst, data scientist, and senior software manager
-Me gusto mucho la dinámica del curso. Creo que aprendí conceptos que me van a ayudar para poder seguir desarrollándome en esta área!
 This is a great course i strongly recommend to everyone who will looking to develop into a business analyst or data business analyst
 This course was very helpful.  The examples and assignments were practical and directly applicable to a real world business setting.
 A great way to learn with the videos and pop up questions. I also think the peer reviewing makes you think a lot about the answers.
@@ -768,7 +741,6 @@ The course is great (but please consider amending information ratio calculation 
 Outstanding instructor and material. Professor Egger is highly effective at getting important points across.
 great content, provided basic (but detailed) introduction to business/data analysts and what the jobs entail
 clear explanations. would be more helpful if the handouts were in written forms instead of just point forms.
-Excelente conteúdo para suportar decisões utilizando dados. Conteúdo essencial para uma realidade tão atual!
 It was good. Being in the industry in over 7 years, there was still something new which I learnt. Thank You
 Great course. The case study was the perfect way to sum up the learnings and simulate a mini business case.
 Very good for starters, explained very well trough real world examples, making complex stuff easy to grasp.
@@ -805,7 +777,6 @@ Knowledge enriching course, transparent practical applications and wonderfully t
 Great course with a well explained introduction to business metrics, the importance and usage of them
 It is a very good course. It helps in understanding how different role work in a professional set up.
 I think the capstone could have worked with data, but besides this it was a great and exciting start.
-Excelente curso... El contenido actualizado, el valor aportado por el profesor... Recomendado 100%...
 The professor is simply brilliant.Can watch him teach for hours at stretch and at anytime of the day
 Informative and cover a range of key concepts. It builds up the structure to begin the journey with.
 Love the course so far. Can't wait to get really good at this stuff and use it in  my place of work!
@@ -833,7 +804,6 @@ The course is insightful as it offers real world analysis and  inform web compan
 This is a good introductory course for those who want to be a part of a bussiness analysts team.
 This course was truly helpful to understand the basics of bussiness metrics and their relevance
 The course gave us a real insight into the business processes followed in different industries.
-Un excelente curso, excelente profesor y muy buenos ejemplos aplicables a diferentes compañías.
 It's very insightful and helpful for those who have no prior academic background in management.
 Very good professor with in dept knowledge of the subject and the necessary skills to teach it.
 Quite an interesting course and a great way to diversify your portfolio. Highly recommended !!!
@@ -991,7 +961,6 @@ Explain the metrics with examples clearly and easily to understand.
 Insightful course about the basics of Businesses and Business data.
 Clear explanation, easy to understand and relevant for my interest.
 Very good insights provided from a fresher's point of perspective !
-Excelente, muchas gracias al profesor Egger y el resto del equipo!
 Excellent knowledge for present and future challenges in business!
 Great course! Simple to follow and the information is very useful.
 Very helpful to know what meaning of metric for different analysis
@@ -1026,7 +995,6 @@ Contributions of the
 professor in the discussions is wonderful
 Great Course, highly informative and excellently put-together.
 Spectacular contents and fantastic teaching method! Love this!
-Es un curso completo, con temas explicitos y ejemplos claros,
 Excellent course
   with practical examples and useful theory.
 Excellent intro course to business data analytics. Thank you!
@@ -1082,7 +1050,6 @@ This course was fairly basic, but still quite useful.
 Loved the course, well planned and really insightful
 this course is very important to build main set data
 Amazing Course. Great insights. Very lucidly taught.
-Explains basic fundamentals of Data driven companies
 I really recommend this course. Perfectly explained.
 Great course to learn theory about business metrics
 Great high level introduction to business analytics
@@ -1098,7 +1065,6 @@ The course is a good introduction for the subject
 It really helped me understand businesses better.
 I really enjoy Prof. Egger's teaching. Thank you.
 Reallu love this course. It's easy to understand.
-Muy buen curso, buenas herramientas y aprendizaje
 An easy entry point into logical decision-making.
 A great primer for further data analysis courses.
 If you are in data analysis this is a must take!!
@@ -1106,7 +1072,6 @@ Very good introductory class on business metrics.
 Great course. Good insight on business analytics.
 Very helpful, fundamentals for business analysts
 Great course to start with for a specialization.
-Muy interesante, y muy centrado en lo importante
 Good for knowing the basis of business analysts!
 The idea is whole new to me. Appreciate. Thanks!
 An excellent course! Great teachers and content.
@@ -1159,17 +1124,13 @@ The course is well organized and helpful!
 Helps with every day work! Big thank you!
 Extremely interesting and really helpful!
 I learnt a lot of new things..thank you!!
-Es buen tema e interesante para aprender
 ver interesting, informative and helpful
 very useful and related to real business
 Great learning and practical case study.
-Excellent introduction into data Science
-informative videos. useful final project
 good explanation from sound instructors.
 Great introduction to Business Analysis
 An amazing overview of so many metrics.
 rich of information  and organised well
-很好的一门课,对于没有专业基础的同学来说难度也合适!而且学到了很多实用的知识!
 Excellent videos.  Maybe, in the future
 Great intro into the world of analytics
 the teacher is sooo nice! learnt a lot.
@@ -1178,7 +1139,6 @@ Very good overview of business metrics!
 Great introduction to Business Metrics!
 great course with clear lecture video!
 Very good course. A must for everyone.
-Excelente introductorio a las metrics
 Instructor and content was brilliant.
 very informative and great lecture :)
 Great first peak to business metrics
@@ -1216,7 +1176,6 @@ very useful and easy to learn!
 perfect course to start with !
 Great summaries, good lectures
 Course is useful for analysts.
-well defined, thank you a lot
 Insightful and easy to grasp.
 Very thorough and interesting
 Great foundational knowledge
@@ -1224,7 +1183,6 @@ Course was great, Thank you.
 Great Knowledge to Grasp..!!
 Practical and real business!
 Very well structured course.
-Muy buen curso, muy completo
 Very useful course, loved it
 a very comprehensive course
 extremely helpful and easy.
@@ -1233,9 +1191,7 @@ Basic, Simplified and great
 Well designed, well taught.
 Helpful and great guidance
 This course is excellent!
-Очень понятно и доступно.
 Excellent and insightful!
-Excellent concepts course
 Great course. Great info!
 awesome course. Thank you
 very good and informative
@@ -1250,19 +1206,13 @@ Interesting and helpfiul
 Thank you so very much.
 very practical course!!
 Learned a lot in detail
-Nice videos, very nice!
-Excellent methodology!
 Very Clear and helpful
-An eye opener course!
-some errors in videos
-excellent explanation
 Very good, thanks :-)
 Excelente! All of it!
 I love this course..
 Very useful concepts
 so much to learn....
 learned a lot! thanx
-awesome !!!!!!!!!!!!
 Looking very useful.
 High level training
 It is just awesome!
@@ -1271,33 +1221,15 @@ Incredible course!
 Very comprehensive
 Great first course
 Excellent teacher!
-excellent  program
-Excellent Courses
-learn hard skills
-impressive course
-ddddddddddddddddd
 Super insightful!
-Excellent review!
 It is very useful
 Very good coarse
 Eggar was great
-Week 3 is hard.
 Perfect class!
 Well explained
 great course!!
-keep studying
-excellent con
-Very good!!!
 learn a lot!
-great course
-i mean wow..
 great corse
-我觉得这门课很棒！！！
 Good class.
 Effective!
-Fun course
 Thank GOD
-Excelent!
-good！！！
-happy!
-grea

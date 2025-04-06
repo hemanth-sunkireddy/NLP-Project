@@ -14,18 +14,15 @@ Auditing doesn't allow assessments
 So far really frustrating. Supposed to be able to access Runestone but very frequently I'm unable to use it. When I click on Runestone I keep getting a message that I need to log on bu I am already logged on. This is unacceptable because it slows down progress. I would get a refund if I could.Don't bother with this course, very frustrating.
 i didn,t like the interferance of the course and their assigment tool very boring left the course after few lectures
 Can't see what you are typing on screen.... extremely basic and too much detailed which is not required
-you don't provide certificates.  can u please provide a certificate.
 waste course not accesing of  text book
 not recommended course to buy
 Fake course
-jh
 Super basic.  Really geared toward a high school level.
 Subject covered in lessons was very basic compared to the knowledge required to complete the final assessment. I suggest either modifying the final assessment to more closely resemble the practice questions given throughout the course or else to change the course content in order to give students the knowledge they need to complete the final assignment.
 Unbelievable slow and plodding. Videos just tell you how to answer the problems, sometimes all or nearly all of them. When I had to put it on hold I found that I couldn't progress until I had waited for several months for another "session" -- something I don't believe they made clear would happen. Just dropping the course.
 you should must give 2 months  for the course to complete it and charges alsoe that you taken is for 2months
 The lectures were OK but a majority of the questions on the exams were incredibly difficult and did not represent the basics that were taught in the previous lectures. I passed them by googling snippits of code and piecing it together rather than recalling what was taught. It is unfortunate that the exams/quizzes where actual coding was required did not test for comprehension of what was truly taught because I could have really used the extra reinforcement. I really appreciate the way Steve breaks down code and visually explains it--but that's really the only positive I have. Very disappointed in this specialization thus far and its only class 1!
 excellent course and very usefull to beginners      thank you sirr!
-Trop long pour très peu d'information
 Basic is right - I'd recommend this for someone completely new to programming but those used to another programming language will find themselves wanting more in the way of extension questions. The main difficulty is working out how the materials fit together: it's very easy to find yourself going through the accompanying documents (which are very helpful) and find you've accidentally completed the assessments - which you then have to do again via the appropriate link in the course materials.
 Overall, this course is very thorough and is a really great course. The instructors do a decent job at explaining the materials. I actually really like the interactive notebook/coursebook, much more than I like for example Jupyter Notebooks. But the Interactive Notebook, can lag behind on the practice questions, as well as be slow to upload the new question during daily practice, which discourages overall use. The end of section assessments are sometimes worded in ways that are not super clear making the problems a little harder to solve than they really should be. Sometimes the wording resulted in it taking 3x the predicted time on the schedule to complete the exam. Python has just been very hard for me to learn, this course has helped. I still need to keep going and maybe it will get better. Thanks for putting the class together, I wish I could have given it a higher score, but those hang-ups with the Interactive book and the wording of some problems did cause some unnecessary struggles. Otherwise, the overall content was great.
 Course format needs updating, particularly Runestone which has invalid dates, some grammar errors, and in some cases completed quiz questions.  Overall the content is good.
@@ -57,7 +54,6 @@ course is very low paced
 got the basics right
 very slow in teching
 it is too slow
-no comends
 very slow
 Course is good but lots issues with browser cache. when grading it says answer is wrong even through answers is correct and when I restart the browser it says answer is correct. Most of the time I had to restart the browser. Please fix it. Also where is the phone number for the coursera technical support ? Thanks
 The content of too basic, the instructor was amazing. I loved the assignment submission procedure. The course was very well made and is definitely one of the bests on Coursera.Thank you, and if you read this, I request you all to visit this, here you'll definitely find something impressive to learn.https://www.youtube.com/channel/UCdNOTa62J6j1109NQfxHqdg/playlists
@@ -208,7 +204,6 @@ A very good program for the starting python programming.
 It was good but I feel some part needed more explanation
 Very Interesting,Little detailing would have been better
 i have learned about python in proper and efficient way
-JUST BEST FOR BEGINNERS TO LEARN PYTHON FROM SCRATCH !
 answers should be given after completion of assignment
 It covers the basic very well and clears the concepts.
 All great!, but the external tool was messy to use...
@@ -224,7 +219,6 @@ This course is an excellent introduction to Python
 Very greatful to learn python from python basics.
 pretty good. the content could be more sufficient
 I would have liked to see more practice problems.
-Helpful review for me. I enjoyed using Runestone.
 try to provide answers for external graded tools
 Great course for beginners. A bit lengthy though
 well educated faculty,feel different from others
@@ -273,9 +267,7 @@ The course was really helpful.
 Good for revision and learning
 Thanks so much for everything
 the course was a bit too easy
-Missed some details sometimes
 Good course for beginners...!
-Excelente para principiantes.
 Great and Informative Course!
 Enjoyed the learning process
 Impactful learning so far.
@@ -286,13 +278,10 @@ thank u vey useful course
 very useful for learners
 instructor was not good
 It, is a good course .
-Good, valuable course
 Nice and good course
-难度太低！！！对于刚刚入手的人都偏简单！
 good for a start...
 Worth for beginners
 its an good course
-Feeling great 💯🙌
 Great opportunity
 good! explanation
 goood and useful
@@ -301,11 +290,7 @@ worth it.......
 Good Explantion
 overall helpful
 It is helpful.
-good but slow
 the best one
-有点太简单了对于我来说
-Perpect
-有点简单
 This is best introductory programming course in python. Mentors are planting every concept in our head in very fluent ways. You must take take this course as a begineer python programmer like me.
 The practice exercises and the Runestone texbook reinforce the learning materials from the recorded lectures. I really love the pace and humor at the University of Michigan School of Information.
 Coursera has improved my practical skill in programming due a lot of practices and guidance. Taking Python basics has really helped me gain confidence to take over  so many programming challenges.
@@ -369,14 +354,11 @@ Great course, I love the interactive problems.
 Very interactive and good hands on exercises.
 good detailed and well explained course
 simple and easy, good for beginners
-Excellent course I do recommend it
 Nice course to start from basics.
 Great starting point for python3
-Excellent Course. Learnt a lot.
 so clear!! amazing course
 Such a wonderful course!
 Very good explanation.
-Quite a good course.
 Completely an admirable and brilliant course for those who want to make a perfect start in python as a beginner. The topics explained by the instructors are crystal clear. A lot of fun and adventure in this course. I personally liked it very much and feel that I would thrive in the world of python now.The basics are cleared in every module like other python beginner courses, but the audacity of explanation and the ease of learning, along with very sharp programming techniques makes this course different from other courses.The sub modules like "The Way of the Programmer" enhance your coding skills very well. I too grasped a lot of programming skills from this section. Even the Runestone tool has helped me in building a habit of practice. Overall, this was the best Python beginner's course I have now known.
 If you have no idea what Python is but you want to know it, and if you have no programming experience, this course is excellent for you.Frankly speaking, I expected some more challenge, as this course is recommended to take after finishing "Python for Everybody" specialization, but alas. On the other side, it's called "Python Basics", not "Python Advanced Level" and I learned some new information from this course too (methods causing mutation and creating new objects, aliases, difference between "==" and "is", etc.)Anyways, this is just the first step of a Python 3 Specialization and it gives you a very solid knowledge of Python fundamentals.Interactive Textbook used in the course is a great source of knowledge and practice. And videos provided by professors leave no chance to misunderstanding.
 This course and the balance of courses 1-4 of the specialization were fantastic - I would highly recommend each. Course 5 (the capstone project) was an abomination. Basically zero instruction / guidance and very frustrating for anybody except decently experienced programmers. If courses 1-4 are your only exposure to Python, you could easily spend a month or more on this project. If getting the Specialization Certificate is very important to you, there are resources online that you can leverage to complete the project but that is done largely at the expense of any real learning, so I really hope UofM comes up with an alternative final project that is more consistent with the level of expertise attained in courses 1-5 (maybe something on implementing classic algorithms?).
@@ -455,7 +437,6 @@ It's an amazing course with a very deep fundamental knowledge of Python but if y
 First i thought it's going to be a difficult course.You Know, it's one of the best universities in the world.  I thought "their basic level is gonna be a hard level for me"But the way they teach us is............awesome!!I don't know about certificate fee.. but I recommend you to join.
 A very well structured course in the thematic part; with a very good practice tool that complements the courses. Although it is an introductory course of the python language, it gives us all the necessary tools and more than necessary to start in the language and continue learning.
 It is really nice course,It is very useful to learn basic knowledge about python to understand that.and also the am like to say thanks to Michigan university and the professors who teach this course.and also the external tool given in this course is good to learn some more basics.
-El curso sobrepaso mis expectativas, me encanto la metodología, el material proporcionado para es estudiar fue el más acertado, ademas del uso de la tecnología para el aprendizaje me dejo anonadada.Muchas gracias a todas las personas que hacen todo esto posible. Dios los bendiga.
 As someone already who has some experience in python, this was no doubt an easy course for me but still challenging nevertheless. The exercises were a bit repetitive but it's for your own good. Really enjoyed the course, looking forward to the next course in the specialization.
 Great course! No need for any prior knowledge, very well organized and explained.  The tests helped me check my understanding and use my creativity on real projects. Steve Oney was my absolute favourite instructor, I never had a single question after his lectures! Recommend it!
 It is an amazing course which covers almost everything that is necessary to understand how python works. The teachers offer you a lot of content to read and pratice before the assignments. I strongly recommend to do this course if you want to learn the details of basic python.
@@ -510,9 +491,6 @@ It is quite basic for the beginner and easy to move on. I like the turtle graphi
 Very informative and easy to understand course in Python.Professor Paul and Steve are amazing instructors.It helps to build strong basic concepts of Python and the Assessment are very helpful to check our programming skills
 An Excellent introductory course, it's amazing for then who is beginning to program and even  if you already know python but have some lacks in some topics, that is also a great opportunity to review and fix your knowledge
 The recap practice is good, good to treat examination as the tool for reinforcing the learning rather than just assessment. The content is easy to read.Document, video, examples and practices makes Python learning easier!
-Altamente recomendo para todos que querem aprender Python desde o início com alta qualidade.
-
-Excelente, ótima ferramenta (Runestone), a pronúncia dos professores é muito clara, e as provas ajudam mesmo a fixar o assunto.
 Thanks for putting together a great course which really takes you over the hill when learning programming. Careful explanations in the videos, really clever interactive textbook with coding embedded and great exercises!
 Amazing course! Does an excellent job in starting from the basics of python, and building upon it, with resourceful lectures and plenty of practice options . The content and its flow help in forming strong fundamentals.
 This course is really helpful for beginners who are looking to gain a deeper understanding in programming in general. plus Pyhton is a nice language and with added turtle game in this course I have played hours with it!
@@ -528,7 +506,6 @@ Excellent module, Excellent teachers.python_course = ["1", "2", "3", "4"]initial
 Very good course material. I think this is more than enough just for learning the basics.It has also a plus point. You can learn Python turtle graphics from this course! And I really liked their way of teaching!
 This is the best course ever on any MOOC'S Platform. Even COURSERA has  other courses on Python but this course is amazing for beginners as well as for programmers who lack the basic foundation of this language.
 I took programming courses over 20 years ago, this was a good reminder of fundamentals I had forgotten. Course is in-depth and reminded me of a university course. Great job re-creating the university experience.
-Aunque ya tenía algo de conocimiento de Python con este curso entendí mucho mejor como se ejecuta Python paso a paso,  como el trasfondo en el uso de sus métodos o funciones y como afecta realmente al programa.
 This course is help me how to code with Python explain how to use for (loop) if else def and more operations.  I like Rune-stone  textbooks so much this textbook help me to practice and explain how code working
 excellent course ! This course contained a very good pattern for the students who want to learn python programming language.The syllabus is awesome .The instructors are also very good with some sense of humour.
 It was an amazing experience .throubgout the whole session of python basicsI was coming up with new ways to solve the codes this showshow many efforts are put in this by the teachers to make the learning easy.
@@ -561,7 +538,6 @@ The course covers the basics of python and can be taken by anyone comfortable in
 The readings were awesome; recorded video sessions were a bonus to make it stick!  The exercises really cemented the concepts.  Will proceed to the next level.  Thanks for an awesome course.
 The course provides different methods to learning - video, reading, and skills challenges.  While the repetition of material slowed things down, it helps retain information for the beginner.
 Excellent content, one of the finest and to the point teaching, just one thing is that it's kind of boring sometimes. just little that if that can be worked upon than thsi will be the best.
-Es un curso increíble, las herramientas de práctica son muy útiles, las diferentes lecciones son bastante dinámicas y son muy buenas para alguien que no tenga ningún conocimiento en Python
 This course is so perfectly structured . It is very useful for all those who wanted to learn programming with no prior knowledge at all & also for those who want to brush up  their basics.
 Very thorough course from very basic to little advanced. Programming tips and tricks are the best part, to improve programming skills. I am very thankful to all instructors of this course.
 Highly recommended for beginners who want to learn python. There is also a practice method and assignments which helped a lot. The Codelens helps us to understand what really is happening.
@@ -569,11 +545,9 @@ I enrolled this course just after completing Python for everybody.The e-textbook
 That was a really useful one to refresh Python knowledge. Recommend to everyone who is either new to Python (or programming even) or the ones who want to refresh the knowledge. Thank you.
 I have learn a lot about strings and list in python.now i can confidently say that i know something in python and that is too with some practical knowlegde with some programming practices
 This is the best Course ever i have for Python. Not only you learn but you can also understand the work behind the techinquices.. The teaching style was great and so much understandable.
-Muy bien estructurado, como primer acercamiento para personas sin conocimiento en programación constituye un curso fundamental con explicaciones claras y orientadas usos de la vida real.
 The python basics course is pretty awesome that even a person from non programming background will find it easy to learn and is more practical with the codelens and builtin code editors.
 Very detailed intro class to Python as a programming language. I don't have much background in the field, and was able to follow the material with no issue. It's comfortably challenging.
 A very well designed course for  beginners to understand the basics of python programming language. It helps me lot to understand python basics and i enjoyed much while learning python.
-Este es mi (4 o 5) curso de python, reforcé mucho y aprendí algunos detalles que estoy seguro son importantes para cuando este trabajando con Python, me gusta que hay bastante practica.
 Thank You very much as i have enjoyed studying the subject extremely as the quality of the course especiallly because of the amazing interactive textbook written in such an amazing way.
 The nice way of teaching with example and ongoing practice problem to help in understanding the concept. Good explanation by teachers/professors. Thanks for the nice starting in python.
 I want to thank all the course instructors for presenting all these materials in such easy to understand way. Learned a great deal from this course about the in-depths of python basics.
@@ -595,7 +569,6 @@ Extremely good course. I would recommend anyone to start with this course to sta
 very good course for basic python learners. too deep understanding of each topic and its runestone interactive is very good. i recommend all who just getting start with python.
 Really Awesome Experience. I feel this course like video games, after completing each chapter, I feel to read the next chapter. Kind of urge to play next level in video games.
 Excellent course! It exceeded all my expectations. I would like to thank all the instructors for the exceptional work! I look forward to the rest of the courses.  Thank you.
-É um curso bom. Explicações são muito boas, assim como o material para acompanhamento, exercícios, etc.A única coisa que senti falta foi de ter exercícios mais desafiadores.
 Great for beginners, or for anyone looking for a refresher. The runstone interactive makes sure you get through the concepts by actually coding the code. Great Initiative!!!
 Great course for beginners (would suggest you guys have a rough idea about coding in any language before enrolling in this , because that way ur understanding is 2X better )
 This has been a great introductory course to Python. The  fact that instructors touched all the basic concepts without overwhelming the learners is particularly commendable.
@@ -607,7 +580,6 @@ As a beginner to computer programming, Python Basics Course was rightly paced an
 This course was for me a big step on my path to AI mastery. I think there was an adequate amount of practice and theory what were the great basement for further learning.
 The runestone textbook and the coding environment has helped me so much in learning Python. Kudos to the creators for helping the students learn in the best way possible.
 This course is very helpfull for the phyton learners at beginning level.lecture vedios & reading material is very helpfull & easy understand.i really enjoyed the course.
-Excente curso, esta muy bien organizado, es fácil de entender y los ejercicios te ayudan a entender las sentencias y la lógica de las diferentes estructuras del programa
 This was an interesting course. I have taken python course before, but this digs deeper and allowed me to understand the reason why the python code acts the way it does.
 Well taught and explained courseRunestone and Codelens are wonderful tools and well integrated into the learning environmentA great way to learn any programming language
 Very solid. I especially like the online textbook with the  interactive problems. The lectures and the textbook covered the same material so I don't think you need both.
@@ -636,7 +608,6 @@ Fantastic course! The instructors are to the point, and the videos are clear, an
 The course is well organized and suitable for beginners like me. There are enough practice works and the topics are discussed very clearly and enjoyable way.
 A must join courses for Python. I really love this course very much. Great textbook with an understandable assignment, everything makes your learning joyful.
 It is very good course for beginners with very good explanations, examples and quizzes. It is engaging and you really can be hooked up with python topics :D
-Excelente curso, para toda persona que desee aprender Python, los profesores son excelentes y fluidos al explicar los conceptos. cien por ciento recomendado
 This course is helping me a lot. I am doing BS Electrical Engineering and I am using my Python Programming skills from this course in my Final Year Project.
 awesome lectures, great content enjoying learning coding, assessments question understanding questions make more interactive learning with practice modules.
 One of the best course to learn the basics of the python.The interactive book method used is really very good to understand the programming concepts.Thanks
@@ -669,7 +640,6 @@ nicely explained everything in detailgood assignment . level easy intermediate a
 Great intro to the world of python. With problems and concepts varying from simple to moderate difficulty, it was great course to follow and learn.
 great class. highly recommended! very well structured and instructed. assignments are great as well -  very helpful to practice the course content
 This course is extremely well organized and even if you already have some experience coding it will help you to organize the content in your mind.
-Un buen curso con clases bien definidas acerca de los conocimientos básicos de python, sin duda aporta muchas cosas para el entendimiento del tema
 Th course is very useful. It covers all the basics for a beginner to learn Python  Language.I would love to have more examples while explanation.
 This course is very good for beginners. The instructors in this course really explain to you what's happening inside and outside the python code.
 A great course for learning and adapting to python, the staff really breaks down the code so you can understand the why behind what you're doing.
@@ -694,15 +664,11 @@ the course was really good the pace and complexity were great, I would highly re
 I personally think this is easier to understand that Python for Everybody, but this might be because I completed that specialisation first
 The course had been very engaging for me and I am looking forward to finish all the courses in the specialization. Thanks to the teachers!
 Preety good introduction to Python, it was my second code language (first was C++ in college) and I had a very smooth learning experience.
-Es un buen curso para iniciarse en Python. En la medida en la que tengas un cierto background básico de programación podrás ir más rápido.
 This course really helped in python basic and implementation, i will suggest everyone to go through this course for better python learning
-es muy bueno el curso brinda la teoría y la practica necesaria para poder entender claramente como funciona el proceso en la programación
 In one word, it's an amazing course. Especially, Interactive Textbook is really helpful for hands on code practicing. Highly recommended.
-Muy buen curso introductorio! Muy completo y muuuuuy interactivo, con herramientas muy utiles de practica. Mejor que un curso presencial
 Very good course !One small problem, at times the assignment asked much tougher questions that required things that weren't taught yet !
 This course helps to understand the basics of python very clearly. Each exercise problem gives better knowledge of the basics of python.
 An wonderful course. I have learnt a lot of useful things from this course. It is a benchmark for me in the experience of Python Coding.
-muy buen curso para iniciarse en python. Se explican muchos conceptos importantes de una forma bastante clara y en general es muy ameno.
 Amazing specialization with excellent external tools, the interactive textbook being my favorite with expert guidance from instructors.
 If you always dreamed of learning Python, then this course is a must try.It will cover all your basics of Python 3 Programming Language
 I really loved this course excellent explanation, Even tough my English is poor, I didn't faced any issues in understanding the course
@@ -778,7 +744,6 @@ One of the best course I have seen and I loved the Codelens concept.Its really h
 A thorough explenation of the basics of Python Language with a lot of examples and an excellent intercative textbook.
 Amazing course. Easy to follow and plenty of tools to keep practising and assess yourself, and of course earn a cert!
 Nice course. Covers some topics often left out of intro courses, such as variable naming. I enjoyed it. Thank you. :)
-Excelente curso, tiene mucho material para practicar y aprender Python desde cero. Excelentes profesores y Educación.
 it was very interactive and very motivational to keep up with the course material learnt a great deal with much ease
 I loved the way how the course was designed for beginner students. The topics were well presented and easy to grasp.
 This course provides basic and comprehensive concepts to get into the world of Python. Great lectures and materials.
@@ -868,7 +833,6 @@ This is one the best course in coursera, with  precise explanation.I gained good
 Excellent pedagogical approach. The exercises make sure that material sticks to the learner's brain.
 This was my first real experience with Python, I learned quite a bit and I'm excited to keep going!
 I am extremely thankful of all professors. Most Important thing which i like is Practice Exercise.
-Отлично для новичков в программировании, но может показаться скучно для тех, кто уже знает Python.
 really recomended for all people who want learn about python but never know that before.easy catch
 It's a very good course.I think this knowledge I gain from the course will be very helpful for me.
 Excellent Course. Enriched me and helped to test my skills in python basics. Excellent assessments
@@ -881,7 +845,6 @@ Paul Resnick - Rocks...  For average brain people like me, this course is gold t
 excellent material and presentation. The exercises were very useful in solidifying the knowledge
 They do a good job covering the fundamentals of Python. You have to start programming somewhere.
 Now i am very clear in python basics.thank you so much for ur teaching.i was just mindblowing!!
-Um curso maravilhoso para qm deseja aprender o basico da programação em pthon, super recomendo.
 This course is great! I just wish there are more big project at the end of each week or course.
 Good course with lot of topics on python programming and good, short example to  understanding.
 Best course to practice your knowledge with loops , basic data types and conditional statements
@@ -991,7 +954,6 @@ it was an amazing course, very helpful, teachers were amazing. Highly recommende
 The course structure is excellent. It course content keeps on building upon itself
 wonderful! course for all beginner.Every python beginner must enroll this course .
 Course is great, well designed and the Runestone environemnt is absolutely perfect
-컴퓨터 프로그래밍의 기초 지식을 습득할 수 있는 좋은 기회였습니다. 쉽지 않은 과정이지만 문제들을 해결하고 수료를 하고 나니 뿌듯한 마음이 듭니다.
 Learning aids are wonderful. Aids together with exercises provide good confidence.
 This course really useful for me  and I enjoyed a lot ....Thank you coursera team
 Thisisaverycomprehensivecourse on the basics of python programming for beginners.
@@ -999,9 +961,7 @@ THIS COURSE IS AWESOME AND IMPROVE MY NEW LEARNING SKILLS  FOR MY UPCOMING FUTUR
 A very illustrated and well developed course for beginners in python language..!!
 Very Good course for the beginners. Certainly one can learn the basics of Python.
 Easy to understand and lot of practice papers to  clear all doubts  and confusion
-Excelente para personas que no tengan ningún conocimiento de python. Nivel básico
 very goood course really lot of exercises and quizes. good explaination in detail
-some example question don't have answers. if i have no idea, i couldn't do it...
 Assignment are really well planned in order to clear all basic concept of Python
 Excellent course for beginners willing to learn Python programming from scratch!
 very heplful for beginners and lecturers were like friendly. i enjoyed doing it.
@@ -1022,7 +982,6 @@ great platform to make basic of python understand very strong that never forget
 Excellent place to start learning Python Thank you so much for all the effort!!
 I like this course! It have good balance between language theory and exercises.
 Great Lecturers. Essential if you want to get the basics of Python down right.
-Es un muy buen curso con herramientas grandiosas que facilitan el aprendizaje.
 Thought everything from basics and dealt with each and every topic excellently
 It is a good course and it has many useful things about the python programming
 This course is easy to understand the concept deeply with examples ,i loved it
@@ -1057,7 +1016,6 @@ Sir, in the session, the screen visibility was low. Kindly do the needful.
 Excellent course, all the basic concepts were explained very well, thanks!
 The textbook is a really well-designed resource for learning the language.
 Great to learn the proper terms and solidify the basics! Really recommend!
-Perfecto para aprender las bases y despertar tu curiosidad por programar!
 The assignments are great and a little bit tricky to make it interesting.
 It's a long and valuable course, all you need to understand basic python.
 Though the syllabus was less , but the depth was very good , helped a lot
@@ -1166,7 +1124,6 @@ very useful and understandable .love to michigon and coursera.
 beneficial and best faculty which we teach a new way of coding
 Excellent course outline for beginners! You should try this :)
 Excellent contents. Thank you so much for the amazing course.
-excelente, no necesitas el inglés al 100 para entenderle bien
 Thanks a lot for a very easy to understand and helpful course
 great course for beginners if you want to learn python deeply
 Excellent course!! Thoroughly enjoyed learning python basics.
@@ -1197,8 +1154,6 @@ Practices and assignments are very usefulGood for beginners!
 This course gives basic concepts applied to real situations.
 Really deep diving into the basics of Pyhon 3. Thanks a lot!
 very usefull cours in this website and i enjoy this session!
-Fue estupendo y aprendí bastante, me encantó la metodología
-Excelente curso, conceptos claros y muy buenas evaluaciones
 looking forward to an advanced course from the same team :)
 Really enjoyed the learning Python Basic by You. Thank You!
 It is really well-structured course with excellent material
@@ -1227,7 +1182,6 @@ Very systematic and thorough learning material for python3
 Great course. All is clear and I like the way of studying.
 it was intense! Enjoyed debuding and coding! Thanks a lot!
 Thank you, Coursera for offering such a wonderful courses
-Muy interactivo y con muchas actividades. Me gusto mucho.
 It's a great course to review and refresh your knowledge.
 Best Python course ever!!!!!! A new approach to learning.
 Good course with excellent explanation by the instructors
@@ -1264,7 +1218,6 @@ fantastic, lots of study material, with practice tools
 It was a great help in getting me started with Python.
 excellent course to learn the basic concepts of python
 This was one of the best python curriculum i ever had.
-Great course for beginners in programming just like me
 Great Course! Well teaching and perfect for beginners.
 For python beginners, this is the right place to start
 It is very good course it is my pleasure to study here
@@ -1282,7 +1235,6 @@ its for very begineers. who don't know what is python
 excellent but can increase practice exercises further
 thank you. it was great experience to study python :)
 Amazing course, really enjoyed it. Onto the next now!
-O curso de básico de python mais completo que já fiz!
 thank you so much ,the trainers were really very good
 best platform for fresher to start with online course
 Good course. Please keep up your standard. Thank you.
@@ -1295,7 +1247,6 @@ its a really solid way to getting started in python.
 It's a must-do course for Computer Science students.
 If  your_python_level = 0:action = 'take this course
 amazing experience. Very good platform for beginners
-Es un curso sensacional, muy didáctico y explicativo
 Good exercises for practice! Absolutely recommended!
 Subject material was quite good and reader-friendly.
 great course for beginners as well as intermediates.
@@ -1310,7 +1261,6 @@ teaching skills are very good and content also good
 Good introductory course for the absolute beginners
 A very nice learning course for beginners in python
 Very easy and detailed Python guide for beginners.
-Mejor de lo que esperaba. Muchas gracias Coursera.
 It is very useful and l learn a lot of information
 Excellent course for beginners in python .Loved it
 The course was very good and I enjoyed doing that.
@@ -1325,11 +1275,9 @@ This couse is fully filled by very helpful classes
 Excellent in testing your knowledge of the basics!
 Very helpful and easy to follow. Highly recommend!
 It is really for beginners. I enjoyed it so much!
-Excelente curso para aprender las bases de Python
 very good course for starters, highly recommended
 It really helped me in clearing my basic concepts
 Fabulous course - really enjoyed it - GO BLUE!!!!
-отличная платформа, классные лекции, все понятно!
 best course to be on the right track with python.
 The course is very much structured and intuitive.
 Very Clear Explanation of Concepts and Practicals
@@ -1338,14 +1286,11 @@ The best course to walk you through python basics
 for beginners this course is pretty much awesome
 love this course and sir and mam  are incredible
 amazing course for non-major in computer science
-Te enseña de lo basico, es sencillo de entender.
 Teaching is good, quiz and assessment was gooddd
 Great Course! Really enjoyed it and learnt a lot
-Un excelente curso para aprender Python desde 0.
 I highly recomend this course to begin on pyhton
 Good for novice and advanced beginners to learn！
 I am beginning to expand my knowledge of Python.
-Nice questions and very detailed video lectures.
 Try to give some basic questions in assignments
 Enjoyed new way of learning and new technology.
 HELPED ALOT TO CLEAR SOME OF MY PYTHON CONCEPTS
@@ -1353,7 +1298,6 @@ It was a nice course. Very useful for beginners
 best ever course o start for python programming
 Just what I needed to jump start my new career!
 thank you verry much for this course and kiron.
-O curso é incricel e valeu muito apena fazer!!!
 Great class, very useful for complete beginners
 solve assignments if ur comfortable with python
 Enjoyed thoroughly while learning from the best
@@ -1370,7 +1314,6 @@ Its a great course for any beginner ,liked it.
 good course for beginner and great instructor.
 Well covered course contents for Python Basics
 this course is very helpful to achive our goal
-Bastante bueno , enseñan de un forma excelente
 now this is amazing ..anyone can learn python﻿
 one best course that one can ever come across
 awesome course I learnt more from this course
@@ -1430,7 +1373,6 @@ This course is very helpful for beginners.
 by far one of the best sources of learning
 It very good course to learn python basic.
 Wonderful course especially for beginners.
-Muy buen curso!! Directo los conocimientos
 It's a great class for Python beginners!!!
 This is an amazing course,way full of fun.
 Excellent course to clear basics of python
@@ -1447,7 +1389,6 @@ Excellent Course for Beginners in Python!
 amazing to start, good info and knowledge
 Loved the interactive textbook Runstones!
 i learned something how to code in python
-i am getting better in python programming
 very good course ,i recommend to use this
 it's was very good. Easy and informative.
 Plenty of practice to reinforce learning.
@@ -1478,12 +1419,9 @@ Nice basic pythonic way to write python
 this is very helpful for me..thanh you.
 It is a very good course for beginners.
 amazing course!!! Thank you so muchhh!
-كان صعباً نوعاً ما ويحتاج للدراسة بعمق
-课程教材非常充分，课程练习非常有针对性，整个学习过程循序渐进，非常轻松愉快。
 amazing work with the jokes, loved it.
 Really! it's a wonderful experience...
 it was really a good and useful course
-深入淺出, 測驗可以再多一點. 題目對於英文能力有一點點要求,大致上很不錯.
 BEST ONLINE COURSE TILL EXPERIENCED!!!
 Its is a very good p;platform to learn
 Thank for Coursera . I really enjoyed.
@@ -1493,7 +1431,6 @@ easy to learn, very informative course
 Great class to sharpen Python know how
 The best course to learn python basics
 Very good and easy to follow.Thank you
-Good course for beginners in week ends
 Good first intro into basics of Python
 Great Course with thoughtful exercises
 Very good course, it a bit slow-paced.
@@ -1506,7 +1443,6 @@ very informative and helpfullloved it
 A very good course for the beginners.
 Very Good Python Course for Beginners
 easy understanding! excellent course!
-Excelente curso básico. Muy completo.
 Really nice introduction to Python 3.
 Amazing, great, well done! So good!!!
 very good course for extreme beginers
@@ -1543,7 +1479,6 @@ Good course to learn Python basics!
 Best learning and studying platform
 Thank you  for the wonderful course
 Best Python Tutorial For Beginers!!
-best course site and understandable
 Excellent textbook and assignments.
 well-structured, interesting, clear
 very good content with proper flow.
@@ -1555,7 +1490,6 @@ Great material and examples so far!
 A power pack course to start python
 Best thing to learn in Quarantine.
 Very interactive and great course.
-very helpful for beginners like me
 its good for learning about python
 Good course! with useful exercises
 Overall course was Excellent...!!!
@@ -1569,7 +1503,6 @@ I can't wait to learn next course.
 the course was very helpful for me
 Simple, interactive and brilliant.
 Great course and amazing teachers!
-浅显易学，每一段程序都有运行展示，便于查找代码错误，太好了这门课程。
 very nice course for the begineers
 Very good course and nicely design
 Nice introduction to python basics
@@ -1601,7 +1534,6 @@ Awesome course. 100% recommended
 Great entry course for python 3.
 A great course. At your own pace
 From basic knowledge to highest.
-Excelente para empezar en PYTHON
 It is good and very interactive
 Amazing Course I really Love it
 I had great time learning here!
@@ -1610,7 +1542,6 @@ Best course for learning python
 Very much helpful for beginners
 Very Nice Course For beginners!
 it is very useful for beginners
-Extremely helpful for beginners
 its is a nice learning platform
 Nice Course for Python learners
 The best course of Basic Python
@@ -1622,8 +1553,6 @@ Very Helpful Thank You so much
 Great course for beginners !!!
 Amazing easy to follow course.
 Fantastic course for beginners
-ce cours a été très instructif
-excellent course. i enjoyed it
 thank you! it was very helpful
 The question must be lil clear
 Great overview of  the basics.
@@ -1638,12 +1567,10 @@ The interactive book is great!
 This course good for beginners
 Excellent course and material!
 very nice course from michigan
-Excellent course!  Well done!
 great course for the begginer
 Great material and professors
 Educational and well-laid out
 Good course for beginners..!!
-best course i have ever seen.
 very nice all doubt are clear
 helped me brush up my concept
 Excellent basic python course
@@ -1657,7 +1584,6 @@ very amazing course to learn.
 Accolades, for your Exertion.
 Excellent Course for Beginers
 Perfect Course for Beginners
-i am learned problem solving
 there was very good learning
 Nice courses.......Thank you
 Good review of Python syntax
@@ -1679,9 +1605,7 @@ Good course for new learner
 Enjoyed this course fully.
 It's a cool python course!
 Best course for beginners!
-Extraordinary experience!!
 it was  a very good course
-best for programming lover
 best course for beginners!
 Very good hands on course.
 Definitely worth learning.
@@ -1691,29 +1615,23 @@ Week 4 is less celebrated
 GOOD AND EXCELLENT COURSE
 This class is awesome!!!!
 Really teaching was good!
-good exercise environment
 it was a wonderful cource
 it was good for beginners
-best course for begginner
 I will carry on for sure!
 Great and dynamic course.
 perfect for the beginner!
 Good for clearing basics.
 Good to learn in coursera
 it is friendly for newiee
-I like python programming
 Goodintroductiontopython.
 wonderful  online  course
 For basics it was amazing
-print("Excelent course.")
-Best Course for Beginner
 Great course! Loving it!
 Easy to learn to program
 Fantastic ! Thank you !!
 Excelent Course! Thanks!
 Great intro, well paced.
 The course is very good!
-Best for python beginner
 It was very very helpful
 Just one word, 'AWESOME'
 The videos were too good
@@ -1725,7 +1643,6 @@ Wonderful course so far!
 Really nice this courses
 good practice in python
 the course is very good
-Superb explanation 👍👍
 wow thank you very much
 Amazing Experiences ...
 IT WAS NICE EXPERIENCE.
@@ -1733,125 +1650,72 @@ Great For the Beginners
 very good basic course.
 It's a excellent cource
 Itwasusefullandnetailed
-perfect!!!!!!!!!!!!!!!!
 This course is amazing!
 Very good for begineers
 The BEST Python course
-Good beginners course!
 Excellent approach. A+
 manageable. low stress
 best course for basics
-best one for beginners
 Great intro to Python!
 nice and easy to learn
-Excellent performance.
 it was nice experience
 very good. learn a lot
 It was very beneficial
 It,s happy experience.
-Excellent for beginner
 Awesome Experience :)
-Awesome for begginers
 intractive and useful
 Very good Experience!
 Thanks, great course.
 Absolutely brilliant!
 Perfect for beginners
-Amazingly amazing! :)
-Super useful and fun!
 helpfull interactive
 Very Good, Very Easy
-You are all amazing!
 Nice initial course!
 do take this course.
 Too good for basics.
 Nice Course material
-Thank you!! COURSERA
 Best to learn basics
 Well created course.
 Very Useful Course!
 Good Course content
 overall good course
-best for beginners.
-excellent tutorials
 i liked this course
 Great for Begineers
-Great for beginner!
 Good startup cource
 Greate basic course
-A GOOD ONE TO START
-its toooooooo good
 Good to start with
-Great value course
 really nice course
-super explaination
-很好，循序渐进，而且题目难度也适中。
-Muy buen curso !!!
 textbook very nice
 exceptionally well
-Excellent  Course
 it was fantastic.
 It was excellent.
 Learning by doing
-GUYS!!GO FOR IT!!
 Easy way to learn
-good programming
-superb course!!!
 Nice assignments
-Awesome textbook
 it's very awsome
 It was awesome !
 Brialliant work!
-Nice Course.....
 Fully Satisfied!
 Really fantastic
 The exercise and
 it is very great
-great questions
-great experince
 Higly Recommend
 Helped me a lot
 Amazing  course
-非常棒的课程，对于入门很有帮助
-excellent work
-best in basisc
 owesome course
 Very Exciting!
 Thrilling one!
-VERY USEFUL :D
-bahute badhiya
 Great courses!
-pretty helpful
-Well detailed.
-extraoridiary
-Very good one
 Good exercise
-very fruitful
 Great Lessons
 Hello World!
 Its too good
 great it is!
 Pure awesome
-Best Courses
 It' so fine!
 That's good.
-Helpful !!!
 SUPER NICE!
-i enjoyed !
-VeryHelpful
 Well paced
-VERRY NICE
-I am happy
-NICE ONE!
-useful...
-Detailing
 Nice one.
-Nice sir
-........
-非常棒的入门课！
-it's fun
 Cool!!!
-Good...
-amazinz
-amazng
 basic

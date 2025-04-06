@@ -5,9 +5,7 @@ This course is, in my opinion, not really very good at all.  Mistakes are common
 It is extremely inconvenient that I am unable to move between courses at my own pace. I have finished one course and would like to move on in the SSCP program, but I am unable to.
 This course is a good introduction for the 8 domains to get an SSCP certification, but there is a lack of information to be able to successfully complete the exam and they do not give support materials to complement the video or the readings.
 The free text answers during video courses are very complicated to answer. I guess a human is still required to validate the answer. As you said for the peer-review exam, english is not the native language for everybody and sometime students say what he understood without telling word by word what is said or written in course materials
-Buen curso, si hay que poner un pero yo añadiria alguna parte práctica donde se pueda aplicar algun concepto de los aprendidos.
 very nice certificate. wish the hard copy was also available
-Peer Review takes too long
 Nice course , if someone needs an introduction to the access control area and  the concepts of it. Course is useful, partitioned in theme sections , and acknowledges the fact than participants may be completely unaware of access control area.
 i really gain access while going through this course gave me much skills on what i was really hearing about but not knowing the contain but know i got rib of what is the therm bio-metrics means in real world
 ISC2 itself a premium institute providing cyber security training and certification. In this modul they provide qulaity and advance training. sound and video quality is at best. contents are super awesome.
@@ -15,7 +13,6 @@ The video lectures, readings, and overall course material was very informative a
 If you wish to gain a very good overview of cyber security access controls, then I would highly recommend this course to you.
 Covers everything the young IT security professional should know - Masterfully compiled and presented.
 Great Introductory content with adequate coverage of the course material and exam question context.
-기업에서 관리되는 접근제어 방식 중 다양한 모델과 장치들을 알게 되었습니다. 초심자가 처음 접하더라도 어렵지 않게 배워나갈 수 있습니다. 강의 품질이 상당히 좋아요!
 The videos were a great resource to go along with the book I'm reading with it.
 If you don't have the (ISC)² certification then your not security expert.
 Good Course to learn and implement the guidelines about access controls
@@ -28,7 +25,5 @@ It is a really good course to take.
 Adam Gordon's Lectures are Awesome
 Very Good and Effective knowledge
 Its so nice and informative.
-Excellent Trainer...
 vry useful knowledge
 Excellent Work
-Amazing module

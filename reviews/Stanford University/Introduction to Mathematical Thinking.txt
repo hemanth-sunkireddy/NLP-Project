@@ -1,8 +1,6 @@
 I found this course to be incomprehensible. The professor was rude and dismissive, when I asked for help.
 The detailed explanation of proving certain claims in the course are very ambiguous, which is the reason I discontinued the course.
-Tengo Problemas con la traducción al Español, me notificaron que este curso  tenia subtitulo en español me voy a dar baja.
 I disagree with the way the rubrics are designed. It should be called "think as I do"
-no entendi nada no sabe explicar y ademas es vejo y blanco....
 It's fail course it's a wasting for time
 this course is given by a rock star in math (prof at Stanford and behind the interesting BrainQuake). Also some interesting concepts are shared. And finally: I love math!  So why such a low rate? Because this is a very badly done MOOC from the pedagogical angle: you can't do 27-minutes video when we know that the average focus of a student is lower than that. Also don't ask for a lecture to read separately if you can't at least share the url where we can safely read it online. Finally locking the next weeks is ridiculous: let the student advancing at their pace.  So very good in terms of pure math (not a surprise since Keith Devlin is pretty famous in the math world), but very frustrating in terms of pedagogy.
 I am really not sure if you need 20-30 minutes videos to explain the material - I think maybe 7-10 minutes clear with some good examples would be more helpful, I fell sleep during some of the lectures, boring, long and not sure if necessary -   on the other hand I guess 20-30 minutes is good because you learn to put up with arguments and clear them up yourself - also maybe this course was directed towards high school students thus the long explanations -Overall, as I said on the beginning,  it would work better with clear definitions and  some examples and discussion board -
@@ -13,7 +11,6 @@ I really want to learn this material. I believe the module may be more improved 
 think differently....
 completely disagree with evaluation exercises as it allows to get >= 12 points for completely wrong solution. It's better to use [0,7] based system as used in IMO. it makes more sense and checks problem solving, not ability to bullshit
 A more mathematical approach to Formal Logic. Good alternative to Intro to Logic (also from Stanford) for STEM students if they don't like the format of Intro to Logic.
-老师很幽默。讲的很细致，可是没人最后改我的作业，以后不交钱了。
 The skills learned in this course are useful for someone who hasn't yet reached college math (like myself) but from what other people are saying, it may be basic for someone who has passed beyond this point (ask others about this). I gave this 4 stars because though the professor is engaging and his concepts are memorable, his lectures are slightly longer than I can hold attention for and the peer review process at the end is tedious, especially for someone who doesn't know how to use Latex format.
 Overall I thought it was pretty good. Explanations are straight forward, and easy to follow. Small little quizzes are given throughout videos to ensure that people are paying attention during the lessons. The only negative part is that it's clearly a class that's designed around you working with multiple people. If you don't, you won't be able to study as well. Fortunately, there are forums, but with the nature of forums, responses can range from "immediate" to "never."
 Good Course, A must take for college math majors. While the course covers most of the contents, Professor should have given more attention to Proofs and Real Analysis which are assigned just  two weeks in this course.
@@ -31,7 +28,6 @@ From my understanding so far; it's a good course that lets you quantify your bas
 Great course for those who might want an additional understanding of mathamatical logic and number theory. For me its was challenging, but I learned essential math patterns and basic skills I wish I got in High School.
 I am happy to learn Math from the beginning of the beginning. Moreover, if this course was read for me at school, I am sure that I could have much more closest relations with math:)
 Course is great but it is difficult to print assignments in PDF because printers is not accessible by everyone. It is better when all assignments use coursera platform.
-Boa iniciativa, boas palestras e aulas. Todavia, necessita-se de um adaptação para países da língua portuguesa. Pelo valor pago pelo curso, nada mais justo!
 Nice course overall. It makes you do and achieve what it says, so if you want to learn mathematical thinking that is the best introductory course for you.
 some of the functionality of the coursera site makes accomplishing tasks cumbersome, specifically week 9, but overall a great introduction to the topic.
 A brilliant course must-take course, all that it needs is a little polishing up to cater for the very short attention span that today's netizens have.
@@ -50,8 +46,6 @@ will update my review after finishing the course
 A good course to strengthen the foundations.
 i enjoyed and learned the course
 I was expecting something more
-Unique approach. Commendable.
-cloud use more visual aid
 good and well thought
 My love for Mathematics in the past few years is like the electrocardiogram (Điện tâm đồ) of a near-death patient, which is peaceful as the surface of a calm lake. This does not annoy me at all, despite for the fact that I used to be called the smartest one in class, in this specific topic particularly. Then, how did I end up like this? Fortunately, Professor Keith Devlin points out that this is not exceptional. It is not true that people are born to be good or bad at math by default, and keep up the trend till they die. In fact, there is always a transformation in mathematical thinking from high school to university level, that almost no one was told when they were students. Moving from being taught a fixed set of techniques to solve a problem, now you are asked to be able to abstract things and reason about it, which naturally confuse learners. To prepare for such transformation, this is the exact course you need.  My personal opinion: I wish that I have taken this course 5 years ago, so I can learn a bit more about Algebra. First year undergraduate students, mark my words: take it!.  Course review: In the first half of the course, Professor teaches the importance of understanding the primitive mathematical notations, how careful you should be when formulate a problem, and do not rush when attack it. The quizzes successfully demonstrate the second and third points.  In the second half, it's amazing to see how one can derive mathematical reasoning solely from the truth tables, and apply it to produce appropriate techniques to solve problems. Only now that I know it's not black magic when somebody choose an arbitrary value that I have no idea where it comes from in a proof. In the last 2 weeks, he gives us a few touch on set theory and real analysis, the two subjects that I suddenly feel attracted to, not to mention his sense of humour when introducing them ;)  Notably, throughout the whole course, Professor shows us how to evaluate a proof, and I do learn a thing or two about it. As he always says, the point of a proof is 1) establising the truth and 2) explaining it for the readers, math will be interesting once you learn its way of thinking.  I now feel more ready than ever to read a mathematical problem; specifically, where to look for in the beginning of a proof, and the abstract idea of how the authors come up with their chain of deduction. Thank you so much Professor.
 I love this course.I cried of the
@@ -65,7 +59,6 @@ that you take it in advance. I recommend seeing the material slowly.
 Some parts require some effort. Please do the exercises and
 review the forum group.
 In the last lecture, based on what he previous taught, the professor give us the definition of limitation which is the beginning of the Calculus. I wish I taken this course before university.
-Очень сложно сказать, что курс был полезен для меня в карьере или учебе (или как-то крайне интересен), однако благодаря курсу я стал лучше понимать язык математиков и освежил память по некоторым математическим законам. Огромное спасибо создателю курса за отдельные turorial-видео после assignments!
 Great course, it's really shows the way how to think in mathematical rigor. It gave me an intuition about what Mathematics is itself. Thank you Profesor Keith Devlin, you  are a great teacher !
 This is
 by far the best course of mathematics on Coursera! The
@@ -211,8 +204,6 @@ Sometimes challenging, but very interesting and fascinating course! Keith Devlin
 Very useful for knowing the basics of number theory and to think mathematically. Slow and Steady wins the race! Concepts explained with good explanation.
 Wonderful Course. A great distraction from the Covid19 virus. Much more interesting and exciting than Netflix. Thankyou to all involved in its creation.
 It's a pretty good course. I learnt a lot. I hope Stanford open more math courses in math field, such as Number Theory, Analysis, and Abstract Algebra.
-Es un curso muy bien orientado, y el método de enseñanza es excelente. El profesor te enseña a pensar más allá, lo recomiendo para todos los niveles.
-很棒的数学课程，适合大学新生在上高等数学时学习。这门课详细介绍了数学证明的方法，并且会告你大学学的数学和高中时不一样，最后一周的互评作业也很有意思，通过批改其他学生的作业我也学到了更多知识。这门课让我对数学有了更大的兴趣，如果你对数学感兴趣或者想学好大学数学的话，你应该来试一下这门课程！
 You don't learn math only; you learn the techniques of logical reasoning.This course is evaluable and helps me become a more effective thinker.
 Such a delight having followed this course... it was a real pleasure to think differently other than usual... thinking mathematical for once...
 Τhe lecturer of the course is quite explanatory. The course material is quite well organized with methodical steps in explaining the concepts.
@@ -233,9 +224,7 @@ This is the first course I've finished in Coursera....It really is a great and w
 A useful and good course for common development.
 The name of the course corresponds to the topic.
 My wish was fulfilled.
-Muy bueno lo recomiendo a todo aquel que se quiere iniciar en el conocimiento matemático..para mi ha sido de gran ayuda.
 It was sooo good!!! Being a 13 year old, I have not learnt everything I needed to but understood everything perfectly!
-Curso excelente. Mostra a imensidão da matemática além das receitas prontas ensinadas no ensino fundamental e médio.
 Good for developing basic abilities like how to structure your proof, develop thinking through a well defined proof
 Engaging course, very interesting for someone who is willing to learn patiently. Thank you professor Keith Devlin!
 This course gave me a number of bright ideas about the extraordinary approaches, when you solving complex problems
@@ -285,14 +274,12 @@ Interesting and easy to follow . But serious work required . Not for the lazy...
 Very complex, but very interesting. Worthwhile the time and dedication invested.
 extremely useful and helpful, actively feeds my curiosity regarding mathematics
 I am no longer unable to access the course through the app though. Please help!
-Lo recomiendo mucho ya que aprenderás y desarrollarás el pensamiento matemático
 I really enjoy the clarity of the explanations. Good material too. Amazing job.
 Good materials to give an introductory overview of mathematics in universities.
 A highly motivated introduction to how mathematicians think, analyse and write!
 It changing my thinking towards understanding mathematics from another aspect.
 Very useful, especially for students who have just graduated from high school.
 It is a very didactic course,. I wish I had concluded it earlier in my career.
-muito bom,esse professor explica muito bem e os assuntos são bem estruturados
 This is a great course, especially the first four weeks.  Highly recommended.
 the informational and best course to strengthen ur core skill in mathematics
 Really excellent for all college level students and teachers of mathematics.
@@ -363,7 +350,6 @@ Very challenging but ultimately rewarding!
 Excellent course - I really enjoyed it.
 This is really a good course to come up
 Inspiring and helpful for researchers.
-Un curso excepcional. Muy recomendable
 I found this course extremely helpful
 well conveyed enjoyable course, and f
 This course was more than I expected
@@ -377,7 +363,6 @@ Brilliant Lecturer! Thank's a lot.
 It's been an enlightening journey.
 Thanks for everything, Dr. Keith.
 Great course to get you THINKING.
-dcdsvzfbzdzhfgzhgfmhxjfgdssghcj,
 AWESOME! That's all I can say...
 A great course. Learned a lot.
 Enjoyable and Very Informative
@@ -389,8 +374,6 @@ Professor Devlin is awesome!
 Math is fun with Dr. Keith!
 Brilliant and Crystal Clear
 things are getting intense
-helps in developing proofs
-Un cours très bénéfique !
 It's simply extraordinary
 First course worth to pay
 definitely a good course!
@@ -398,29 +381,15 @@ Very challenging course!
 It was an amazing Course
 Love it! Really helpful.
 very good intro to maths
-Dr. Devlin is a wonder.
 it is an awesome course
 thinking in a new way..
 smart  like that course
-Excellent programme...
-skrrrrrrrrrrrrrrrrrrr
 Absolutely brilliant.
 Tough, but rewarding!
-Exceptional course!
-an excellent course
-Fundamental to scie
-Amazing. Excellent.
-Excellent source!!
 It was fantastic.
 Very pedagogical
 Great faculty!
 Great Course.
 Good practice
-Fantástico
-棒得超乎我的想象！
-womderful
-Exelent !
 Classic!
-DO MATH
 thank's
-More!

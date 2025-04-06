@@ -24,7 +24,6 @@ Course is very quick and does not cover the topics in sufficient depth -  explan
 Poor audio quality.. Cant even hear in full volume
 Very bad quizzes, no challenge whatsoever.
 Too much repetition in the content.
-Could have been better
 Too easy.
 Unfortunately, These whole Specialization didnt match my expectations. I finished whole Deep Learning Specialization and I LOVED IT. Before starting this one I had very good feeling about this specialization; however I learned very little. Most of the videos are like "this code does this and this code does this and this line does this and this function does this etc. " . A bit disappointed, but still learned some.
 The material is great and the presentation elevated and professional. Few thoughts nonetheless: a) i know time series, came here for specific advice on how to tune models. I was extremely disappointed. Stationarity is mentioned at the very beginning but then it fades as if it was completely irrelevant to ML. b) there is more than one contradiction in the presentation. MAE is going up yet the presenter says that it got better??? That I think would be really confusing, particularly for novice learners. c) black boxes: I acknowledge that there are so many decisions and choices one needs to make when setting up a training model. Wouldn't it be relevant to highlight them and explain how different decisions impact the outcome? This course was failing on that.
@@ -58,11 +57,8 @@ It is the most interesting course of this specialization.
 could have emphasized more on the time-series data...
 I would have like to do testing exercises.
 the sound still bad, cant hear the voices
-Model did not predict well.
 where is the assignment
-audio volume very less
 a little bit to light
-Plz more practice :)
 A little to easy.
 Very good way to get familiar with Tensoflow - it's pluses as well as its minuses.Good
  overview of applying tf.keras to this topic.  Machine learning is 
@@ -186,8 +182,6 @@ I miss the graded assignments.
 Graded exercise would be nice
 It is wonderful experience
 it's good for beginners.
-No graded exercise
-C'était géniale!
 A step by step explanation of how to use TensorFlow 2.0 for building a Neural network for sequences and time series. With detailed examples of code and of how to choose hyper-parameters.
 This was really a beautifully designed course. They didn't focused on teaching too much of thing at once but build up the base slowly and strongly for better understanding.
 An excellent course on Time Series and Sequences by Laurence Moroney. Explained how to use CNN, RNN and DNN together to bring the nest out of time series prediction.
@@ -222,9 +216,7 @@ This course has been very great for learning sequences, time series and predicti
 It was very nice to learn more about TensorFlow! Nice practice about real-world stuff. There's too much to learn, but I hope you get more courses in much different topics to connect all and get a better understanding of Artificial Intelligence possibilities! Thanks for teaching me this much!
 An absolute cracker of the course for Time Series and Predictions from Laurence Mooney and deeplearning.ai in a structured way building up the concepts fro the basics to real-world problems.  Enjoyed every moment I did the course. Kudos to the entire team for delivering such good content.
 This is easily the best material I've seen on time series analytics using DL.  Lawrence Moroney does an unbelievable job of demonstrating how to create a practical time series model using different architectures from start to finish in a completely understandable way.  Thank you so much!
-Je modélise des séries temporelles depuis des années. Une des motivations de ce cours était d'apprendre à utiliser les modèles de Deep Learning sur ce sujet. Grâce aux cours précédents et à celui-ci, je vais pouvoir concrètement utiliser ces modèles à la prévision de séries temporelles.
 Laurence did a great job in this course. The information was compressed just enough to where I could move swiftly but also still gain deep insight & intuition into the code so I can apply the tools to other projects outside of this course. Can't wait to start the next specialization!
-Excelente curso, Laurence va explicando paso a paso, en forma detallada, como ir mejorando la DNN para obtener mejores resultados. Recomendado. ¡Lo disfruté!Excellent course, Laurence explains step by step, in detail, how to improve the DNN for better results. Recommended. Enjoy it!
 Amazing work by both Andrew NG and Laurence Moroney. I look forward to your next courses. Without these courses, it was very difficult for me to learn Artificial intelligence and because of these courses, I found my interest in AI. Thanks a lot, Andrew Ng for making these courses.
 Thank you for a great set of courses! I really enjoed working with real datasets and being able to find out for myself how they worked. The content was at the right level for my Python programming ability and the Google Colab and Jupyter notebooks provided an easy place to learn.
 Thank you so much for providing such a great series of courses! It makes more sense as i've started from Machine Learning, Deep Learning Specialization and this TensorFlow in Practice Specialization. I'm happy that i've taken this course. I would expect to see more of the course.
@@ -279,7 +271,6 @@ Thank you Laurence sir and Andrew sir for putting together this course. It gives
 Fantastic course, starting from basic fundamentals of statistical forecasting to using Convolutional neural networks. I will use my learnings directly to my job.
 The practice problems could have been a bit more rigorous. you may think of prediction of stock prices as an exercise. Thanks a lot for this specialization..
 Excellent coverage of both the breadth of tooling now available in TF2.x and methods for shaping time series data so you can easily apply deep models.
-Es un poco abstracto este curso, recomiendo haber tomado el curso de Sequence Models de Andrew para poder interpretar mejor la información del curso
 this course is strictured,  clear explanations with brief videos. this is a great course to learn about machine learning especially in Tensorflow
 It's quite useful.  But it'd be great if some details could be more explicitly mentioned like the tutorial in Tensorflow.  It'd be a lot clearer.
 A challenging journey to learn Sequences and Time Series to deal with the real-world, which is of much fun in the course. Let's explore together.
@@ -322,7 +313,6 @@ The progressive elaboration of explanations seems to me an excellent job. The co
 Fantastic course, I've been looking for guidance on Time Series with ML recently.  And here you go!
 This is the best, after completing i felt like need to take to more, really enjoyed while learning
 I recommend it to those who want to start TS analysis with tf.keras. Lots of good stuff to learn.
-Excellent practice exercises, excellent content, excellent teachers, excellent length of videos.
 It was amazing. Learnt lots of techniques and i am looking forward to learn more from this team.
 Thank you very much Laurence!! These courses really really help me. I appreciate again so much.
 Really a good course to start off with time series modeling, Thank you Lawrence and Andrew :-)
@@ -347,7 +337,6 @@ Thank You, Laurence and Andrew! I have started to fall in love with Coursera :)
 Good course to understanding basic of time series implementation in Tensorflow.
 Great course to get first hand experience of using Tensorflow on deep learning.
 Time series was new material and really appreciated this class for that reason.
-Excelente curso muy buen contenido y ejercicios muy intersantes y explicativos
 This specialization is a great complement to the Deep learning specialization.
 after andrew's course, this course is really helpful for  learning a new  tool
 Very well designed course. This course helped me to quickly pickup Tensorflow.
@@ -416,13 +405,11 @@ great start for a machine learning student
 It is everything it says it is! Loved it
 Thank you for all of your great efforts!
 Homework assignments should be required.
-Once again, excellent job from Laurence!
 A good starter pack for LSTMs and RNNs.
 Very exciting to learn ML in practice !
 Really the way you deliver the course!
 The Learning Experience Was Awesome!!
 The best deep learning lecture ever!
-fun, great course, great instructor
 Pretty good course, I learnd a lot
 I am very satisfiedThank you a lot
 Excellent course and learned a lot
@@ -434,16 +421,13 @@ Practical but a bit too shallow
 Great courses and great mentors
 Good practice in TensorFlow 2.0
 Thank you guys for this course!
-Excellent Course, Love Andrew!
 Really great course material !
 Thank you Laurence Moroney.
 a TF analytic tour de force
 great material! thank you!
 Another excellent course!
 very good course.Amazing!
-That last week is golden!
 loved learning in chunks
-audio is not loud enough
 That is  a great course
 Interesting and usefull
 Great Course, Good Job
@@ -454,20 +438,12 @@ very helpful course!
 Nice and easy paced.
 thank you a lot  ^^
 Really awesome !!!
-Welltaught, Great
 10/10. Loved it.
 Finally! We did!
 It's very great
 Great Job Sir!
 great as usual
 Always great!
-Thank you <3
-非常棒的课程，内容很新颖
-유익한 강의였습니다.
-so amazing!
 Really Nice
 very easy
 Worth it.
-THANKYOU
-Show!
-nice！

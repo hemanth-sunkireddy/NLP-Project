@@ -29,11 +29,8 @@ can't reset a submission if it gets incorrect
 week 4 assignment took forever to be marked
 Sucks in short!!!!!!!!!!!!!!!!!!
 Not correct way of teaching.
-Please help mee. 😭😭😭😭
-hh
 Note: I'm rating this course as an element of the Python for Everyone Specialization. This course is well done technically and Severance is a great teacher, but I don't know what they were thinking when deciding to have students who have only just recently gained a most tenuous grasp of Python start to work with databases. If a student began this as a true beginner, s/he is still just a fledgling pythonista by the time he's being completely overwhelmed by all this other new stuff. I found that when JSON, XML, and SQL were introduced, my comprehension of "what's going on" decreased from around 95% to 15%. My eyes just glazed over when looking at the code and I completed assignments by tinkering around and praying that they would work.
 i don't enjoy with this course at all. this course is not good . i don't like copying code and paste it into other place. also to explain code was written before is not good for beginner the code must be written live to understand whole code . Also the assignment wasn't clear at all. you had to search to know what they want exactly. I hope to improve it for next people who will take it
-sql语言的内容偏多
 This Python3 course is EXTREMELY sloppy compared to the earlier Python2 version. Chuck acts as if he is really tired of making this course.Examples: Chuck writes on the white slide with yellow. Later with yellow pen on the yellow database icon. One has to pause, look closer.Chuck copy pastes the SQL code. It is not provided for us as a text, so I pause the video for 15 minutes and start typing.SQL command should be UPPERCASE, but sqlite doesn't care apparently, but this wasn't discussed.And there are dozens of things like this.
 Dr. Chuck is a nice teacher but I have a very bad experience in this course, especially for the assignment of week 5. This is a very easy and simple assignment and basically just follow Dr. chuck's video. I have no ideas why we need to wait for more than one week just waiting for the teaching stuff to mark it. Otherwise we are unable to receive the certificate. This gives me a feeling that the unnecessary long marking period is just to increase your time subscribing to this course and they can earn more money!!
 Far too simplistic assignments
@@ -139,17 +136,13 @@ Course is interesting, but tasks are way too easy.
 Good course for beginners, more theoretical
 Assignment could be a lot more challenging.
 I'd rather program more than just be a user
-Would be better if have harder assignment.
 Not as in-depth as the other modules.
-Nice course but not enough exercices
 Not as clear as the first 3 courses
 Assignments were way too simplistic
 I work seemed a little too light.
 It have low practice exercises.
 Could use more hands on coding
 was expecting more on this.
-Good but for beginners
-A little simplistic
 It's a great toy introduction to database technologies - I wish the assignments involved more than just running starter code and making a few lines of modifications.
 As with the third course in the specialization, the lectures give just enough to allow students to independently advance their learning outside the course. To be honest, I think the instructor covers too much ground in too short a time for most students to gain a lot of understanding. Furthermore, the assignments are quite straightforward requiring minimal adaptation of the supplied code.The module on Object Orientated Programming is, frankly, a waste to time and a distraction. There are no practical exercises and the material is run through at a pace that makes it unlikely that anyone without prior knowledge would make any sense of it. What is more, there is no reference to, or use of, OOP at any other point in the course or specialization. The time would have been better spent in expanding the modules on the core topics of using databases with Python.On the positive side, the external tools on Dr Chuck's own website seem to work as expected and integrate smoothly with Coursera. The forums also remain supportive, although, as with most courses, far less active than on the old platform.I still rate this as a 4 star (albeit a 4-) as Dr Chuck is such an engaging instructor and there is still a good progression through the specialization. I would be more cautious if taking this as a standalone course.
 I liked the course.  As with the previous three courses, Dr. Severance does a great job presenting the material and explaining how the code works.  I felt that the assignments and the book were lacking a little bit:1. The textbook needs to be updated to include the Object Oriented Programming section that is covered in Week 1.2. There is no programming exercise for the OOP section, just a quiz.3. There are no assignments in the textbook for Chapters 14 and 15.  The examples of the code and how it works is awesome, though, which is a trade off of sorts.4. The Chapter 14 programming assignments only require minimal programming in Python and/or SQL.  I would have liked to do a little more programming.5. Chapter 15 felt like it was shoved in at the end, and the assignment was really easy.  I was hoping for a little more rigor on that one, also.Overall, it was a good experience and I'm looking forward to finishing up this specialization when the Capstone is unlocked and becomes available.
@@ -249,7 +242,6 @@ This course is a very good one for beginners like me. But I felt that the assign
 Very good course to understand interactions between databases and programs. However, week 5 was a bit unclear in its goals and the solution for the exercise a bit tricky.
 I would've liked to have to write more code, as most of the exercises were just modifying the written code a bit, but not actual writing! Aside from that, great course!
 I enjoyed this course, but since I have a lot of background in databases, I wished there were more practices with retrieving data from a remote data base vs. a web api.
-O curso apresenta conceitos básicos para criar e manter um banco de dados simples com SQLite3 e Python. Rápido e bem explicado. Faltou avançar um pouco mais no Python.
 I like this course.  4 star is "excellent"; I do not grade anything 5 star (unless it is so good that no better one emerges even till the end of human civilization).
 This course is harder than the other 3 courses in the specialization and it lacks some beginner tasks, it is like giving you a stone and asking you to build a house
 The last assignment was very interesting but I felt it was a little bit rushed. More details about the API key are needed so all students can finish the assignment.
@@ -320,7 +312,6 @@ Id suggest for week 4 and 5 to have more difficult exams. I loved the course nev
 Fantastic lecturer, I will definitely recommend more of Dr Charles Severance Python courses. He is fantastic
 Not as good as the first three but still very good. Do the first three if you haven't already done them.
 Assignments were too easy to pass. So it was not enough to practice of DB. But lectures were still good.
-Ótimo curso, ajudou a aprimorar habilidades de leitura de dados web e armazenamento com bancos de dados.
 The 4th course, in my opinion, mainly involves general stuff. It's not as specific as the last three cou
 Not in details and code was copy and paste, although I discovered a new field of technology with Python.
 Great course! Dr. Chuck makes the course fun and presents the material in a way everyone can understand.
@@ -372,8 +363,6 @@ It was good, however I still don't feel totally confident in the skills.
 Really good course. Clear discussion of databases and how they are used.
 Very informative. Need more assignments/problems to consolidate learning
 Using this course I have learnt many things about databases and python.
-很好的进阶课程，结合sqlite数据库讲解Python的使用方法，简洁易懂。最后一次作业中的 一些代码不是很明白，希望能出个视频具体讲解一下
-一门很好的介绍　ＰＹＨＴＯＮ　的课，　缺点就是作业过于简单。　我期待的最后一个作业居然不需要半行代码。　　增加点难度是可以增加学习动力的。
 very good and interesting module which help me relate to line of work
 Too basic and the code for the exercises were usually almost complet
 This is an amazing course for learning about Database using python.
@@ -400,9 +389,7 @@ It would be better if projects were explained in detail.
 Some of assignment instructions are very confused to me.
 Good, but could've been a little more thorough/hands on.
 Good introduction to using python with simple databases.
-讲述很到位。提供了许多实验，可以直观的感受到运用DB来作为数据分析的中转站的强大之处。略显不足的就是难度略低了。
 Course is very good itself but assignments is very easy.
-内容比较简单并且稍微有点……过时，但是就原理阐述而言做得非常棒，作为Python数据处理入门课程来说非常适用。
 Excelent course to begging with databases using python
 Great course. A great extension to the original course
 Assignments ask for things not in written material :/
@@ -413,7 +400,6 @@ This course is easy to understand how python works.
 Dr. Chuck as always taught the course beautifully.
 assignment difficulty level should be increased...
 awesome, very good explainded, and very enjoyable
-数据库检查死板，所有column名称必须跟机器结果一致。即使程序对了，几个名字不对也会导致错误。
 The last week lectures were not very productive.
 The last assignment was unnecessarily confusing.
 Assignment codes should only be partially given.
@@ -442,11 +428,9 @@ The content is clear but a little simple
 Excellent course :) Really enjoyed it!!!
 I enjoyed learning Python with Database
 The assignments can be more challenged
-Gracias por tan apreciada oportunidad!
 A very good Course for the beginners.
 I'd expected it to be more difficult.
 A little easy. Especially last grade
-Excellent resources and instructions
 It's better to use Python 3 version.
 The course is easy, but informative.
 very objective, but a little simple.
@@ -457,7 +441,6 @@ A good introduction to databases.
 Felt happy  for  learning  SQLITE
 quit useful and good for beginner
 It's a great entry level course.
-IT WAS FUN PLAYING WITH DATABASE
 The homeworks are way too easy.
 Very useful! Teacher is great!
 Awesome course up till date !!
@@ -479,8 +462,6 @@ Good  hands on sessions
 Can be more challenging
 Thank you doctor Chuck!
 Nice a piece of course
-算是入门吧，讲解不是特别细，需要自己研究研究
-Peer Grade is so slow
 Learned a lot! Thanks
 A little bit too easy
 add more assignments
@@ -490,17 +471,8 @@ Not much exercises.
 It was very Good.
 Solid instructor
 Just Awesome...
-beginner level!
-Nice tutorial
 too simple TT
-Ossum {=()=}
-Nice skills
-STILL NICE
-对程序的讲解略显不足
 Loving it
-goot
-Not
-勉强吧
 Charles Severance is one of my favourite professors. He teaches stuff in the simplest way possible. He delivers the content is in a very friendly manner. So friendly that if I meet him by chance, my first sentence might be "Hey Chuck, Wasup?"Coming to the course content, I didn't understand why they included object oriented programming in this course. Provides good exposure to SQL. There is a week of geocoding, though he doesn't walk you through everyline of geocoding exercise, throwing it out there gives exposure and opportunity to learn more on own.
 Dr. Charles Severance is by far the best Computer Science professor out there!!!  I've done a significant amount of online Computer Science courses -as well as classroom courses back in college - and not one professor has been as fun and easy to understand as Chuck.  He puts presents every topic in such a way that you're never scared off thinking "i'll never understand this stuff."  He make computers and everything technical make sense.  I've basically binge-watched almost every lecture/course he's headed up.  I never knew how vital it was to understand Database development.  I also thought it would be outside of my realm of knowledge but now all i want to do is build databases to analyse.  He makes it so easy to comprehend.  I always thought i was Python was for wanna-be programmers but now i'm proud to say Python is my language of choice.  SQL scared the hell out of me before i took this course.  Now it's my first stop when i'm planning to develop a new model.He makes learning fun and seems like he's be a really fun guy to get to hang with.  Thanks Dr. Chuck for your love of teaching, you're the best!
 The course is great... You can  definitely learn many things... Was kind of hard for me and i went many times back and forth through most of the lectures... However i think  i learn many new things....
@@ -628,7 +600,6 @@ I really feel like I have a good foundation on SQL now. This course gets you to 
 I thought this was a really good class that brought all the concepts learned in the prior four classes together to show how a project might look in the real world that included reading, processing, and analyzing data including writing large amounts of data to a database.
 The lectures and examples definitely give a great overview of using SQL with python. The assignments really helped to ingrain some of the lectures details .Some more assignments would definitely be helpful to learn more about the the intricacies of using SQL with python.
 I think the Py4e courses are very, very good. They are  THE courses to take to master Python. Dr. Chuck seems very pleasant, while the lectures and assignments are laid out in such a way as to smoothly transition one from a Python beginner to someone nicely trained.
-Un curso excelente dirigido especialmente a quienes desean especializarse como programadores. Enfocado en el trabajo con SQLite. Las presentaciones son impecables y están bien explicadas y los materiales me parecen bastante útiles. Un curso totalmente recomendado.
 Excellent course! Well-organized introduction to methods and framework for using Python to capture data from online or other sources in databases. The quality of instruction and the pace and flow of the course were extraordinarily valuable for learning this topic
 My learning was immense. Code writing and code understanding are given equal weightage. I appreciate the hard work of the teaching staff who have a huge task of manual evaluation of assignment submissions. Peer graded reviews are helpful in the learning process.
 This course was very fun to do! I will be forever grateful to Dr. Chuck and Coursera team for giving me an opportunity to learn python programming this way. I'm looking forward to sharpen my python knowledge and apply to solve more and more problems! Thank you!
@@ -705,7 +676,6 @@ It was a great journey, I learnt a lot in this course and I will continue to lea
 Again a good course from Dr.Chuck this course covered basics of SQL and Python using database, All the assignments are very good if you want to explore more there is some good videos in Bonus lectures.
 Very good and easily accessible. Mostly about databases and how to use them through Python, less on Python itself. The assignments were too easy though. Usually one had to add one to few lines of code.
 the way this course is design is absolutely amiziong. just good amount of most important information is provided. task are not too complecated to finish (maybe coudl be little more dificult:) love it!
-Buen curso para un repaso de las bases de datos relacionases. Además es una introducción rápida y sencilla de como hacer conexión con una aplicación de python. Además el Dr. Chuck es muy buen maestro
 It's an excellent course. Thanks for the oportunity to learn. Thanks to Coursera, to the University of Michigan and of course to Dr. Chuck, a very good an enthusiastic teacher! All the best for you!
 I learned how to create a database model and trying to create models for my own day to day data for practicing. It's a really great tool for sorting things out. Thanks Coursera, Thanks Dr. Chuck :)
 Tied together many data transfer concepts that I had heard of but did not understand.  Very interesting set of topics - makes a novice understand what other languages might be interesting to learn.
@@ -741,7 +711,6 @@ I love this course very much, as I get to learn the database , understand the us
 Dr. Chuck is an amazing teacher. All the concepts are beautifully explained with worked out examples at end of each module. Highly recommended for those who are starting to learn python.
 I have learned so much from these courses.  I really like Dr. Chuck's style.  I have a firm grasp of Python now, and I'm very eager to continue building my skills.  Thank you, Dr. Chuck!
 The content of the course are sufficient. However, the technicalities involved in the code walk-through needs to be explained, which will make the examples more relevant to the students.
-Temática de fácil entendimiento con ejemplos claros y bien explicados. Aunque se centra bastante en el uso de SQLlite, sirve de mucho ya que muestra la unión entre las dos aplicaciones
 Dr. Chuck is an awesome teacher! I like his teaching style.However, please remove peer-graded assignment. Most of the times, it delays students from completing their courses.Thank you.
 Good course for intermediate and beginner to learn the basic, concept and definitions of database structure. And learn how to manipulate data from any source i.e. database, XML, json.
 Great class! Really liked learning how to interact with databases in Python and will be using this foundational knowledge to continue the development of my database design/SQL skills.
@@ -749,8 +718,6 @@ The course gave me a lot of understanding about the Databases and how to design 
 Like every course in this specialization, this course is very well instructed and covers a lot of topics while the instructor managing to keep all approach simple and understandable.
 Great class. Although I feel that for someone like myself (still a beginner with python) it is good to take a break and practice coding/reading codes, then I shall take the capstone.
 Excellent course!!!I learned some important concepts about SQL, databases and the application of Python in data visualization. The demo presented by Dr. Chuck was really interesting.
-Cours très intéressant pour débuter les bases de données, avec des exemples concrets d'implémentation. 
-Un grand merci au professeur Charles Severance et à l'Université  du Michigan.
 great instructor with great course and material , i have learned about database and used sqlite as a DBMSlearned the primary query and stored data from xml and json into my local DB
 The best way to meet programming as a discipline for the first time! Сharismatic teacher, useful assignments, well-thought-out course. Thank you Charles Severance and Coursera team!
 I am satisfied with provided information and can say that assignments was pretty interesting for me. Love maps and coordinate systems, so last assignment was especially interesting.
@@ -781,7 +748,6 @@ Amazing course, really!I was so excited to learn about SQLite and about how easy
 I learn how to connect to sql and find a specific value in a fast way... Not so easy but the course help me to do it. It's amazing. Thank you Dr Chuck! Thank you Coursera!
 This course is a great way to familiarise with databases and how to use them inside python.It is not advanced level course but you will get a good introduction tho sqlite.
 Nice course from the University of Michigan. Very nice explanation by Dr. Charles Russell Severance. Easy way to explain the programing, sufficient exercise for practice.
-Es un excelente curso, bien enfocado, perfecta docencia y los videos extras (entrevistas) dan un conicimiento extra de los princpios de las herramientas que ahora usamos.
 Sir i thankful to courseera for providing a great platform to learn python and I gain a lot of knowledge and new logics in python language. Thank you once again courseera
 Great course for beginners! Maybe sometimes it's too easy, but it is for me, who familiar with programming, but for those, who want to try their skills it is BEST CHOICE!
 Excellent course for beginners who have some basic knowledge of python. It is suggested completing the first 3 courses in this specialization before starting this course
@@ -823,8 +789,6 @@ Thanks a lot for this course! It's the greatest opportunity to learn something u
 This one was dense! So much information on databases and SQL. Final multi-step applications were very well chosen and introduced so much new elements.
 This course is where you learn to handle data in python and a bit about sql. It is good and interesting start for someone who aims to a data analytic
 I thoroughly enjoyed this course. I have never really created even a small database before this course but now I have a better understanding of them.
-Aprendí mucho sobre SQL, creacion de base de datos, adquisición de datos y la manera de usarlos y el uso de APIs, me encanto y lo recomiendo al 100%
-Muy buen curso cubre temas de gran interes, se advierte que no se puede detallar tanto en cada tema por ser un tópico muuy amplio lo cual es bueno.
 the instructor is so good if you don't have knowledge in python and if you take this course you will  solve all of these assignments from yourself
 I loved the exposure to APIs including Google Places API. Integrating it with some SQL and a few database tricks made this class very worth while.
 This course is very understandable and teaching style is very clear that even if you don't have any knowledge on database, you can get it easily.
@@ -844,8 +808,6 @@ It was an enjoyable and fun time listening tutorials of Prof. Chuck and learn Py
 Thanks to this course, with which I got to know database from 0 to 1. I have acquired the basic knowledge and skills to get further learning.
 google maps API requires a lot of additional work and instructions are not as clear as they should be.  Would prefer additional SQL readings.
 Great course! The professor explains database related concepts clearly, and the videos where he goes through code examples are very helpful.
-Excelente el material y la forma en que el profesor explica el contenido.Me sirvió de mucha ayuda para refrescar mi memoria sobre este tema.
-Excelente Curso. Dr Chuck tiene un manera muy especial de llevar el curso. Excelente Profesor. Los temas del curso muy acertados y prácticos
 This is my first course on Coursera and i'm very satisfied, I liked the lecturer, assignments and tests. I want to thank you for this course
 I like this course due to teaching skills by DR Charles and also recommend to everyone to learn this course if you are interested in python
 It was a great introductory course on Databases and their connection to Python. Teaching from Pr.Chuck it was great as in previous courses.
@@ -871,7 +833,6 @@ This course improve my knoweledge and i understood better the structures in pyth
 I really learn a lot from this course and in very short span of time. Well designed and superb delivery of content by Prof. Dr. Chuck.
 Thanks, Dr. Chuck! This is the fourth course in this specialization I did so far and all of them are AWESOME. Next: Capstone project.
 Very useful! I believe I would use many skills in this class later in my job. And just as Dr.Chuck said, this is just the beginning!
-Excelente el curso, así no sepas mucho ingles, trata de realizarlo porque los conocimientos que salen aquí son bastante provechosos.
 This course is a great course. I have learned so much in this course. Thank you Coursera  and thank you Professor Charles Severance
 Excellent course to understand how the data is stored in Databases and how to access or modify then using Python. Thanks Dr. Chuck.
 Great class  in the series. Ties a lot of what has been learned together and gives a better insight to  the capabilities of Python.
@@ -930,7 +891,6 @@ Charles Severance is a great professor. He explains clearly every argument makin
 Very well structured course. This course drew my attention into database management and data science. Thanks Dr. Chuck.
 GreatcoursetogetastartwithSQLandhowyoucanintegrateitwithpython.Willdefinitelyusetheseskillsinthefutureinaworksituation.
 Great course again! This entry level specialization should be a must for anyone looking to learn more about programming
-Conciso y muy bien estructuradoPerfecto para no iniciados o para aquellos que quieran poner sus conocimientos en orden.
 I think the exercises are a bit too easy. But I've gained a really good understanding of how things goes together now.
 Great introduction into how to use Python in combination with SOQL databases. Very useful for ones own small projects.
 A good guide to SQL. This online course provides me with a great opportunity to learn something useful things at home.
@@ -968,8 +928,6 @@ Concepts, applications, and coding details are well explained. A great course th
 Amazing course. I learned a lot. I hope I can implement this knowledge in my daily life. Thank you, Dr. Chuck!
 Myself refreshed with the Datababse skills which I have done very long back.It was great. Thanks to Dr.Chuck !
 Super  easy way to make us understand python better. Your bonus videos are also refreshing anf thogh provoking
-Curso muy entretenido, que con ejemplos muy claros se puede
-entender sin problemas como resolver lo propuesto.
 Nice course with detail exampleHomework is  easy, if student pay attention to  the code, they will learn a lot
 Using Databases with Python is, in one word, awesome! Thank you very much for your great Coursera course, Prof
 This is a good course.   The instructor has significant experience in industry and good communication skills.
@@ -981,7 +939,6 @@ Content are good for basic learner to connect with sqlite database and good know
 the instructor did an awesome job in explaining data bases i understood every bit of this and also geocoding
 Another Amazing course from Dr Chuck, I learned a lot, very clear explanations and quite easy to understand.
 This was a great course.  I learned so much that I could immediately apply to my work.  Thank you Dr. Chuck!
-这门课程比之前几门难了一点点。但是如果前面基础都打好了，还是不难的。老师讲得很清楚，结合课本，即使我用的是Python3，作业也都可以完成。好几个作业其实老师都写好了，只是让我们自己运行一下就好了。很喜欢这门专项课。
 Great course, great teacher. Love how he explains everything and the examples and assingments of the course.
 It was a wonderful experience learning from Dr.Chuck.It is a good course which I would recommend to others.
 This was another great course from Dr. Chuck. I have got to learn about basic database, SQL, data modeling.
@@ -1053,7 +1010,6 @@ Overall a bit easy, but Dr. Chuck made very clear illustrations for joining tabl
 A solid foundation for furthering your understanding and manipulation of databases using Python.
 the course is full of usefull concepts .the way of teaching was awsm ! really enjoyed the course
 Very understandable explanation and course materials supports. Great course and awesome teacher!
-Es un excelente curso, te lleva de la mano y a la vez es muy explícito. Recomendado ampliamente.
 Very good material and very good teacher!!!, hope to take another course performed by Dr. Chuck.
 It was great time dealing with sql and database management. Really its a career building course
 A very fine course of databases using sqlite3 and showing its interface with python. A must-do.
@@ -1136,7 +1092,6 @@ Excellent, tho hard with the sample. sort of misleading with the following exerc
 One of the best course I have enrolled in. Also the best course for learning python.
 Great introduction to using Python for setting up and maintaining sqllite databases.
 Excellent course, and the additional video material was entertaining and informative
-Excelente curso, excelente profesor! he aprendido mucho a lo largo de estas semanas!
 A clear explanation of the topic. Very useful background on sql and intro to sqlite.
 It was easy an very useful. I enjoyed studying this course as much as the previous.
 excellent experience I got while doing every topic and assignments. Thank you sir..
@@ -1150,7 +1105,6 @@ An amazing and interesting way to learn about the relation between SQL and Pytho
 Truly enjoyed the class. Best of the 4 from this series I have completed thus far.
 Well explained, and very throurough introduction to using Python together with SQL
 Excellent Intro fro beginners but also detailed and application oriented approach.
-O Professor Chuck sempre é didático e as aulas são claras e com bastante exemplos.
 The course is nicely covers the DB concepts and prepared with excellent exercises.
 Excellent course! Using python and DBs is the answer for many projects. Thank you!
 This course provide the cherry on the sunday for analyzing massive amount of data.
@@ -1189,7 +1143,6 @@ A great introduction with an excellent instructor to get started to databases.
 This is a great course. It was my first contact with SQL and I really enjoyed.
 This is a very great course to show the connection between Python and Database
 Challenging but interesting.A very logical conclusion of all preceding courses
-Amazing! It's very cool manipulating data in data bases using python language!
 Thanks Coursera...Nice course and I have learned lot of stuff in this website.
 This course is great for freshers. who don't know about sqlite and databases.
 Good course and I thank instructors a lot for guiding me through this course.
@@ -1203,9 +1156,7 @@ Wonderful course! Please continue with the same energy, Dr. Chuck and team :)
 Excellent course and the way Dr. Charles explains is just amazing and awesome
 Very useful course for anyone wanting to take their python to the next level.
 Very good course in Python. Technical, beginner friendly yet rich in content.
-En medida del curso de Especialización acabas con nociones bastante amplias.
 Thanks. Dr.Chuck is awesome as always. The course contents is great as well.
-Muy buen curso. Genial introducción a bases de datos y su vinculo con python
 I have to say the course is unbelievable, like they always are.Thanks a lot.
 One of the best professor, I have learned so many things from the 4 classes.
 EXCELLENT MOREOVER YOU HAVE ALSO PROVIDED ALL THE STUFFS REQUIRED.THANK YOU
@@ -1286,7 +1237,6 @@ Excellent Course. Really great introduction to databases with python
 I found a new meaning of python programming. Thanks a lot Dr. Chuck.
 Learned a lot from this specialization. Thanks Dr. Chuck. Keep it up
 Easy to understand all concepts and gives keys to start developping.
-非常实用的课程，介绍了sqlite3的基本使用方法，开发数据库的主要流程以及数据库基础知识和建立关系型数据库和表间的联系。推荐各位学习！
 The course is awesome. Just completed it.Excited about the Capstone.
 Great about python and database, including JSON and XML format deal.
 A great course because of the teaching style of Instructor Dr.Chuck.
@@ -1343,12 +1293,10 @@ Excellent course, like the previous ones of the specialization.
 In line with the three previous classes: a coherent curriculum.
 Great course that continues the learning in the specialization.
 Very good course.Everything was great, learning was a pleasure.
-Excelente: sencillo y útil. ¡Y quedé con ganas de aprender más!
 I am very happy, that I took this course. Thank you, dr. Chuck!
 Great class and great teacher! really have fun during learning.
 Professor Chuck is awesome!  This course is highly recommended!
 Dr Chuck is the best lecturer for programming I've met so far.
-Algunas preguntas son muy confusas, pero es un excelente curso
 Exceptionally well-framed course material and Amazing Teaching
 Chuck you are an amazing teacher!!! Love this course so much!!
 I like the examples, very useful workflow for processing data.
@@ -1417,7 +1365,6 @@ step by step  I can learn how to make my own app. thanks
 great, simple introduction, good for first time learners
 an amazing course, gives me a good intro about databases
 Enjoyed the class and learned a lot!  Thanks, Dr. Chuck!
-Un curso excelente. Dr. Chuck es un profesor a todo dar.
 well structured course, and great programing assignments
 this course is awesome, consider it a intro to database.
 Assignments are too much spoon feeded, rest is too good.
@@ -1438,10 +1385,8 @@ Great content and orientation, but even better teacher!
 great course, looking forward to know more about python
 nice course with good information and  helpful practice
 The Course was very resourceful and easy to understand.
-excelente curso con temas concretos y de manera rápida.
 One of the best (if not THE best) teachers out there...
 Excellent course material from an excellent Instructor!
-Excellent teacher. Excellent mentors. Excellent course.
 Excellent course. Thank you for sharing this as a MOOC!
 I love it! It really helps me to grow up in my carrier!
 Great Course and Great Explanation---give it 10 starts
@@ -1454,7 +1399,6 @@ Great course to introduce working with Python and SQL.
 This specialisation was really useful and interesting.
 Very good course. I learn new things from this course.
 Very nice course and Dr. Chuck is as awesome as ever!!
-Gracias a los que hacen estoposible !!! Muy buen curso
 Excellent course and teacher! Please, do more courses!
 Great course for beginners using Databases with Python
 The best course(so far) in this specialization series.
@@ -1467,7 +1411,6 @@ Wonderful course from great man and solid university.
 Great course, helps you learn a bit about sql as well
 Clear and helpful. Assignment could be more difficult
 The sample codes given for this class are very useful
-Muy bueno, bastante interesante cada uno de los temas
 Awesome course. I learned a lot during these 5 weeks.
 Useful skills were presented in this course. Thankyou
 its an amazing lectures  a big thanks to charles sir
@@ -1485,8 +1428,6 @@ This is a very useful course, which is full of fun.
 The instructor was great and the course is Awesome.
 Detailed explanation. Found the course very helpful
 Brilliant course. Dr. Chuck is the best for Python.
-Gosto muito desse, curso. ele é simples de entender
-Best programming language course I have ever taken!
 Amazing introduction to dbms and how to utilize it!
 Nice course. Quite easy course. Done it in few days
 Well designed curriculum, very helpful information.
@@ -1535,7 +1476,6 @@ Super awesome course. Everyone should take this.
 Another super course. This one moves faster. ;-)
 Best course in the entire specialization so far.
 Awesome course - looking forward to the Capstone
-Excelente, temas explicados en forma muy clara.
 It's great learning journey with DB with Python
 it was a useful course with a excellent teacher
 Dr..Chuck is fantastic. Just love his lectures.
@@ -1551,7 +1491,6 @@ Great Python course with basic SQL programming
 Its a really a good MOOC. Thank you professor!
 Dr.Chuck, thank you for your time and lecture.
 Really good intro to data storage with python.
-Muy bueno, resulta muy didáctico e interesante
 it's easy for me to learn python with database
 Great scope and great professor! Very usefull!
 Thank you so much for your sharing, Dr. Chuck!
@@ -1562,14 +1501,12 @@ Good Course, now, I'm going to Django Course!
 This is fantastic ever course.I just like it.
 five star abosolutly for kind work of teacher
 I have learned a lot from taking this course.
-Well designed and delivered. Dr. Chuck rocks.
 A very good course where you learn SQL&Python
 Clearly structured! Many thanks to Dr. Chuck!
 This was a great class. Thank you, Dr. Chuck!
 Great course. Both stimulating and practical.
 Nice class, easy to follow and clear concepts
 very good and useful course. 100% recommended
-Muy didáctico e intuitivo, lo recomiendo 100%
 Nice for beginners and nice explained lesson.
 It is very helpful to my future.Thank you...
 What a great course with a great instructor!
@@ -1602,9 +1539,7 @@ This is an awesome course! 100% recommended
 Very nice course. The professor is awesome!
 very good course love the way it is. Thanks
 Excellent course for the DataBase concept.
-Excellent rendition and accessible content
 Console was too good to practice and learn
-i cant re-submit a peer graded assignment.
 It was a very good and influential course.
 Good information and simple understanding.
 Dr. Chuck is awesome and so is this course
@@ -1618,7 +1553,6 @@ As usual, Dr. Chuck's courses are awesome!
 Another Great Course to be a part of !!!!
 Got to learn new techniques regarding Sql
 Best course so far in this specialisation
-el ultimo trabajo deberia ser replanteado
 Very helpful course I ever learnt before.
 Very Help and provide basics for database
 It was an excellent learning opportunity.
@@ -1652,14 +1586,11 @@ Lots of good examples and source models.
 Totally awesome course and instructor!!!
 The best python online course available!
 Good Course with good practical training
-这门课程很棒，帮我复习了数据库的知识点， 更重要的是教会了我展现数据可视化的技巧
 Great job by the Dr. Chuck and the staff
-Excellent introduction to SQL databases.
 one of the best courses i've ever heard.
 I think the course excellent to analysis
 Good course. I learned a lot of things!!
 Wonderful class with a great instructor!
-Ha sido un gran curso y muy provechoso.
 Excellent Course material and training.
 Great and useful course! I recommend!!!
 Go Chuck Go. Chuck is a great ThayYuan.
@@ -1680,8 +1611,6 @@ I found it very interesting and useful
 very good course easy to use and learn
 Excellent course and awesome trainer!!
 thanks coursera team and dear dr chuck
-非常好，终于要完成了，编程真是一个很有意思的活动，难得能让我坚持上完这么多门
-content and lecture structure are good
 python is so sweet am real enjoying it
 Awesome course. Learned a lot from it
 Great course recommended to everyone.
@@ -1699,8 +1628,6 @@ Good lectures. Dr.Chuck You are best.
 Another hard step to get a new skills
 Great course, love this whole series.
 useful, but could be more challenging
-nice content. super nice delivery !!!
-Excellent profesor! Excellent course!
 I've really enjoyed the whole series.
 Simply to the point. No more no less.
 Thanks for this amazing series Chuck!
@@ -1727,10 +1654,8 @@ Great course.I enjoyed it very much.
 Excellent, as all the other courses!
 Very helpful and interesting course!
 Awesome course and Lecturer Dr.Chuck
-He aprendido un Montón, gran curso.
 Great course and really insightful.
 it was full of fun and knowledgeble
-Excellent course. Excellent Teacher
 great course with interesting tasks
 It's really good course and support
 Another great class from Dr. Chuck!
@@ -1742,16 +1667,13 @@ Great course! Dr Chick is the best!
 Very Great! For absolute beginners.
 Very interesting course! I love it!
 Great course, I have learned a lot.
-Very interesting and understandable
 I think everyone should take course
 A good way to start with databases.
 Another good course from Dr. Chuck!
 Best Course in the specialization.
 Dr. Chuck is my favorite professor
-Please put more practical exposure
 Amazing course and teacher. Thanks
 awesome course for python beginers
-Excellent. Cannot recommend enough
 Awesome Course && Great Instructor
 Dr Chuck is the best, hands down !
 Great python course for beginners!
@@ -1762,18 +1684,13 @@ Great course and dr.Chuck is #1 :)
 really good teacher and good class
 Awesome! Advanced tools in Python.
 Awesome course. Thanks Dr. Chuck.
-An excellent introductory course.
 great course! highly reccomend!!!
 Another good course from Dr Chuck
-Excellent explanation and content
-great instructor, great material.
 one of the best course to attend.
 Fantastic material and instructor
 Great class.  Thank you Dr.Chuck!
 Excellent. Thanks to Dr. Charles.
-excellent course. Just go for it.
 The course is very easy to follow
-Excellent course, I recommend it!
 Really Good Course! Very helpful!
 Thank you for all your helping!!!
 Very clear and friendly lectures.
@@ -1784,10 +1701,8 @@ Awesome for begginers in python!
 Great Learning from this course.
 I learned a lot form the course.
 Nice guide into the Databases!!!
-AWESOME COURSE!LEARNED A LOT ...
 I am grateful I took this course
 Perfect course. Thanks Dr. Chuck
-Fantastic course, you deserve it
 Great introduction to using SQL!
 Great course and great professor
 Very interesting and educational
@@ -1795,7 +1710,6 @@ Great course for an entry level.
 Interesting introduction to SQL.
 Basic introduction to databases.
 Good content, excellent teacher.
-excellent course to start python
 Great introduction to Databases!
 Great Course.. Really helpful...
 It is a very instructive course.
@@ -1814,7 +1728,6 @@ It was great.  Taught me a lot!
 Best introduction to databases!
 interesting and helpful course!
 GOOD recap of SQL and database!
-Not too hard, easy for beginner
 great course as an introduction
 Good course, thank you Coursera
 Awesome class! Thank you Chuck!
@@ -1843,7 +1756,6 @@ Terrific! Very good classes!!
 good start course of database
 There is not enough exercise.
 Very well organised lectures.
-Great But a little difficult.
 Nice and interresting course!
 very interesting  learn on db
 Great things to learn easily.
@@ -1852,7 +1764,6 @@ Simple and useful, rery well！
 A great introduction into SQL
 Well Structured and presented
 Great class. Great professor.
-Great, interesting, engaging.
 really good for understanding
 Excelent course for beginners
 very good and understandable.
@@ -1864,7 +1775,6 @@ Easy to follow. Recommended!
 Difficult but helpful course
 need to be more ellaboration
 great course to all students
-good !!!!!!!!!!!!!!!!!!!!!!!
 Cool intro to Python and SQL
 Great Course in Coursera.org
 great course! thx Dr. Chuck!
@@ -1872,12 +1782,9 @@ Great course, learnt a lot!!
 Really helpful and I love it
 Fantastic course. Thank you.
 Great Course, Great Teacher!
-Great job! Excellent Course.
 good course, very elementary
 Using Databases With Python
 Clear content, well driven.
-amazing teacher dr chuck is
-Excellent Python Course !!!
 Great class!  Thank you! :)
 Wonderful Course! Loved it!
 really useful and powerful!
@@ -1901,22 +1808,18 @@ Very nice course thank you
 This course is very great!
 Many thanks for authors!!!
 Thumbs up for this course!
-Amazing Course like usual
 Enjoyed Doing this course
 Great course and learning
 Good course with good HW.
 love the way of teaching!
-GEO CODING WELL EXPLAINED
 it was so easy and great.
 Dr. Chuck you're the best
 Great intro to sqlite db.
 The ultimate Ice breaker!
 Love you Professor Chuck!
-Educational & fun course.
 Thanks! Wonderful course!
 Amazing and useful course
 It's a very good lecture.
-Just excellent at all !!!
 Perfect course, as usual.
 nicely explained must do
 Glad to take this course
@@ -1925,7 +1828,6 @@ Very thanks to Dr. Chuck
 So Good .And Me So Happy
 Great class! I loved it!
 Great course, a must do!
-Very nice course content
 A really helpful course.
 Well structured. thanks!
 Great Dr Chuck delivery.
@@ -1937,7 +1839,6 @@ Dr. Chuck does it again.
 Hats off ! Prof. Charles
 Dr. Chuck at his best :)
 Chuck is great! Thanks!
-very descriptive course
 enjoyed lot by learning
 thank you very much sir
 it was really wonderful
@@ -1947,7 +1848,6 @@ Great learning material
 This series is amazing.
 Very good, it's worth!!
 Great course. As always
-這堂課比較難，需要前面的章節，可是很有用!!!
 Great and lovely course
 This is perfect course,
 Dr Chuck you are ace!!
@@ -1955,113 +1855,73 @@ Great class! Loved it!
 Excellet Course. Thank
 great course！ love it！
 Great quality lessons.
-DR. CHUCK FOREVER!!!!!
 This course was great
 Dr.Chuck is the best.
-Best instructor Ever.
 good course to start.
 thank you so much sir
-Best teacher Dr CHUCK
-good and quick course
 So useful, thank you!
 Thank you, Dr. Chuck!
-Very well, keep it up
 The best ever course!
-Awesome for Beginners
 Very intuitive class.
 Practical and useful!
 Dr. Chuck is awesome
 Really fun and clear
 Awsome Experience!!!
 extraordinary course
-Course is excellent.
 Learnt something new
-Join in, just do it!
 `Very good course!!!
 Thanks for Dr.Chuck!
-Good Course content.
-Goog starting point!
 dr.Chuck is the best
 Great course indeed!
 SQLITE3 is powerful!
-I learnt quite a lot
 Great as the others!
 two words-thank you
-Ddr Chuk is awesome
-good course content
 interesting lessons
 really ,nice course
-nice to do coursera
 Very well course!!!
-Best courese to do.
 Thank you Dr Chuck!
 love these courses!
 nice and acceptable
 Thanks, good course
 Chuck is awesome!!!
 Awesome Learning !!
-absolutely amazing！
 it was quite tough
 Very nice! Thanks.
-很好，很不错，nice course
-Exceptional course
-Excellent courses!
-Love databasing :)
 Interesting course
 Thank to Dr.Chunk~
 Awesome course! :)
 Very Good Teacher!
-Great experience!!
 Best Python Intro!
 loved this course.
 Very good. Thanks.
 It's just awesome!
 Dr.Chuck is great!
-très bien élaboré
-Eexcellent mentor
-It's just amazing
 high level course
 Nice one to learn
-Excellent pacing.
 Wonderful Cource.
 its a nice course
 good explaination
 I love this class
 Good for starters
 Wonderful course!
-Useful meaningful
-fantastic course!
 Awesome Course...
 very knowlegeable
-简单易懂。可能这就是教学的艺术吧。
-不错，学到很多东西，课程节奏还可以
-Awesome course ..
 Already the best!
 Very interesting.
-Dr. Chuck = Zeal.
 it's good stuff.
-excelent courses
-Excellent one...
 Just Awesome!!!!
 Great as always!
 Very rich course
 great as always!
-Très bon cours !
 Great as Always
 I like this one
-Good as always.
 Perfect teacher
 Really great!!!
-EXCELLENT... :)
 It was great !!
-It was too good
-best and better
 Simple and Easy
 Great Fantastic
 The Best Course
 Pure Knowledge
-great course .
-no suggestions
 Chuck the man.
 Awesome class!
 Learned a Lot.
@@ -2071,8 +1931,6 @@ IT WAS GREAT!
 Very useful !
 Quite Exited!
 thanks chuck！
-Wonderful!!!!
-Awesome tool!
 Great Course
 Gr8 Learning
 Python rocks
@@ -2081,30 +1939,10 @@ Refreshing !
 Great course
 Great cours.
 Huge thanks.
-love coding
-Greeeeaaatt
 Finaly!!!!!
-super nice.
-Thnx Chuck!
-Amazing!👌
-i liked it
-verey good
-AAMAZINGGG
-Good stuff
 Very Cool!
-Dr.Chuck!!
-s0 g00d.
-Спасибо!
-作为入门非常不错
-Excente!
-awesome
 Great-!
 Top one
 thanks.
-稍微有些简单了
 Smooth，
-很好的课！
 Geat!
-GOOF
-谢谢你！
-Fun

@@ -18,7 +18,6 @@ It needs more explanation about the fundamentals, examples and sections that dem
 The size of different variables has not been clearly spelled out so this makes the concept confusing and requires so much time to figure them out.
 It was quite difficult for me to follow. The concepts are explained very quickly and can be though. I found exercises very helpful though.
 Need a clear explanation of topics with a way to code as explained by Andrew NG in Neural networks and deep learning by deeplearning.ai
-Explica las cosas muy por encima, no va al detalle, las prácticas un pelín difícil para gente que empieza.
 I automatically transferred to Auditing mode.
 More explanations to theory would be nice.
 More details in teaching concepts
@@ -134,7 +133,6 @@ Great starting point for learning Reinforcement Learning. Anyone who is interest
 The thing that makes this course outstand among other Coursera courses is that it is based on a book. That gives you more information if you need it.One problem that I guess will be solved in the future is that there is a bug in the Programming Assignment submission code.
 Excellent course. Excellent teachers. I love the introduction sections, in which you're presented what you'll learn in each video, and the summary section. The animated slides are also very professional. Very thorough coverage of the RL book. Congratulations!!!
 Some supplementary video recommendations and a little more interactive help with the Python assignments would make it more fun. Had to struggle with the programming assignments a little bit. More hands on assignments will help drive home the concepts better.
-Excelente curso, aprendí los conceptos de aprendizaje por refuerzo con gran base teórica, el material del curso es muy bueno y la calidad de las lecturas es de excelente nivel. Muy recomendado, ahora a aprender más y a desarrollar sistemas inteligentes :).
 Excellent introduction. The reading materials are good, the videos make the ideas even clearer and the exercises help us get a taste of how the theory could be applied. I would recommend this course to anyone wanting to start on Reinforcement Learning.
 I enjoyed the course. I would have preferred a bit more in-depth look at the algorithms and technical details, but, on the other hand, it was also interesting to go and figure out these contraction mapping arguments on your own. Overall, very good.
 I had learned a clear understanding of terminology and the formulas of value function, action-value function, optimal value function, Bellman's equation, policy evaluation and iteration. It's a must go through course for Reinforcement Learning
@@ -157,7 +155,6 @@ This course is clear in its delivery. The examples were helpful in helping me gr
 An excellent introduction to Reinforcement Learning, accompanied by a well-organized & informative handbook. I definitely recommend this course to have a strong foundation in Reinforcement Learning.
 All the concepts were well explained and this course was perhaps the best I have found for RL.Great efforts have been put into making the course and It goes well in line with the suggested textbook.
 This course is one of the best I've learned so far in coursera. The explanations are clear and concise enough. It took a while for me to understand Bellman equation but when I did, it felt amazing!
-许多次尝试看UCL或者Sutton的课都中途放弃，太难了。而这个课程让我很轻松的入门且了解了最基本的东西。这个课程最不同的在于，学习时要配合上Sutton的书，课程和书互为补充，有些课程没有讲清楚的地方书中有很多解释，而书中生涩难懂的地方课程又有很形象详细的解释。体验极佳。特别感谢课程助教即使的回复。哪怕是书中的句子的问题助教都给出很详细的解释，真的很久没在Coursera上过这么棒的课了。
 The course is well designed. It contains the essential material of RL and relates closely with the RL Bible textbook. And the programming assignment is also benifical to understanding the basics.
 The concepts are explained in a simple and illustrative manner which helps in getting a better understanding of the concepts. The assignments and quizzes are also really well designed.
 I was so confused about the fundamental concepts, but doing this course has given me a solid foundation of RL.This is a must-do course if you are starting with Reinforcement Learning.
@@ -206,7 +203,6 @@ Great course, reading the textbook was difficult at times, but the professors re
 Not only this course was conceptually sound, it had inspirational sessions with researches who made big breakthroughs.
 This course is one of the great online course in Coursera which help people dig into reinforcement learning correctly.
 Thank you very much for putting effort in this one !!! I was looking for such a course for some time already, thanks.
-Genial curso, los temas dados son demasiado interesantes, a veces un poco dificiles de entender pero nada imposible.
 Very well organized, and easy to follow with the RL book! Highly recommend this course in conjunction with the book.
 The presenters are amazing. Their voice are clear and charming and make you want to continue your journey into RL.
 Very well structured and a great compliment to the Reinforcement Learning (2nd Edition) book by Sutton and Barto.
@@ -341,7 +337,6 @@ Really good course content
 A really excellent course!
 It is the perfect course.
 Very good for developers
-Excellent course on RL!
 I learned a lot! Thanks
 learned a lot, thanks !
 Good introdution to RL
@@ -351,6 +346,4 @@ Good introduction :-)
 Very Good for me :)!
 thx for good lecture
 The best RL course!
-very engaging
 Great intro!
-Nice lecture

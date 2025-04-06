@@ -32,8 +32,6 @@ Too confusing, No Proper Explanation. I didn't no gain anything from this course
 I want to drop this course but I cannot navigate Coursera to do so.
 i learn everything from youtube not from your course !!!!
 Too boring and lengthy
-It was too bad.
-Abysmal
 It was an awesome first week.  Great second week. From the third week I couldn't understand the concept being taught. It was hard to understand the professor and follow along. The terminology being used is advanced and it was too hard for me to pay for the course and then have to do my own research to catch up.
 To much talk about how to calcule the Big(O) and no enough explaining about the content
 Bad teaching quality.
@@ -98,7 +96,6 @@ This is a good course and I really want to thank the instructors for taking the 
 a lot of stuff was vague, the videos not enough but the assignment is good and the grading system is average since it leaves you in the middle in the desert and does not tell you where your code breaks like input and expected output to debug with
 This course covers important aspects of techniques used to solve popular problems. But it misses to cover introductory points in some modules (i.e: dynamic programming module) as well as the accent of some instructors isn't clear enough.
 Dynamic Programming modules were not explained with clarity. I understood the DP Tables for some of the questions only after looking at external sources. However, the rest of the topics were fairly well explained.
-Matière intéressante mais trop peu détaillée. Énorme manque d'informations et de notions nécessaire pour la réalisation des exercice. Explications parfois confuses, voire déroutantes. Beaucoup de frustration....
 very detailed and highly efficient course to learning algorithms but  some more focus should be given to solve assignment problems...as  they were very tough for a average guy like me...thank you
 Nick Rhodes' video sections are terrible: He stumbles, mumbles, and mis-speaks (words don't match slides). It would be fine for a live lecture, but for something pre-recorded, it's awful.
 It was a good course...But the gene problem was left to be solved and on top of all please take instructors so can speak british english,It was quite difficult to understand their accent.
@@ -106,7 +103,6 @@ It was a good course...But the gene problem was left to be solved and on top of 
 The course starts well but then falls especially in the dynamic programming part. The explanation should be at least comprehensible for those with an average level in mathematics.
 There should be more illustrations and a more comprehensive introduction to every topic.Discussion of a topic formally before introduction to the problems would be better.
 The materials covered are not enough to fully explore the topics. Should include much more detailed explanations especially when explaining some of the complex algorithms.
-Есть множество недочётов как в субтитрах, так и в самих слайдах. Кто-то употребляет Тета, кто-то О большое, субтитры ужасны, местами перевод совершенно не тот.
 it was very difficult and sometimes very frustrating to understand some of the lecturer because of their very thick accent. other than that it was good.
 could not find out whats wrong with programming assignments. Atleast we should be able to see what test case we are failing. Assignments managed poorly.
 It could have been better with some programming examples. It became very difficult to grasp the algorithm especially in the dynamic programming section
@@ -143,7 +139,6 @@ Accent of teachers is very bad. The course could also be more refined.
 The course explanation was barely sufficient and often times confusing
 Don't cover all the concept you have to search a lot to be good ..
 Homework was very nice, but strong accent of lecturers impeded me
-no todos los videos tienen subtitulos o estan bien explicados
 course should be more fixable and provide IDE for run codes
 Questions are real tough but , the overall course was good
 I think the communication by tutors could have been better
@@ -155,7 +150,6 @@ Weeks 5 and 6 were a nightmare. Very poorly taught.
 More clear explanation with examples are needed
 Few videos in week 6 are not loading properly.
 I learned a lot with the help of this course.
-An okay course, a bit less implementative.
 the teachers were good and explaining well
 The assignment questions were very tough
 Can be made a bit easy to understand.
@@ -165,11 +159,8 @@ explanations are not so good
 A little light on the theory
 subtitle donot work on pc
 Not well designed course
-not good for begineers
 Advanced for beginners
 kind of difficult
-Feel not great
-继续努力
 The course content is really great. It helps with learning algorithms in a very neat and organised way.However, the grading system is little bit hard to use. It is not interactive by any means and breaks sometimes with changing behavior.
 Pretty good, lots of good practice but it gets extremely difficult later in the course. And since this is just the first course of the specialization, I think this specialization is going to be tough as hell
 language of professor in a dynamic programming part 1 is tough to understand and makes he concept even harder to understand through videos.(this is only for week5)
@@ -249,7 +240,6 @@ Good content, I really enjoyed learning the concepts, thank you! However giving 
 Content of this course is very good for fundamental algorithm work. I have learnt a lotIn the divide and conquer section, nevertheless, I found the lecturer speaking quite fast and it would def help is he can explain things in more details using more layman terms
 An excellent and methodical approach to learning algorithms and their related data structures (as well as appreciating the value and importance of efficient computing). Also a great refresher even if you have had formal training in Data Structures and Algorithms.
 The course was great and it focused on the most important and prominent algorithms in programming but the lack of solutions using proper syntax made it really difficult to implement the explained algorithms, often causing me to search for other sources the same.
-Aún no logro comprender cuál es el beneficio para los instructores en no mostrar el input/data cuando un test-case falla, eso me hubiera ayudado a encontrar las soluciones más rápido, además en el mundo real, el input siempre es conocido. Por lo demás, muy bien.
 I wish it had some kind of introductory course to it, I know it's not the most advanced one, but I still had a harder time to complete things than I thought! This also might be the whole point of it, but overall the course is very complete and thrilling to do!
 It's a great course on algorithms. The problems are designed in such a way that one gets a deep understanding of the concepts learned. I also liked the interactive tools which were used to create an intuition of the concepts to be learnt in the upcoming part.
 Overall great course and challenging programming assignments.  My only critique is that some of the lectures (especially dynamic programming lesson) were difficult to follow.  A little more attention to the delivery of the lectures would have been helpful.
@@ -315,7 +305,6 @@ Michael Levin should make more slides for explanation (with step-by-step example
 Very hard topic explained good. I had to get help from other videos(outside this course) explaining some of the algorithms in detail. Other than it was a good experience overall.
 The assignment are perfect. They are comprehensive and pretty challenging. Although, I believe the lectures could be a little bit better organized. Specially the last two weeks.
 The Assignments and the Syllabus are Good. But The explanation of the faculty is not that great. You would need to read external material to better understand whats happening
-Понравились задачи и освещенные темы. Для работающих людей график сдач очень жесткий. Хочется успеть решить все задачи, но банально не хватает времени из-за дневной нагрузки.
 The course provides with impressive problems and guidance. A must for anyone learning algorithms. Though it is a bit hard for beginners but giving it a try is the best idea.
 Course content can be improved. Week 3 starting video lectures are very hard to understand. The Instructor himself not able to memorize that what he is teaching to students.
 Its an amazing course ,covers many of basic algorithms.I would surely recommend this course if you are just beginning in the field of algorithms or competitive programming.
@@ -355,7 +344,6 @@ the content if very good, but lecturers are terrible. you better read slides and
 Good course.But I wish there was a final assignment which covered all the weeks like a module exam to revise what we have learnt in all 4 weeks
 I like the course. I've learned a lot of new things. However, I felt like I needed more detailed info and more examples on some of the topics.
 Great course. Problems were quite fun. Would appreciate more if the recommended book was supplied with course instead of buying it separately
-Buenos ejercicios y explicaciones, algunas clases están sin subtitulos pero solo informarse mas del tema para poder resolver los ejercicios.
 This course was really helpful for me to enhance my knowledge. Assignments were the best part of this course and that builds the confidence!
 Great course to follow along, I love how the homework assignments have the input template already in place so you can focus on the algorithm
 The content is not enough and very less. And I understand for an online course this is enough, I had to refer external sources many times.
@@ -413,7 +401,6 @@ all the content and exercises r awesome. I only found difficulty in last week bc
 all the topics were taught well and teachers are quite experienced and got to learn a lot from this course
 Amazing course ,  but if possible should include implementation of more searching and sorting algorithms.
 Pretty interesting and challenging. Some algorithms were not explained with much clarity towards the end.
-강의의 편차가 있긴 하지만, 과제로 주어지는 문제가 난이도 별로 배치되어 있어 이를 통해 많이 배울 수 있습니다. 강의에 나온 내용을 구현하는 문제부터 응용하는 문제까지 골고루 있습니다.
 The overall course was very good however the edit distance lectures were very fast to grasp the concepts
 Very good course. It illustrates many algorithms using simple ways, short videos and readable material.
 The level of assignment problems is very good. We can learn a lot from the completing the assignments.
@@ -442,7 +429,6 @@ I think that some assignations are too difficult, and some indeed few explanatio
 The course is great. Assignments are pretty challenging, I learned a lot from this course.
 Well structured course, helped me understand how to use the different types of algorithms.
 Course covers most of the classic algorithms problems.  There should have been final exam.
-Немного легко для продвинутого программиста, а вообще курс очень интересный, многое узнал.
 The assignments were really great. The greedy lectures would have been more interesting.
 Assignments are difficult. Instructors are good but the course might seem a little fast.
 It is a great course. But explanation could be made simpler in proof part of the course.
@@ -513,7 +499,6 @@ Very good course for beginners and intermediates.
 Dynamic programming has quite difficult problems.
 The dynamic programming part was not very clear.
 Good course, come to know more about algorithms
-не понятно было из видео по dynamic programming
 Liked the content and assignments too. Thanks!
 Good course with ample  of practice questions.
 I feel like DP needs to be covered a bit more.
@@ -546,7 +531,6 @@ Good foundation course for algorithm
 Great experience and learned a lot.
 everything is great exept last week
 Good. Waiting for session to began.
-Assignments are like ACM handbook.
 A very good course on Algorithms.
 Good class! Learned a fair deal.
 good course , best for begineers
@@ -560,21 +544,15 @@ amazing course helpful enough
 Practice Problems were great
 It's a nice course Thank You
 It is really a great course.
-last two week are very hard
 very good organized course
 Nice Introductory Course.
 Great course. I enjoy it.
 Do it for the questions.
 Got very hard at the end
-good for starter student
 nice course with basics
 nice teaching sense
 Really nice content
-In one word NICE!!
-nice explanations
 bit tough though
-Quite demanding
-Alhamdulillah.
 course i good.
 It's so tough.
 I have a Mechatronics MSc and now I'm transitioning to CS after starting to work as a software developer. Even with an engineering background, this course was challenging: you need to think hard when designing algorithms, then precisely design and test a solution. (Stress) testing is a concept that is frequently used in everyday software development, too.For some assignments, you'll find the pseudocode in the slides so those need less brain power to implement but for others, you'll have to come up with your own original solution. This requires time and research. It's possible to ask others in the forum or Google around for hints, and most assignments can be solved in multiple ways (e.g. I solved several of the dynamic programming assignments with memoized recursive functions). You won't find many hints from the teachers, though since that would spoil the learning part here - the essence of the course is not in the slides but in solving the assignments on your own.Upsides of the course are the automatic grading system, the diversity of the assignments and the quality of the mathematical content and the slides.Downsides of the course are the sometimes bad accent of the teachers - this could be eased with more accuraate captioning for the videos -, and the clumsiness of downloading slides (they are not available in one package, and trust me, you're going to use them a lot!)Prerequisites for this course: you will need linear algebra knowledge to know about e.g. geometrical series or limit values, and you will need to know how mathematical proofs work. This is all advanced high school or 1st semester college material, so nothing special. Fortunately the teachers always point to extra links if you're in trouble.Also, you'll need working knowledge for 1 programming language. Fortunately for many languages, you won't need to care about I/O, it's already in the starter files. I learned Python just for fun, during this course for example. All that is needed is basic control statements (loops-if), arrays and functions, nothing more.Tips: 1. Don't give up! 2. You don't need to solve all the assignments, the ones after the minimum level are usually more advanced. 3. When in trouble, stress test if you can, it helps a lot. 4. If you're confident, you can 'make a run for it' and submit your file - you can submit as many times as you want.
@@ -631,13 +609,11 @@ Watch Videos,
 complete assignment and quiz.
 I have learned how to do stress test of two different logic, that helped me a lot while choosing the best algorithm.
 Great learning. Now I am a tad bit more confident about my algorithm skills. Need to practice more though.
-Excelente curso, mientras lo realizaba recordé  algunas técnicas para  hacer algoritmos eficientes
 Grader system is really nice to use; it helps to improve my debugging ability a lot. Good job!
 Very good course to get into algorithmic thinking, design and algorithmic problem solving.
 This Course is really very helpful in understanding the basic algorithms and various efficient problem solving technique. Week assignments are very good and helped me evolve my skills in implementing solutions and to consider every possible kind of instances for a problem. I loved the lectures and the way professors explain things and touch every aspect of the topic. I enjoyed this course very much and have learnt much more than what I thought I required. I am really very thankful and grateful to the professors and the Coursera. Thank You Very Very much. :)
 I always feared coding problems on divide and conquer and dynamic programming. The way this course gradually took me from easy stuffs to advanced was awesome. After doing the course, I feel confident on coding difficult problems. I also appreciate the granularity of topic that this course covers. I took many courses but nowhere until now, I have seen courses that cover how to test and debug your code. Great Course and much take course in case one wants to get good at competitive programming. Good Job teachers. Your efforts are appreciated.
 Really nice course that get's you started to the world of algorithms. It has a balanced progression and introduction to basic concepts, but highly recommend to do all the optional assignments since they help absorb all the presented material to the fullest extent. But to solidify the knowledge gained, I would recommend to solve more problems on the introduced concepts since I feel this course falls short in number of diverse problem statements to be able to think on how to apply the concepts in different scenarios.
-I recommand for everybody. Teachers explain all from the basic level, and you shouldn't be afraid, you will understand all algorithms from this course. I like  this course and this specialization very muchДля русского язычного населения тоже очень рекомендую, английский базового уровня, преподаватели с хорошим произношением, просто огонь. Сам курс вам тоже очень понравится. Очень нравится, что сначала дают теорию, а потом сразу к этой теории задачи, чтобы вы всё смогли отработатьThanks for this course
 Great course with the thoroughly prepared exercices and detailed video explanations for each topic. Covers a wide range of fundamental alogorithmic technicues that are good to learn for everyone who wants to become a better software engeener or just to improve programming skills. The course passing grade is pretty soft. It is enough to attentively watch the video lectures and carefully implement algorithms covered there to pass the course, however some advanced problems are really challenging.
 A very thorough introduction to the core concepts of Algorithm design, including sorting, binary search, greedy algorithms and dynamic programming.  The assignment are tough with the last few definitely challenging, you will spend quite a bit of time implementing them if you are new to programming in general but there is enough help on the site (and the internet) to help you figure things out.  Working through the problems is essential to getting the most out of the course.
 This is a really well planned course. I was doing this course and auditing my on-campus course too, initially. But, I soon realised that this is what I need. It has a perfect balance of mathematical rigour and practical programming. The programming challenges sometimes felt tough, but since ample time is given to solve, I could make it in the end. Thanks to the instructors for teaching students across the globe. Knowledge is a debt that can never be repaid! Thanks
@@ -694,16 +670,13 @@ Good course to learn the fundamentals of algorithms and techniques to approach c
 this course is teach me many new think and aproach how to solve the problems
 Solving problem is my passion which I know, after taking this course.
 It was a very interesting course I enjoyed it and learned new things
-Magnífico curso, todo muy bien explicado y con ejercicios geniales.
 Absolutely needed introduction to algorithms. Thank You. :)
 Unique, Helpful, I am always eager to solve problems
 Good lectures and programming assignments !
 it was good learning and excellent
 An amazing course for Algo Lovers.
 It was a very productive course
-Extremely useful course.
 SELF PACED BEST COURSE
-Exceptional material!
 it is a nice course!
 Well structured in terms of the flow. Covered all the design principles and paradigms. Best thing is that the assignments cover lot of standard algorithm questions and have perfect blend of already covered algorithms and uncovered ones. I can already see most of them relevant to my field of Data Science. I think the unique thing about this course and specialization is that most of the courses cover Data Structures first and wind up discussing more about LL, Stacks, Queues etc, and neglect the problem solving aspects. However, this specialization takes a reverse turn where they explain the standard Algorithms first and then later introduce DS as a means to solve advance problems. Going on to my next course in specialization. Thank you UCSD, NRU and Coursera :)
 The course was really helpful for me to understand Algorithms which is the basics of programming. However, I feel the 'Dynamic programming' part was explained is really too Good. This course was very interesting and helped me to understand algorithms more deeply. I strongly recommend everyone to take this course who is thinking to know a lots of about Data-structures and Algorithms. Great tutors and the doubt solvers who consistently helped me with lectures and discussion forums and also for helping me enhancing my skills specially on Dynamic Programming assignments. Thank  you Coursera Amazing course! Motivated!! - Vaishnvee Subhash  Shinde
@@ -1021,7 +994,6 @@ Excellent course structure paced really well for beginners as well as for someon
 The building concepts of algorithms is given importance and as a result my interest  throughout course has been good.
 Excellent course! Assignments are fun to do. They have a good balance of theory and practice. I highly recommend it.
 It was very nice. I learned a lot about the different kind of algorithms that you can use to solve complex problems.
-Excelente ferramenta para aprendizado e desenvolvimento de algoritmos. Plenamente satisfeito com o conteúdo e curso.
 I enjoyed the course a lot and would recommend it to anyone who's getting their feet wet in the world of algorithms.
 Really great, helped me a lot in understanding concepts like divide and conquer and dynamic programming. Thank you!
 It was just the right course for me ...All the contents of course helped me a lot in competitive coding as well  :)
@@ -1042,7 +1014,6 @@ This Course challenged me and felt like I went to college again. Thanks for all 
 By the end of this course I have gained enough confidence and also feel enlightened towards design of algorithm.
 Awesome course. Well explained with lots of examples.The must see if interested about the basics of algorithmic.
 Very good content and great professors, I like the short duration of lectures and more emphasis on assignments..
-THIS COURSE WAS EXCEPTIONAL WITH QUALITY QUESTIONS AND IS  BEAUTIFULLY DESIGNED BY THE UNIVERSITY OF SAN DIEGO.
 I like stress test and the basic concepts including greedy, divide and conquer and dynamic  Programming- Thanks
 Complex and lengthy concepts are explained very nicely and can be understood by anyone. Worth learning subject.
 Incredible course covers all the basic content that gave in the university in the first semester in a good way.
@@ -1079,7 +1050,6 @@ Its a great course to build your algorithm skills .Had a great help in strengthe
 This course gave me ability to think and design logic and algorithms for various programming problems.
 I really love this course, but the problem is that I hope to have better texts to read and understand.
 The programming assignments are great, with the right amount of challenge to help fixate the learning.
-Практические задания показались гораздо более сложными, по сравнению с тем, что объясняется в лекции.
 Algorithm Toolbox is an awesome course for getting started with problem thinking and problem solving!
 This course prepared very well. Improved my programming skill thanks to good programming assigments.
 Excellent course for beginner! It would be even better if more tips for assignments can be provided.
@@ -1107,7 +1077,6 @@ It is just the course for the starters..The assignments are must...Excellent cou
 it's a very helpful course, this course helps me improve baseline knowledge. Thank you so much!
 This course is a really good course, the content and lectures are well focused and thought out.
 It's a great course for both the newbies and the programmers who want to brush up their skills.
-Очень полезный базовый курс по алгоритмам. Объясняется доступно, хорошие тренировочные задания.
 Anyone who want to develop skills of analyzing and developing algorithms must take this course.
 Some features of this course are too good like Dynamic Programming. Thanks for helping me out .
 Great lectures delivered with nice demonstrations and good practice problems. Helped me a lot.
@@ -1131,18 +1100,15 @@ This course is exceptionally well made and helped me to improve my skills to gre
 amazing power of dynamic programming. Amazing tutors. One of the best courses on Coursera.
 I am happy to do this course and the lecture of this course was understandable.It was good
 I felt rushed to finish because I fell behind, but the vides and resources were great help
-Realmente es un muy buen curso introductorio a el desarrollo de algoritmos más eficientes.
 I enrolled in this specialization by mistake. I am unable to unenroll. Please unenroll me
 Awesome introduction to algorithms with a lot of challenging and interesting assignments!
 The programming assignments are great. They help you build strong algorithm design skill.
 Fantastic course to get started.Learned a lot from this course especially coding skills.
 Excellent course content and brilliant instructors kept me engaged throughout the course
-Узнал много нового для себя. Курс хорошо продуман и проработан. Большое спасибо авторам!
 It is really great way to learn and helpful in skill improvement and professional growth
 Thanks to all professors for this awesome and valuable course,materials and assignments.
 Extremely useful course! Have learned a lot new information about algorithms. Thank you.
 It was an awesome experience and this course is all one needs to get good at algortihms.
-Buenos profesores, tareas para pensar, difíciles pero necesarias para adquirir habiidad
 I have learnt a lot from this course .it was designed fantastic from basic to advanced.
 Loved it so far, you have to think very hard in order to pass all the auto grader tests
 Great material ! Challenging problems ! Gave me the confidence of solving hard problems
@@ -1176,7 +1142,6 @@ Loved the problem sets. Instructions were clear. Honestly such a fantastic cours
 Very nice toolbox as it helped me in better understanding of my algorithm concepts
 All the general algorithms are covered in good depth. Assignments are challenging.
 A well structured course, programming assignments are set at an appropriate level
-JUST BECAUSE OF ITS SELECTED ASSIGNMENT QUESTION BUT VIDEOS ARE VERY LESS USEFULL
 A vary good course that actually teach to how to transform ideas into algorithms.
 Good for mastering the algorithmic skills and for implementation for CS students.
 Excellent material and very well explained, thank you so much for the opportunity
@@ -1267,7 +1232,6 @@ I have learn algorithms and their implementationsThanks to Coursera
 You can add extra optional assignment on backtracking in recursion.
 Super Course for beginners to venture into the world of Algorithms.
 Great course! The Programming Assignments are harder than expected!
-Один из лучших курсов по алгоритмам, который я когда-либо проходил!
 This is a very well designed course and it's also easy to catch up!
 Best decently passed and well up to date algorithm course out there
 Loving the course so far! Best balance between theory and practice!
@@ -1305,7 +1269,6 @@ Very Nice Content!! Also the resources provided are very good.
 It is very detailed course, and have all the standard problems
 This is best course to Start . Nice Mentor and Nice Evaluation
 Very good course. Basic course for Computer Science graduates.
-Mil Gracias Coursera, uno de los mejores curso que he tenido.
 Great Course to understand the actual working of an algorithm
 must do course for computer geeks. easy to understand course.
 Fantastic course. It felt good to solve algorithmic Problems.
@@ -1314,11 +1277,9 @@ Very Good course. Best to prepare for campus placement tests.
 Great course, with a lot of excercises and practice problems
 great experience thankyou for doing such a great work for us
 This course is very useful for all Computer science studentd
-Realmente interesante, recomiendo sobretodo las actividades.
 Really enjoyed it. Very challenging, and a great foundation.
 very informative course and assignment is full of challenges
 I t  is a very nice course. Learned a lot of new Algorithms.
-You can include real life examples to describe problem also.
 Its a very helpful course for starting to desing algorithms
 I one of the best courses out there, it is simply brilliant
 Exceptional teaching, intuitive puzzles and great problems.
@@ -1328,7 +1289,6 @@ Learned a great deal and got a good amount of practice! :)
 its a very good course i will surely likely to do it again
 Very good...If you work honestly, there is a lot to learn!
 Great videos. Makes you learn algorithm in interesting way
-excellent我是跨专业的学生，一开始的内容浅显易懂，对后面的内容理解很有帮助。老师讲课也很有条理，也能听得懂。
 This is an excellent course, I've learned so much. thanks!
 Hope to have great experience with this course. Thank You!
 Best Beginner's Course for Data Structures and Algorithms.
@@ -1343,7 +1303,6 @@ Good course! hard problems. Good challenge, learnt a lot.
 Great course. Some problems are surprisingly challenging.
 Awesome course with very interesting practical exercises.
 It was a fantastic course.Plenty of difficult challenges
-Доступно, просто, понятно. Спасибо за 7 бесплатных дней.
 Great course, but took much more time than was mentioned
 Learnt a lot! Particularly enjoyed Alexander's lectures.
 The weekly assignments are well designed and interesting
@@ -1453,7 +1412,6 @@ Awesome Course which is beneficial for us
 This is a great course, it is challenging
 THIS COURESE IS VERY USEFUL AND EXCELLENT
 Great course! Very requried skills taught
-Enjoyable videos, manageable assignments.
 Amazing Course. Taught me a lot of basics
 good pre course for learning any language
 The core concepts are very well explained
@@ -1476,7 +1434,6 @@ It was tough! That's why it's perfect!
 great course with very good asignments
 Really very good course. Very helpful.
 Great course helpful for cs engineers.
-Questions are best for improving skill
 Good Introductory course on algorithms
 The best online course I've ever seen.
 Great collection of helpful exercises!
@@ -1545,9 +1502,7 @@ Great course to learn algorithm
 course is designed very usefull
 One of the best starter's pack.
 Awesome. A must topic to cover.
-Прекрасный курс для начинающих!
 nicely managed enjoyed learning
-Excellent course on algorithms
 Excellent course and material.
 very nice and essential course
 Overall a wonderful experience
@@ -1558,7 +1513,6 @@ Learnt so much! Great content.
 Very detailed and well covered
 The best course for the topic
 Amazing course! Learnt a lot.
-Good for programming students
 Awesome Course on Algorithms.
 very good outstanding content
 it is very usefull for coding
@@ -1573,21 +1527,15 @@ A very well organised course
 Thanks! I really learn a lot
 This course was really good!
 Good content, easy to follow
-more applause are not enough
 Awesome. Learnt many things.
-amazing content an trainers
 Assignments were very nice.
 very good and knowledgeable
 now waiting for certificate
 Course helped me get a job!
 dynamic programming is hard
-One word review. Marvelous.
 Great course! Learned a lot
 Thank you for  this course.
-I love it!!!!!!! excellent!
 Amazing course! Motivated!
-hardest course i ever done
-Great fundamentals course!
 best course for algorithms
 Very useful and practicing
 Good practice assignments.
@@ -1603,7 +1551,6 @@ good concepts aree taught
 A truly marvelous course
 nice work by the team !!
 Great course to opt for!
-Nice curriculum！love it！
 Simply the best course.
 It was hard this course
 Awesome course to learn
@@ -1611,29 +1558,21 @@ very much informational
 Amazing course!!! :-)))
 this is the best course
 The course was great :D
-A comprehensive course!
 very excited, thanks :)
 It was very helpful :)
-Amazing course indeed.
 it's an awesome course
 Really Useful Content.
 good quality teaching
-Most Difficult course
 definitely worths it!
 Great course to learn
 Great class , thanks!
 Its's simply awesome
 It was the best!!!!!
-great course content
-Exercises are nice !
 very good technology
 Great place to start
-Very good homeworks.
 will improve my dsa
 Problems were nice.
-nice,i learnt a lot
 Really enjoying it.
-great for starter!
 very useful cource
 Definitely useful!
 very useful  to me
@@ -1642,42 +1581,19 @@ Cool Course!!!!!!
 great course ever
 I really had fun.
 it was excellent.
-EXCELLENT CONTENT
-CONCEPTUAL COURSE
-扎实的内容，作业有点难，学到很多！
 Great job guys!!!
 Good illustration
 Very good cotent
 Awesome Content!
-Excellent ...!!!
 Great teachers!!
 Undoubtedly cool
 Wonderful class！
 Really helpful!.
 review back more
-Все понравилось.
-Very, very good!
 very helpfull!!
 very effective!
-best best best
-Very good one!
 hard but great
-Ta' con madre
-excellence !!
 Great Course
 Very excited
 its fabulous
-不是太难，还是可以接受的
-Exellent...
-Good lesson
-Love course
-Awesome! :D
-Very  good
-Must-Do!
-非常棒的基础课程
 cool one
-Sehr gut
-讲得非常细致！
-很棒的課程。
-great,
-😊😊

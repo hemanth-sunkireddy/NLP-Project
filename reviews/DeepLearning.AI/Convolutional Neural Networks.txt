@@ -29,10 +29,8 @@ there have a bug in program homework, it wasted me a lot of time
 The programming assignment in week 1 is ambiguous and confusing.
 Very serious technical issue for the last week's assignment.
 Didn't pass because of an error by the course
-Grader Issue - but course is excellent
 poor quality of the grading system
 bugs in the homework
-WTFF
 This is the hardest course so far in the Specialization. I don't know whether it's me who is lacking the knowledge to fully comprehend the material, or it is because the material wasn't presented well enough. The experience was quite frustrating, and lost the motivation that I had been carrying through the previous 3 courses.I appreciate Andrew's efforts in delivering the lectures with the aim to present most complex materials as intuitively as possible, but still I feel, because of the complexity involved with CNNs, the material need more explanations, and maybe extending the course duration to 6 weeks will provide more opportunity to the instructors to present the matter more clearly.Quite remarkably, the programming exercises fell short on my expectation. It was not useful more than just a simple syntax-check exercise for TensorFlow/Keras/Python. It gives a false sense of achievement, when, in fact, I feel myself far from learning the theoretical underpinnings of the various algorithms explained throughout the course.To conclude, by completing the course, I believe that you surely would get to know the vocabulary used in CNNs and would be aware of the algorithms developed in the domain, but you won't learn enough to implement these algorithms from scratch yourself.
 Great content, but this module gets far too buggy. The videos stutter and repeat as if they were going to be edited butt never were, and the programming exercises are so sloppy. The first exercise says, welcome to the second exercise, and congratulates you for finishing the course, even though the second assignment remains, that also says welcome to the second exercise! Loading a model hangs forever on one, and running the GAN crashes the kernel on the other. People in the forum have been complaining since at LEAST last year, and it's still buggy. This course content is great, but very shoddily put together compared to the rest. I am literally scared what week 5 will be like. Just clean it up guys. Hire an temp!
 It was okay. Andrew is obviously very knowledgeable, and there is a wealth of knowledge here. I could go through it a couple more times and still pick up new stuff.That being said, I've heard him mention he did these videos at like 1 or 2 in the morning after work, and it's very obvious from the videos. He makes so many mistakes that every other lecture (it seems like) has a **CORRECTION** notification next to it. I mean it's great they give this additional correction information, but it would be even better if you just redid the video.Furthermore, he like stops in the middle of the videos and then repeats the last sentence he said, because he made another mistake. I get it, Andrew is very successful, he's very busy, and I am definitely grateful for the knowledge he's provided in this course. But this makes for a very poor learning experience, because I'm taking notes, and I have to go back and redo them, plus the general angst you get when you're learning something and someone's like "oh wait nope that's not right, forget that." Well for God's sake I already learned it.Finally, the submission assignments are the most annoying things I have ever come across. They are riddled with errors and misguided information where they literally tell you to use the wrong parameters, and then they never fix it. You have to go into the discussions to find out why your code is wrong, even though you're doing it right.Then, you'll get everything right on your code for the test cases, and when you go to submit it fails you. And when I say it fails you, it gives you a literally 0 out of like 30 points. And the grader output just says "your submission was incorrect" like no way, I had no idea. Thank you for that very **cough** helpful piece of info.If you go to the discussions, you find out this is actually a problem with how the grader is built, because if you don't format your code exactly the right way, it fails you, even if your solution is correct. I don't understand why it can be right when you run test cases, but submitting it fails.Overall, I give it 3 stars before the poor grading, but because of the poor grading performance I have to bring it down to 2. I can't tell you how much time I wasted trying to figure out why my code was wrong just to realize it was right, but they screwed up their implementation.In conclusion, this reminded me of a college course, where the professor has a ton of knowledge and is in high demand, and doesn't really care whether you get anything out of the course or not. It's sloppy, doesn't seem to be maintained very well, and most of the mentor's responses are literally "did you look at your colleagues similar questions?" Like no I didn't, that's why I'm asking. Why am I paying you so I can spend more time debugging your screw ups? Or maybe I did and I still don't get it because your explanations are ridiculously unclear.I have one more course in this specialization and I absolutely can't wait for it to get over with so i can move on to more productive (and immersive, since these exercises are just one off "do this then do that" instructions, I still don't know how to set up a Deep Learning project from scratch) ways to learn Deep Learning. If Andrew wasn't so knowledgeable about this topic, I wouldn't even take it because it's that bad. But really you can't get this type of knowledge in such a condensed form anywhere else.
@@ -74,7 +72,6 @@ In some tasks the delivery format is arbitrary and does not specify well what is
 Programming part was not explained well. I guess programming syntax and flow of code should be explained too instead of just telling theory or focusing mainly on theory.
 TOO MANY BUGS IN THE EXERCISES.It was a dis-incentive. Really.And I love me some deeplearning.ai! It has been great. The videos and content structure are fantastic.
 Though the videos were very good but the assignments require too much from us and also there are few mistakes in week 3 and 4 notebooks which take a lot of time.
-https://www.coursera.org/learn/convolutional-neural-networks/programming/IaknP/face-recognition-for-the-happy-house/discussions/threads/NcpP7i95EemJswr-eOHMNg
 The content is excellent, but there were technical problems with the final homework assignment that were not addressed by staff in a timely manner.
 Content was interestind and provided good theoretical overview. Exercices where you just have to fill in some line of codes are not usefull.
 Some of the code was incorrect and the guidance was often confusing. Visibly worse than the other courses in the specialization,
@@ -85,7 +82,6 @@ Disappointed by the quality of notebooks, which often disconnect and lose all th
 The course assignment parts have many errors, I have to fix it myself. That's silly.
 Good content, but quite a bit of technical work is needed to present this better.
 for goodness sake "your didn't pass the test" isn't feedback for notebook grades
-Dificultades en la hoja de tareas de Face Recognition que deberían solucionar
 The content was good, as usual, but week 4's quiz was pretty buggy.
 Good course but lots of technical issues with the assignments.
 The notebooks were too simple. And the grader was not working.
@@ -93,7 +89,6 @@ Videos are good, but exercises are really confusing
 content good, but assignment is in poor quality
 The structure of the assignments is not good
 Programming exercises have bugs
-unclear content...I'm sorry
 Numerous technical issues
 Dear Instructors, This is most frustrating course in all of your courses so far. The instructions were completely misguiding the candidates from YOLO implementation onwards. All along you presented the course very well. But when come to most important topics, we had to focus on syntactical errors. But we are supposed to spend time on understanding the algorithms at this level. Dont know why this 180 degrees turn taken by you. If you intentionally designed this course then fine. Otherwise, you should seriously think about rework on the instructions. Few links to hints were taking to some pages in github with just folders.I am sure , many learners here have such same opinion. I can see this in the forum postings.From YOLO onwards, you were not giving the big picture of the task. This is confusing. We are lost, where we are heading by the mid of the assignment.With all due respect to your highly precious time, I request you to enhance the assignment instructions.All motivation I got from previous course, losing because of this course.Personally, I feel YOLO easy to understand, but instructions were misguiding and confusing the candidates.This is my honest feedback, as I very much like this course. I am going forward for the 5th course in this series.Last but not least. Thank you for making this high quality knowledge made available for public with easy access via Coursera.
 Great lectures but the programming assignments feel as if it is testing your proficiency with tensorflow which is neither formally covered in the lecture nor the most intuitive framework to understand so you'll spend so much time digging through convoluted tensorflow documents and qna and whatnot to debug your codes that you would rather learn tensorflow formally first and then take this course and still end up finishing it faster than only going through this course only but it is only the programming assignments that basically assume that you are already familiar with the tensorflow framework so if you are only going to go over the video lectures it gives a great overview of how CNN works and many useful algorithms which can applied to a assortment of situations
@@ -121,7 +116,6 @@ I was taking this course because I hope to apply machine learning to biological 
 The video lessons gives very clear and understandable concepts but I didn't feel that the coding exercises will help me to write my owns. I could easy fill in the blanks and get the required grades but I have to admit that for the most of it I didn't understand what I was doing or what was happening in the part I didn't have to fill in. I have a reasonably strong mathematical background and barely no coding knowledge (a bit of Matlab and beginner python training). The whole deeplearning program was going relatively well up to the coding exercises in this course which jump a step too much for me.
 Not as great as the previous three courses. The exercises here are much more challenging than before, but not always for the right reasons. A thorough primer on Tensorflow should be made mandatory in this course. A lot of the time you eventually manage to complete the exercises without really knowing what you are doing. The subject matter in this course is also more complex than in previous courses, so more attention needs to be put on really making students understand the fundamentals thorougly. Also, sometimes buggy or inexplicable grader output. Andrew Ng is still a great instructor though.
 I have been a big fan of the series.  I think it is a must-take series.  I took this course when it was freshly released.  The materials and programming assignments were quite good from week 1 to 3.  However, the week 4 programming assignment was not ready.  I encountered a few issues in the autograder and test data loading.  I burned some time tracking down them.  Fortunately my fellow classmates were very helpful in the forum.  I am sure all problems would be solved in coming weeks.  Just keep a mental notes.Having said that, the materials is worth the pain.  Go take it!
-La verdad este curso no me gustó mucho porque fue demasiado teórico y habían partes que uno se perdía de tantas formulas... por ejemplo en la tercera semana había una parte de la formula que decía 3x3x8 y como a los 6 vídeos siguientes, explicaron a que correspondía el valor de 8 (Si se hubiera explicado eso desde el primer vídeo hubiera sido más claro todo desde el principio). Este tipo de temas me parece que es más interesante verlo como un tutorial; donde a medida que se va explicando teoría, se va mostrando como hacerlo en x lenguaje, ya sea, python, c# u otro.
 Wonderful course by Dr. Andrew Ng BUT IT WOULD BE WY BETTER if the 
 course offered EXECUTION EXERCISES following Google AI courses (see 
 below)https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises) 
@@ -298,11 +292,8 @@ need improvement of content
 Notebooks are a bit buggy
 Serious bug in assignment
 too many errors in test
-部分内容讲的不是很清楚，有些剪切不好，有重复
-没有翻译 tenserflow也讲得不好
 Not enough theory
 too theoretical
-too many bugs
 Content is great, but videos could be trimmed to cut retakes. A big issue is that guidance for programming assignments abruptly drops off from extreme hand-holding to being thrown in the deep end.
 Great course. The only improvement I'd wish is to get a better introduction to the concepts of Tensorflow and Keras.
 Good content, videos have the occasional editing hiccups that also affect other courses in this specialisation. Assignments could be a little bit harder but do a reasonable job at familiarising with useful deep learning frameworks.
@@ -569,7 +560,6 @@ I think they have presented the most possible content that doesn't make course b
 excellent course and very challenging!! The last programming assignment was a little frustrating having the correct answer and not getting credit for it until I changed the axis to None.
 A great course with many simple code samples using tensorflow and Keras. The only issue was that instructors do not participate in the forums. Otherwise the content quality was excellent
 Great course but in comparison with others of the specialization, the exercise did not leave that much as before. Too focused on lines and not on the whole implementation of the ConvNet
-Der Kurs hat mir sehr geholfen und war Zeitlich gut zu schaffen.Bei den Programmieraufgaben hätte ich mir ein paar beispiele gewünscht, um schneller in die Syntax einsteigen zu können.
 It can be so much better if Andrew covers some more overviews. But it is still a great course and everyone should take it. Andrew gives the most understandable lessons about Yolo ones.
 The first week was good and well presented. From the 2nd week onwards it as very cryptic. In the final week, on what are deep conv nets are learning, more details could have been given
 I feel some of the theory was rushed here and high level functions used instead of explaining some of the more difficult concepts in the papers referenced, such as the Inception paper.
@@ -789,7 +779,6 @@ More guidelines on tf functions use could be provided even though it has been pr
 This Course gave a high level lecture on CNN. This should be enough to kick start in CNN journey.
 The course was good,but i think more time could've been taken to explain yolo and sliding window
 Assignments are good,should include more explanation regarding Interactive Session of tensorflow
-Сложно писать функции, понимания где Keras, где Tensorflow - приходилось искать просто по коду:(
 This course is really great. But I hope more such kind of contents will be introduced in future.
 Topic is nice and well covered. Just the occasional errors/mistakes in the videos are annoying.
 I sugest to find a better way to teach Transfer Learning when we are codding in the exercises .
@@ -835,7 +824,6 @@ Content is great but assignments have several bugs which waste me a lot of time.
 The course seemed kind off rushed, but nevertheless got a lot to learn from it.
 There were a few issues with the Face Recognition assignment but overall great!
 Please, fix the bugs in the assignments. In particular in the Week 4 assignment
-Lectures are excellent as always. Practical exercises require more enhancement.
 The videos could stand a bit of editing, but the content is great nonetheless.
 Much better value than course 3, but assignment instructions could be clearer.
 I am not very interested in this topic and the assignments were very very hard
@@ -865,7 +853,6 @@ The last assignment on triple-loss has the grader-error, which a couple
 I'd have given it 5 if programming exercises were modified to use TF2.
 A wonderful introduction and implementation to the concepts of CovNets
 It required coding on keras and tensorflow not appropriete introduced.
-Very hard at week 2. Week 3 and Week 4 were very exciting. I liked it.
 The grader could use some more debugging but otherwise excellent work.
 Great course!  Assignment notebooks could be a bit more challenging...
 Good material. I recommend explaining YOLO with more conceptual depth
@@ -913,7 +900,6 @@ Difficult to find help for the face recognition assignment
 grader is not working sometimes, have to logout and login
 The coding assignments and the grader should be bug free
 some principles were a bit foggy and hard to understand
-第四周的课程在线训练时间有点长，经常断kernel，看不到效果，最后只能提交作业运行验证对错，别的都挺不错的。
 Provides great introduction to conv nets. Great Course.
 Often the assignment could not be submitted and saved.
 The grader bug should be looked into, wonderful course
@@ -927,12 +913,10 @@ Material is good, but too many problems with grader.
 good amount of practice, some rough edges in content
 Iou function had issues in week 3 .Course was good!
 If more practice using convNN, it would be perfect.
-还是一贯的好！但是习题没有详细解析了！然后带有 Hint 的链接，即使翻墙也看不到，这个非常影响学习！
 Tensorflow and Keras parts need better references
 grader s output should be completed with feedback
 A bit faster in terms of programming assignments
 Programming assignments are basic  than expected
-Excellent!one star missing due to grader problem
 5 stars, except for the bug in grader on part 4.
 Few bugs. Except these bugs, others are all good
 Andrew is awesome! He explains in a perfect way
@@ -946,7 +930,6 @@ Good course but sometimes confusing homeworks!
 The assignment has some problems with grading.
 There wasn't anything about image segmentation
 Great Course, learned a lot of basics of CNN.
-这门课非常好，信息量超大，要反复看。app上做题，适配有点问题，quiz已经没有答案解析了
 The course can old give you some general idea
 too many problems with the second assignment.
 Hope can give some more details about keras:)
@@ -964,10 +947,8 @@ very very much thankfull to Andrew Ng Sir
 Best course for CNN and its applications.
 Very nice but maybe a little bit shallow.
 some typos in the assignment instructions
-编程题如果能够简单设计一下训练，哪怕epoch次数少一点也好，至少整个流程会更清楚
 Yolo algorithm was not introduced clearly
 There are some error in the assignments.
-good, but still have some grade problems
 we need better feedback on the quizzes.
 Interesting insight .useful for my work
 Probably too easy for a mathematician.
@@ -981,9 +962,7 @@ Is great course about CNN that I took
 Great introduction into this subject.
 Programming exercises need updating.
 Needs robust/challenging assignments
-improve Face recognition assignment
 not as good as three classes before
-希望可以更新进来一些目标检测上，常用的Tricks，经典的算法讲解。
 Good course. Go slow to grasp all.
 Videos need to be properly edited
 Week 3 & 4 could be more detailed
@@ -1012,17 +991,11 @@ Could use more depth.
 Great course, thanks!
 Some early bug issues
 Very interest course
-Excellent course but
 left me wanting more
 very exciting part !
 CNN is so helpful.
-A bit difficult
 I had a blast!
-最后一个作业感觉有一些问题
 The Besttt.
-Quite nice.
-Some error
-Decent
 Amazing! Feels like AI is getting tamed in my hands. Course lectures , assignments are excellent. To those who are not well versed with python - numpy and tensorflow , it would be better to brush up.
 This course is definitely tougher than the first three courses. Challenging but worth it.
 Great course for kickoff into the world of CNN's. Gives a nice overview of existing architectures and certain applications of CNN's as well as giving some solid background in how they work internally.
@@ -1117,7 +1090,6 @@ The material in the course was very good. Andrew Ng is a fantastic instructor an
 Great course. It has all the main state-of-the-art approaches. I just missed dealing with 3D data (RGB-D and point clouds). I believe the programming assignments get better as the course progresses because they get more demanding.This is a great overview course. I suggest anyone interested in deep learning vision to start with this course and then move on to implement a CNN in tensor flow form scratch using one of many tutorials online.Thank to the team for this great course!Best regards,
 A lot of quality content in this course. The first half focuses on the intuition behind ConvNets and their implementation, while the second half focuses on applications. I thought that the neural style transfer application was particularly enjoyable. My only suggestion for improvement is to let the students do more work in the assignments for the last two weeks. I feel that most of the code in these assignments was black boxed, and I got to implement a minimal portion of the algorithms.
 As with all the other courses by Andrew Ng, pacing and presentation are perfect. Learning this material is highly rewarding. Programming assignments are clear and accessible, although a little bit more thorough introduction in the use of Keras and Tensorflow wouldn't hurt in some cases. I found myself pretty deep in the documentation of both libraries - although that might be part of the intended learning process. Highly recommended! - Thanks to professor Ng for making this available
-Curso excelente. Da todos los detalles más importantes sobre redes convolucionales, incluyendo las matemáticas que las hacen funcionar (incluso explica backpropagation en un ejercicio opcional) y cuáles son y cómo funcionan las aplicaciones más importantes. Omite una que otra cosa, por ejemplo cómo aplicar vectorización a todos los ejemplos de entrenamiento, y de vez en cuando durante los videos secciones de audio se repiten por alguna razón, pero mayormente está bastante completo.
 This course is still amazing. Finally understood what CNN's are for and how to use them. This is the first time in deeplearning.ai specialization that I had to consult the forums. by far implementing in low level code convolutions  (first asignment) was the most difficult part. Spent more time then with the other courses but it was time well spent. Again Andrew NG delivers a good course.The minor editing problems in videos are the only issue that might be raised with this course .
 The entire course is great, from the lectures by Andrew Ng, to the homework assignments, and the TA's help on the forums.  The really terrible part of the course is the coursera grader, which I had to hack for 3+ hours just to pass an assignment.  I dont wanna dink the review for this because the class itself is wonderful.  But please fix those technical issues.  So the 5 stars come from averaging 10 stars from the course itself, and 0 star for coursera technical issues.  :-)
 This is an excellent course in which Professor Andrew Ng explains the concepts of convolution, pooling and convolutional neural networks very well. Also the various advanced convolutional network architectures and various applications in computer vision are discussed in an excellent manner along with references to the research papers on which the content is based. The programming assignments are also excellent and really help you learn the principal concepts and techniques.
@@ -1172,7 +1144,6 @@ Definitely 5+ stars. You got some much precious experience to implement those st
 As in all the previous courses in this specializations, Andrew Ng teaches the basics of neural networks in a clear, easy to understand manner. The programming exercises give nice hands-on examples of how you can apply the models described in the lecture, teaching both how to program the algorithms from scratch, and how to use higher level packages like keras and tensorflow. Great course!
 This was my favorite class of the specialization so far. We've finally built up to the point where we can do some of the sexy things deep learning is known for. I have to say, I'm getting sick of having to submit every assignment 2 or 3 times and waiting for up to 2 hours to see if I passed because the Coursera grader doesn't want to work properly, but that isn't the instructor's fault.
 Amazing course, with careful explanations and intuitions for every algorithm. Beyond explaining greatly what are Convolutional Neural Networks, the course uses recent research papers to go through high level algorithms for face recognition and presented really nice applications such as Neural Style Transfer. I'd like to really thank the instructors for delivering this amazing course.
-Es un curso que te enseña los fundamentos, técnicas y variaciones de las CovNets (Redes Neuronales con Convoluciones). Este curso es bastante bueno para introducirse en el mundo del análisis de imágenes y otros campos que utilicen datos no estructurados. Muy recomendado el curso, pero vean primeros los otros cursos de esta especialización para que pueden entender mejor los conceptos.
 Another wonderful course in this specialization. The course covers many important topics in the field of Deep Learning such as CNN architecture and models, ResNets, Object Detection, Face Recognition, Neural Style Transfer and even a tutorial on the popular DL library Keras. The programming exercises and fun to complete and the course content is top-notch as always from Prof. Andrew.
 Awesome CNNs course! I don't know why so many bad reviews, the grader doesn't fail if you follow the instructions (grade your assigment when you are asked!...tensorflow can only run one session so if you try to overwrite your model session with the teacher example session, grader will fail...tensorflow fault not this course) Would have love some GAN Week 5 Neural Style Generation :D
 Programming exercises need to made really with right structure as the YOLO one was very poor. Problems are very easy and makes this course very simple. We need to incorporate right amount of programming along with concepts, make it tough and train us also really well in the ideas. Concepts are absolutely fine, it takes the slow pace to make us understand deeper ideas and intuitions.
@@ -1209,7 +1180,6 @@ HiThis was a really good course to see mini projects getting executed. It gave q
 nice program to learn about convolutional neural works. I always fascinated about convolutional networks and this course gives me the very nice introduction and sort of in-depth knowledge and first hand programming knowledge in this area. The instruction and nice and start from easy and slowly get you into the deep knowledge. Great course and nice work.
 This course covers the basics of convolutional neural networks. After you understand the materials covered in this course, you'll know how smart phone cameras auto focus on faces. You'll also learn the basic building blocks that powers self-driving technology. These are just two of the many cool concepts you'll learn in this course. Highly recommended!
 The programming exercises require much more attention than you think it does. Although it's required to only fill in the code in specific areas and not too much either, the foreword before each code section must be studied carefully if you are to build your own convnet. The video lectures are pretty straight forward, so there's nothing to worry about.
-Unos de los cursos más didácticos que he realizado. Muy claras las explicaciones de Andrew Ng sobre todo con respecto a las capas que componen una ConvNet. ¡Lo disfruté! Recomendado.One of the most didactic courses I have ever taken. Andrew Ng's explanations are very clear, especially regarding the layers that make up a ConvNet. Enjoy it! Recommended.
 Just like the other courses in this series, this course was prepared with great care to optimize the learning outcome. Clear and motivating lectures, great selection of up-to-date methods and very illustrative examples. I would like to thank Prof. Andrew Ng and all the course staff most sincerely for designing and making available these great courses.
 Very good learning experience. Prof. Ng gave a lot of insights about not only the CNN frameworks but also some real world working experience and hints which were very informative.  For this one , I had very heavy work load during learning, I recommend people take it in a continuous manner, this helps you understand and connect every knowledge nodes.
 Excellent Course!! By doing the this course I am now feeling very confident in CNN. This course is very important for all whether they may or may not work in CNN/images. This fundamental learnt here can be used in other domains of deep learning.Thank you deeplearning.ai Team for proving this wonderful course.  It has opened new opportunities for me.
@@ -1261,7 +1231,6 @@ Another excellent course. Convolutional Neural Networks is no longer a mystery. 
 It is a great course that covers most part of Convolutional Neural Networks. I have learned a lot from it. Thanks Andrew! Only one suggestion: we have learned dropout and the batch norm in previous courses. Because they are such important tricks, it would be better if you could cover how they can be used in CNN.
 Greatest cores for me till now on deep learning. I recommend it for deep learner or computer vision student. The best thing in this course is that it is very practical and up to date, and full of research  papers of algorithms that Google and Facebook currently uses. Thanks a lot Prof Andrew Ng you are the best.
 An Excellent Course to make people understand Convolutional Neural Networks in good depth and with ease. The detailed understanding of the major Convolutional models like YOLO and ResNet is like an icing on the cake. I would like to thank Professor Andrew N.G. and his team for developing this wonderful course.
-Muy bueno para empezar a entender los conceptos de las capas convolucionales. Luego muestra modelos profundos como AlexNet, VGG16, ResNET, Inception que se pueden entrenar usando transfer learning. La parte de detección de objetos es la mas complicada. La parte que más me gusto fue la de reconocimiento facial.
 The intuition and examples made this course easy to understand and learn.  I loved how Andrew decomposed current published papers into an easy to understand format.  All of the important points to remember were highlighted without wasting time on the minutia.  Thanks for all the hard work put into the course.
 I enjoyed a lot in this course...who wants to know how to build the CNN model...then this course is absolutely for them..they should try 100% this course. this course gives u insights into how to build your CNN model this one is I think the best course for that...thank u  sir for this type of good content...
 This course explains the details of CNNs with a great simplicity. It also presents some state of the art CNN architectures with their ideas very clearly. Finally the assignments allow to implement several CNNs and also show how transfer learning is used to perform face recognition and neural style transfer.

@@ -18,12 +18,10 @@ The volume was too low for all the videos. I could hardly understand what sir wa
 Very few details of LSTM are covered, do not think it is enough.
 weak examples. no programming exercise.
 Poorly designed and graded exercises.
-Nothing to say besides disappointing!
 do not take this course
 It needs more homework.
 Very little content. Extremely short videos, with some notebooks thrown in and show only the most basic applications... I would have expected in-depth explanation on Network-Architecutres, instead of having to memorize the name of some methods in keras (fit_on_text or fit_on_texts). Come on! This course seemed rushed, compared to the high standard of other deeplearning.ai courses.
 The lack of graded programming assignments is a big bummer
-Not much lectures not much exercises.
 Compared to Andrew's original M/L course, and the most recent Deeplearning specialization, this series of courses is very lightweight.  The material is very good, well organized and clear.  But it can be covered fairly quickly.  This last one, natural language processing, can be completed in an afternoon, all four weeks.  This is a bit annoying, as the courses appear so far apart, I have paid over $40 for each of these three, for what could essentially be a weekend course (all three courses combined).Nothing wrong with the material, and I often use and refer to Laurence's code examples.  I just wish there was more material in these courses.
 Very elementary introduction to applications and scenarios in nlp. As has already been mentioned in other comments, the whole course can be compressed into no more than two hour long lecture and exercises over an afternoon.The lectures consist of short videos introducing snippets of code and occasionally making claims but without actual notebooks with which people can play and reproduce results. The quizzes through out this specialization have been written extremely poorly, testing irrelevant (if any) information about datasets and naming modules etc. The quizzes are so trivial that the fact the course grade and certificates are only based off performance on the quizzes makes the whole idea of paying to get certificates questionable.The exercise notebooks are okay but are extremely redundant. After the great expectations built from taking Andrew's deeplearning specialization and machine learning course, I must say the first three courses of this specialization have been extremely disappointing. I still want to thank the instructors and the team for taking the time and effort to build this specialization. Perhaps I'm just not the audience it was aimed at. My recommendation to other learners is to first checkout the free tutorials on tensorflow website and keras blog, and then audit through videos in this specialization before deciding to pay for it (Also make sure to first check a few other resources, e.g. Deep Learning with Python textbook by Francois Chollet, the github repo for which is public and the notebooks are almost exactly the same as here but more in-depth).
 NLP basics. Missing a lot of things. This entire course could have been made in to a single weeks 5 mins video.
@@ -223,7 +221,6 @@ this course me to learn word processing and how to complete a simple sentence
 Exercise to write code will help more to learn applying the concepts learner.
 Innovative Course but little bit difficult to visualize what is going in deep
 I would like to see examples with some sound, video and web scrapping input.
-Le agregaría más ejercicios obligatorios, como el curso 1. Igual está bueno!
 the course content is great, but some explanations are not very detailed
 The minus is just we are not being evaluated like the course before this
 It was a nice experience to learn a lot of things through this course.
@@ -256,11 +253,8 @@ quiz could be improved signicantly
 Good Course but lack of details..
 Learned new things in tensorflow
 No really understand it in fact.
-Не хватает практических заданий
 Audio could be louder. Thanks.
-Some video have a small audio
 thank you coursera  :)))))))
-Simple and understanding
 Missed graded assigments
 i like this courses
 Nice and clear
@@ -314,7 +308,6 @@ The specialization covers brief introduction to the concepts of Computer Vision 
 The course is well planned and well delivered. It would have been great if there were longer videos and in-depth explanation of the codes. Also, it uses keras. Which is fine with me. But the title is a little bit misleading.
 Nice way to start NLP first try to get some essence from this course and then dive deeper into mathematics. Because when you see happening things in front of your eye then you want to know more about it.Highly recommended
 Very very informative course.  I really loved the way Laurence Moroney step by step explained every concept. The examples were pretty nice. First time I learned how to use LSTM (using RNN). Thank you Coursera team.
-El curso es genial, solo que un poco avanzado para principiantes en el Procesamiento de texto. Estaría bien incluir algunos recursos para buscar información de la matemática detrás del procesamiento de texto.
 It was awesome to learn how to create texts without having the technical skills for it. Also, it is shocking knowing about the millions of applications this topic can have in the real world. Excellent Course!
 Useful contents. The courses preceding this course make a good complement to understand this one. Maybe I would recommend to add more examples and more deep technical and theoretical contents as a complement
 This was a brilliant and extremely fun course, with a very robust introduction into NLP modeling! I'd highly recommend this to just about anyone who's interested in text generation or even text recognition!
@@ -322,8 +315,6 @@ The course seemed excellent and well defined to help understand use of TensorFlo
 The course was really great. it gave complete knowledge about data preparation, model creation and prediction. This course was really helpful to me in understanding NLP and TensorFlow in a better manner.
 Excellent course.All things covered in such a fascinating manner that it kindles your interest in the domain of nlp to a far greater level.Thanks to the instructors for making such a course.
 Excellent courseGave me a brief idea with practical experience about how to process strings for machine learning.I would like to thank Laurence Sir and a Special thanks to Andrew Sir
-Je n'avais aucune connaissance sur le sujet. Après ce cours, ayant acquis toutes les bases indispensable je n'ai qu'une envie c'est de continuer à approfondir concrètement le sujet.
-Me gustó demasiado este curso, al poseer el conocimiento técnico adquirido en la especialización de deep learning todo se hizo más fluido e interesante, muchas gracias por todo!!.
 This is good course for those who are want to practice in natural language processing in Tensor Flow and also learned sentiment analysis it is having wonderful stuff for beginners
 It was very Informative.When I started this course I was not only looking for concepts but implementation as well.With in a small duration I have learned quite large information.
 This is a a great course that help me improve knowledge about NLP. Course has many example and code in TensorFlow so easy to understand and practice. Thank teacher and Coursera.
@@ -352,7 +343,6 @@ It was so good to learn from these two teachers, it was really a wonder full exp
 This Course Is a great Example Of NLP Using Natural Language Procession And In this course start from basics of NLP to the predicting word of the poetry.
 All basic fundamentals of NLP use cases that can be solved using Tensorflow had been taught and taught well with sufficient references and explanations.
 Explained the concepts very well. One suggestion: Can spend some more time over the theory and a little bit of Math for understanding the models better.
-Suficiente para iniciarse en el campo de NLP. Creo que es muy clara y precisa la informacion , así también la enseñanza. 100% recomendado para iniciar.
 Excellent! Great progression in the presentation of the concepts. The course is very helpful in understanding how Tensorflow helps to build NLP models.
 Lawrence is amazing , adding graded programming assignments in this course would have been much more fun but still i loved learning these new concepts
 Precise and to the point introduction of topics and a really nice head start into practical aspects of NLP and using the amazing tensorflow framework.
@@ -539,7 +529,6 @@ great course for intermediate learners
 very objective course . helped me alot
 excellent course for beginners in NLP
 Fantastic course and great professor.
-excellent, concrete and good content
 Course was excellent and interesting
 Great Start to the NLP understanding
 Laurence is just amazing! No fluff!
@@ -549,45 +538,34 @@ NICE WAY TO ENHANCE OUR KNOWLEDGE
 Awesome Course!! learned a lot :)
 Really good!But slightly shallow.
 Very clear, loved the notebooks.
-well designed experimental parts
 It was excellent thanks teacher!
 Graded assignments would be nice
 interesting and applied examples
 A great mentor and great module
 Should have graded assignments
-Excellent Module!!!Valuable!!
 The course was a lot of fun.
 Excellent Learning Material.
 Great Material and examples
 Crisp and clear explanation
 The Course was very useful.
 This is a excellent course.
-Awesome course explaination
 Very good for the beginners
 This was super interesting!
 This course was very good.
 The course was really fun!
-Gud platform for learners
 A very nice introduction!
-Excellent Implementation
 I enjoyed it very much!
 Going to be very useful
-Comprehensive course.
 Nice coding exercises
-difficult    but nice
 It looks a bit simple
 Great, well explained
 Nice Course for NLP!
 Fantastic educators
 very useful and fun
 Good course on NLP.
-Excellent examples.
 It's helpful to me
-Exceptional tutors
-GREAT EXPERIENCE .
 Loved the course.
 Just  awesome :)
-beautfoul course
 Extremely useful
 Thanks Professor
 Great as usual.
@@ -595,8 +573,3 @@ Easy to follow
 It was great!!
 Awesome baby.
 Really nice.
-Thank you :
-Helpful..!!
-I like it.
-Not bad!
-elegant

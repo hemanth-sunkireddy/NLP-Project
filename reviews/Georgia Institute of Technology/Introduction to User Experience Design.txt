@@ -62,10 +62,7 @@ The videos did not seem very interactive. The teacher just read the slides. Good
 The class is super thorough in terms of the basics, however, the interactions could be improved from Week 3 onwards. :)
 As a product designer the concepts were not very new. But it was interesting to see how they apply to digital designs.
 Good for really newcomers but also possible to catch some details for a bit experienced professionals
-Muy básico pero siempre aportan nuevos conocimientos para quién desconoce este mundo.
 it is really an introductory course, therefore very easy and basic ideas
-Материала мало и много воды, много вопросов тестов высосано из пальца.
-Je m'attendais plus à une formation orientée sur le design des UI
 This course was too basic, despite being an introductory course.
 Really basic. Only quizzes to pass no practical projects.
 visualized examples? - good content but lacked engagement
@@ -88,7 +85,6 @@ The course definitely provided a great overview and resources to use outside of 
 The instructor was very clear in covering the materials. I loved her presence and how she communicated the information. My only issue was with the quizzes. The questions asked in the quiz did not resemble the communicated information in some of the lessons. In addition, some of the multiple-choice questions provided two sets of multiple choice answers with one set of multiple choice answers providing bubbles to click in.  Just remove one without the bubbles, they do nothing but cause confusion specifically if the multiple-choice sets of answers are not in identical order. Other than that, I enjoyed this course!
 It's a very basic course but as a total beginner I'm glad I took it. Soon I'm starting stationary post-graduate UX studies and I think it was a good introduction, I definitely feel like learning more of the topic. What I missed were more examples or case studies, but maybe this was the point of the whole course to be short and basic... And I think you can easily complete the course in 2 or 3 weeks. There were some interesting articles linked in the materials however many of them were repeating the same or similar content so to me the selection of these materials looked rather random...
 A good introduction to those who only have surface-level knowledge of UX Design. This course will quickly give you a working understanding of the basic processes designers follow when developing or improving an interface design. If you are preparing for a bootcamp, or want to discover what you'll be delving into, this is a great first step. My only improvement would be editing mistakes from the lecture videos and allowing students to see the correct answers for test responses that I got wrong.
-J'ai beaucoup aimé le contenu de se cours. En temps que passionné et apprenant auto-didacte, j'ai appris beaucoup sur les bases qui régissent la conception d'une interface utilisateur dans le but d'améliorer l'expérience utilisateur. Du rassemblement des pré-requis, en passant par le design de l'interface et le prototypage à l'évaluation, tout fut bien cerné et laisse déjà un envie de mieux comprendre sur de nouvelle cours .. Merci à vous . Cordialement
 This was a mini introduction to user experience design and was shorter than I expected. I had hoped it would have been more in depth. If you want to get an idea of what UXD is about, this is a great general overview. I likely won't purchase the certificate for this course as I felt that it could have delivered more hands-on practice than it did. The course did give some excellent reference material in the form of website links.
 Great introductory course that touches on how to do design requirement research. Much of the materials covered were repeated from my psychology course on research design. However, there are some important design and UX jargons detailed in this course that helped me to understand better about the research cycle in terms of UX design. Overall a simple but comprehensive short course which is highly recommended.
 Very short and general overview of UX design.  Pretty concise with good resources.  This course would be much better if there were more serious assignments given.  I also really wish there was a bit more direction given for someone who wants to get more serious about this (i.e. if I want a career in this, what should I do?)  I also kind of wish there was mention on the risk-management side to usability.
@@ -103,18 +99,15 @@ Very basic course that you could finish within a day. Provides a lot of useful l
 The course is a good point to start, but i found some questions tricky for foreigners - some of questions have a difference in a single word or words are placed in another order and it is hard to tell the difference.It would be great if after course completion you provide links to other coursera courses of the same field.
 Overall the course content was an excellent introduction to the topic. I have done work in this field and while I am familiar with the topics, it was good reinforcement. I would point out that I noticed some inconsistencies and typos in the PowerPoint - I don't know if this can be fixed, but it was somewhat distracting.
 Introduction to User Experience Design was a very good first step to start into this interesting field of design. I really enjoyed to learn the basis about UX design from this course and the most value thing that i can mention is that this course had encourage me to keep learning more, so I truly recommend it.
-La profesora explica muy bien y conoce del tema pero la información no está actualizada, los recursos son bastante antiguos, tipo 2011-2014, y hay algunas cosas que ya no se hacen porque se ha demostrado que no funciona. Pero bueno igual es un buen comienzo si quieres entender las nociones básicas de UX
 It's a very concise and easy-to-understand online course for those who want to know what is User Experience Design. The quiz after each session helped a lot to freshen up what I learned. If the quiz report can show the result of why the answer is right or wrong will be much better.
 A very very basic but complete introduction for anyone who just wondering what UX is, or who want to structural his/her own practice  in a logical and systematic manner.It also shows ideas if you want to understand deeper.Took me one day to go through the whole course. FYI.
 This is a very basic introduction, but it gives interesting information. It presents the main elements to collect user needs and to start a design. By the way, it is strongly focused on the requirements. There are not a lot of details about the design of user experience.
 A general overview of UX fundamentals. Many concepts are too ground level for a designer with an education background (even different than plain UX), yet brush them up is a great idea before starting a new learning path. Highly understandable and strongly recommended.
 It was a good course to take when you were really a beginner in the field as it taught you the basics of UX design. However, some concepts were quite hard to grasp. But overall, this course was helpful for people who wanted to start learning about the field of UX.
 It's a good introduction to UX Design, especially if you don't know anything about the field. It gives you the basics and the lingo that you will encounter in this field. It would have been nice to have some practical assignments, but overall really good start.
-Como lo dice el título es una introducción a la experiencia de usuario, ayuda a refrescar conocimientos. Hay partes que aparecen en video como vínculos, que podrían agregar en la traducción para hacer click y ya. Pero en general es un buen curso introductorio.
 Very interesting and great introduction to the User Experience Design. My only comment is that I wanted to learn more about the visual aspects of User Experience. Overall, a very interesting course that has further sparked my interest in this field!
 Some of the lessons were a bit monotonous, perhaps some visual aid may have helped to break up the lessons. Overall though, the content was sound and I did feel like I learned a lot with regards to the basic building block of User Experience Design.
 Good beginner level course - useful for those interested in getting an early understanding of the field of UX before they decide on whether this field is right for them or not.Having said that the course has been kept easy to understand and quick...
-Para ser un curso introductorio se explica bien el proceso de diseño de UX pero no solo UX sino UX/UI ya que en todo tiempo se habla de la UI, pero para el desarrollador de Front-End este curso le daría un gran escenario de como hacer las cosas.
 Some test questions poorly structured, videos could use editing to add pauses after asking the user to perform a task or work out a problem.  Currently it just keeps playing sometimes revealing the answer before a manual pause can be initiated.
 This course provides exactly what it promises, a basic introduction to UX terms and concepts. I think it does an excellent job of clarifying these ideas, but more is needed to help students decide whether they are qualified for this career.
 Great introduction to the subject. Some minor issues with the quizzes, one duplicated question and some wierd stuff with choices (first you are gives a-c, then you can select one below but they are in another order. Bad UI design :*) )
@@ -131,7 +124,6 @@ As a novice I've found this course to be clear and concise. To put it in course 
 I enjoyed this course. Thank you very much to the instructor. Lectures and teaching - 5 starts indeed, but I wish there were more examples and interactive questions leading to more practical tasks.
 The introduction is on point, however, I have a feeling this course is a bit outdated. Also, missing some key points on how to make sketches of UI and there was not so much information about it.
 Excellent as an introductory course, with concepts explained clearly and succinctly. A few more case studies or practical examples may have been beneficial, but overall this course is excellent.
-Conceptual, un poco amplio pero tiene en cuenta el paso a paso para el correcto diseño. No estoy en tema y para mí es algo nuevo, me gustó, pero me queda algo de gusto a poco en cierto sentido.
 Evaluations feedback should show why a wrong answer was wrong or right - at the moment there is no "feedback" per se other than showing the answer was wrong, which is not helpful for learning.
 Explaining each and every steps was good. I feel it would have been better if some visual elements in the course material which will us to understand faster than the current teaching practice.
 Very Well Done.  As an introductory course it was easy to follow and very informative.  I will be able to use this practical knowledge in my current work environment.  Thank you Dr. Arriaga!
@@ -158,7 +150,6 @@ Was able to gain knowledge on User Experience essentials like Requirements gathe
 Good information, at times, would have like a bit more explanation on certain topics.. section on  presenting task findings was a bit confusing.
 The course was very informative & educational. One thing that was lacking were the slides. Video went to fast to be able read them some times.
 The course has addtional good resources and reading material, which was half of the learning content, otherwise it would have been too basic.
-Excelente, porém acredito que poderiam ser mostrado mais exemplos práticos de todos os Steps. O curso poderia ser um pouco mais ilustrativo.
 This is a very good course. It covers the main points in the user experience design and it's a good to step to start learn out this field.
 Great Intro course that goes over most the general concepts of UX design. It's a good starting place to get your feet wet in this field.
 Clear introduction to the process but the occasional typos were really rather glaring and took away from the credibility of the course.
@@ -169,7 +160,6 @@ Great course to start into UX Design fields. But still need some practical appli
 For someone who has no prior knowledge in User Experience, this course lets you dip your feet before you deep dive into the ocean.
 It is very useful if you are new for UED. It will help you building up framework, and tell you some fundation defination of UED.
 Rosa is so good! I learned a lot in this course. Thanks Cousera & Georgia Tech, to make this courses available for everyone!
-El contenido me paereció muy valioso. Me abrió la mente.Excelente que la mayoría de videos tengan subtitulación al español.
 The content is very good, but the interaction and doubts posted in the fórum are forgotten by the creators of the course.
 More detailing on how to design alternatives would have been useful. I felt like I did not learn much about that aspect.
 There should be a review system like assignment for alternative designs , prototyping , creating survey , evaluation.
@@ -181,7 +171,6 @@ A fair well-designed course covering the basics. I believe, better detailing on 
 took less than few hours to complete! Clear and easy explanation helped me to grasp basic concepts of UX design
 The course was good. The issue was the predominant verbal explanation but very little visual exemplification.
 Easy to follow, good teacher, good content. I would suggest to include  more real examples for each concept.
-Conceptos muy básicos pero sin duda funcionales y necesarios para quien inicia en el User Experience Design.
 More practical usecases would have been engaging. Otherwise, knowledge wise good for introduction course.
 Pretty good dive into the basics, my only issue is that the pacing could have been a little bit better.
 A little bit repetitive/ vague at times, but good as a general introduction, which it is meant to be!
@@ -197,7 +186,6 @@ This was a great intro to UX design. This was a nice platform to launch into UX 
 Not a bad introduction, evaluations were too easy. Would have liked something more challenging
 Great course for basic and fundamentals of UX. Might need more practical hands-on experience.
 Very nice. It was easy to understand and the concepts were well explained. Highly recommend.
-Bastante bueno, hay mucho material extra de otras fuentes web que amplían mucho el panorama.
 very basic. the material was presented very well but the course barely scratched the surface
 This class is quite easy to learn and understand. Each concept is explained in a clear way.
 It is very fundamental and easy for the beginners,also helpful but not very interesting...
@@ -218,7 +206,6 @@ Very good introductory course, it has helped me a lot! I recommend it.
 Basics of UXD are neatly covered with simple examples and narratives.
 Enjoyed the course, but wish the slides were available as a download.
 Great Course for a Beginner User Experience Designer!!#RudigoStudent
-有一些练习题并非视频里出现的，可能在阅读材料里吧， 但我没看完所有阅读材料。通过测试后系统也不告诉我错题的正确答案，没法从题目中学习。
 Very useful for beginners, simple and clear examples and language!
 Neatly done course. Though it covers only the basics as it says.
 This is a good lesson that who want to know a Fundamental of UX
@@ -234,11 +221,9 @@ Good for beginners to get an idea of what is involved.
 I was looking for inputs on Design Thinking approach.
 Good basic intro. Does not take too long to complete.
 Very basic but a good place to start in the ux world
-Interesante la teoría y las lecturas recomendadas!
 a bit of a hard time trying to understand week 3
 Great way to get the basics down on this topic!
 A good course for introduction to UX designing.
-学完之后对整个用户体验设计流程有了一个粗略的了解。毕竟只是introduction 难度不大。
 Explained in very simple terms with examples!
 Good high-level understanding of the process.
 it is very easy but useful for new learners!
@@ -257,7 +242,6 @@ very interesting and informative
 Great course, very informative.
 It's a good introductory course
 Great course for UX beginners.
-Excellent Course on User Exper
 Satisfactory but a bit flat.
 crisp and fair to understand
 Simple and easy to learn.
@@ -272,10 +256,8 @@ Good overview of UX.
 A good introduction
 Great intro class.
 Entry level course
-Begginer's Course.
 very good intro
 good learning
-Well use full
 The one
 The professor introduces the concepts of user experience in a very structured, practical way that I'm able to immediately apply as I conduct user research in my role as a product manager. The course was quick, and I was able to get through most of the content in less than two days, which was perfect for my purposes.As a note of caution, the value you get out of this course will be highly dependent on your goal. If you are looking for a quick way to learn fundamentals about user experience, this course is perfect. If you're looking for an in-depth course teach you to be a designer and give you hands-on assignments to practice these concepts, this is not the course for you.
 The best introduction classes, gives an overall idea about UI/UX. Grateful for the efforts taken by the Georgia Tech and Coursera. Looking forward to see more courses related to my career. Thank you.
@@ -336,11 +318,8 @@ Very good Introductory course. Provides you with all the basic information about
 Despite of fact that this course is very short, but the theory that is given here is very strong. I was making notes in my synopsis book all the time. I feel that this course in general was a bit too "dry". Nevertheless, recommended.
 This course was an excellent overview of UX design concepts, and gave me the right amount of information for the length of the course. I found all the material worth viewing, and am interested in learning more about the field of UX.
 I have no background of user experience at all, and this course helped me a lot to get to know better about User Experience fundamentals. The class is enjoyable, and I learned many great things from this class. Thank you so much!
-Este curso es genial, y la docente es excelente para explicar cada módulo en cada vídeo. Cualquier persona puede introducirse en el tema de UX como principiante con este curso y ver si elige seguir aprendiendo sobre el mismo.
 This course was a great intro to user experience design. It paralleled a user research projects I was participating in and clarified the steps being used. It also didn't take long and I was able to fit it in my busy schedule.
 A great course for anyone just starting out in UXD. You will learn the terminology fairly quickly, the resources are a wonderful source, the quizzes help the course's lessons sink in. All in all, you will not be disappointed.
-El curso amplió mis conocimientos con ejemplos que reforzaban lo aprendido,ademas de evaluaciones constantes que  ayudan a que mis futuros aprendizajes sobre UX y la aplicación de éstos en mi trabajo sean mas eficientes.
-Muy buen curso para entender los conceptos básicos de el Diseño de Experiencia de Usuario, con esta base sólida se puede ir adentrando posteriormente a los conceptos más complejos. Muy buena base, totalmente recomendado
 This course provides a very clear overview of what UX Design entails! Recommend to people who want to understand what UX Design is and what it involves! Instructor explains very, very clearly. Definitely recommend!!
 This was excellent introduction to the process of user experience design. Dr. Arriaga is an engaging instructor. I appreciated how weeks 2 - 5 focused on one step of the 4-step design process. I highly recommend .
 The course gives an excellent overview about the basics of UX Design. It is a great Introduction for anyone who is new to this field as it provides helpful sources and a well-explained understanding for UX Design.
@@ -373,7 +352,6 @@ A great foundational course, which provides an overview of the UX Design process
 Clear instruction on the basics of user experience design.  The right amount of information was presented for the beginner course - concepts were repeated and explained tho
 The course content was really helpful for beginners. It would be great to see some real life examples like how companies are using these steps to achieve user satisfaction.
 A good course for the introduction of User Experience Design! It is easy to follow, and the quizzes after class are useful to help me review the knowledge in the classes.
-Increíble. Muy bueno y muy sencillo. La profesora es muy clara en cada concepto e ilustra muy bien cada paso para lograr una experiencia deleitable para nuestros usuarios
 i have enjoyed this course, very interesting i recommend it for all people who want to obtain aa horizontal view of user experience. thank you georgia tech and coursera.
 Really good introductory course to user experience design! I have understood a lot of aspects related to design that will allow me to work better with the design team.
 The videos were quick, easy, and informative. They are a good overview. The website links were much more in-depth and very helpful; I foresee using them in the future.
@@ -386,7 +364,6 @@ The course is very well versed. It gives you an overview of User Experience Desi
 I enjoyed this course as my first course on Coursera. I've been interested in UX Design as a software engineer. I could see briefly how UX design process works.
 This was a very good introductory course as it was strictly introductory, so no complicated terminologies were used. Thank you for keeping it plain and simple.
 It was a really good introduction course to User Experience Design. This course made me want to take more courses and dive deeper into User Experience Design.
-Excellente introduction. Les vidéos du cours sont claires et compréhensibles et les liens vers les ressources en ligne sont intéressants et très bien choisis.
 I started the course without pretension and I was surprised, very good content, and examples provided were great so I could learn some usability techniques.
 Simple and informative overview of the whole user experience design process. Very introductory, but is organized in a well-balanced summary of the process.
 This is the 1st course in Coursera  that offered a comprehensive resource list. A very great instructor that made the course fun and easy for a beginner.
@@ -402,7 +379,6 @@ Thank you so much for this lesson, it really help me a lot for understanding use
 Kind of easy, a little tedious at times, could be a little more interactive. But just what i was looking for, now i have an overall ideal of UX
 Simple to understand and concise enough for a intro course.  Each modules are of the appropriate length of time - not too long or too short.
 A good starting point for people who are new to UX! It's a good course that open the way for better understanding the concepts of UX design.
-Muy buen curso. Conciso y claro para quienes deseen introducirse en el mundo del Diseño de Experiencia o aclarar algunas dudas al respecto.
 Great introduction to UX/UI Design.  I throughly enjoyed the course and highly recommend it to anyone considering a career in UXD.  Thanks!
 Good overview course.  It would be nice to recommend specific follow on courses to take for those interested in learning more about UI/UX.
 As a programmer, It's very hard to me to make usable designs. This course helped me a lot  giving me a new approach, which is UX design :)
@@ -441,7 +417,6 @@ Very well curated for UX fundamentals. This is for beginners to introduce them t
 This course helped a lot in understanding what is User Experience Design and how we can get started in this field.
 A good introductory course. Must be followed up with hands-on exercises and more specialized courses in UX design.
 Great! The Course is easy to understand and have a great value for those who want to learn User Experience Design.
-É um ótimo curso introdutório, cheio de textos fundamentais para iniciar na área. Voltarei a revisar cada etapa!
 This course really helped me in learning the process and techniques need to be followed in use interface design
 Very informative course. Its a perfect way to begin learning about the very basics of User Experience Design.
 I find this course very good and useful to start learning about UX design, very short, clear and informative.
@@ -456,7 +431,6 @@ Was well structured and straight to the point. it was easily relatable to variou
 Really great course! The content was easy to follow and the instructor was great in getting points across!
 Good courses to learn User Experience Design for beginner, The material is explained very well and clearly
 The course gives the learner a different perspective of designing . A perspective from USERS point of view
-Excelente contenido, plantea las bases de UX Design, los procesos que abarca y herramientas que se aplican
 It is great for total beginners. Since I am a product designer by profession, I expected more information.
 Simple and easy to understand and yet learnt a lot. Was able to complete even during a busy work schedule.
 A highly informative and precise introductory course for anyone looking to break into Interaction Design!
@@ -469,9 +443,7 @@ Easy to understand. The lectures given by the instructor are very informative es
 Good intro to an absolute newbie like myself. Looking forward to exploring the subject in more depth.
 great introductory course! broad yet informative. Very clear and perfect first step in the UX journey
 A very east to follow yet information-dense course that will give you a great grounding in UX Design!
-¡Me encantó! Tuve un genial aprendizaje. La tutora, el material y en general, todo el curso: genial.
 Very interesting subject, that covers an important topic as the relation between Users and Designers
-Tiene explicaciones claras. Muy interesante e invita a continuar aprendiendo y estudiando este tema
 It's cool! Now i know more detailed how to improve design rather than using my subjective feelings.
 I thoroughly enjoyed this course. I am very satisfied with the content that was taught and covered!
 Excellent launch board to learn about User Experience design. Reference materials were appropriate.
@@ -560,7 +532,6 @@ This course is a great introduction into such an exciting field!
 The concepts are clearly explained and it is very useful course.
 Great material, eas to understand and fun to follow. Thank you!
 Very clear and provocative. I will keep learning on this topic.
-Super! Aprendí mucho y me aporta muchísimo valor en mi carrera
 very clear, useful and academic introduction to the UX design.
 easy to follow and straight forward. Instructor was a delight!
 Amazing! I loved this course and look forward to many more. :)
@@ -593,16 +564,12 @@ Great introduction to basic concepts and terminology.
 A comprehensive and packed UX introduction. Loved it.
 _ thorough introduction to ux-design . great course .
 I enjoyed and learned from every bit of the lessons.
-excellent course - gives the details about UX design
 Well-explained and presented information. Thank you!
-An excellent introduction to user experience design.
 Simple and efficacious method of teaching. Good one
-Best introductory course for user experience design
 she is a good lecturer. :) clear voice and concept.
 A detailed course for beginners. Love from Pakistan
 This course is very interesting for learn about UX.
 Thank you Rosa! great course! :) I really enjoy it!
-Muy completo!!! ideal para comenzar en el mundo UX
 Easy and clear! A recommended course for beginner!
 The course was informative and very easy to learn.
 Very informative and enjoyable intro course to UX.
@@ -654,13 +621,11 @@ Great course, knowledgable instructor
 The course was effectively delivered.
 Great course, pretty straightforward.
 Useful, short, easy to go through it!
-Excelente curso introductorio de UX!
 Good and informative about UX and UI
 Very straightforward introduction.
 wow! what a nice and useful course
 This course is very informative !
 I  thoroughly enjoyed this course
-Excellent Course for UX Beginners
 Great course for beginner to UX.
 It was well taught. I love it!!!
 Much informative for a beginner.
@@ -680,21 +645,16 @@ Good and quick introduction.
 It was an exceptional course
 Awesome introductory course!
 Great Learning Resource...!
-Excellent Beginner's Course
 Great Introduction material
 Was a wonderful experience.
-Very Good for beginner user
 Gives you a brief of UI/UX
 very satisfying experience
 best introductory course!
-Nice introduction course!
 Examples can be improved.
 Very clear explainations.
 good & efficient overview
-gran curso para iniciar!
 A great beginner course.
 Enough for the beginning
-Wonderful just wonderful
 Very interesting Course!
 Very easy to understand.
 Very effective content..
@@ -705,8 +665,6 @@ Great overview course.
 Thanks for this intro!
 Great fully satisfied
 Ilovethewaysheteaches
-A very nice program
-Awesome course, gre
 Great Introduction.
 The course is good.
 Thank you so much~
@@ -715,15 +673,9 @@ an amazing course
 Excelent teacher!
 was really good
 Nice Detailing
-was very good
 Nice Overview
-Bravissima!!
 Very Good Ux
 So excited!
-excellent~！
 very clear
-best value
-MARVELOUS
 Great !!!
 Great!
-sa

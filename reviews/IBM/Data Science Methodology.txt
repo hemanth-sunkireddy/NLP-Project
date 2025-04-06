@@ -46,9 +46,6 @@ Doesn't cover much details, had many errors in the videos.
 Almost fell asleep during the narration.
 Not good.Not worth at all.
 Not very useful at all
-not stimulating at all
-Not interesting
-Useless Course
 This one is fairly painful to sit through and needlessly complex.  Other sites have explained this much simpler and clearer than here
 The example should change to a easier one. This example is hard to understand.
 This course is not as engaging or organized as well as the first two courses in the Data Science Certificate. I found it to be unnecessarily complicated and confusing due to jumping around a bit in terms of steps in the process.
@@ -76,7 +73,6 @@ The sites have changed so following the directions of this course were very conf
 The final assignment had me ham strung. You are supposed to do each of the 10 steps at the end, with very little guidance on HOW. The there are specific methods shown but what if they don't fit your final assignment example?
 I feel that the course is not vary interactive and in some cases it seems to be more like a commentary than an interactive session. Due to that its difficult to understand the basics of some of the important concepts.
 Not as engaging as previous courses. Feels like too much concentration on the healthcare case study, rather than the concepts. More of the key points should be on the slides (for the visual learners among us...)
-No hay suficiente información y el "instructor" no es el mejor en esta sección.  En general este apartado fue muy aburrido pero no por el material sino por el tipo de videos sin instructor y solo diapositivas.
 I really like the methodology proposed and introduced in this course. However, the whole idea can be summarized in less than 2 pages, which should be a section (a week) in a data science course (~13 weeks).
 Videos get a bit boring. I would prefer less videos and more reading about the methodology. I google IBM Data Science Methodology and got more useful information. Why pay for a course that can be Googled?
 Case study should have been on simpler example / general topic which everybody would understand or correlate easily. Medical field terminologies / relations would be a black box for most of them
@@ -155,7 +151,6 @@ The lecture videos are extremely verbose and monotonic. The features on the lect
 the course videos are sometimes not exactly to the point when describing what has to happen in the different stages of the provided methodology. this makes doing the final peer-graded review somewhat difficult. also the description of the final assessments objectives is super vague (especially compared to the very good descriptions of the final deliverables and assessments in the other courses!)
 Videos are at a high pace and the hospital use case introduces lots of information without proper slides, when there is different text or points in the slides compared to the audio, it is hard to focus. My sincere recommendation is to first talk the point in the slides, then explain the details. Also animations can be used to hide content and keep the focus on one item at a time.
 A fairly odd way to teach the process of data science. I think this should be combined with the introduction to data science course and perhaps simplified/clarified. The amount of jargon between this course and the other courses is significantly greater, and while the course did a decent job, I still leave the course thinking, "hmm, what *exactly* did I learn from that class?"
-Ce cours présente quelques méthodes d'analyse, mais elles ne sont pas assez structurées. Une présentation plus exhaustive des méthodes avec des exemples, voire une nomenclature pourraient être plus utiles. Le cours gagnerait en qualité s'il donnait un schéma par type de données et méthodologie de traitement conseillée avec ensuite les outils techniques recommandés.
 Its an amazing course to give you an introduction to Data Science Methodology. But the case chosen was a hard case to understand specially if someone is a beginner in statistics and not into the medical field. I wasn't the only one who got confused while using the methodology on the case shown. Hopefully, a simpler case gets introduced in future.
 The course is good but the way the example is explained is a bit confusing, especially the when jumping from study content/material to the example.The peer to peer review for the final assignment is veeeerrryyy subjective. I had to submit 3 times (with little to no change on my answer) in order to pass. Good luck on getting a nice reviewer! :)
 CONS: I would really prefer more interactive lectures. The lectures tended to be boring and monotone. Also the case study content many times was difficult to grasp because it is very specific to hospital field. PROS: The material covered is quite beneficial in understanding the overall data science process. It is a nice summary.
@@ -234,7 +229,6 @@ Overall is good, except the example of heart disease was too complicated to tran
 This course is more theoretical than practical which kinda makes this course a little boring then the other courses.
 Interesting, even though there are a lot of theoretical lessons, and many times they require an extreme attention
 The final assignment was a bit vague probably due to the choices of subject we were allowed to perform this on.
-a la herramienta externa le hace falta un entorno mas amplio para que se pueda aplicar los recursos aprendidos.
 Too complex of a case study to understand stuff. Also, too boring and theoretical and very less interactive.
 The content is good, but there are a lot of typos and mistakes in the lessons and the assignments/quizzes.
 This course was more organized the others, however, it needs to provide its student with more definitions
@@ -280,13 +274,11 @@ confusing questions about the same subject
 content is good but can be more engaging.
 The cognitive classes can be improved.
 Very little assistance from Moderators
-the course content requires an update
 Could have made it more interesting
 Not great quality of video content
 CHF case study was the worst part
 The case study was hard to follow
 More explanation would be great.
-Falta mas ejemplos descriptivos
 concentrated largely on theory.
 it should be more descriptive
 very nice course knowledgeble
@@ -340,7 +332,6 @@ I loved doing the peer graded assignment but i thought it would have been better
 The course is good and the content but I, as non native english speaker, would have preferred a clearer Case Study and avoiding questions in the Qualification Tests around it, as many term were not clear to me and some issues were quite subtle.
 Less than a minute after summiting my Final assignment it came back with peer review that was disappointing. I describe every data science methodology stage and the feedback for that section was that I describe some of the stages but no all.
 Need to repeat some of the videos. Also I have to find different case study since at first you can't really digest some of the case study. But after tried different sources of case study, I managed to grasp what's the author trying to tell.
-Gostei muito, achei muito bom pra introduzir conceitos básicos e ir se ambientando ao pensamento de data scientist, mas um problema foi não ser mais explorado alguns conceitos e tecnologias. Acredito que o curso poderia ser mais longo.
 I think this course is quite brief, some of the terminologies are not well explained. But overall, this gives some insight into data science and is a pretty good introductory course. I hope this course can have more detailed knowledge.
 I think this course need more resource to teaching a students, It's so difficult to understanding but I received a lot of knowledge from searching a resource, However if it possible to attached more resource that/s be great. thank you
 I believe this course is key to have an overall understanding of the Data Science Methodology, however found that it was a bit un-organized and some stages werent fully clear, so had to look for additional information in other sites.
@@ -411,7 +402,6 @@ the final assignment is too open-ended. no exact questions and answers. everythi
 Well-structured course with crystal clear explanations. Case study is intriguing. However lectures are still a bit dry.
 It gave a nice overview of how things flow in a data scientist mind. Provides a framework to think approach problems.
 Peer-reviewed exercises often result in inconsistent feedback! The course requires a more rigorous method of grading.
-Buen curso aunque a mi parecer un poco monótono y repetitivo a veces. No tenía muy claras las explicaciones a veces.
 I learned a lot on Data science methodology. Now i know how data scientist thing and work. It was a good experience.
 love the food recipe case! i am not familiar with clinical case but the food recipe case helped me learn the theory.
 A good introduction to the process a data science uses to answer complicated problems.  I found it very interesting.
@@ -446,7 +436,6 @@ Very detailed and instructive way to put some frame on possible future data scie
 good as an overview. But for me it was more theoretical concepts than on hand practicing practical.
 Really enjoyed this! Hopefully it keeps getting better! Final assignment was also very well done!
 Good overview of key methods in data science. Sometimes wish they went into a little more detail.
-É muito bom, pena que não tem tradução pra outros idiomas e quando tem não é em todos os vídeos.
 A good intro into the data science methodology. It reminds me of a product development cycle.
 Good course with easy to follow framework.The labs are good for reinforcing acquired material
 A good start to apply some methodology to Data science projects and stop them going haywire.
@@ -547,7 +536,6 @@ The first useful course in the specialization.
 Case study should be explained in more detail.
 Great for who want to know about data science.
 Very comprehensive and understandable course.
-VERY NICE TO LEARN DATA SCIENCE METHODOLOGIES
 It was a bit tough grasping certain concepts
 Good intro - just light on technical details
 It would be useful to give us more examples.
@@ -580,7 +568,6 @@ Good coverage of the topics.
 Good material for beginners.
 Explanation is really Good.
 A bit confusing, but great!
-Good Beginner Level Course
 it was a great course, fun
 This is Better Course..!
 More labs would be nice.
@@ -590,21 +577,12 @@ IT was very fruitfull..
 I will use this at work
 Great course material.
 Very Important Module
-bit misty sometimes
 Not very useful tbh
 Good Narrations
 It's Very Good.
 OK, bit boring
 it was useful
 GOOD COURSE !
-Good.  Thanks
-Impressive!
-Very good,
-Thnakyou.
-Not bad~
-liked
-4.5
-AS
 It just totally rebuilds my mind in thinking about how I should approach solving problems. I feel that I'm learning strong framework for an evidence-based logical approach. Just like a consultant.
 This is a proper course which will make you to understand each and every stage of Data science methodology. Lectures are well enough to make you think as a data scientist. Thank you fr this course :)
 Very informative step-by-step guide of how to create a data science project. Course presents concepts in an engaging way and the quizzes and assignments helped in understanding the overall material.
@@ -645,12 +623,7 @@ This course will actually transits you the classroom, abstract teaching, or say 
 The course is very comprehensive. I like the way explain each steps in a manner in which we could understand diagram on which the arrows are pointing. I hope they gave more examples or more practice so we could familiar each steps and the actions taken on their. All in all, the course is great!
 This course has completely blew my mind. I now see how data science can be applied to everything and can help find solutions to anything! from social issues to business. I thrilled that i have gained new insights from this course that I will put in practice from now on in every day in my life!
 What a course! totally surprised me. This course changed the way I approach any situation and problem not only in Data science but also in any day situation. You learn a methodology in order to aproach, work, analyze, structure, model and deploy your data science work. Thanks, very helpful!
-Comprendí que la metodología CRISP-DM es fundamental para la gestión de datos en Data Science,  el éxito  en el campo de la
-ciencia de datos depende de su capacidad para aplicar las herramientas
-correctas, en el momento correcto, en el orden correcto, para abordar el
-problema correcto.
 This course was very helpful in putting the whole concept of data science methodology together. As someone currently working in data science, I found the methodology excellent, as it clearly laid out the conceptual reasons for how and why to successfully complete data science projects.
-Maravilhoso! Quem trabalha com análises e/ou relatórios já tem uma ideia dos passos, mas ainda assim é válido porque estrutura conhecimento, entra mais a fundo nas etapas e traz muitas informações interessantes. Pra quem não trabalha pode conhecer como fazer uma análise desde o início.
 I think this is an amazing coruse, because it gives you the skill for organizing the entire data science process as an organized sequence of strategic stages which are coherent between themselves and together give a way to transform a problem to a real solution in a step-by-step way.
 Its really a nice course. If you want to become a data scientist you first understand the basic things. and this course will definitely help you to understand that. Take this course and understand how to approach a business problem and solve it in an efficient manner. Thank you
 Was a fun and interesting course. Got to learn about all the stages of the Data Science Methodology from problem question to be answered to modeling to evaluation to deployment to feedback. Enjoyed the case study, labs, and final assignment. Can't wait to start the next course!
@@ -680,7 +653,6 @@ its good to know about methodology  before going deep to a better ideal, i think
 This course was actually extremely useful in understanding the mindset of a data scientist. As someone in academia, there has always been an inherent disjunction between scholastic and business methodology. This course bridges that gap. :D
 This is a very informative course on how the data science methodology process is carried forward when a real problem is encountered. Each phase has been taught with good relatable examples which simplifies the learning process. Thank you!
 Very thorough, thanks to excellent narration that had just the right enough repetition. Helpful use of diagrams to reiterate concepts. The Jupyter notebook labs were a fantastic way to illustrate the stages of data science methodology.
-Fantástico! Curso super eficiente, traz rápida assimilação da abordagem de Data Science, introduzindo, simultaneamente, Jupyter Notebooks: exmplo e na prática. Os exercícios peer reviewed criam uma deliciosa oportunidade de interação.
 An amazing course which teaches you the path to choose in order to solve data related business problems. The approaches mentioned in this course are very logical and awesome and can be used to solve most of the data science problems.
 This course is excellent, as it helps you understand the way of working, how you should carry out a data science project, and how your final report should look like. This course will help you in making a good report for the Capstone.
 That was great fun learning a lot of stuff regarding the Data Science Modeling. This is a perfect course to understand and come to a problem solving model for any data scientist. Really changed my perception of solving the problem.
@@ -719,7 +691,6 @@ Great Course. It was a simple course and to the point. It explained the concepts
 It's a very good course for getting the basic idea of the methodology of data science. It will help to get grip on how to proceed to a problem in a systematic manner for getting good results.
 It was a good course with very easy to understand material and methodology.In my opinion additional optional reading resources or case study links is required for this to be a 5 star course.
 Very enriching course. I really liked the content of this course as it has guided me the basic framework of solving any data science problem. the assignment is also fun and enjoyable to do.
-Muy completo, y entendible acerca de cómo convertir un problema en un proyecto solucionable a través de la data, siguiendo simplemente unos pasos y pensando con un poco de creatividad.
 This course is a great overview of the process of analyzing a data set. I feel a lot more ready for a Data Analysis job after this course than I did before. So glad I chose to take it.
 By this course you will be able to think like a Data Scientist. The methodologies explained in the course rebuilds my mind in thinking about how I should approach solving problems.
 I thoroughly enjoyed this module and will go back to reread it several times over. This is the foundation of everything I will be doing in the future. I want to be grounded in it.
@@ -814,7 +785,6 @@ This course is amazing for understanding how to execute a Data Science project! 
 Some notions could be explained a bit more in detailled - or the author should suggest the trainee to refer to applicable litterature
 Data Science is an interdisciplinary field of management, business, project management, statistics, analytics, and computer science.
 Really opens up my mind that methodology is very important and every step in the data science methodology must be well thought out.
-Este es un muy buen curso introductorio a la ciencia de datos. Abarca los temas escenciales para la comprensión de una metodología.
 A well designed course for aspiring data scientists. No prior background needed in the field which is the best thing of the course.
 I will take this course, over and over again, It really exposed me to real-life practices. Kudos to the instructors and the creator
 A great introductory course on Data Science Methodology! Well presented and structured as all the previous for that specialization!
@@ -833,7 +803,6 @@ Great learning experience and the case studies in the Labs were very helpful in 
 I will highly recommend to this course to those students who always search for the answers about and how to clear your concept.
 This class taught me how to use data within the decision making process and how to apply the data as a solution to the problem.
 Very well estructured, easy to follow the organisation. I found the Labs really helpful as well to enforce the concepts learnt.
-Consegui melhorar minhas abilidades e conceitos e a criar methodos para  area hospitalar no quesito resultado de atendimento .
 At some points it needs more explanation about what is presented. Especially in topics which are about statistical techniques.
 Very straight-forward course which brings you closer to the goal of being a data scientist and is very suitable for beginners.
 DS Methodology course module is covered in very excellent way. Easy to understand and apply the concept in different phase.
@@ -850,7 +819,6 @@ Great content with an easy-to-follow case study providing some reference. I just
 This course is very useful to gain a better understanding of the foundation method used by experienced data scientists.
 Helpful. The case study used in this course really helps visualize how to apply each step in the data science process.
 It was great learning. Concepts are covered from very basic. Assignments are related to the topic and worth doing it.
-Muy interesante y util, definitivamente recomendado para comprender mejor la metodologia asociada a ciencia de datos.
 I really loved the parallel case studies this course uses to help with understanding iterative data science.Thanks..!
 As those want to enter in data scientist field must do this course. Its nicely explain concept.Thanks for the course.
 This is a great course in which we learn all the steps, one-by-one, to face a problem using data science methodology.
@@ -875,7 +843,6 @@ It's great way to teach data science methodology.Thanks IBM & Coursera for makin
 It is simple and very descriptive about the materials. Gives you a proper workflow of data science methodology.
 Very detailed overview of the methodology/process. Contains core fundamentals for future projects and learning.
 It was comprehensive ! I understood all topics due to the detailed videos and could correlate due to case study
-Excelente curso que explica detalladamente los pasos a seguir para abordar un problema y encontrar su solución.
 Truly helpful on what is the appropriate process for a data scientist. Straightforward and easy to understand.
 This is so far the most important course to get a general understanding of data science methods and techniques
 Case study is really good, However if you can help with more case studies with in the course it would be great
@@ -884,7 +851,6 @@ Great walkthrough, start to finish on a process for applying data science method
 this course helps how to think when solving such a problem and not just DATA science problem but any problem.
 This course teaches you some basics, but if you haven't been exposed to data science it is a good foundation.
 Maybe better to pass it after other courses to be familier with python, decision threes and machine learning.
-Great course, to understand how a split problem statements into requirements, questionsand implement solution
 Excellent! This course helps me enhance my understanding about the methodology clearly. Thank you very much.
 The technique of teaching is very helpful. But It would be better if  instructors include more case studies.
 Effective class to get to know about data science methodology. Enjoy learning through this class. Recommend!
@@ -916,7 +882,6 @@ This course gives you good insight, a great analogy and educational labs on the 
 The course is brief , yet complete. It explained the all stages in methodology with equal importance.
 Very Lucid language and best quality content which helped me to understand data science methodology!
 Cleanly explained methodologies and very easy to understand.Looking forward to have more challenges.
-Excelente curso, gostei muito das analogias com a preparação de alimentos, foram muito ilustrativas.
 It is really a very nice content which gives you an in depth insight on how to proceed step by step.
 It was very helpful. The last assignment helped me understand the methodology better. Thank you 🤗❤️
 Excellent introduction to Data Analysis Methodology, with practical examples and very good material.
@@ -933,7 +898,6 @@ A nice introduction to DS methodology! It provides the basic notions and concept
 Very effective methodology. This is the methodology that i have apply in my Data Science projects
 Great use of interactive Jupyter notebooks to illustrate the Methodology! Very compelling course.
 Best Course, If you want to learn how the data science applied to the business or general problem
-Muy buen curso, te muestra el proceso a seguir para hacer un buen trabajo en el analisis de datos
 Useful altough in the videos will be very helpful to put the definitions of each of the proccess.
 This was an excellent course, the methods were explained thoroughly and very easy to understand.
 It definitely gives an overview of all the process from start to end of a data science approach.
@@ -999,7 +963,6 @@ I really enjoyed this course. It gives you step by step approach to the Data Sci
 Great course, full detail not too much detail. Time manageable to complete in few day
 It is a good course for identifying the steps taken in making a project for analysts.
 I am getting closer to become Data Scientist with this course. Thanks for everything.
-Es un tema muy denso, pero a pesar de eso el curso está interesante y bien integrado.
 Gives a good introduction to the subject and how they apply data science in industry.
 This is the best course I've taken on coursera thus far. The instructor is Excellent.
 Very well structured course which gives us good insights on data science methodology.
@@ -1031,7 +994,6 @@ A good and entertaining course.  Lots of key DS concepts I have learnt from this
 Content is very logically organized along with an interesting real-world example.
 This is a great course that introduces the general flow of data science problems.
 I never expect to learn so much and I feel this part is key to my future success.
-El curso es muy bueno explica como debe de ser la metologia para recopilara datos
 it is really good course . it helps me to understand the data science methodology
 Comprehensive explaining of thinking models and methodology used in Data Science.
 Excellent course and practice. Very complete for those who start in data science.
@@ -1058,7 +1020,6 @@ It gives us to understanding and approaching of data to look for the solutions
 Nice course material to better understand related to Data Science Methodology.
 Great overview of the data science methodology. The examples were very helpful
 Great course! it helped me to understand how to frame and tackle data projects
-Es un curso bastante util para conocer la forma de proceder en la metodología
 Good for someone who had nothing to do with the academic maths or statistics.
 Great course, I understand the whole process of Data Science problem solving.
 This is the best program for Data Science, Intro Intermediate. IBM for the W!
@@ -1113,12 +1074,10 @@ Very nice course to gain knowledge on different stages of data science
 This class was a true demonstration of the work a data scientist does.
 Great course for beginners to develop the intuition about Data Science
 The course was very instructive, thanks a lot for all your effort! :)
-La teoría es excelente y los laboratorios lo que más me ha interesado
 Excellent methodology and it can be apply to any aspect of your life.
 Very informative process of how Data Science is practiced in industry
 Information was easy to understand and was provided in a good layout.
 Course IBM Data Science Methodology is complete and very interesting
-A very comprehensive guideline on designing data science methodology
 good understanding of Data science methodology videos and very clear
 It helped me to understand the methodology used as a data scientist.
 Very helpful information for organizing skill-sets related to topic.
@@ -1153,7 +1112,6 @@ The Final Assignment was not so easy to understand how to do it.
 a little bit difficult for me, but strongly recommend to others.
 Thank you very I have more knowledge and useful from this course
 This a good course for all aspiring and current data scientists.
-muchas gracias, excelente curso y grandes ejercicios en os LABs
 Very good base class to get started down the Data Science path.
 A very elucidative show of Methodology applied to Data Science.
 Please, can I have a certificate of certification?Thanks,Elena
@@ -1167,7 +1125,6 @@ This course helped me to get to know data science methodology.
 I am very happy about this course.  it is very helpful for me
 very good course to start learning data science methodologies
 The lesson has a good structure and the videos are very well.
-Bom curso, dá uma visão geral do que seguir como metodologia.
 Great course that gives an overview of the scientific method.
 Well crafted course that keeps student hooked on to the topic
 A great course to understand the foundations of data science.
@@ -1243,7 +1200,6 @@ Wasnt so easy peasy,I appreciated the challenge.
 A good introduction of Data Science Methodology.
 a very profound initiative by IBM and Coursera.
 This course was really informative and amazing.
-Very interesting for understanding DS on start.
 Excellent insights of data science methodology.
 it is very important to make tasks by yourself.
 Very good course outline and the video studies.
@@ -1280,12 +1236,9 @@ Moe challenging than other related courses
 Excellent introduction with clear example.
 very nicely explained and informative too.
 I am on week 3 need to finish the quizes.
-Best course on data science methodology.
 A very nice explanation in this course!!
 I am loving this course. Thanks a Lot !!
-Good to understand data science process!
 Thanks, Professor, I have learned a lot.
-Good course on data science fundamentals
 Quite detailed and informative course...
 The labs in this course are really great
 This was a great overview of the process
@@ -1300,7 +1253,6 @@ Very well organized and easy to follow!
 Good details and insights were gained.
 Excellent topics, coverage and videos.
 Excellent course and more informative.
-Excellent Stuff!! Easy Understanding!!
 Great intro level Data Science Course.
 Best course. I learned a lot of things
 Excellent course! Very well explained.
@@ -1311,7 +1263,6 @@ Best course to understand fundamentals
 Excellent structured! Recommend 100%!
 Good understanding of the methodology
 Excellent description of the processs
-Valuable course for data scientists.
 Awesome excellent course by Coursera
 It is very interesting and practical
 Very precise and to the point course
@@ -1319,7 +1270,6 @@ Really enjoyed. Excellent didactics.
 Content and delivery were excellent!
 great theory. the hardest phase. omg
 great course , thks coursera and ibm
-Very well explained all methodologys
 wow... good for growing DS basics...
 very good course I've learned a lot
 More detail on CRISP would be nice.
@@ -1333,7 +1283,6 @@ very interesting material, thanks
 love the course and love coursera
 Excellent, it was really pleasure
 Nice, concise and well-explained.
-Cours très pertinent et essentiel
 I found it a little bit dificult
 its a pleasure to do this course
 It was a well elaborated course!
@@ -1353,7 +1302,6 @@ Good overview of the process!
 Good course. A good challenge
 Very good but a little brief.
 Concepts are explained well..
-it is good to get experience
 Practical course very useful
 Thank you for nice lectures.
 thank you, it was very good.
@@ -1361,19 +1309,15 @@ Excellent course! Thank You.
 Amazing, important and hard.
 Was a nice foundation course
 Great Teaching methodology.
-Excellent!! Very didactic!!
 Interesting and usefull! :)
 Great! Really recommend it!
-Fun and engaging, thank you
 Awesome labs and examples!!
 Content clearly explained.
-Excellent Course from IBM.
 Great!!!!!!!!!!!!!!!!!!!!!
 great intro to methodology
 Very well compiled course.
 Learned a lot great class.
 Not technical, but useful.
-v extraordinary exprience
 Great overview! Thank you
 Best Learning Experience.
 Great! clear explanation!
@@ -1384,15 +1328,11 @@ The course is excellent!!
 Awesome concept to study.
 Great and Simple Courses!
 Good coursework! Thanks.
-Good start for beginners
 amazing course and stuff
 Good content, thank you.
 good lesson and practice
 Very well explained ! :)
-excellent explanation!!
-Excellent Certification
 Extraodinary the course
-I must re-play it again
 I'm absolutely excited!
 A good course indeed !!
 Very Clear Explanation!
@@ -1400,59 +1340,39 @@ Excellent study methods
 Thanks for the material
 ITS A VERY GOOD COURSE.
 Great structured course
-Execllant demonstratIon
 Very well explained !!!
 Very informative class!
 Good Course. Thank you
 very nicely explained.
-Excellent course......
 little bit complicated
 Great info and method
 Best of Data Sciences
-Very indepth indeed!
+good knowledge gained
 Good and easy Course
 This is the nutshell
 very good and thanks
-Useful and well done
 pretty good explain
 Wonderful course :)
 Loved the content !
-great course design
 it' s a good course
 Very good programme
 Thanks to coursera.
 Its simply awesome
 very useful thanks
-Excellent package.
 That the eye opner
 Good information!
 Very well written
 Excelent. Thanks.
-buena explicación
-Excellent Lessons
-Vraiment génial !
 Great .. Enjoyed
 IMPORTANT COURSE
 Great overview.
 Best Explained.
-Great documents
-Helpful course!
 useful overview
 Great content.
-very well done
 Very important
 Thanks alot...
-Well described
 Great Work...
-Great Model ！
 Great COurse
-Ótimo Curso!
 Good Class!
 Thanks IBM
-Like Like!
 Nice topic
-Important
-practical
-Fabuloso
-niceee
-exce

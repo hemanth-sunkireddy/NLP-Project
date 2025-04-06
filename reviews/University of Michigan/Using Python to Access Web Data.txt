@@ -65,7 +65,6 @@ I am not able to submit m assignment of 3 weeks so kindly please help me out
 Slow and worst explanation for simple things.Need quick and short videos.
 Totally bullshit. Most of the codes were unexplained.
 hard to follow along with
-Stupid!
 As an experienced programmer, I am unimpressed.  The assignments cover a good set of tools; web i/o.  I would introduce classes before getting into web i/o; this would emphasize critical coding habits of productive programmers: modularity and reusability.  Also, variables and files are poorly named.  Comments are lacking.  The exercises don't ask students to program; they ask students to tweak (at most) the example programs.  Students are instructed to disable security features without sufficient discussion of the risks involved.  Overall, the presentation looks rushed and unpolished.  Code looks like it was hobbled together until it worked and never edited for clarity.  If someone I cared about wanted examples of good programming, I would tell them to avoid this.
 Doing this course is not so much related to Python but to other
 computer engineering topics.Network concepts are required, as well as knowing other programming
@@ -131,7 +130,6 @@ felt very unnecessary for the speciatialization
 lots of parts need more explaination
 This class is not challenging at all
 peer graded assignment is not good
-i didn't undrestant it completely
 Not as good as the other two
 not so much into the subject
 well this was a good course though but I didn't feel very connected with web services i.e. I couldn't understand each line of code written for APIs. I didn't understand the concepts used in geojson api and twitter api completely. I would recommend to add basic explanation about these as I was not able to write codes myself that are illustrated in the course. So that's the place where I lost connection with the course as these concepts are not explained at beginner level programmers who are listening terms like API, SOA, JSON, XML, Web Scraping etc first time. So please elaborate these topics more simply and in detail so that we can understand each line of code.
@@ -168,7 +166,6 @@ contray to precedent two courses, this course was too difficult and unfamiliar. 
 Most of the times I really didn't get a solution or an answer every time I did a question in the discussion section. Most of the times the teaching staff answer me with another question or a vague answer. I know that the strategy behind that tipes of answers is to encourage the students to thinks by themselves. But in some cases, it seems very excessive. In any physical class, the teacher will be happy and predisposed to answer and give you a solution to your problem.
 The courses 1 and 2 have been excellent. But in this third it seems it pass from a beginner to a super level. The first week was acceptable but after that it's more and more difficult.  The explanations are lacking and I feel I really didn't undernstand the majority of content. Fortunely I finished the course because I'm taking other courses about this issue. I really love the teacher, but I don't know what happened in this course, I don't recommend it.
 In the previous courses all the assignments could be completed just through making a code with the parts that were explained in the videos, but it's slightly another thing in this one. In the second assignment there were included such things as SSL and one cannot make the task right without adding SSL in the code (SSL weren't among the course topics).Nevertheless, the API part is the only one which I had troubles with, other ones are great as usual.
-El curso es muy básico para aprender Acces Web data, pero para usar python con Acces Web Data siendo principiante con python supongo que esta esta bien, los ejercicios son muy sencillo a excepciona de uno que otro que el programa ejemplo te puede llegar a confundir y entorpecer un poco si dependes mucho de el. Tiene un toque de dejar a un lado la explicacion a profundidad en algunos aspecto  para ser mas practico, pero como dije, en lo elemental.
 All in all, I liked the class. I would like to learn about this topic and the database access using Python, and I still think this is a very good beginning. I like the enthusiasm of the instructor, but I think he short sells many of the things he is teaching. I would also suggest providing more challenging assignments, for instance, as optional ones. These may be such that they require reading the referred text in addition to watching the videos.
 I would have rated 5 stars but, in my point of view I think this course is just beyond the limits for a beginner. Some facts were quite hard to understand and some codes were too hard to catch upon. Overall, the course I think is not that great for a beginner, as the name of the course'Python For Everybody, everyone should be able to understand the facts.  But, It's always a pleasure getting into a course like this and learn something new.
 This was a large jump from courses 1 and 2 in the specialization.  This course is not self-contained and there are really two tracks to get through it.  The first involves tweaking existing code but not necessarily understanding everything (which is actually fine), the second is doing lots of research online (also fine - it's ok if a course facilitates learning rather than teaching everything but not sure it's at an 'everybody' level).
@@ -176,7 +173,6 @@ I have rated the two previous python courses with five stars. What changed now i
 Although I finished this course, I do not think I can directly apply what I learned to solve real world problems. It seems like I have to watch some more YouTube videos teaching web scrapping. It is surely always good to know the background knowlege behind things, say how web standards are set up, but solving real problems is the gist. I am pessimistic about how this course will help me achieve that after I finish the course.
 The web services portion of the Python for Everybody specialization seems out of place; an introduction to an introductory course in web scraping.  It was somewhat informative.  However, I was more interested in developing basic Python programming skills (e.g. writing functions, classes, decorators, etc) to solve problems.  Parsing data from websites did not interest me.  Happy to finish.
 This course was good but still slightly disappointing. I feel that the teacher should've more thoroughly explained a couple of the topics on the course, including hyperlinks, anchor tags, and how the material in the course connects with the real internet. Additionally, the homework assignments were a little too hard and introduced topics that were not thoroughly covered in the videos.
-El contenido del curso es denso, sin embargo el Dr. Chuck nuevamente explica detalladamente que esta sucediendo en el código, como facilitar el trabajo con el uso de librerías que son muy útiles para este tipo de  tareas, el curso en lineas generales es confuso pero no porque haya habido una mala explicación del mismo solo que el contenido del curso lleva tiempo entenderlo.
 It was good as an overview course for someone who already knows a lot about the web. However, a beginner can have difficulties coping up with the course because many topics are simply bombarded on you and they are fairly technical. This is the reason why you should not take this course if you do not see yourself using the information from this course anytime in the future.
 The course was a bit too shallow for me, the techniques shown are very basic examples of what can be learnt using stock python libraries (json, socket, urllib, ElementTree) or external (BeautifulSoup).I really expected something more, for instance authentication techniques, or methods to parse complex websites, rather or in addition to the basics shown here.
 The course is solid, and give a great down and dirty, fast paced understanding of the subject matter. My only con is your REALLY need to pay attention to every aspect of the codes otherwise you will miss key information necessary to make the assignments doable instead of hair pulling frustrations.  However once you find that everything falls into place.
@@ -225,7 +221,6 @@ It Isn't A Brief Course Just A Glance And Some Basic About XML, JSON And APIYou 
 A very difficult course. Dr. Chuck tried to cover a wide range of topics in a single course which made it really difficult. Instead, focus on single thing to a wider extent should have been done.
 Teaching was still good, but this content was less relevant to the task at hand. However, now I know more about data handling and communication  ... - which might will come in handy some day?...
 The material covered is more complex than the previous courses yet there is much less explanation given. It's still perfectly doable but one ends up feeling like you are missing something.
-Siento que hay cosas que no se explicaron del todo bien como SOAP y REST. Al menos me lleve esa sorpresa en el cuestionario. Capaz que no me entere por el idioma. Igual esta bueno chicos!
 I am a beginner and the course is intended for beginners. Of course, I would ask questions that would seem awkward for experienced programmers; The teaching staff could be more polite.
 Too much of it at the end was not explained properly. I would have liked more understanding of API's than this. Up to XML, the course was 5/5, but then it kind of went into a summary.
 course is informative .but i think few topics need more time and more precise information . graded assignments should also be increased for better programming.else the course is good.
@@ -362,25 +357,18 @@ The description is not detailed.
 Too hard for the beginner......
 toughest  of all , very tough
 many things were superficial
-needs more homework problems
 Hope to have more exercises
 it was hard to understand
 Ehlogsoffluffinthecourse
 too hard for a beginner
 it's hard to understand
 more content is needed.
-有点难 有时候没讲到没讲清楚的，但是任务要做
 hard to understand
 It is difficult.
 little bit tough
 Very complicated
-ca va aller ...
 little bit hard
 It seem easy.
-so hard
-Heavy
-内容太少
-API
 Great material, but it feels a bit rushed, covering as many topics as it does, in such a short amount of time.
 Great course for introduction to parse Web Data. However, google map and twitter API seems to be changed a lot, so those examples won't work any more. It took me a few days to figure that out and felt a bit stressful. Hope re-recording take place soon so that many other students would not stuck there.
 This course is very good except the API part. I think they must upgrade this part and elaborate this concept.
@@ -716,7 +704,6 @@ great coursetwitter part was confusing, it required rigorous permissions from tw
 Excellent instructor. He explains the code and concept very clearly. If the course had more coding exercises it would have been amazing
 Very nice course. one thing this course can add is the practical example from actual web scraping such as basketball score, stock data.
 I like the teaching-style of the professor.It's very insteresting.Btw,if more the example for accessing web Date, maybe more pratical.
-El curso en general bien , pero deberia ser revisado y actualizado, en especial los trabajos ya que en ocaciones pueden ser confusos.
 Dr Chuck always does a great job of feeling like you're in a real class, real teacher. I thought the content of the course was good.
 Wonderful course which touched upon many things. It can be more intensive for an in depth explanation. Amazing course nonetheless!
 The course needs more practice explained problems. Suddenly, the level of the course went too high. But, thank you for the course
@@ -726,7 +713,6 @@ Good course on using web data thru Python. A bit complex and feels like out of s
 This course needs better explanations for assignments, they are a good deal more complicated than the work taught in the lessons
 Some difficulty in understanding the problem set in the Week 6 assignment - especially using the GEOJSON, but overall very good
 The class is very interesting, but there too many information to really profit! BTW it was very nice to see all these new stuff
-Tuve problemas en la instalación de las librerias urllib, json, etc. Eso es lo que no me agrado. Todo lo demás estuvo perfecto.
 Very insightful! I only wish the course would explain some of these security tricks. I understand there may not be enough time.
 Assignments should have been made more difficult and more in depth explanation of Beautiful Soup package is highly recommended.
 This was one tough course i must say! The assignments was bit of tough but i really enjoyed! Thanks coursera for the platform.
@@ -786,7 +772,6 @@ A difficult course than previous specialization courses, but very interesting if
 A well tutored and documented course. kudos to Dr. Chuck for hs teaching style. Am a Chuck Chuck Student now.
 The whole specialization is good till now but the API part got a little fast and bit hard to get hold on too
 It was hard for me to understand the concepts but still, I got some intro about parsing and getting web data
-Bem geral, só para se ter uma noção do assunto. Precisa fazer curso mais especializados para entender melhor
 Great course, I learned a lot. Just that I am not in the field (I am in biology), so not sure how to use it.
 Very good Cours. Maybe it could be a little more explanation and exercises, but I can recommend this Cours.
 Great for beginners. Would be better if assignments were more challenging. Really had fun while learning :)
@@ -814,7 +799,6 @@ Great course, Dr Chuck is brilliant. Would have been 5 stars but the assignments
 Nice course . But at a point I felt that there was less explanation and examples for the last 2 weeks
 The course was exceptional with a lot of inputs from the instructor, which could be understood easily
 Assignments could have been harder. That is most code was as easy as copy paste from sample programs.
-Excelente curso para aprender el lenguaje python y reafirmar los estandares protocolos y servios html
 i was lost a little bit in the middle of this course but overall it is insightful and useful. thanks
 Covers all the important topics of Web data. The explanation was very engaging. Good course. Cheers.
 This my favorite course of python on coursera mooc. It is simple and the learning approch is so good
@@ -827,7 +811,6 @@ Great course for those who have learned the basics of Python. Nice video Lecture
 an amazing course, to make the most out of it you should have a little back ground about networking
 It is a good course to play with XML, JSON, SQL, SQLite, Google API, Twitter API etc. using python.
 I liked the course overall, but assignments are so easy compared to the material given in lectures.
-感觉对于Python coding能力没有较好的训练，作业大部分是在已有复杂代码基础上做点小改变。很多Python的基础概念没有讲得很清楚。要真的对Python有个基本掌握还需要自己再另外学习很多
 I enjoyed the first two courses of the specializations a bit more, but still think this was solid.
 Basically this course help us to retrieve data from web,xml and json and give us knowledge of API
 this was a very nice course. learned a lot of things from it, surely gonna practise those things.
@@ -857,7 +840,6 @@ Well done Professor Chuck and team! thank you once more for this awesome learnin
 Pretty interesting course, in which I gained a lot of knowledge about access web with Python.
 A very well structured course and I have to say Dr.chuck is the best mentor I have ever had.
 Useful course for understanding the Python skills as well as the basic principles of the web
-我很高兴自己能完成这个课程。 反复循环进行的课程对于时间有限的我来说十分重要，经过两轮课程，终于完成了所有的课堂和作业。 如果可能的话，希望字幕能尽快补全，英文阅读也不错，只是太慢了。
 This was a easy to follow introduction to some python libraries used to access web services.
 including beautifulsoup, parsing html,xml and json. good course of basic level for beginners
 The speed of teaching should be appropriate. Its very difficult to follow in few occasions.
@@ -964,10 +946,8 @@ through this course , you will have a better understanding for web data
 This was a good course to learn how to scrape web data and access apis.
 Great explanation for the APIs, fetching and parsing the data from web
 The later parts including XML, JSON went through too fast and general.
-Fue excelente, sólo que creo que pudo haber sido un poco más exigente.
 course was interesting and the good platform to gain a good knowledge
 Could expand further on web crawling (reading data from tables, etc.)
-Buen curso. Muy aclaratorio para hacer de Python un lenguaje efectivo
 Great Course!Fine videos and lectures.Good examples.Easy assignments!
 It's an easy course, but good to get into more advance python's stuff
 Exposed students to various ways to access web data from API and XML
@@ -1028,7 +1008,6 @@ Examples can be more complex. Course is very good though.
 Excelent course! Very complete and useful. I recommend it
 Good course to get some tools to make APi requests easily
 I still have a confused feeling of this course's content.
-some more info must be provided for detailed programming
 Needs more and more practice to comply with the content.
 Well, a bit complex for me. I will do that course again.
 Good for first try to make a Web Data Searching Solution
@@ -1059,7 +1038,6 @@ Thanks to Dr. Charles and team, well formed syllabus
 getting more understanding but also more brainstorm.
 Excellent course. Needs some more practice material.
 something not clearly explained, maybe I was stupid.
-Permite voce se aprofundar mais depois. Otimo curso.
 Awesome. Though it got too complex towards the end.
 Excellent course. I can't believe I get through it.
 To easy, but maybe im not the right target audience
@@ -1070,12 +1048,10 @@ IT was more challenging than the previous courses.
 Very great course... Thank you Prof Dr.Charles ...
 Too fast passed but a life changing course indeed!
 No programming challenge at all in this. Too easy.
-Una forma variada e interesante de aprender python
 Great course to get you started with web scraping.
 Useful stuff. Room for more difficult assignments.
 It was a nice experience. Learnt a lot of stuffs.
 Maybe some exercises could use better explanation
-Should have gone deeper for better understanding.
 More examples in this section can be more helpful
 It Feels VEry Good Learning Python from Dr.Chucks
 Too easy for accessing web data, with many bonus.
@@ -1109,7 +1085,6 @@ some basic foundation on accessing web data
 Great experience for this course especially
 Fairly basic, good for first time learners.
 Nice course but it needs harder assignments
-Me gustaría tener los contenidos en español
 Excellent, Dr Chuck is an awesome teacher!
 This course so hard, but Dr.Chuck so well.
 It is  satisfactory.Great value for money.
@@ -1134,9 +1109,7 @@ Great course. I recommend it to anyone
 Assignments should be more difficult.
 Overall , it was a excellent course .
 Great course!! Lots of new material!!
-Reputable Professor, useful lectures!
 quite difficult because of theory!!!
-非常易懂，可以看出老师的功力，但是总觉得意犹未尽，对学完本课后的知道缺乏
 Bonus videos are good and motivating
 Final assignment was very difficult
 More difficult, but still very good
@@ -1172,14 +1145,12 @@ A Great course for beginners!
 No Video on REST architecture
 the prof speaking so quickly
 Nice and Informative course.
-Exercises are like pro-level
 it was a satisfactory course
 Lots of learnings.. Thnk you
 Great Course, well teaching.
 GO DR Chuck !!!. Good Course
 Dr Chuck is a great teacher.
 Quite Hard but interesting!
-best contents i hv nvr seen
 very good explained lessons
 Great teaching by Dr.Chuck
 little tough for begineers
@@ -1189,9 +1160,7 @@ This one is little harder
 Overall its a good course
 Pushes you to your limit.
 very attractive course :)
-Contenu léger et efficace
 good but sometimes boring
-Amazing course structure.
 I just love the professor
 Great course. Very useful
 Could be made more useful
@@ -1201,35 +1170,24 @@ Perfectly Understood :))
 Very interesting, Thanks
 very nice teaching sir!
 good for new programmer
-no dissapointment here.
 Assignments Were Tough
-An excellent introduct
 Too good for begineer
 the lecture was good.
 Assignments are poor.
-Excellent Experience.
 A little bit too hard
 It's good for starter
 very useful syllabus,
-Ejercicios sencillos
 API content was hard
 Thank you Chuck sir!
 good course materiel
 Decent intro course.
-学到了不少知识，但是感觉编程作业难度太小
-Harder for beginner
 was really helpfull
 Totally recommended
 Challenging Course
-little bit complex
-Nice explanations.
-Basic level course
 really appreciated
 Good intro to APIs
-Good but not deep.
 It help me a lot.
 a little bit hard
-A decent course.
 teacher is great
 nice easy course
 Good informative
@@ -1238,38 +1196,21 @@ course is great
 Good course ...
 easy but useful
 a bit short ...
-a great lesson
-Great Examples
 Loved course.
 Knowledgeable
 Web Direction
-Nice Content.
 Good course..
-Too expensive
 Just starting
 It's Awesome
-it's Amazing
 It's worth.
 Quiet tough
 really hard
 Really hard
-just wow !!
 good times!
 Good one :)
-wonderful!!
-it is good
 fast learn
-内容很多，但不够精细
 Recommend!
-difficult
-Very GOod
-noice...
-希望增加中文字幕
-作业有些偏简单
 Thank~~
-讲的太浅了
-meh!
-y
 This third course is getting much more difficult than the first two courses, and sometimes I have to "just remember including that code and it will work" instead of understanding the whole thing. This makes it difficult for me to locate my bugs, since I don't know if it's the problem of the logic or the problem of my code structure.The assignments are hard, but they are also easy, because we only need to change a little part of the sample code to get the answers. I don't think it can really challenge students and push us to understand better, because even if I finished all the assignments, I still feel a little confused.But anyway, Dr. Chuck is such a good illustrator as always, and I just hope he can expand a little more so that it can be less confusing.I have a few suggestions:1. Starting from the 2nd course in this series, maybe the first assignment of installing python or posting pictures on forums for students for feedback can be changed into OPTIONAL because most of us who have this course have completed the former courses, and those are repeated workload.2. The assignment sample code for WEEK 5 is wrong! The code provided is for week 6, and that CONFUSED ME A LOT! Please change that asap.3. The assignments can be a little more variable, because although they are difficult enough(regarding students have to understand the concepts), they actually bring little help for students to understand the structures better. We only need to change so little a part in the ending part of the sample code, and it will work.4. Some questions in the quizzes are too tricky and unnecessary for the course material. Like who invented what language? That shouldn't be a thing we should recite. Maybe the quiz questions can focus on more of the understanding of the concepts.Thanks for reading.
 Great course. The lectures are clear and thorough. The assignments are challenging yet doable. The only thing I would like is to see more assignments to get more practice with the techniques learned.
 Getting a bit more challenging than the earlier courses in the specialization.  The exercises require more struggle, but all the information is there.   Another step along the way.  Thank you, Dr. Chuck!
@@ -1645,7 +1586,6 @@ Detailed explanation about Accessing web data using python. Teaching method of D
 Excellent course which gets into practical examples very quickly. The assignments are also great as a few of them are designed in a way where you have to revisit your notes / relook at videos which in my opinion is a great way of reinforcing learning
 All the assignments provided helped alot in upskilling my knowledge in python. Thanks to dr.chuck for the remarkable tutorial!!Peer review assignments are pretty unfair though.I had provided proper screenshots still getting 40% grade. Grow up man..:(
 Very interesting. Thank you, Dr. Chuck. I am really enjoy this course.Just a little suggestion. Each assignment can be a little extended. For example, after teaching Google geocoding api, the homework may be assigned to use other kinds of Google API.
-Me gusto este curso de python porque te enseña como comunicarse con los servicios web y las api, ademas de enseñarte sobre xml y json y la seguridad que tienen las api, todo muy importante a la hora de hacer estas aplicaciones enfocadas a servicios.
 Dr. Chuck has done it again!  Another excellent and highly entertaining course on the Python programming language.  Highly recommend for anyone looking to look a little more deeply into this amazing programming tool for people in all manner of jobs.
 The course is quite vivid and practical. Dr Chuck has always been humorous. Surprisingly I've learned a lot through this course.(Another thing to mention: the assignments concerning XML is quite hard, and perhaps need more illustration in lectures.)
 I learnt a lot with Python web data. I found it easy to assimilate the lectures. Chuck, the teacher insist that you follow the previous course but I found web data accessible to someone that barely used python. The mentors are helpful in the forums.
@@ -1691,7 +1631,6 @@ This course was excellent right from the explanations to the exercises. It is go
 If you want to learn coding, definitely you should start with this specialization. I can't believe that i can write all these codes by my self. If I am capable of this as a complete beginner, this means this course definitely works.
 It was amazing course and easy to understand at the same time. Topics cover all the basics . I can humbly offer extra non-mandatory lectures and assignments(A bit harder and taking more effort to complete) for non-beginner students.
 It's really a good but challenging course. Though I have completed the first two parts of it by Dr. Chuck, this course was really challenging for me. But I loved it. Thanks to Dr. Chuck for entertainment along with nice teaching  .
-Es un excelente curso para quienes buscan adquirir habilidades en poco tiempo y poner en práctica todos los conocimientos. Los materiales son muy útiles y valiosos. Todo se explica muy claramente. Recomiendo ampliamente este curso.
 I really enjoyed this class for several reasons:  1) Dr. Chuck, 2) The assignments were fun, 3) I did not know python a couple weeks ago, and now I can say that I kinda do!  Thanks for a great class!  Hope to take another some day!
 It was a great course, on how we could access data from Web using Python. Dr. Chuck is the best person who could teach us these topic. It is a pleasure to have been taught by him. Thank You Dr.Chuck, Coursera, UM for this course!!
 Awesome course.  As usual, Dr. Chuck presents the material in a very intuitive and fun way.  The videos are a joy to watch and I look forward to the programming assignments.  Would definitely take more courses taught by Dr. Chuck!
@@ -1773,7 +1712,6 @@ Excellent Course. Apart from Dr Chuck giving great lectures, this course gives a
 Very well structured, very informative. It is great that is not going into great detail, but directs the students to more resources, and focuses on the gist of the concepts.Many thanks for this course, Dr. Chuck!
 This is a good online class for people who are interested with different tools to access web data. Besides the theory and methodology, it has some practical exercise to get familiar with the programing language.
 Accessing web data is so much fun.  I sincerely hope to learn more about it. Also the professor is terific. Only one thing that bother me is the content of this class is kind of easy. Anyway, it is a nice class.
-Es un excelente curso. Creo que aun lo voy a profundizar mas.Pero me agrado tanto que lo recomendaría para el manejo de transferencia de informacion por un sistema alambrado corto, largo o mundial.En horabuena.
 This like all the other courses in this line is perfect for beginners. All the examples and exercises are perfect for beginners and afford the opportunity for the class material to really sink into the learner.
 Neat and well presented. what makes this course special is the way the professor presents it, he makes it so easy to understand. i suggest this course for those interested in python programming. it will be fun.
 This course came in handy JIT for my new job. It made me a look like a rock-star to my new manager and director! It has pushed me further into Python and realizing it's much easier to deal with than powershell.
@@ -1795,7 +1733,6 @@ The UM online course ‘’Using Python to Access Web Data' is awesome and valua
 for Everybody Specialization” .
 I would've loved some assignment that had to do with the use of OAuth and a popular API such as Twitter or Spotify or whatever. Still a great course thanks a lot to Professor Severance he is a GREAT teacher.
 "Using Python to Access Web Data" required more time and study than the previous two Python courses taught by Dr. Chuck, but it was worth it to see some more complex, real-world applications of the language.
-Simplemente me encanta como está diseñado el curso. Tiene una mezcla perfecta entre contenido, dinamismo, evaluación y videos extras que el Dr. Chuck entrevista a personalidades relevantes de todo el mundo!!
 I liked the course a lot! What I could wish for is additional smaller assignments that test parts of the learnt theory as well as the current assignments. This would make the learning process more intuitive.
 Thanks for availing this course.This course really helped me to learn new things and as a studying engineer it really helped my academics to learn web information exchange , retrieval and analyse new stuff.
 This is an excellent course. it teaches you and shows you how easily one can access data from the web using Python. The code samples and exercises show how you can retrieve web data in xml and json formats.
@@ -1824,7 +1761,6 @@ This wasn't an easy course.  It probably took me longer than needed but I wrote 
 This is an excellent introduction to Python´s web data handling. Very written as expect from this specialization. Thank you very much Dr Chuck and University of Michigan for this great Coursera´s course.
 This course teaches basic knowledge about how python accesses web data. Simple but really worth learning. In addition, Dr. Severance's lectures are very clear to understand. Overall, it's a great course.
 Great course. My third course on Coursera and with Dr. Chuck. It was fun. There were a couple of issues initially since I was using python 3 instead of 2.x, but it didn't take too long to get used to it.
-Este curso expandiu meus horizontes acerca da funcionalidade da ferramenta. Aplicações diretas que demonstram o poder da programação, mesmo de maneira básica. Parabéns ao professor pelo excelente curso.
 First of all, it was more difficult than I expected, but it worth it. In the end, you will learn some cool stuff, such as how to drag data from the web and how to use them with the help of JSON and XML.
 Its a good course the instructor is awesome .But i think in the last week 'week 6' APIs does not explained well ..... i search about it and understand it very well.In general the course is very good ^_^
 Another great course in the series. I'm headed to a local Python workshop next weekend, and feeling like I'll hold my own on the projects there because of these courses.  Looking forward to the 4th one!
@@ -1857,12 +1793,10 @@ Dr Severance is one of the best teachers I have ever had. The delivery of the co
 This course really helped me in learning how the network and api work. Many things happen in the background which we are not aware of. To understand those things one should really try this course.
 Very nice intro class to learn how to access web data. Even though the assignment is a little bit easy, i still get a lot of fun exploring the skills i studied to access some websites as exercises
 Thanks for presenting the comprehensive introduction on not only python but the knowledge of the internet structure. And the plus interviewing videos with internet pioneers are really interesting.
-Sensacional! Ótimo curso, o professor é muito carismático e possui uma boa didática. Além disso, o curso estimula que o estudante desenvolva por si mesmo as habilidades ensinadas. Recomendo muito.
 It has been three fantastic courses, I wrote my first own code for checking .xml documents of my work, and I'm so proud. This is a very helpful tool to get engaged in programming with baby steps.
 This is a great course to build upon a python foundation. The material is covered in a way that is easy to understand and remember. I would recommend this class to anyone interested in the topic!
 Dr. Chuck is an exceptional instructor.  His lucid, logical manner of presenting the information demystifies the code and really brings the power of creating things and manipulating data to life.
 This is the most friendly course i have ever had. The course is very useful for beginners with no background in programming and those who want to understand the behind the scenes part of the WWW.
-Gostei muito do curso, utilizei o tradutor do google para traduzir o material e para poder acompanhar os vídeos, o professor é excelente, acompanhar suas aulas aumenta nossa fome de conhecimento.
 I love the course soooooooooooooooooooooooooooooo much! Just get a little confused when doing assignment 5, the sample seems from week 6. Maybe this can be fixed to enable a better understanding.
 Very tidy and step by step course. Dr. Chuck has a great sense of humour, it wants you to keep wanting more. The bonus videos with all the great inventors of the languages is like cherry on cake.
 In this course you really start using what you learned in the first courses.  Dr. Chuck gives you just enough to get you started, but leaves enough out that the homework can still be a challenge.
@@ -1911,7 +1845,6 @@ Another excellent course, not so much hand holding as previous courses but more 
 Excellent way to step into the Python world!! Don't esitate join this course. But be aware that this is the third and you have to start from the first course (Programming for everybody).
 Excellent overview of the how to use the web as your data source for Python scripts rather than files on your computer.   Very understandable!   Thanks Dr. Chuck you deserve a shrubbery!
 Best course, Professor will pick you from bottom to top and now i realize that why 1st two course of this specialization are important, i can easily correlate my past knowledge with it.
-Excelente curso. Lo recomiendo a todo aquel con conocimientos básicos de Python que quiera profundizar en los conceptos fundamentales del desarrollo de aplicaciones web y  web scraping.
 Very well done. Examples and explanations were clear. Assignments were focused and achieved their intended goals. Highly recommended for those who want to use Python to access web data.
 simple and easy to know about the topic of Regular Expressions to json and GeoJSON API and other things in the course. the way of teaching the things in a simpler way, I liked the most
 This course is somewhat difficult with respect to course 1 and course 2But after taking this course my view on data transmission and data representation in Web has completely changed.I
@@ -1919,7 +1852,6 @@ Excellent course. Interesting contents. Good instructor, intuitive design, fun i
 I like this course--with the video lectures and the text book, it feels like a real class! The forums are pretty useful too, especially when having the same troubles as other students.
 What an amazing course. This teaches you more than "just a website", it teaches you the tech behind it all, where it came from, how it works, how it relates to python and so much more.
 This is the second class I have taken with professor Charles Severance on Coursera. Love the flexible schedule and clear lectures/assignments. Thanks a lot professor Charles Severance.
-Requieres dedicarle tiempo y total atención, pues hay algunas partes que no son tan triviales. Fuera de eso, recomiendo este curso al 100 para introducirte al uso de Python en la web.
 Its an amazing course to learn how to access web data using python. I learned things which were difficult to me before but now i am able to think and solve it. thanks for this course.
 It begins to become a little challenging, but the information is very easy to digest and the professor is great. Could use maybe a tad more practice projects, but no real complaints.
 This course is amazing in general and I've learned a lot of useful skills. The content is a bit difficult so that you need to work really hard on reading the supplementary documents.
@@ -1943,7 +1875,6 @@ This is a very good course. It is very well-explained and you feel that you fina
 Very helpful if you want to learn how to deal with web data using Python. Dr. Chuck explains really well. Homeworks keep simple and focuses on the important concepts. Five stars!
 Awesome Course. Learnt a lot on how to use Google API's. Dont have knowledge on the JSON or XML but this gave me a brief intro of everything i need. Big Thanks to Professorrrr!!!
 Fantastic Dr. Chuck course - by far the most motivating course I went thru on coursera. Well do to Chuck and Congratulation to your (behind the curtains) team for their work too.
-Un excelente curso para familiarizarse con la forma de interactuar con datos desde la web, de una manera simple pero poderosa para lograr manejar datos desde un ambiente externo
 This is definitely a very good course,but as the course gets into JSON,API ,it gets little difficult to totally understand these topics,though the course as a whole is very good
 Really enjoyed this course.  I found the 'worked' example videos to be excellent.  They were thoroughly explained, so I was able to understand what every line of code was doing.
 I really liked this course. It would be even better if it contained more worked examples, but I understand that it is impossible to show solutions for all the possible problems.
@@ -2021,13 +1952,11 @@ A bit more challenging than courses 1+2, but that's what I liked most about this
 Very good course, difficult at times but the staff is always very helpful and replies in a timely manner. I am taking this course with a friend and we both love it.
 Another great class by Charles - not only a great teacher, but does it with awesome attitude and enthusiasm for the subject matter, makes it easy to stay motivated.
 Learned a lot... Not too much information thrown at you at once, just enough so you can tackle the assignment on your own with the information you have been given.
-Es un curso recomendable para alguien que tiene nociones básicas de python que ayuda a conocerlo desde otra arista cómo el desarrollo web que en mi caso no conocía
 Best base overview in coursera for Python to Access Web Data. But, of course, for real life you're need more complicated  courses and tasks to get ready for a job.
 Amazing way of teaching and you will get everything they promise you will learn. Highly recommended for everyone that needs to know more about internet and python.
 If you were thinking python was boring just wait till you work these projects. Some amazing stuff happening here and I can not wait to continue the specialization.
 Good course, things learned from this course can be easily applied to real application. However, it will even be better if more programming practices are provided.
 Thank you for the great course!Really appreciate your way to explain complex things in a simple manner!Recommend for everyone to subscribe the Dr. Chuck's courses!
-Esse curso é incrível, super didático. O Dr. Chuck é um ótimo mentor e apesar do assunto ser complexo ele consegue explicá-lo de uma maneira didática e aplicável.
 Great course to get you started with Web data in Python. You may have to do some in-depth research about a couple of thing, but as I said, it is perfect to start.
 A bit more challenging than the previous two, but very rewarding! I don't think it's hard, but you need to be very confident and familiar with previous materials.
 As a high school teacher learning how to process student performance data to drive instruction, I found this and Dr. Sev's instructional style incredible helpful!
@@ -2113,7 +2042,6 @@ I really liked the lectures and the simple way Charles explained things. His att
 Content is getting harder.  Some additional explanation of how to get the from having a URL to pulling in the XML / JSON data would have been beneficial.
 In this course, I started to encounter some really difficult tasks, and I sincerely appreciate the help of the teaching assistant and Dr. Chuck's videos.
 The course is very nice , The assingments of  the course are very good and are very useful for the implication of the concepts learned from the classes .
-La especialización cada vez es más interesante. Conceptos presentados de manera clara y ejercicios completos que permiten poner en práctica lo aprendido.
 i think this course is great but it needed a little more knowledge in web stuff overall it was well explained i didn't need to get knowledge from outside
 i 've been always looking for a course on web scraping and this is my best one so far. although i am new to python...the lecture is quite easy to follow.
 Very good course! Introduced me to web scraping an enriched me with the basics.This is a good starting point for anyone who wants to learn web scraping.
@@ -2129,8 +2057,6 @@ The course is short but so much fun! I learned a lot from the course material as
 Fantastic course! Dr. Chuck is an excellent professor! The course 
 content is very deep, clearly exposed and very funny. I hope people 
 could enjoy it!
-Excelente curso que muestra como con un poco de conocimiento en Python se puede acceder a información en internet usando web scraping, xml, json o api.
-Excelente curso, el profesor es de altísima calidad magistral, el curso es bastante bueno para aprender sobre la web y como acceder a ella desde Python
 Superb course. Very harder considering the first 2 courses. I gave a lot of effort to complete the assignments and I studied a lot. Thank you so much!!
 A good, simple review of the basic components of working with the web - REST, json, xml, http.  Just a flavour, but gives you the tools to get started.
 The course made use of learnings from previous courses, making the knowledge gained incrementally. As always Dr. Chuck is a great and humorous teacher.
@@ -2194,7 +2120,6 @@ good course by best tutor. I really enjoyed playing with web, expression and spe
 Enjoyed this course! The problems were brilliantly designed. Got to know a lot of new things and it has influenced me to learn more new things!
 This course is very well structured and excellently taught by Prof. Charles. This is one of the few Coursera courses I have thoroughly enjoyed.
 Assignments were challenging. I had a great learning experience throughout the course! I got to know about how things happen in the background.
-Buen curso para los principiantes en programación. Además de que el contenido es sencillo y fácil de entender. El Dr. Chuck es muy buen maestro
 This course quickly gives me an overview of how to write a web crawling program using Python, from fundamental to practice. Highly recommended!
 Useful contents, again, I love how Charles used those metaphors to make all the systems/protocols/programming languages so easy to understand!
 As always Dr. Charles Severance is a great lecturer. The structure of the class, the material and the examples make it easy also for beginners
@@ -2288,7 +2213,6 @@ Practical and engaging course. I was pleased that Charles has assignments comple
 Great course.  It shows how relatively easy it is to extract data from web pages and Google/Twitter APIs using Python.  Eye-opening.
 A beautiful introduction to the topics of web services and accessing web data using python. Thanks Professor Charles Severance !! :)
 Much better than previous 2. Very direct to the point course. Not digging too deep, but opening a vast universe for future research.
-Estuvo muy interesante el curso, creo que debería tener unos cuántos ejercicios más para practicar. Pero aún así estuvo entretenido.
 Personally, I struggled at bit, but that was mostly due to lack of time. If you read all the instructions carefully, you'll be fine.
 Very good course for developing yourskills with Web, many new interesting and usefull information. Good constructed tasks. Recomend!
 Great course with great materials. Dr Chuck has really been an inspiration now. He teaches complex courses in a very simplified way.
@@ -2310,7 +2234,6 @@ Sir has made this course much interesting by teaching us JSON, APIs, socket and 
 mind-blowing!! , amazing  course i have no word to define the level, of course, it is for the beginner as well as the intermittent
 Give the foundations how to handle different kind of data structures, like xml and json and how to retrieve that data from an url.
 The basic knowledge of using Python for WEB. That is what I was looking for. Super. Brilliant. Thanks  to Cousera, Thanks to Chuck
-Muy buen curso. Ideal para comenzar a aprender sobre los componentes de la web, además sobre como extraer datos de forma sencilla.
 Its a great course. Dr. Chuck has outdone himself with this. The ample examples were really helpful in understanding the concepts!
 The instructor and the material actually help you learn, instead of just throwing you in the deep and expect you to figure it out.
 Dr. Chuck was an excellent Faculty. Now I was very interested in learning web access using python. The course extremely Excellent
@@ -2343,7 +2266,6 @@ Its an awesome subject i loved it more than my expectation.... rely loving itand
 老师讲得很好。虽然课程中用到的是Python2，我自己用的Python3，但是对照课本，完成作业没有问题。讲到XML和JSON那里，感觉有点难懂，下一门课要上一下Internet History，technology and Security。谢谢老师。
 This is the best and interesting part yet, I think. This is because, its the place where the cool applications in python begin.
 This course teach me how to explode the Internet in the practical way and not so abstract like other course or book i've learn.
-Muchas cosas útiles, espero poder utilizarlas en mi propio trabajo para sacar adelante un proyecto que tengo a nivel personal.
 Superb learning experience! I look forward to pile more skills and knowledge in the subsequent courses of this specialization.
 This course helped me a lot in gaining knowledge about how useful, can Python be in extracting useful information from the web
 initially its easy and slowly the increase the level , which make you to understand the concept with great understanding....<3
@@ -2367,7 +2289,6 @@ This course is another great one in the Python for Everybody series. Once again 
 good learning on how to exchanging data across the web. Quiz & Assignments are little tricky though overall had a great time.
 It's a useful course and directly applicable to real world development work. Prof. Charles Severance is an excellent teacher.
 A very nice brief course that introduces a lot of useful tools, libraries, and techniques to access the data on the Internet.
-Es un curso muy bueno, ya que te enseña cosas de la Web muy interesantes, además de como hacer cosas en la misma con python.
 Look carefully each and every vid. Think each and everything why how. You will get it Just Keep on thinking.Try from small..
 The lectures are really good and very easy going. Dr.Chuck is an amazing lecturer and I had loads of fun in these lecturers!
 Very interesting course by Dr. Chuck. So many new things I have learned through this MOOC  with easy explanation. Thank You.
@@ -2403,7 +2324,6 @@ Especially loved the chapter on regular expressions. Give Dr. Chuck a cookie. No
 Another excellent and informative addition to the Python Specialisation Course. Builds upon previous knowledge seamlessly.
 Brilliant course. Loved the way Python can access web data so easily in few lines of code. Thanks Dr. Charles and team (Y)
 Great Course as usual but the last two assignments  kind of looked a bit hard but not really....Thank you to proff Charles
-Es un curso completo pero a la vez sencillo y muy necesario para quienes necesitamos aprender a consumir datos en la web.
 This course is really great and the teacher is also good at teaching and using various Practical concepts at programming.
 Great course with just the right pace. Really helpful for the ones seeking to make career in Web Development using Python
 very nicely taught by the instructor,and it this course ultimately shows us how easy it is to access webdata with python.
@@ -2495,7 +2415,6 @@ I am upset that I can't complete this specialization for free but oh well. Thank
 Almost to the end of the course. Great coursework. I am enjoying every second of your videos. Thank you very much.
 it's a really good course how the data moves from server to server and how python is useful to extract this data.
 Nice course, even if the assignments are difficult at times in this one, but still good and Dr. Chuck is awesome.
-Es muy bueno el curso. Fácil de seguir y es fácil de aprender siguiendo los vídeos y actividades. Muy recomendado
 The course illustrates different strategies to extract the web data using python and is taught in very lucid way.
 If there was more explanation of API, I would be more happy. However, overall it was a good course. Thanks Chuck.
 it was great learning with you and your team who all are involved in this making is course great and informative.
@@ -2511,7 +2430,6 @@ easy to follow course. I've learned so much following these, the increments in l
 I have been very impressed with the ease of use and understanding that Dr. Chuck has been teaching in the videos
 An excellent course that looks deep into Web Scraping and XML plus JSON parsing as well as how to work with APIs
 I got so many knowledge in this course thank you so much I had fun manipulating data with apis thank you so much
-Excelente información por parte del Dr. Chuck en cuanto a la obtención de  datos desde internet. Muchas gracias.
 Very good course for intermediate level learner of python, gives practical & real world approach to use python .
 Nice and clear instructions. I learned a lot from this course. Just wanted it to use requests instead of urllib.
 The course is very good. There are lots of new things to learn from this course. I enjoyed the course very much.
@@ -2532,9 +2450,7 @@ The best teacher and lecture for high-paced and solid python learning on-line co
 Great lecture and assignment to give a overview format of Web Data as well as how to achieve them using Python.
 Yes, I made it through this module! It is a pain for people who hate web stuff because it is way more detailed.
 JSON is truly interesting and API is highly useful. Thank you for teaching all these awesome stuffs, Dr. Chuck.
-Me gustó mucho este curso. práctico. Tiene potencial para hacer uso de su información actualmente en el traajo.
 Excellent course - well worth investing the time for those looking for deeper skills in programming with Python
-Отличный курс, достаточно подробное изложение и перекликающиеся задания помогают хорошо усвоить материал курса.
 Covers variety of topics in a very simple fashion.Good point to start for anyone, who is interested in subject.
 Good for starting, just complete it in 2-3 days cause it doesn't have much content and then practice yourself.
 In this course,you'll learn many useful tools and information to access web data through Python. Great course!
@@ -2574,7 +2490,6 @@ Excellent course in the series.  You create code that is relevant today, parsing
 Excellent course. The last 2 lessons on XML and JSON could have used a little harder problems for exercises.
 Thank you. Dr. Charles Severance and the University of Michigan.Excellent course and very  learning of easy.
 Great course, it was quite interesting and I'd love to do more on accessing web data using Python later on.
-Muito bom. A didática do Dr. Chuck é muito boa. O conteúdo do curso é adequado ao que se propõe. Recomendo!
 Perfect level of detail, and to the point. Excellent! Thanks for a great class. Definitely time well spent.
 The professor is outstanding, not to mention the mentors, so helpful and patient, thank you for this course
 Awesome course! Taught me something new, something apart from Data Science. Always good to learn new stuff.
@@ -2621,7 +2536,6 @@ Dr. Chuck is awesome. He explains the course material in a way that is interesti
 Thank you Dr.Chuck. Your teaching method is very successful. I learnt a lot on this topic as a newcomer.
 good course, very informative, easy to understand and helpful. helps you build confidence in the subject
 I faced some difficulty in the last weeks of this course. But I will try more to overcome my weaknesses.
-Excelente curso para conocer el temas de acceso a datos en la web, con dos formatos de datos XML y JSON.
 It is a really great introductory course without going too deep into each topic. Pacing is really great.
 Accessing data from the web makes it feel real, by reaching out to the dynamic always changing internet.
 Awesome course and assignments! Thank you Dr. Chuck for making coding easy to learn for newbies like me!
@@ -2814,7 +2728,6 @@ Great course. Right to the point. I enjoyed very much and hope you enjoy it as m
 Dr. Chuck and his team are exceptional.  Great course, staff has an awesome ability to teach.
 The best programming class I have ever had. I learnt more than I ever learnt in college here.
 Great course again Dr. Chuck! Learned a lot, this was a much harder than the previous course.
-Excelente curso para aprender mas de lenguaje python y las tecnologias existentes en internet
 It really helps me to have a general understanding of the web data extraction and processing!
 The course is in general fun and it's amazing to retrieve data from the website using python!
 Great course. Thanks to Prof. Dr. Chuck, he has made the course interesting and learning fun.
@@ -2874,7 +2787,6 @@ One of the most enjoyable courses i have taken. Lots of interesting 'real-life' 
 Excellent course, recommended for anyone who wants to build web applications using python.
 Beautiful Course!!!! Now I know what is the API and i can do something with it. Thank you.
 Dr. Chuck continues to be an awesome teacher and makes programming understandable and fun!
-Un buen curso para iniciarse en los fundamentos del acceso a datos web a través de Pŷthon.
 It's a simple, powerful and elegant course that definitely it worths. Thank you Dr. Chuck.
 Good course, the material was given in a good way, for you to go deeper into the subject.
 Words can't describe how awesome this course is,Thank you Dr. Chuck for your great effort
@@ -2920,7 +2832,6 @@ Very Good Course and really great. Learnt some good Python topic on Accessing We
 I got a very good idea and basic knowledge about accessing web data and using the APIs.
 it had a very interesting use of python for retrieving data from web i enjoyed it a lot
 Detailed informations and lectures. Fine understanding. Sincerely recommend to everyone
-Increíble material, de fácil aprendizaje, un excelente profesor y  la plataforma ideal.
 Dr.Charles Severance is the best python tutor out there. I'm glad that took his course.
 Dr Chuck is as interesting and great as ever! Bonus: His enthusiasm is so motivating!!!
 A little hard but finally seems like a college course. May need some updates on videos.
@@ -2974,7 +2885,6 @@ one of the challenging course ... and its fun to complete it also I really enjoy
 I have learned a lot in this course alone with XML and JSON to google and twitter API
 Most interesting course . Thanks to Coursera and of Dr.Chuck a best energetic teacher
 ALL The Concepts were clearly explained in an engaging manner.Thanks a lot  Charles!!
-Excelente curso, 100% recomendado, fácil de seguir y principalmente fácil de entender
 Great course.  The content was very useful, the assignments were challenging and fun.
 Excellent course with amazing coursework and an exceptional method to teach and grade
 Very informative, I learned a lot.The exercises are challenging and fulfilling to do.
@@ -2992,7 +2902,6 @@ Excellent introductory course for python and web data with some really cool exam
 awesome professor and course materials. Dr. Chuck explained the contents really well.
 I learnt so much in this course just as in all the previous courses.Thanks Dr. Chuck!
 Really good course. I would prefer to have a bit more challenging assignments though.
-Good explanations in entire course. Nice examples will details. Helpful assignments.
 This was a new course for me, as I had never programmed this type of problem before.
 this couse is good . this course extract the information web site and using API key.
 Great concepts provided by Dr. Chuck! I am using JSON concepts in my freelance work.
@@ -3010,7 +2919,6 @@ Thanks for the course. It was really useful. I'm looking forward to do the next 
 Excellent course!!! Presents some nice applications of Python in analyzing web data.
 Nice overview of practical skills for accessing data from web resources.  Thank you!
 It's good to learn how to access web data including specifically html, xml and json.
-_(:3 」∠)_（用中文好了）这个章节字幕君牺牲了，全程英文，给我造成了一些困难，好在课程很基础，对于非计算机专业的人来说（比如我）已经足够了。老师还是一如既往的逗。
 I though parsing xml or json is much complex, but with python libraries its awesome!
 Dr. Chuck as allways makes me feel myself smarter than I thought before his courses.
 one of the best courses on python. Thanks to Dr.Chuck for being the best instructor
@@ -3026,7 +2934,6 @@ Very good content for a number of useful libraries and their real world applicat
 always prefer Dr.Chuck's course as it is very well organised and easy to understand
 I truly enjoy the format, and like these assignments!! print('Great way to learn!')
 good one for beginners... but was easy for me as I have more programming experience
-Es un excelente curso muy completo !! Gracias a todos los que hacen esto posible !!
 very nice but since they never used a framework for python, that was disappointing.
 Amazing. The concept was broken into logical unit which made it easy to understand.
 Great course! Quizzes are fair,  assignments are perfect for learning the material.
@@ -3073,7 +2980,6 @@ Dr. Chuck is an awesome instructor and the programming exercises are interesting
 The course was great! The tasks could have been a bit more complex and demanding.
 It's fun to watch the videos, and the learning process is very enjoyable. Thanks.
 It is a very useful course with a brilliant Dr. Chuck . I am grateful with him an
-Excelente forma de explicar, ejemplos muy claros. Muy contento con lo aprendido.
 I felt a little confused, but at the end i can solve some issues about web logic
 very helpfull for those who want to explore pyhon libraries and its applications
 Great introductory course that gives you more than just the surface of knowledge
@@ -3119,13 +3025,10 @@ Awesome course to learn how to obtain information from the web by using Python.
 A great course. I have learned valuable skill which are applicable for research
 It was very insightful and useful.  powerful tool in a any data scientist's kit
 feeling so happy to keep moving in this class, really hoping to learn more! : )
-太棒了！顺着系列课程学过来的第三门没有中文字幕有点吃力，也希望能贡献一下，准备去翻译一下这门课程的字幕。感谢 Dr.Chuck！会继续努力，完成整个系列课程。
 Great introduction to know how to access Web Data through XML and JSON objects.
 Lots of food for thought . Great piece of data rich lessons. Thanks Dr Chuck :)
 The course is well organized and touch on topics that matter in the real world.
 Simple to understand and practice for beginners and green horns to programming
-banyak menambah ilmu namun banyak menguras tenaga juga, but terimakasih banyak
-Buen curso, fluido e interesante. Aprendes como usar en python XML, JSON y API
 Loved the lectures , they were accurate enough to explain you all the topics .
 a very very good course for every one who need to gain knowledge about python.
 Excellent course! Some parts a good challenge, but that's what they should be.
@@ -3156,7 +3059,6 @@ Excellent Guided Pathway to the World of Internet using Python as a Language.
 Really enjoyed this course! BTW, Dr. Chuck really got his MOJO WORKING! Haha!
 Exercises with respect to real geojson and twitter api's will be more helpful
 It's really useful to learn how to manage with database, thank you very much!
-Estou adorando esse curso! Ele é completo e disponibiliza todos os materiais.
 Awesome course, easy to follow, good working examples to teach core concepts.
 Good review of the different methods to access the data available on the web.
 Interesting course. Assignments are really great though at times challenging.
@@ -3183,7 +3085,6 @@ Super useful course! I really liked the style of teaching. Thanks Dr. Chuck!
 All the best of REST and APIs seen through the eyes of Dr. Chuck and Python.
 Really, very good Course; you can learn more more details about web services
 Very much enjoying the course so far! Am glad this topic is so well handled.
-Muchas gracias por la enseñanza. Ya procederé a realizar el siguiente curso.
 Great course. Useful. Very easy assignments which could be done by a child.)
 An informative course which helped me learn to access web data using python
 Great course that provides some challenges at time, worth the time & effort
@@ -3324,7 +3225,6 @@ Best course for everyone and i really learnt a lot during the course.
 A very great course and really help me to get started with my project
 Thank you coursera for this type of courses .What a course to learn!!
 Very happy with the course ,learning and its application at same time
-Bom curso! Um pouco menos interessante em relação aos dois primeiros.
 Good Good Good. But once finishing the first two parts of the Course.
 This course is very helpful and teach you web using python in detail.
 A very interesting course with lots of new content and staff to learn
@@ -3349,7 +3249,6 @@ Thank you coursera, Thank you Telkom University, Thank you Dr. Chuck
 awesome experience.. Dr.Chuck is awesome, the course is awesome !!!!
 as usual Dr. Chuck made it easy to learn and challenging to exercise
 Awesome course to enhance accessing web resources skills from python
-Me gusto el curso, me permitió comprender más sobre API, XML y JSON.
 some assigments are very though but i really enjoy to do assignments
 it's not that easy like previous ones, but be patient its worth it !
 It really good to get knowledge more about python to access web data
@@ -3360,7 +3259,6 @@ This course is very lively and interesting. It can improve your work
 Thank you Dr. Chuck. I wish I had met you at least a decade earlier.
 Very Simple , easy to understand and comprehensive at the same time.
 A great course as all of the previous ones from the Especialization.
-Muy bueno, aplica los conocimientos con ejemplos claros y sencillos.
 Quick, hands-on, and covers all the good topics.Enjoyed it very much
 Great course with details and practical usage of the python program.
 Great course, and I learned a lot from this. Welcome to participate.
@@ -3434,7 +3332,6 @@ Another interesting course.learnt loads.Eagerly awaiting the next.
 Dr Chuck's explainations are amazing. I wish to meet him someday.
 Excellent course, however I think it needs more practice material
 Dr. Chuck is awesome as always! Thank you Dr. Chuck and Coursera!
-Great instructor, content, explanations, quizzes and exercises :)
 Dr. Chuck is an awesome instructor. Thoroughly enjoyed the course
 awesome course but must have prior knowledge about data structure
 Exceptional Instructor alongside world class versatile resources.
@@ -3462,7 +3359,6 @@ Great course ...very very interesting ..thank you, Dr. Chuck👌👌
 Highly Recommended for someone who wants to learn programming!!!
 Great Python course for anyone who is trying to learn new skills
 This is a very good course to understand the REST, XML and JSON.
-Los ejercicios en linea deberían de tener la opción de traducir.
 A great course taught by an engaging and enthusiastic professor.
 It's a bit tough to me actually...But the lecture was so good...
 Dr. Chuck alone are worth the 5 star rating. Highly recommended!
@@ -3500,7 +3396,6 @@ Great course! As well as the previous ones. Thank you Dr.Chuck!
 Great Course Highly Recommend to take that Whole Specialization
 The instructor and his mode of lecture, contents were too good.
 Lots of useful knowledge about protocols, xml & json, and apis.
-Otimo professor. Um dos melhores cursos que já fiz no coursera.
 Excellent overview of capabilities of Python in access the web.
 This course helped me to switch from manual QA to Automation QA
 i am fully satisfied with this course .awsome teaching style...
@@ -3511,7 +3406,6 @@ This course was a great look at some of the functions of Python
 Wonderful course where the concepts were easily understandable.
 Liked the exercises to read the google-api and the twitter-api!
 Great Course, but the assignments are harder than earl courses.
-Este ha sido un excelente curso, impartido de muy buena manera.
 great class,I study a lot here, hope for more similar classes!!
 Very good course. I definitely opens a window of possibilities!
 Good class. Clear presentation and learning programming skills.
@@ -3521,7 +3415,6 @@ The teacher is very humorous and content is easy to understand。
 Dr Chuck is great. The assitance on doubts is also really good.
 good course for beginner. well designed tasks for max learning.
 Just the right course to begin with to play with web data/api's
-excelente curso con  temas concretos y se ven de manera rápida.
 very good information of many concepts and nicely put together.
 Fund and amazing how easy that we can use the resources in web.
 Jst the Best Teacher and an incredible course, cheers chuck! :)
@@ -3529,7 +3422,6 @@ A very interactive and fun intro into the world of web-services
 Execellent to learn logic of web data, html and xml parsing. :)
 Very interesting Python course. I learned very much. Thank you.
 easy to learngreat materialseasy learning difficult language :)
-excellent course and excellent instructor. I love this course.
 One of the best courses I have taken. Really enjoyed it a lot.
 Great professor! Would appreciate though more coding practice.
 Awesome Course, and awesome instructor. Thank you Dr. Chuck !!
@@ -3657,7 +3549,6 @@ You're awesome Dr Chuck. Thanks for this wonderful course.
 Great experience and I really enjoyed Dr.Chuck's lectures!
 This is the best certification for Python Web Data Access!
 One of the best course on the Internet with a cool lector!
-excellent course.suitable for beginners and its enjoyable.
 Still the best course on Python basics! Strongly recommend
 Excellent material for quickstart in this domain of python
 Lots of fun learning new skills. JSON is very nice to use.
@@ -3665,18 +3556,15 @@ Thank you Coursera for giving IUST university free courses
 Very well explained. I recommend this course for beginners
 Much known about web through python .This is a best choice
 A good way to learn how python can communicate to the web!
-Excellent course to continue developing python experience!
 THANKS DR CHUCK AND OTHER STAFF MEMBERS .THANKS A LOT //\\
 It was a wonderful learning experience.Thank you Dr. Chuck
 Awesome! I am even determined to complete the next course!
 Awesome course to learn web data manipulation with python.
-Excelente o curso, muito didático e de fácil entendimento.
 certainly learned a lot i love it i'd recommend  to anyone
 Pretty good course for beginner like me! Thanks professor!
 Overall great. But I found JSON part is a bit hard for me.
 This is the one where it gets challenging and interesting.
 Great course, well paced for Python beginners but thorough
-Excellent material.Practical & Useful.Commitment required.
 Simply brilliant! Stimulating, challenging and fulfilling!
 This section is very interesting and I get a lot from it !
 Nice introductory course. It will be useful for beginners.
@@ -3728,7 +3616,6 @@ Great course with a great instructor.  Very informative.
 Amazing course, I learned a lot in the short time frame.
 As good as the frist two courses of this specialisation.
 giving good opportunity to learn more programming skills
-Magnífico curso. Se aprende un montón. Gracias Dr.Chuck.
 Thank you so much for teaching us in an interesting way.
 Very interesting to access web with small lines of code.
 I'm learning a lot in these Python courses by Dr. Chuck.
@@ -3767,7 +3654,6 @@ Excellent material, well prepared and well thought out.
 I got a vast knowlegde about python accessing web data
 What a great course taught by an Excellent Instructor.
 Good and simple start to access web data using Python!
-An excellent course by an excellent instructror.👌😃😃
 Excellent course, Dr. Chuck is an excellent professor!
 Amazing course! Amazing instructor! Thank you so much!
 This course is really good. Gave me a good experience.
@@ -3777,7 +3663,6 @@ Good Course, Lot of Information to learn and practice.
 Best source to understand about how to access web Data
 Excellent Course to master Python! Thank you Dr. Chuck
 Thank you so much sir your teaching style is awesome .
-Great course but just lacks a little practise sessions
 I like this course and great explanation from Dr Chuck
 He who doesn't like Dr. Chuck doesn't appreciate life!
 Very good course, I can't wait to start the next one!!
@@ -3790,7 +3675,6 @@ Very well taught and dr. chuck is really good at this!
 Awesome Teaching! Learnt many concepts in an easy way.
 Enjoy every bit of the course. Again, Thanks Dr. Chuck
 Nice Course. Learnt a lot. Thanks to the instructors..
-这个老师的课很简单易懂，我会继续学相关课程3.但这属于基础入门课，没有太多知识储备的人都能懂。但能培养兴趣。
 A very good course. Everything is explained so nicely.
 Great course. Recommended to start with web scrapping.
 A good start to understand what goes around API world.
@@ -3849,7 +3733,6 @@ of the best and most great courses of specialization
 Just like all the other class from Dr. Chuck, GREAT!
 Love this course which make learning python so easy!
 A pleasure and easy to follow – Thank you Dr. Chuck!
-genial curso para aprender poco a poco a usar python
 The course is awesome but really need extra efforts.
 Excellent !!! Its an easy course but I learnt a lot.
 Great information.  Dr. Chuck is a great instructor.
@@ -3880,7 +3763,6 @@ Good course for accessing web using python, Thanks!
 Great stuff! Expanding my CS knowledge tremendously
 Highly recommended. Very well explained and useful.
 Really illustrative, short, especific and excelent.
-Excelente curso, muy didáctico, muy bien organizado
 Very good course. Not very difficult but practical!
 Dr.Chuck's courses are fantastic! you can't miss it
 It was fun to expand my python knowledge. Thanks...
@@ -3900,7 +3782,6 @@ excellent introduction to web services, xml, json.
 Begin to learn how python works in the real world!
 wonderful experince with the teaching of Dr. Chuck
 This course is very useful and easy to understand.
-Excelente curso. Muy bien explicado y muy completo
 Simply Amazing to have such a lecturer and mentors
 Dr Chuck, you are a heaven send!!!! Thank You!!!!!
 Excellent course and very interesting assignments!
@@ -3929,7 +3810,6 @@ this is an amazing course i learn a lot thank you
 Another excellent course by Dr. Chuck. Thank you!
 very eagerly waiting to learn even more and  more
 very easy to under stand and nice guy teaching us
-Great lectures, practical examples and exercises!
 Great MOOC, max efficiency for the study workload
 Excellent method of teaching. Thanks to Dr. Chuck
 The best way to learn Python. Highly recommended.
@@ -3940,7 +3820,6 @@ One of the best professor. Great teaching skills.
 Simple and fast intro to read HTML, XML and JSON.
 Great intro course for accessing data on the web.
 Interesting intro to JSON, REST, SOA with Python.
-Un curso excelente, muy didáctico e intuitivo!!!!
 Just go for it, learn lot of things and have fun.
 very good to start your web data accessing career
 For those interested in XML and JSON is great!!!!
@@ -3980,7 +3859,6 @@ Thanks Dr. Chuck, your teaching style is great!
 i have issues with my assignments please respod
 Very Informative and clearing concept in detail
 It is a  very helpful and knowledgeable course.
-Me hubiese gustado tener más ejemplos prácticos
 Good course on web api. It starts to get useful
 One of the best Python Course at global scale !
 One of the best courses that I have ever taken.
@@ -3994,7 +3872,6 @@ Fantastic - as always with this Specialization.
 One of the best python course available online.
 Thanks for your teaching and really good course
 Interesting  course to process web data. Thanks
-Python 是一种化繁为简的语言。感谢老师深入浅出的讲解了这么多python的原理和使用案例
 A very good course which simplifies everything.
 Great course for introducing web data to Python
 Great Course, you learn the basics very quickly
@@ -4039,7 +3916,6 @@ A great course and teacher!. congratulations !
 Great class. It is very perfect for beginners.
 Dr. Chuck is the best teacher I have ever had.
 Very nice course. Not to slow and not to fast.
-Um curso muito interessante.Aconselho a todos.
 Thank You! Very excited about the next course!
 useful content and brilliant way of teaching .
 Nice course. Becomes wonderful with Dr. Chuck
@@ -4088,7 +3964,6 @@ amazing theacher, and extraordinary learning
 This is an excellent course. Please join it!
 Loved the way of teaching by Professor Chuck
 A great opportunity to start learning python
-Excelente curso, disfrute y aprendí bastante
 Dr. Chuck is a fantastic teacher for Python.
 Very interesting class. See real application
 Dr. Chuck has a wonderful style of teaching.
@@ -4155,7 +4030,6 @@ Great learning experience from the course!
 json part was really useful and intresting
 Very Interesting and well-designed course.
 i am enjoyed a lot while doing this course
-haahahahahah thank you dr chuck. that's it
 It was great. Dr. Chuck is a good teacher!
 lets go forward, going to the next course!
 Coursera is a good onine platform to learn
@@ -4169,7 +4043,6 @@ Great content for basic python programming
 Great balance, well paced and deep enough.
 Very nice and very important course for me
 I LOVE this course,many thanks to Dr.Chuck
-Thanks a lot! Спасибо, очень хороший курс!
 couldn't be better! absolutely satisfying!
 Dr. Chuck's courses are done so very well!
 Good course for the beginning of 'Spider'.
@@ -4181,7 +4054,6 @@ Very well organized. Dr. Chuck is awesome!
 Very well done.  The interviews are great.
 A quick overview of some really fun tools!
 Another great course offered by Dr. Chuck!
-Excellent course. Gives a good understandi
 Sufficiently challenging and informative.
 Excellent teaching... thank you Dr. Chuck
 This is a very good course for beginners.
@@ -4190,13 +4062,11 @@ I love this course . Thank you Dr. Chuck.
 got trouble somewhat but succeeded indeed
 Really awesome course offered by coursera
 Straight to the point. Very useful stuff.
-Awesome!!, excellent course and content!!
 Must do this to learn to access web data!
 Great course! Now let the scraping begin.
 Fantastic course, very clear and concise.
 Very difficult course compare to previous
 Great introduction for Python to web data
-Un curso muy bueno no te vas a arrepentir
 Some of instruction were not clear to me.
 I liked it. This course is so applicable.
 Great teacher. Everything made so simple.
@@ -4215,7 +4085,6 @@ Nice intro to Python and web technologies
 Beautiful and useful as a starters pack:)
 The course is really helpful for beginner
 Really worth taking this course, awesome.
-我很喜欢这门课，唯一的不足就是如果有更多对于 python 3 的语法支持就更好了
 Best teacher for a programming language..
 Awesome course to be studied by everyone.
 Great course. Dr. Chuck is great teacher.
@@ -4225,14 +4094,12 @@ The professor teaches with utmost zeal !!
 Great class. Well organized, well taught.
 Amazing Python course! One of the best!!!
 I really enjoyed it! Thanks Doctor Chuck.
-Excellent course for Python developers!!
 Great course with a wonderful instructor
 Very good introduction to web scrapping.
 Excellent course, the teacher thats good
 Good course for web scraping with python
 course is amazing and its worth the time
 SO,many new modules you'll get introduce
-Un curso muy completo, con un gran nivel
 its very interesting to learn new things
 Very Informative and beautifully taught!
 Great Course, And a really great teacher
@@ -4253,7 +4120,6 @@ Awesome, Simple to get, and well taught.
 Excellent course,  Very useful material.
 Taught very well and at an amazing pace!
 I love this course! Thank you, Cousera!!
-讲的非常好，而且很形象，感觉国内的课程可能是因为翻译得太直白了，导致不是很好理解
 So useful as usual. Thank you Dr. Chuck.
 Excellent course and very well presented
 really good course !! strongly recommend
@@ -4270,10 +4136,7 @@ It was a great experience all together.
 awesome course,recommended for everyone
 Loved the course!! Thank You Dr. Chuck!
 Very informative newer course in Python
-Excelent! Very goog, practic exercises.
-Отличный курс, правда практики маловато
 Exception Course Crystal Clear Lectures
-GREATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 nice course! learn a lot from Drchuck~~
 Thank you Dr. Chuck! Course is awesome.
 I have learnt so much from this course.
@@ -4292,7 +4155,6 @@ Very informative course, no unnecessary
 Dr. Chuck is awesome, love his courses!
 Great course and awesome instructor! :D
 Easily to knows it,i plan to learn more
-excelente, el doctor chuck es el mejor!
 Great, as usual :) Thank you Dr. Chuck!
 impressive course, learnt a lot, thanks
 Excellent Course. Thanks to Charles  :)
@@ -4316,10 +4178,8 @@ Easy to understand and a good Learning
 I like this course & earn a new skill.
 I love how Dr. Chuck taught this class
 Great course, I learnt a lot from this
-Excellent professor, excellent course!
 Looking forward to doing the next one!
 proper coverage of all required topics
-Excelente curso para los principiantes
 awesome Lecture with awesome Professor
 wonderful course.  I have learned alot
 Awesome Professor and course material.
@@ -4356,7 +4216,6 @@ Great course and a great instructor!!
 Best course  from THE Best Instructor
 Excellent course with good assignment
 Very good course for python beginner.
-Excellent course but need some update
 GREAT COURSE, nice introductory class
 i truly enjoyed this course the most.
 The best material, curse  and teacher
@@ -4371,7 +4230,6 @@ Nice course to gain Python knowledge!
 Tremendous class! Good job Dr. Chuck!
 Very nice course! Thank Prof. Chuck !
 I loved the course and learned a lot!
-都是讲的基础且重要的。练习题也有参考，不至于太难，但是又让你可以自己练习。
 Great course! :)  Thank you Dr.Chuck!
 A great way to start learning Python!
 Great course with practical examples!
@@ -4380,7 +4238,6 @@ Great Course ! Great teacher! Thanks!
 Excellent course. Highly recommended.
 Very good course! Thank you Dr Chuck!
 very good course. I've learned a lot!
-优秀的教师，深入浅出的讲解和轻松的课堂氛围，Charles，我是你的粉丝！
 Teacher is fun and the class is good.
 A very challenging and great course!
 Great course, learned a lot from it.
@@ -4400,7 +4257,6 @@ Amazingly well taught. Very helpful.
 Really learn a lot from this course!
 Overall it was an "Okay" experience.
 This is very useful and interesting.
-muy buen curso, bastante instructivo
 Chuck Severance is a gifted teacher.
 So far this courses have been great!
 Thank you for this amazing platform!
@@ -4408,13 +4264,11 @@ The final lesson is pretty tough LOL
 Perfect to improve skills in Python.
 Very good for beginners in XML, JSON
 thanks a lot. I learned web scraping
-Great course, compact & fun material
 Great course! I highly recommend it!
 It is the best course thanks for all
 Thank you Dr. You taught me Python..
 Very good course, it's worth trying!
 Concepts are explained very clearly.
-Excellent course! Excellent teacher!
 Clear explanations, good assignments
 Love this course and learning a ton!
 Describe in a simple way, I like it!
@@ -4439,7 +4293,6 @@ lovely course thank you dr chuck :)
 Great prof, great examples. Thanks!
 I only audited, but liked it a lot!
 little bit difficult but very clear
-Excellent course.  I learned a lot.
 Excellent and very relevant course!
 Good and informative course.Thanks.
 great course. Dr Chuck is excellent
@@ -4473,7 +4326,6 @@ Excellent course! Thanks Coursera.
 Great content and great instructor
 Now , I know Python, good course !
 Excellent Course ! Thanks a lot :)
-Excellent course. 100% recommended
 Love the lecturer! Explains well!!
 A good introductory course.Lovely.
 Thanks For providing financial aid
@@ -4489,10 +4341,7 @@ Love the instructor! Great course!
 an awesome course very recommended
 great course. I like the practice!
 Very Informative and useful course
-very helpful,i get large knowlege.
-Superb Course !! I just like it :)
 Nice course! Thank you, professor!
-Very useful, dr chuck best teacher
 Great course, thank you Dr. Chuck.
 Excellent course and instructor...
 great lecturer and great singer :)
@@ -4501,7 +4350,6 @@ Awesome course, fantastic teacher.
 it's a good start to learn python.
 Amazing! Very comprehensive course
 Instructor makes clear explanation
-Awesome course, funniest professor
 Very easy class with a lot of fun.
 Dr. Chuck is Phenomenal! thank you
 Awesome Mentor and Course outline.
@@ -4528,7 +4376,6 @@ thought it was excellent training
 Great courses, I love it so much!
 learnt a lot man. Awesome course.
 Really enjoyable and informative!
-Little bit difficult, but useful!
 I like the teacher and his codes.
 A straight forward course so far.
 detailed explanation of api usage
@@ -4551,19 +4398,15 @@ Professor Severance is a delight!
 Good explanation of the material.
 Great course and great teacher!!!
 One of the best courses available
-Clear,Abundant,Elegant.I love it!
 Very useful! Thank you, DR Chuck)
 Very good course and helpful one.
-Best Teacher and Best Course Ever
 dr.Chuck is an awesome teacher!!
 I learnt lots of things. Thanks.
 Cool course, thank you Dr. Chuck
 The course was great. Thank you.
 Terrific! Dr. Chuck is a master.
-Excellent videos and explanation
 Best teaching and easy to learn.
 best course with best instructor
-excellent course, very complete.
 very good course, well explained
 best  course for learning python
 It was excellent and interesting
@@ -4572,7 +4415,6 @@ I enjoyed this course very much.
 print('Dr. Chuck is legendary!')
 Challenging and very insightful!
 very informative & useful course
-Excellent course, I enjoyed it!.
 nice experience being a beginner
 Amazing course! Would recommend!
 really good cource for beginners
@@ -4588,7 +4430,6 @@ Loved it.  Learned a great deal.
 Great beginning of Web crawling!
 Awesome course. Thanks Dr.Chuck.
 Thank you for interesting cours!
-Amazing tutor, excellent course!
 Great course with fun and useful
 Great Course from a great man :D
 建议搭配Web scraping with Python进行学习
@@ -4606,8 +4447,6 @@ The course was quite difficult!
 It's quite hard, but I loved it
 I want Dr chuck for all courses
 Dr. Chuck is amazing as always!
-excellent course for beginners.
-Excellent Platform For Students
 Very interesting course. Thanks
 It was fun learning this course
 Good exoplaination by Dr.Chuck.
@@ -4656,7 +4495,6 @@ Useful, clear and interesting~
 Excellent teaching by Dr.Chuck
 A very good and useful course.
 Great cookbook & introduction.
-What can I say? it is amazing!
 Good Training.. Easy to learn.
 Very clearly delivered course!
 The best! Hats off to Dr Chuck
@@ -4674,11 +4512,9 @@ Dr. Chuck at his best again :)
 Great Course, Learnt a lot !!!
 Great course on web scrapping.
 Awesome course !! Learned alot
-excellent! very useful course.
 It's great...................
 Good instructor, good content
 i learn some amazing concepts
-excellent course, very useful
 This is a reallly good course
 Highly recommend this course!
 Awesome course and instructor
@@ -4713,7 +4549,6 @@ Clear and easy to understand.
 Dr. Chuck keeps me motivated!
 Excellent course and teacher!
 Very good short introduction.
-Great class. Super convenient
 Absolutely fantastic lectures
 I will take all the 5 courses
 Great course and great Chuck!
@@ -4728,7 +4563,6 @@ Great work. Superb Teaching !
 GREAT TO HEAR DR CHUCK AGAIN
 Great Course to learn Pyhton
 Excellent and Awesome one!!!
-Awwweeeesssssooooommmmeeeeee
 give a good idea about API's
 I'm amazed about this course
 Nicelearnt a lot .Thank you.
@@ -4757,7 +4591,6 @@ Good course, want more info!
 I'm learning so much! Thanks
 Learned a lot. Python is ok.
 explanations are very good!!
-awesome prof, awesome energy
 excellent and easy to follow
 Great. Dr Chuck is the best
 this is a very nice course.
@@ -4768,8 +4601,6 @@ Great class! Learned a lot!
 Great course, Learnt a lot.
 great course for python web
 Very good course for Python
-Dr,Chuck is just amazingggg
-Best course quite literally
 This course is interesting.
 was a good learning journey
 Easy, efficient and useful.
@@ -4777,12 +4608,10 @@ Well organized and helpful!
 Chuck is great. enough said
 amazing, very useful course
 Thank you so much Dr.chuck!
-I love it! I appreciate it!
 Dr. Chuck is the BESTTTT!!!
 Great course! Learnt a lot!
 this is a impressive course
 Great learning experiences!
-Good job!Keep good working!
 I love Dr. Chuck's lesson~!
 The course is well designed
 Good intro to web scrapping
@@ -4795,18 +4624,15 @@ Its a super great course!!!
 This course is pretty good.
 very good and clear sessons
 Fantanstic and recommended!
-print 'Course 3 = AWESOME!'
 Good Stuff. Keep it coming!
 Lots of fun. Great teacher.
 Really useful in real life
 outstanding awesome course
 Loved doing this course!!!
 It,s was really a helpful.
-Very helpful for beginners
 Such a beautiful course!!!
 best course for a beginner
 Excellent Hands on Session
-Dr. Chuck is GREAT TEACHER
 Such an amazing instructor
 Really enjoyed this course
 Hard one but learned a lot
@@ -4815,7 +4641,6 @@ Awesome. Thanks, Dr.Chuck!
 Amazing Course. Thank you!
 Amazing Course, Dr. Chuck!
 This is a fantastic class!
-Practical & understandable
 Very Thanks to Dr. Chucks!
 Good class, a lot to learn
 A very challenging course!
@@ -4834,7 +4659,6 @@ Great! i'm very satisfied!
 Very useful and fun one :)
 Very helpful and detailed.
 Nice class with Dr. Chuck!
-Tres clair ! Sympathique !
 Nice compilation to series
 Thank you for teaching me!
 Useful feature for Python!
@@ -4860,15 +4684,11 @@ u made easy sir thank you
 amazing course Dr. Chuck!
 great course, I loved it.
 Awesome!! ..Python course
-Excellent course. Note 5.
 it was so easy and great.
-Made me love Programming!
-Excellent for Beginners!!
 I love Dr Chuck's Lecture
 Learnt about json and xml
 The best of coursera!! :)
 great studying materials!
-Quite useful materials!!!
 A very impressive course.
 Very instructive, thanks.
 Doctor Chuck is very nice
@@ -4881,15 +4701,12 @@ best of what I have seen.
 The class is interesting.
 Really good python course
 Exceptional short course.
-Muy bueno y recomendable!
 Thanks, is great courses!
 Enjoyed the Coding Here!
 Great and helpful course
 The course was very good
-Este curso es muy bueno.
 Very nice class, must do
 Thanks for Great content
-speechless: wonderful!!!
 BETTER TO GIVE IN DETAIL
 really enjoy the course!
 This is a great course!!
@@ -4914,7 +4731,6 @@ interesting and helpful!
 Nice, usefull knowledge!
 Well constructed course.
 got new things to learn
-Great experience!!!!!!!
 Great course i loved it
 TRY AND Recieve sucsess
 Great course as always!
@@ -4929,7 +4745,6 @@ Totally worth the time.
 Great course of python3
 Awesome, awesome class!
 thaks for useful things
-It is quite useful!!!!!
 The journey continues..
 provide all that u need
 Great Course Mr. Chuck!
@@ -4937,11 +4752,9 @@ very good introduction!
 Dr. Chuck is very good!
 Great and funny course.
 Well structured course.
-Genial, muy recomendado
 Exceptional. Take this.
 Great! That's enough...
 Great training by Chuck
-除了我学的时候最后两节课没有中文字幕，简直完美
 Dr Chuck is awesome!!!!
 Difficult yet rewarding
 practical and awesome !
@@ -4956,65 +4769,50 @@ Great course. Awesome!
 Great Teaching method.
 Illustrative.Thank You
 Best course i had seen
-amazing but quite hard
-fue un excelente curso
 very good , Thank you!
 It's getting hard now.
 nice bunch of lectures
 Very helpful.Thank you
 Useful and interesting
-VERY CLEAR THANK YOU !
 Very nice professor!!!
 It was a good course .
 Dr. Chuck is a legend!
 awsommmmmmmmmm thank u
-Dr. Chuck is amazing!!
 Great Piece of Work !!
 It's a bit challenging
 Great Course yet again
 Impressive, that's it.
 The best python course
-supper great course :)
 Keep up the great work
 was very fun!! TNANKS!
-非常有趣的课程， 学到了很多东西，感谢老师。
 Very good information!
-Fun course, great job!
 This course is superb.
 Very motivated teacher
 Very advanced but easy
 Good and useful course
 thanks a lot, Dr Chuck
-Suitable for beginners
 Thank Dr. Chuck a lot.
 Great and a lot of fun
-Bestet instructor  ...
 So good its invaluable
 Love it! Just love it!
 Dr. Chuck's the man!!!
 Dr Chuck is The Best!!
-Wonderful experience!
 enjoying the learning
 Well organized course
 Very Well Explained!!
 Very Easily Described
 Concise and Effective
-ITS  WAS REALLLY GOOD
 It's too good so far!
 Great teaching styles
 this course was great
-very good for lerning
 Very enriching course
 a little hard for me.
 Enjoyed it very much.
 Great courseThanks :)
-NICE STUDY EXPERIENCE
 just an awesome class
-Im your fan dr. Chuck
 Complex and powerful!
 A course for everyone
 Wonderful core course
-Useful and practical!
 Many thanks Dr. Chuck
 Dr. Chuck is the best
 This course if great!
@@ -5023,28 +4821,21 @@ Very nice course!!!!!
 learned a lot! thanks
 superb course thanks.
 It's a great course!!
-Challenging, but fun.
 dr.Chuck is the best)
-Excellent Dr. Chuck!
 amazing explanation!
 It is awesome course
 It was pretty cool!!
 wonderful experience
-i liked it very much
 The Course was Great
-excellent lecturer!!
 its very interesting
 awesome as usual....
 High quality course.
 very goodjust awsome
 very good course!!!!
 Wonderful Professor.
-Exceptional course!!
 very compact course,
 Thank you Professor！
 Nicely put together.
-xddddddddddddddddddd
-Great but difficult.
 Thouroughly enjoyed!
 Well done as always!
 thank you so much :)
@@ -5053,49 +4844,34 @@ Dr Chuck is the best
 Thank you professor!
 Overall great class.
 very nice and useful
-very good stuff!!!!!
-great!i love coding.
 Thank you Dr.chuck!!
 Very useful course !
 Keep going this way!
 niec teacher! thanks
-内容有点少，不过既然是作为入门，也正常。
 Instructor is great!
 First step to crawl.
 Love learning python
 Great for everyone !
 Absolutely brilliant
-Fun is just starting
-Fantastic materials!
 i love the teacher!
-wonderfu experience
 Very Very Satisfied
 great course a head
 Love this course ..
-Amazing Experience.
-Awsome presantation
 As always Awsome!!!
 its very intresting
 Wonderful Course!!!
 Thank you Dr.Chuck.
-Awsome experiences.
 very happy to learn
-A excellent course.
-It's getting better
-Good course content
 Very helpful stuff!
-Nice course content
 It was really Funny
 introductory course
 Super great course.
 Thank you Dr.Chuck!
 most amazing course
-Amazing, as always.
 I loved it!!!!!!!!!
 Good for starters!!
 easy to understand.
 It was very useful!
-Muy bien explicado.
 simply the best one
 Very nice and clear
 great courses,good.
@@ -5104,23 +4880,18 @@ Loved This One Too!
 Very fun and useful
 good stuff. thanks!
 Cristal Clear...!!!
-Excelent! Congrats!
 It is a great class
 Awesome instructor!
 It is a good class!
-Hardest one so far
 i love this course
 thank you Dr.Chuck
 Course is too good
 Thank you Dr Chuck
-Good course indeed
 Really good course
 it was so awesome!
-very nice lectures
 It was outstanding
 pretty good course
 Thank you dr.chuck
-best course module
 really impressive！
 loved this course!
 Love this course!!
@@ -5128,22 +4899,16 @@ love the course!!!
 Need more examples
 useful interesting
 Amazing as always!
-very good, like it
 thank to dr.Chunk!
 Very Good Courses!
 Very helpful....:)
 Good for starters.
-Excellent course!!
 Really enjoyed it.
 pretty awesome !!!
 I really enjoyed i
 Fantastic teacher!
-dr Chuck is best !
 an amazing course!
-Excellent and fun.
-I love your course
 Brilliant Teacher!
-SUPERB! VERY NICE
 love U Dr. Chuck!
 This was great!!!
 It's really good.
@@ -5152,40 +4917,30 @@ best way to learn
 Good to kwon this
 Excelent teaching
 It is interesting
-Dr. Chuck is Best
+Fantastic course!
 good learnt a lot
-Best course!!!!!!
 Awesome Course !!
 Great! Thank you!
-Excellence course
 It's so much fun!
 Charles is awsome
 loved the course.
-Esto es genial!!!
 Very Good Lessons
-good examples :-)
 Very clear course
-讲解非常细致，辅助了很多实际案例！
-Nice explanations
 Great Coursework!
 Thanks very much!
 Amazing Course :)
-很棒的入門教材，老師的教學很用心!
 It's a solid cour
 Well thought out.
-Thanks, Dr Chunk!
 easy and friendly
 Prof is amazing!!
 Thanks Dr. Chuck.
 I like thi course
 Chambers is great
-Excellent course.
 Engaging lecturer
 Really enjoyed it
 highly recomended
 For a beginner to
 very recommended
-Great work, sir.
 very knowledgble
 many many thanks
 Great As Always.
@@ -5193,17 +4948,14 @@ Best instructor!
 print("Awesome")
 its very usefull
 It was superb...
-little difficult
 I love dr.Chuck!
 Loved the course
-Wonderful.......
 Overall awesome!
 thanks ,Dr.chuck
 nice assignments
 Brilliant class.
 amazing course .
 Fun and exciting
-excellent!!!!!!!
 it's very useful
 Thanks dr chuck!
 good instruction
@@ -5213,16 +4965,8 @@ Great professor.
 Simply Great !!!
 very impressive.
 I love Dr Chuck
-great materials
-AMAZINNNGGG !!!
 The best Course
-superb learning
-good dr chuck,,
-wew I am happy.
-So far so good!
-excellent !!!!!
-great lectures!
-best course..:)
+It was amazing!
 My man Chuck!!!
 nyc assignments
 effective learn
@@ -5231,12 +4975,9 @@ Just perfect!!!
 Pretty helpful!
 Just Awesome!!!
 Learn't a Lot!.
-Good as always!
-pure perfection
 Short and easy.
 Very good intro
 Dr Chuck rocks!
-useful practice
 Simply perfect!
 Easy To Learn !
 Simply Awesome!
@@ -5245,42 +4986,23 @@ Awesome Teacher
 Thx, Dr. Chuck!
 Simply loved it
 Great lecturer!
-Its quite Good
+Simply Amazing
 Nice Thank you
 Good learning!
-Classic course
-AWESOME course
 Simply awesome
-Hello Sockets!
-Nice course...
 awesome Course
-Love dr. chuck
-A best course.
 Its Awesome!!!
 Good practice.
 Two thumbs up!
 A little hard!
 thanks  chuck！
-很喜欢，非常好，可以提升自我
-很全面，而且很容易理解的课程
-非常好的课程！推荐给所有人！
-great courses!
-Awesome COurse
 Great as usual
-Amazing!!!!!!!
 Awesome Course
-I really like.
-Fantastic!!!!!
-nice...course
 Learned A lot
 awesomecourse
 Learnt a lot!
-exceptional!!
 Cool Course!!
-kool as krabs
-没有中文就没有中文吧。。。
 IlIkeverymuch
-nice lecturer
 great thanks.
 Really Superb
 just the best
@@ -5288,137 +5010,43 @@ Good To leran
 Thank you all
 Great course~
 great course,
-Very good! :)
 so great....
-Too good T_T
 Very Nice !!
-thx Dr-churk
+best teacher
 Thankyou sir
 ULTRA COOOOL
 GreatAwesome
 great python
-Excelente !!
-just love it
 GoodLearning
-Cool course!
-Awesome....!
-非常棒，希望可以坚持下去
 !!!Thanks!!!
 Worth taking
-Sooo nice!!!
-Im lovin' it
-Awesome ....
 Really Great
 owsome ourse
-Wonderful...
-Muito bom!!!
-支持一下Mr.Chuck
-just Awesome
-Maravilhoso
-GOOD.......
-fantastic!!
-amazing !!!
 Geat Tutor!
-Just Superb
-Awesome! :)
-Keep it up!
-Pretty fun!
 Thanks!! :D
 one of best
-super nice!
-Good Stuff!
 lot of fun!
 Love It!!!!
-一门好课程，学到很多。
 Great class
 It's awsome
-GREAT!!!!:)
 well course
 Its great!
 Great one.
-good one !
 best class
 Perfection
-vera level
-Best coure
-thanks yay
-Good work.
 I love is.
-有点难度，要看很多遍
-Very good！
-amazing :)
-exceptiona
 Great !!!!
-Muy buenio
 it is easy
-very good！
 Very Good,
-soo coool!
 curso top
-Good!!!!!
-nice  one
 WORTH IT!
-job done!
-BrIllInat
-是非常好的学习资料
 was great
-hahahahha
-有中文字幕就更好了
-Interest!
-Best one
-Suupeeer
-Vey nice
-GREATT!!
 thanks!!
 Its Good
 Spot on.
-Like it!
-just wow
-Awesome！
-nice jog
-Awesome!
-Super !!
-its fun!
-goooddd
 Thank's
 Go Blue
-ff非常好的课
-nice...
-很好的一门课！
-非常非常棒@！
-todo ok
 Love it
-Greet.
-Bhaari
-GOOODD
-Cheer!
-Love't
-Good..
-naaice
 Great!
-okokok
-great
-GOOOD
 Great
-good>
-good~
-Bueno
-love！
-赞！！！！
-*****
 Clear
-nois
-sexy
-爱死了！
-好的课程
-Nc.
-gg!
-Lik
-!!!
-很厉害
-太棒了
-(Y)
-op
-Ex
-AW
-Y

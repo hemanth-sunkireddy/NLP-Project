@@ -36,9 +36,7 @@ The instructors rushed through the Javascript part. Unlike the previous sections
 I drop at the beginning of  the Javascript, before Javascript, everything is good, after Javascript, "What are they talking about"?
 The faculties are not that energetic. It seems like they are just reading the lines which are kept in front of them.
 Reviewed course material as a quick re-cursor, some segments were informative - the course overall was very basic.
-No  hay forma de entrar al curso y está solo entre inglés no hay facilidad para entrar y muchos anuncios
 No ancillary reading material or text to help along with the assignments lead me to fail the course.
-Método de ensino não é satisfatório, não se começa a ensinar iniciantes com manipulação de imagens.
 Not everything is explained well so very challenging for someone with no prior coding experience.
 Bad structure. Poor quality. I earned no pracitical knowledge after. No recommendation.
 wow. the presentations are really boring! the Java script part is super confusing!
@@ -52,12 +50,8 @@ Professional work is being looked over
 Last week was incredibly difficult.
 This is not for beginners at all.
 This is NOT a beginner course.
-too hard for beginners
 This course sucks.
-Thank you !!!
 Locked tests
-tatti
-v vv
 The first week of this course was great, and then the second week was a huge leap up in terms of expectations for the exercises.  There was not enough instruction to enable the learner to do the exercises, leaving them feeling demotivated. I'm switching back to the course I was doing on Lynda.com instead, which was must more thorough.
 No help in discussion forums at all.
 This course is the first course in the Courser's Java Programming specialization, however, it uses JavaScript to teach high level programming concepts. If you want to learn JavaScript, this course is not for you. If you want to learn Java, this course is not for you. The course mainly solves image manipulation problems with Duke's proprietary JavaScript IDE. All the details are "black boxed" so you can't see what's in the JavaScript functions. I believe this is the wrong way to teach newbies because too much abstraction is never good. Also, as a man, I was personally offended by Professor Susan Rodger saying she wanted to see more women in programming. More woman means less men and that is sexist. As a supporter of equal opportunity, Duke University should take disciplinary action against Professor Rodger. I will not financially support any University that allows it's faculty to express inappropriate personal ideology in a classroom setting. I do not recommend this course, or any course with Professor Susan Rodger.
@@ -101,13 +95,7 @@ More programming basics about Java Script should have been given.
 faculty is not good....the way of delivery is not proper
 There was no response on the query raised on the forum.
 not focusing on the important fundamentals
-i guess more general concepts are needed
 Poor course material explanations.
-Not Relevant sessions.
-too old...
-just fine
-fuck you
-N/A.
 There are some very good concepts and attempts at teaching here but there is a lot for frustration too. I have some experience working on GUI programming not quite the same but I understand that sometimes things just don't work the way you want... in this case though lots of concepts aren't explained or aren't linked together. We are given very specific examples without enough reference. When learning new things you build on the old, you can't just say in the last lesson we learned concept x so here is concept y. Now go figure concept z using concept x and y without any knowledge of z. It would be nice to take a few extra minutes to build from the base up so you know x+y=z. We never got that. The lectures are fairly informative and you do get the chance to learn a lot of new concepts but you aren't given enough to really implement your learning and by the time you figure it out you're usually so frustrated that you don't want to continue. The first week was awesome and I really enjoyed it. My webpage turned out well and it was easy to use but once JavaScript was added in the learning became disjointed. I'm disappointed that I didn't get to see that before I paid for the course because if week 2 was the first week I would not have taken this course. The worst thing though is that I found that the "Try It" options came before we learned the concept! So I would grit and struggle and fail for hours (the time estimates are so far off for this course) and then finally decide to just move on, only to learn the key concept I was missing wasn't taught until the next lesson! That is so unbelievably frustrating as a learner. On top of that, some things just didn't work in the Duke Learn to Code Program for no reason causing me to have to export my code and refresh the page then reenter my code. So I would spend so much time thinking I did something wrong when I didn't. Then when I was working in CodePen on a problem I actually did everything correctly but the files from the Duke website wouldn't come over wasting time trying to fix my code I went to the forums to find that there is a coding error on Duke's side that prevents the image library from working properly. They provided a solution but that solution does not work! I wasn't able to test something I worked on for hours and I was so frustrated. Why wasn't that issue added to the "Try It" instructions? Then I wouldn't have wasted my time. The forums are fairly helpful because the mentors reply and are very good for the most part with their explanations; but not one of my classmates replied which is interesting to me because I saw one post where over 20 people reviewed my code and didn't know why it wasn't working. Most of the posts I saw also showed the frustration I felt with some of these concepts.So, I think if you have some experience with JavaScript and watch the videos in order without stopping each week then go back and do the "Try It" options you will be more successful with this course. I certainly don't recommend for a person without any experience and I would reorder/restructure everything in this course to be better for the learner.
 It was a good experience to learn front end development. But, I feel this course was not at a beginner level. I could understand some concepts only because I had prior knowledge, so there could have been a better clarity on topics. The discussion forum feels dead, I had to debug my code myself which is a good thing for building experience and knowledge, but it just defeats the whole point of having a discussion forum. The reading material could be improved for better readability and understandability. I wanted to complete the specialization very badly as it would enhance my resume, but now I have doubts about it.
 Well, I think I learnt some things about JavaScript, HTML and CSS. However, the course hasn't been focused on programming with JavaScript to solve real problems. All assignments are based on the creation of images from scratch, the modification of these images and hide messages in an original image. I really don't think these types of assignments can help students to learn Web technology. In fact, I know some professional Web programmers that they don't use javascript to manipulate images but in some cases when it is really necessary. I'd change the way of how the assignments are presented to prove the students' skills. For example, a possible assignment could be the implemention of a counter on a Web page using JavaScript or the creation of a web page with buttons, emerging messages, menus etc. On the web (Googling), there are a lot of codes that allow these funcionalities and could be used and modified by other students to create their own Web page.
@@ -139,7 +127,6 @@ I enjoyed week one a lot, but after that you need a fair amount Javascript knowl
 Moderator answer in a very short time. I was impressed of that. I think the course should add a video to explain more in details some concept as variables. many of my issues were coming from deep doubts i had about this. maybe explain variables on hardware and variables as pointers.
 I Found this course to be interesting at the start. As I gradually completed all my videos and exercises from week 1 and moved to week 2, I found some contents being difficult to understand. Now, I don't know if I'm the only one, but some concepts were left not explained in week 2.
 Good overall but the content uses library and other content that make it hard to apply the technologies to the real world, an emphasis on orienting the content to 'from scratch development' would be duly appreciated I think. Nevertheless interesting and well presented over all.
-Muy bueno en cuestión de contenido, realmente aporta una mirada básica pero a la vez compleja de la programación con HTML, JavaScript y CSS. Sería bueno poder arreglar algunos bugs que hay en los quiz y ser más específicos en algunas partes que es necesario para los trabajos.
 The teachers and instructors really should make better videos and stop giving peer edit assignment when people are picky and do not grade your assignment. The instructors should also give their contacts to let their students contact them when the discussion forums don't work
 A good course for an absolute beginner, but skips over quite a few important topics and details. Would rather recommend the course by John Hopkins Uni (Prof. Yaakov is simply amazing) if you would like to learn even more, like about GitHub, bootstrap, dynamic websites, etc.
 student needs to read a lot out of this course in order to solve the exercises!the course materials are not enough, and they focus more on images, while this entire course for beginners level, it should be fundamental stuff. overall the course is good but needs more changes
@@ -165,7 +152,6 @@ This course is very difficult. I recommend only taking it if you have some exper
 The first week was a bit slow, but things picked up a bit after that. If you have programming experience, this course is not very challenging.
 It should be possible to complete the course (in the coursera environment) without paying. I want it to be in the "completed courses" section
 It was a good course and I thing which i would to convey to you people is, can you please give the solution to the mini-project as well.
-J'ai adoré ce cour de spécialisation même s'était un peu difficile pour les codages,et les cours sont compréhensibles je vous remercie.
 HTML and CSS were well explained and clearly cover. However, some of the JavaScript was glossed over and very difficult to follow.
 stated as a beginner course, but you need to have known a lot of coding prior to beginning the course. MUCH research is required.
 Lessons are too compact and some of the videos too long and full of content, so it's hard to process all the information at once.
@@ -189,7 +175,6 @@ Took this as part of a Java specialization but would not have taken it otherwise
 Instructors are so wooden on video. Very monotonous and seems unprofessional.
 sometime i felt it's about the example not the Javacript coding and learning.
 could go more in depth into different functions and ways to use HTML and CSS.
-не многому я научился, без азов программирования тяжко понять те же циклы.
 I have got  a great pleasure in this course.Thanks to all the teachers.
 There are more interesting courses on Coursera on the same topic.
 Materials are great, discussion forums are not properly attended.
@@ -197,7 +182,6 @@ not so deeply and some topics are missing which shoulb be there
 To much javascript, after that it can be hard to focus on java.
 few of the assignment questions where incorrect and unclear
 i am learn lots of thing in this course so i am glad.
-Je n'arrive pas a commencer le cours. Aidez moi svp?
 Cannot participate in graded work unless purchased.
 It is  most important topic for  web developer.
 Can be mprovised in terms of course content
@@ -206,12 +190,9 @@ Can't be completed without payment
 HTML/CSS - easyJS - extremely hard
 lectures should be more detailed!
 its very good for beginners.
-no se puede leer en español
 Hard to understand JS part.
 Should Make courses audit
 Not Detailed course
-work, work, work.
-No so good
 It's ok...
 Before I get to the good part, please take note of this.Caution: Do not take this course if your sole purpose is to learn HTML, CSS, JS. There are much better and comprehensive courses available to do that. This can be a good course if you plan to pursue the specialization. It introduces you to computational thinking and the skills you learn are transferable. The mini-projects are fun to do and you have lot's of ways to tread the road less taken. (Go wild! Even with limited knowledge of JS you can still explore a lot. The scope is endless)The learning curve is steep if you only consider HTML and CS. At a lot of times, you will be on your own to discover more HTML elements and CSS features. Make sure you make good use of the DLTP platform. Their coding interface is extremely beginner-friendly and allows you the freedom to experiment. Overall a very good course for anyone looking to get started with programming (NOT HTML/CSS/JS)
 This course is a gentle, beginner-friendly intro to the basics of programming, via Javascript, HTML, and CSS. A few thoughts: (1) While the course focuses on "web" programming, there isn't really much focus on principles of good web page design or anything. The web page assignments are mostly just used as ways for beginners to create "real" web pages. (2) I think there's a good mix between the videos (which are short), the quizzes (not too long, and with plenty of chances to get them right), and the programming assignments (which are frequent and short, with clearly defined parameters). I spend the vast majority of this class actually writing programs (which is good!). (3) I think there might have been some room to (selectively) introduce more "advanced" elements from HTML, CSS, and Javascript. (I'm thinking here of optional readings or something).
@@ -432,7 +413,6 @@ This course is helpful for both amateur and senior programmers. I recommend it.
 This course is good for beginners. I learned many basic concept in this course.
 Very informative and efficient course to learn the basics of JS, HTML, and CSS.
 It is very good course for those don't know knowledge for JavaScript, and HTML.
-Очень понравились практические задания, особенно доп. задания по стеганографии.
 A fantastic course informative and challenging.Thank you for this opportunity.
 A good free course offered only at coursera. I am happy to opt this course.
 very helpful this course for me.And this course provided a Duke University.
@@ -486,7 +466,6 @@ Great Course... Challenging for the grey cells :)
 I was able to catch up basic knowledge with fun.
 good teacher, very nice video and practical task
 I have written a review when I gave my feedback.
-amazing .....i like learning in duke univercity
 Basics of javaScript are not clearly explained.
 One of the best courses that I have done online
 This course is really very good for beginners.
@@ -501,7 +480,6 @@ Very helpful and interesting! Thank you :)
 Good teaching and Interesting assignments
 good course It helped me a lot.Thank you.
 A good course for first-time programmers.
-课程循序渐进，老师很注重逻辑分析的方法（例如七部分析法），不足的是，内容简单了点。
 I can create web page using html and css
 good. It's easy to the newer programmer.
 a very useful and well structured course
@@ -514,7 +492,6 @@ This is good course for the begineers.
 Teaching from the scratch, very useful
 too easy for a computer related major
 It is very informative for beginners.
-Awesome experience, nice mini project
 Steganography Wasn't upto the mark..!
 it was a informative course.THANKYOU
 It could have been more interactive.
@@ -531,25 +508,19 @@ Pretty useful entry-level course!
 good course , loved learning it.
 Got good Knowledge on HTML, CSS.
 Awesome explanation with example
-quite hard for beginner in java
 very nice and easy way to learn
-Doubts asking should get easier
 Was fun completing this course.
 Blur filter not explained well
 Good examples. Well explained.
 Precise teaching. Informative.
 Great for the new programmers
-C'était excellent comme cours
 Every must take this course.
 Great course, very edifying.
 Great course for beginners,
 Found it to be challenging.
-Looking forward for week 2!
 Adequate and much reliable
 I experienced many things.
-Very skillful and Helpful
 Nice and enriching course
-great help for beginners
 Good introduction to JS!
 Nice introducing course.
 The course is very good
@@ -560,25 +531,18 @@ very useful and amazing
 Great Honors content.
 more help in examples
 it was helpful enough
-Make it more in-depth
 Good paced exercises.
 very good experiance
 Very Informative !!!
-fantastic experience
 Awesome experience>
 it's a good course
 good for begineer
 nice to learn you
 like this course
-Awesome courses.
 Good Teaching...
 good. very easy
-good thank you
 Great!! so far
-i like it alot
-for beginners
 Great info!
-NiceCoures
 Very insightful and helped me learn about the basics of computer science. Now I'm able to better understand the jargon of computer science and can discuss with others or even review codes. Thank you!
 My first Coursera course I've ever done and I was very impressed with the platform on which it was presented. My experience was a positive one and I will definitely continue to pursue other courses.
 This is the first course I am taking in Coursera.org. The valuable instructors of Duke University designed and created a masterpiece for learners. Thank you so much guys. Greets from Istanbul, Turkey.
@@ -591,14 +555,12 @@ Instructions are great. Each word spoken is important. Listen well, listen again
 Really a good course for beginners!  You can construct a clear background knowledge about programming, learn to logically think about programming, and practice JavaScript, HTML, and CSS step by step.
 An excellent course that is so easy to follow and comprehend. It has everything that a beginner needs. Wonderful teachers and very good content. I really enjoyed this course. Thank you so much!
 Some examples of similar projects to our assignments available always would help. There were several times where I was stuck on something that no one had gotten stuck on in a couple weeks
-GREAT EXPERIENCE,GREAT STARTY TOWARDS FUN WITH PROGRAMMING AND PLAYING WITH JAVASCRIPT TO MODIFY IMAGES
 Good Class, Enjoying it
 Before I started this course I knew virtually nothing about JS and a bit about HTML and CSS. My short-term goal was to grasp the basics of front end programming because I'm working as a business developer for a software house so I can communicate more effectively with my fellow developers, and a medium-term intent to create my own website from scratch. The lecture pace was perfectly tailored for my routine, half an hour a day from Monday to Friday before sleeping and an hour and a half during the weekend. Professors are well-skilled and they've presented content in a clear and easily understood manner, even though some of them are not that comfortable with the camera and lack some "acting" skills, but you don't expect that all computer engineers are Steve Jobs of public speaking.    Programming tools, learning materials, and course UI are more practical than attractive but everything is just a click away and I've never felt that something was redundant or unclear, so good job Blue Devils, thank you for making easier my first step into the world where everything is a number (even colors) and building blocks of functional and responsive websites are variables, methods, functions, algorithms, attributes, classes, divisions, canvases, event handlers, pixel coordinates, etc.Oh, yes, one of my biggest takeaways, and something I'll definitely use when explaining the importance and the price behind the analysis and design aspects of our services: work the MF'ing example by hand so you know what you need to do once you start writing code, then start asap with debugging until everything is just as you want it to be ;) Cheers,SO
 I have tried multiple times to learn javascript and have always failed. This class bridged the gap for me and made it easy to learn.  Great job Duke & Coursera!
 I really enjoyed the class! However, after looking through responses that some students received from mentors, I had the impression that some of the mentors behaved contrary to what their title suggestions. Mentors are there to guide students in their learning, however some of the condescending  responses mentors were giving some students were discouraging of learning.  Again, not all mentors did this, but I think it's worth going through all of the responses students receive and providing facilitation training for  mentors  so that they have appropriate responses, criticism that is constructive rather than destructive, for students who may be struggling with their code or the content.
 A very good course that teaches many interesting and surprising things. I admit I was unaware of this material. Completely unaware. Creating beautiful webpages (HTML, CSS), creating and modifying images with JavaScript, encrypting and decrypting  images in other images !!! Ooooh !!! What an unexpected joy !!! I did not know someone can do such things all by himself.  I'm really happy  to have gone through this course. One thing. It takes time. I think that the time required that is given in the information about the course is unreal. Anyway I wholeheartedly suggest this course to anyone interested in science, computers, and  is energetic enough to absorb this amazing stuff.
 The course provides complete information and guidance for a beginner in Web designing. Me being  unfamiliar with programming before starting here, our mentors and teachers provided study material in such a manner helped me (a fresh comer) learn HTML, CSS and JS quickly and pretty well.  In a month, you really do learn a lot. You require a good amount of self-discipline and dedication for learning any new subject, specially if you're juggling it with a job or being a university student. But the quality of lecture videos, the material provided for extra learning and the weekly amount of work is perfect for coaching you in Web Designing. Good Luck !!!
-Na primeira semana do curso, eu pensei em desistir pois achei que o curso era muito simples. Eu não desisti porque não gosto de coisas inacabadas. Fico feliz por não ter desistido.  A partir da segunda semana, eu me encantei com o curso e o tanto que ele trouxe de novidades para mim. Este é o melhor curso que já fiz. Este curso me manteve totalmente focada, dedicada a aprender o máximo possível. Tenho mais de 50 páginas de anotações relevantes que servirão de apoio para meus próximos trabalhos. Parabéns aos professores pela dedicação e entusiasmo. Espero revê-los em breve!Muito obrigada por tudo!Happy coding!
 Excellent course .Just felt that there should be examples that could help someone to understand in a more better way.The videos were good and were very simple and easy to understand then the text.
 I really enjoyed this course. I now feel comfortable programming in JavaScript, HTML5 and CSS3. I like most of the lectures, and the assignments progressed from simple to more interesting and interactive web pages. I liked the 7 Step Approach to solving Programming Problems. Some of my favorite exercises involved Digitally creating a filter to Grayscale Images, using a Green Screen Algorithm to alter an image's background, and creating digital filters to apply to photos - all on interactive web pages that you create in the course! I find that I want to learn more about Front End Web Development! I was glad that you could take a Quiz over again, and they keep your highest grade! I liked the optional assignments, in case you wanted extra credit, or wanted more practice.  The lectures actual introduce object oriented programming concepts, without all the terminology, which I believe makes the course easier for beginners.
 Great course! I was almost a beginner, I have had some experience with HTML and CSS before. This course introduced me in an entertaining way to programming and I am very excited about starting with JAVA. I really liked the short videos that cover the most important things for the practice. I also liked the tasks, they were short and fun. Some things were tricky and challenging for me, but this is what I like, since it helps me to understand things by going into detail. However, I had somebody around to help me when I was stuck and didn't rely on the forum.It's great for me as a woman to see a female instructor (All instructors did a great job!). I am almost 40 and was shy to start programming. This course showed me that it is possible to learn programming and that it is fun. Can't wait to continue the specialisation!
@@ -632,7 +594,6 @@ As the title of this course states, it is about web and programming for beginner
 The Contents in the course are very well organised.Teaching methodology is very unique, as its focuses more on the application of the knowledge learnt.I am sure, the people who have finished this course will find a difference in them.Also, this course induces the spirit of programming in the learners and also explains complex image processing techniques in a very simple manner.Thanks to all the professors and the mentors, for organizing such a fantastic course.
 Very helpful if you have no previous experience whatsoever (and even if you do, very helpful to refresh or fill in some of the basic stuff that is rusty or missing).The reason why is that it really goes from fundamentals, slowly but surely building up, using not only theory but a lot of practical tasks too, the tasks that are structured and well thought-of, propelling the student to develop a deeper understanding of the concepts.Thank you and well done.
 In just first week of this course, I was able to build my first ever website page containing my interests by simply spending 2 hours per day for 3 days.I was real surprise to see that how a slow learner with a busy schedule like me can learn a new useful skill very easily . This course is designed with high level of academic professionalism. I would love to recommend other fellows to try out this course if they want to learn about web development.
-Хороший курс для начинающих,у которых уже имеются хотя бы минимальные знания) Жаль,что на многих видео нет перевода на русский,но меня это не испугало,хотя для некоторых может стать это решающим фактором. Задания не скучные,в видео все показывается подробно и не понять просто невозможно. Единственное,еще раз повторюсь, курс на английском и перевода текстов,которые есть - нет,поэтому могут возникать трудности,если вы не владеете этим языком.
 I am very much thankful to coursera and Duke University for giving me an opportunity to learn this course. After completing this course, I am confident that I can use javascript to create web pages interactively. This course is really helpful for those who are beginning to script. One can learn a lot of basics following the tryit exercises given. I recommend this course to beginners. Thankyou once again to coursera team and Duke University.
 Thanks for teachingIn this course I have learned What are the HTML, CSS and JAVA SCRIPT? How to write in CODEPEN? How to make a web page? What is the Green Screen and so onThis course is very well for who doesn‘t know Programming. I interested in programming and I want to be programmer. I don‘t have a experience about programming and I don‘t grasp what are the programming, JAVA SCRIPT, HTML, CSS however I have comprehend all of these
 Easy, thorough, but challenging. Discussion pages have so much insight accumulated from years of student suffering. Programming is hard, especially when you wrap things up and you find out you have a bug somewhere. You look over it a thousand times and don't find anything, only to search it up in the discussions to find that someone else had a similar issue and a solution for your problem as well. Worthwhile learning experience!
@@ -754,7 +715,6 @@ Almost perfect introductory course , great instructors and videos were very info
 This is an extensive course in beginning programming that covers everything from CSS and JavaScript to creating images from scratch and steganography.  You will learn alot of useful and interesting programming techniques.
 The course clears the basics of web development. It works on the Graphics problems rather then competitive coding,therefore suitable for beginners. Good to clear off the basics.Also from the community we can learn a lot.
 Video Lectures are really great and easy to understand with hands on programming tasks. Very interesting and informative. Learnt a lot within 4 weeks time. Definitely recommend for anyone interested in creating websites.
-Buscaba un curso para refrescar mis conocimientos de programacion, sin tener que volver a los libros y lenguajes de cuando comence. Me ha ayudado muchisimoperdon por la ortografia, el cuadro de texto no deja usar tildes
 This course is very well-structured and is foundation course towards learning programming. The instructors are an expert and are very engaged. I recommend this course to everyone who wants to start learning programming.
 Great course! The assignments had been designed to help the student practice and learn what was taught on the presentations. I was able to keep up with the course and am very satisfied by what I have learned. Thank you!
 This course is detailed designed so that students with little programming experience can approach HTML and CSS with ease. Thoughtful instructions were given so that learners can understand relationship of 3 components.
@@ -778,7 +738,6 @@ This is a very good course for beginners who want to start with HTML, CSS, and J
 This is a great introduction to programming user interfaces. The practice exercises are extremely well designed and thought out. Each one builds on the previous so that your progress makes logical sense.
 A course suitable for all entry level coders those who want to learn javascript. The instructors are nice,knowledgeable,the Try It! exercises are very much helpful in understanding the topic more deeply.
 Actually Iam new to html,css and java script but this course taught stpe by step. They always gave the freedom to do anything and make mistakes and learn from them. Highly recommend the course. Thankyou
-Excellent cours merci beaucoup pour ces efforts considérables. Ce cours m'a permis d'apprendre des nouveaux concepts et les appliquer plus aisément grâce à la façon élégante et efficiente d'explication.
 As a foundation level this course is very good.Practice will help you gain some confidence .The way this course is organized is very good.Even non-computer science student can try with some more effort.
 I was very interested in that course. I`m very grateful for coursera and very thankful for financial AIDThanks allot DUKE university for the certificate, I was very lucky that I got a chance for study,
 this course is good for you if you are beginners in programming . in this course i learn basics of html CSS and JavaScript. this course is very helpful for me in starting with basics of programming.
@@ -852,10 +811,8 @@ Great！ Relatively intense but really beginner-friendly! You can make it in 2-3
 There is a lot of information but the try it! exercises are great to obtain a better understanding and clarifying questions in order to obtain the knowledge expected.
 Thank you Coursera and Duke University for giving me this opportunity of learn more about programming, I'm very happy with this course and the chance you gave to me.
 The professors are erudite and give amazing lecture. They explain the hard subject in an easy-to-understand way.Besides, they cover more knowledge in a limited time.
-Gracias por brindarnos este conocimiento, aprendí demasiadas cosas que antes no tenía idea de como desarrollarlas, es un curso muy bueno para iniciar con las bases!
 It's great course for those who starts his first steps to code in HTML, JavaScript and CSS. The Course gives knowledge of background of these programming languages.
 Actually this course was very well organised l and it is very interesting to learn.Thank you very much coursera for offer me a financial aid to complete this course
-Преподаватели отличные. Хорошо и доходчиво объясняют материал.Есть что посмотреть и почитать. Правда субтитры только на английском, так что без знания языка никуда.
 This course is very useful to all learning students.before I am fear about to write the program and now i am very and to interested to write the program .Thank you
 The course was quite interesting and made me to gain the knowledge in designing website .All the topics were explained in an interactive manner by the instructors.
 It was a great and informative journey with the Duke Professors. Got to learn the technical aspects of the programming with quite interesting  approach.Thank you.
@@ -894,9 +851,7 @@ A great platform to learn and acquire knowledge and skill upto an extent .I as a
 One of the best courses I ever came across in Coursera. The teaching methodology is great with short videos followed by material and ample exercises.
 This course made me believe that I can make web applications, starting from basic to advanced and as the time passed. It showed me that, I can do it
 The sequencing of the elements and the pace are delightfully challenging but in no way overwhelming. This is a world class level offering. Loved it!
-Simple, didáctico y da un buen soporte respecto del manejo de tiempos. Los videos son fáciles de comprender y las tareas son acordes a lo enseñado.
 Great introduction to HTML, CSS, and JavaScript! Super easy to follow and the assignments are great review materials of what's learned previously.
-Muy buen curso para comenzar a diseñar paginas web. Al final del curso uno aprende a combinar HTML, CSS y JavaScript para producir una pagina web.
 Cool class, I learned a lot of knowledge about JS, Css and Html and also experienced a lot of fun in coding those interesting tasks. Thanks a lot.
 Enjoyed the course got a bit idea of what javascript is when used in websites or event handling. Interactive and greenScreen Pages were Fabulous.
 keep supporting students across the globe by providing quality content of different revolutionary courses by experts of prestigious universities.
@@ -969,13 +924,10 @@ Awesome experience while going through the flow of the course. Brushed up my con
 Fantastic teaching and nice guide for students . Thank you for give this opportunity.I have learnt my things from this course.
 Great teachers! Great videos! Great challenging exercises! I enjoyed learning from these experienced professionals. Thank you!
 Concepts were introduced in chunks that are easily digestible, and the examples touched on all aspects of the taught concepts.
-这门课程非常适合那些对网页制作感兴趣的初学者。课程内容以图片背景替换程序为线索，从而将HTML，CSS与JS进行结合授课。课程内容层次分明，强调动手编程能力，作业的难度安排得也很科学，有难有易。同时老师上课风格诙谐，不会枯燥，我感觉学完之后，收获不少。
 This is an excellent course to learn the fundamentals of HTML, CSS and Javascript. It will also introduce you to programming.
 Fantastic course for a beginner. Will make scratch your head for sure. But at the end it's pure joy. Do it. You will love it.
 started super basic and dialog came across as a bit corny but after the first week it instructional style started to kick in.
 This was the best course I've ever attended. The instructions were clear and the professors were really good! Thank you all!
-Fue muy instructivo el curso, y Gracias a los educadores por todo el conocimiento, seguiré estudiando mas, MUCHAS GRACIAS..,
-Un curso bastante divertido y fácil de entender y aprender si no sabes nada de programación con HTML o CSS o de Java Script
 Made with love. I'm seeing past the few bloopers and the good, good people frantically reading from a teleprompter :D :D :D
 Really loved the First week and beggining of second one. Then got a little disappointed, didn't really see the usage of it.
 engaging lectures and appropriate difficulty of tasks that allows some self learning by the student by researching online.
@@ -1020,7 +972,6 @@ This course is really easy and of course pretty much becomes easier while I take
 Very nice course. Not that boring as other intro courses. Image editing and stego part was awesome. Thanks a lot!
 I have learnt a lot in this course. Also it is great that the methodology and algorithm are taught systematically
 the instructor were able to convey their meaning in the most simple way possible and I'm truly thankful for that
-Me encantan los temas que explican durante el desarrollo del curso y por medio de los videos se comprende mucho.
 The course was awesome i learned a lot of things which would definitely help me to reach my career goals easily.
 This course helped me to get basics into my head pretty well.Thanks to Duke University Professors and Coursera !
 I wish you can introduce back-end development as a new module for week 5.For example, languages like C#, PHP, ..
@@ -1198,7 +1149,6 @@ challenging, passed however will retake lesson 1, I wanted it embedded in my sou
 best opportunity  initial learning of all student who those financial week student
 Great course. You can pick up the content fast enough and have fun while doing it.
 I learned a lot in this course and it does not take much installation of software.
-Sehr umfangreich im positiven Sinne natürlich! und man lernt dadurch  viel Neues!
 Great intro for beginners like me, that helps me a lot with front-end development
 Awesome course to start learning web development and fundamentals of programming.
 Great course and great professors. Very interesting knowledge base to learn from.
@@ -1234,8 +1184,6 @@ This course is very interactive. Also, all the instructors are very skillful.
 Very nice course, well explained, good examples.Overall I was very satisfied!
 Excellent class. Learned a lot but WAY more time required than what they say.
 Fantastic course.. Very well put subjects and classes. Loved the assignments.
-Great course for a novice like me.......... Thaaaaaaaaaaaaaaank youuuuuuuuuu!
-Curso muito bom, ótima didática dos professores, ótimo conteúdo. Parabéns!!!
 One of the best courses of programming with very good examples and exercises
 This course introduced me very well into some basic programming skills... :)
 Really fun and easy to follow. Feel like it teaches you quickly how to code.
@@ -1335,7 +1283,6 @@ It was amazing and the teachers were really highly intellectual.
 Very useful for who wanna do something new in the digital world.
 I have learned so much knowledge about css,html and  java coding
 An excellent course to take if you are a beginner in this matter
-Excelente información para la manipulación de imágenes en la web
 Really this fundamental modules give big idea about programming.
 This is an excellent course with everything explained in detail.
 The course was challenging an fun, the best part is at the End!
@@ -1343,7 +1290,6 @@ It's really helpful for the beginner who never learn it before.
 thing this is a very useful i've ever learned in my qurantine .
 I enjoyed lot with this course..and learnt more from it too....
 Teachers are very nice and feels comfortable working with them.
-Excelente curso, muy dinamico y entretenido. Muy buen contenido
 A very enjoyable course with fun projects and great professors.
 process gradually towards success! course materials is perfect.
 This was a fun class. good lectures and nice exercises. Thanks!
@@ -1367,7 +1313,6 @@ this is the very good course for your clear basic fundamental
 This course is very good for quick start in web development.
 Total beginner. Easy to follow and I understood the content.
 taught me all the basic front end developer skills i needed.
-excelente información y buenas actividades de reforzamiento.
 Its soooo good everything is taught in very friendly manner.
 Clear Explanation and provides a platform to dive in detail.
 A great course whether you're a beginners and experts alike!
@@ -1384,7 +1329,6 @@ Great course to get started with HTML, CSS and Javascript.
 I like this Course it easy to learn HTML,CSS & Javascript
 The presentations were clear and very easy to understand.
 Great class.  I liked the self-paced aspect of the class.
-Super informative, excellent video lessons and resources.
 Really well built especially the web based  image filter.
 Best practical course fit for introduction to programming
 A very good starting course for understanding javaScript.
@@ -1433,7 +1377,6 @@ I think, it's very good course to start programming.
 It was good learning with you guys and enjoyed a lot
 It's amazing course to starting with web programming
 Very useful, interactive and clear, I learned a lot!
-Понятный и доходчивый матриал.  идеально для старта.
 Great course. I've learn more about HTML, CSS and JS
 it is very good specially the algorithms that viewed
 Extraordinary -- guiding you through it all the way,
@@ -1461,7 +1404,6 @@ It was an amazing experience. I'm glad I took it.
 this guys are awesome while assignments are tough
 easy and a very good course to check ur knowledge
 A great course to start your programming journey.
-I am just beginner it is very useful for beginner
 The course was awesome. Please everybody try this
 This was an excellent course to learn programing,
 Great course! Had a wonderful time with you guys!
@@ -1481,7 +1423,6 @@ Perfectly clear Explanations ! Thank you so much
 very helpful course specially for it learners ..
 Good content and learned all the basic concepts.
 Easily understood Step by Step learning process.
-Very good till week 3. let see what happens next
 nice course to get the basics of html css and js
 Outstanding experience!! Will surely recommend!!
 Outstanding introduction to a number of concepts
@@ -1492,7 +1433,6 @@ A perfect place for beginners in web programming
 Excellent course! Way of teaching is very good!
 a really nice course with amazing mini projects
 This is awesome basic course about programming.
-Very well designed for beginners in programming
 It's knowledgeable course. learning new things
 It is good course. Nice experience we have got
 This is course is very useful for a beginneer.
@@ -1516,7 +1456,6 @@ Simply Awesome, loved the course structure :)
 Very Helpful and Inviting I feel so grateful.
 Great Course, great start at learning coding.
 I couldn't believe that I created a web-site.
-课程很不错，老师讲得很好，就是没有中文字幕，一边听一边查英语，挺费时间的，有中文字幕就好了
 A great Experience! the teachers were great!
 GOOD,INTRESTING TO LEARN AND WORK OUT ......
 Good course and explained in detailed manner
@@ -1538,10 +1477,8 @@ Very informative and helpful for developers
 Thank you very much, This is a Great Course
 Really awesome and intensive! Thanks a lot!
 Easy to understand and friendly to freshman
-Well presented for a entry level programmer
 A very interesting and perspicacious course
 great course except the charging assignment
-Realmente disfruté el curso, se les quiere
 Great! I get about  javascript / CSS /html
 It is very goodWe expect more such courses
 Excellent course with an excellent content
@@ -1564,14 +1501,11 @@ learned a lot. just want to say thank you
 Very good presentation of subject matter.
 Nice Course Learned lot from the Course..
 please teach more about javascript basics
-Esta genial el curso, saludos desde Perú
 this was awesomely taught and understood
 Great course to start for java learning.
 Very well collaborated and interesting !
 Effective way of Learning of programming
-best course for HTML , CSS & javascript.
 Did great , this course helped me a lot!
-شكرا جزيلا لأولئك الذين ينفذون هذا العمل
 great course help learning a lot of java
 The course is very good and informative.
 Awesome course, thanks for providing it.
@@ -1585,14 +1519,12 @@ A Great Course!!!Thanks so much guys :)
 Perfect, Sophisticated, good structure!
 very useful for web developer beginner.
 interesting teacher and useful sources!
-nice courseDevelops fundamentals nicely
 It is grate! thanks a lot for teaching
 best course ever .very much motivating
 this course is just great!!!i loved it
 good course for beginers in this field
 it is very good and informative course
 tHE BEST COURSE I HAVE LEARNED SO MUCH
-Um curso excepcional do começo ao fim.
 Great introduction to web programming.
 Easy to understand and Quality course.
 Very good course to learn fundamentals
@@ -1601,7 +1533,6 @@ Thank you for such a brilliant course!
 Great intro course to web development.
 Very good course to learn some basics
 One of the best course for beginners.
-Nice course and excellent instructors
 For the beginners, it is really good.
 excellent content and way of teaching
 excellent  job thank you very much <3
@@ -1670,11 +1601,8 @@ NIce course with great lectures.
 Thank you for excellent content!
 i didn't get the certificate yet
 well done,very clear and useful.
-Excellent material for beginners
 I learn so much! I am thrilled!!
-excellent course. I lovrd it ;)
 IT WAS REALLY A AWESOME SESSION
-Very interesting and enjoyable.
 Excellent Course for beginers.
 Best course for the beginners.
 The over all was very good....
@@ -1684,10 +1612,8 @@ Fun and interesting. thanks :)
 This is great course thank you
 very nice course for beginners
 nice beginning course!helpful~
-excellent Course for beginners
 This course is amazing for me
 easy to access to programming
-teaching skills are excellent
 very good intro level course.
 I really enjoyed the course!!
 good intro for the JavaScript
@@ -1698,7 +1624,6 @@ Great course for first-timers
 Awesome programming exercises
 a good  course for beginning.
 Good content and instructors
-Best course.100% recommended
 good quality course in india
 Great Course for Beginners:)
 very helpful and interesting
@@ -1714,7 +1639,6 @@ Very usedful for this course
 I really enjoyed the course!
 This course was quite good.
 nice expeience thank you ..
-very helpfull for beginners
 very helpful, saved my day.
 Happy to learn a new skill.
 very helfull to the learner
@@ -1725,7 +1649,7 @@ i love to learn this course
 Very Good and useful course
 Really enjoyed this course!
 Love all the tutors in this
-Impresionante, mucha ayuda
+Very useful for beginners.
 It was great. Thank you!!!
 Excellent way of teaching!
 this course is fashionable
@@ -1733,7 +1657,6 @@ really nice and understood
 it's very good and helpful
 great course learned a lot
 thanks alot for this cours
-非常棒！作为入门课程真的很有趣！感谢Coursera
 NICE COURSE FOR BEGINNERS
 Good and very interesting
 great team great teachers
@@ -1753,14 +1676,10 @@ great way of learning!!!
 Very good and helpful 🙏
 good course lot to learn
 Awesome Video.Thank you.
-Muy buen curso, práctico
 Best way to begin coding
 Great Experience for me!
 Its an Awesome Course!!!
 so nice a class as it is
-It´s a excelent program
-Excellent course design
-le cours est Magnifique
 Have a great experience
 This course is so good.
 Very useful for my work
@@ -1768,10 +1687,8 @@ I really learned a  lot
 Great Learning Resource
 Clear and entertaining.
 Great course thank you!
-Very interesting indeed
 I absolutely loved it!!
 easy and understandible
-perfect  for beginners
 Had a great experience
 it was extremely super
 wonderful explanations
@@ -1781,114 +1698,59 @@ it was amazing thank u
 Perfect to start with.
 Did a bit, its alright
 great beginners course
-Excellent online class
 Good for the beginners
-Awesomeeee experience
 Best teachers thank u
 very great course !!!
 Coursera is the Best!
 Absolutely Wonderful!
 loved this course!!!!
 great! easy to learn!
-very good, I like it!
 Great course. Thanks
-👍👍👍👍👍😊😊😊😊😊
 great and enjoyed it
-Best startup course.
 GREAT COURSE CONTENT
 teaching is dam good
 just love the course
+Great for beginners.
 Interesting content!
 It is helpful for me
 Awesome explanation
 Learn lot of things
 Absolutely Perfect.
-very helpful for me
 high quality course
 its the best course
 very nice teaching
 EASY TO UNDERSTAND
-Nice content Cover
-VERY GOOD COURSE .
 Excellent Teaching
 so good and simple
-nice course it is
 very good to know
 Very Interesting.
-Was a fun course.
-Good job, Thanks!
 its great.......
-nice experience!
 subject was good
-just mindblowing
-Nice session 👌.
 Awesome! Thanks!
-Quite enjoyable.
-Facil y completo
 Nice explanation
 fantastic class!
-I love it so far
 I AM LOVING THIS
-Good for starter
-nice presenation
-exelent lessons!
 Great professors
-Decent Course!!!
-Good, excellent
 Simply superb:)
 Great learning.
 Thanks for this
 Very Helpful...
-great structure
-excellent ! ! !
-Very GoodThanks
-nice nice nice
-Nice Course :)
 Learned A lot!
-très bon cours
-Great Overview
 very use full
-useful for me
 Knowledgeable
-VEry good....
 Well guided !
-Best tutorial
 Amazing Work!
-A nice course
-Thank you! :)
-awesome stuff
 Thanks Alot.
 its too good
 that amazing
-Nice program
-es muy boino
-genial curso
 It's Great !
 Learn!!!!!!!
 Good Course!
 Great course
 Great Topic
-Outstanding
 I Loved it.
-explorative
-Awesome  :)
 thanks you
-第一个英文课程学完啦
-Fun class!
-ME ENCANTÓ
+Good stuff
 very ease
-I'm Happy
-undrstand
-GOOD ONE!
-Too GOOD.
-Aiiitteee
 beificial
-gooood :)
-niceeeee
-amazing.
-yaayyaya
-nohtejh
 thank s
-Рахмат
-很好很实用
-好课

@@ -55,8 +55,6 @@ Getting certified made me a bit confident. Thank you!
 Pros: Tutorials and redcap training copyCons: Slow
 Interesting and very clear explainations!
 Very helpful and interesting course...
-Extremely helpful :)
-Beneficial course.
 The course is a great introduction to data management in health care research and clinical trials. The access to a user-friendly automated tool (REDCAP) for class exercises adds a great deal to the learning one can achieve in the course.  The course is geared more towards university-led health research than sponsor-funded clinical trials, and therefore doesn't cover some DM topics critical to clinical trials intended to support drug/device registration application, such as management of database cleaning, locking, and (possibly) unlocking.  But overall, the information presented is suitable for anyone interested in learning more about DM in the health field, and I would highly recommend this course.  There's even a segment on "mobile health" -- the use of smart phones and/or tablet devices to reach patients with limited access to medical facilities. It wasn't at all what I expected from this class, but I'm very glad to have learned about this group of exciting initiatives to improve healthcare in underserved populations.
 I feel I learned a lot in this course coming from a research scientist perspective trying to switch careers.  I had some informal training at the pharmaceutical company in clinical data management, but this went over nitty gritty of the process and area of data management.  Although it did not use the typical Oracle Clinical or related software, it did introduce us to REDcap.  Just be aware that this is not a course that will teach you the job of a clinical data manager and show you how to use all the software, it is a course that introduces you to the topic of data management and REDcap.  I still highly recommend it.
 This is a great introductory course to data management for clinical research. It is very well structured and the lectures (and lecturers) are all very clear and easy to follow. Step by step, you are guided through the main principals of data management in the field of clinical research. This is my first course through Coursera, and I'm very excited to check what other courses they offer (-:
@@ -127,7 +125,6 @@ This Data management for Clinical research course is really an eye-opener for me
 i understood how REDCap sowtare works and the requirements while creating a case report format. The good practise during data management during clinical reserach is well explained. I like to do related course which helps me to get more experience in this field.
 Very good course. I enjoyed Paul classes specially and it was very informative. If I may add my opinion there was a bit overlap at the end of the course, there where two classes that were very similar talking about clinical research in developing countries.
 The course is well designed and very helpful for people trying to get themselves into the clinical research. It teaches some fundamental knowledge of clinical study as well as practical skills such as the utilization of EDC. Highly recommended!
-Un curso excelente con mucha información relevante, distintos instructores y una cuidadosa selección de material y lecturas sugeridas. Realmente lo recomiendo para cualquier persona interesada en la gestión de datos de investigaciones clínicas.
 This is a great course that provides important advice on clinical data capturing as well as hands on experience in designing forms or surveys using the data capturing system REDCap.  I am ready to use what I learned from this course on my job!
 Fantastic course with in-depth information. It needs enough thorough reading. Very good assignments with REDCap! Instructors are very clear and engaging. I liked them all. mHealth could have been updated to latest by the same person. Cheers!
 Learned basic technologies to build survey or test cases
@@ -149,7 +146,6 @@ It was a very good course, with easily understandable material. The presenters m
 This e-learning course was excellent. I was able to familiar with RED Cap. It was a good opportunities to develop my career as Data Manager.
 This course is an excellent one and I will recommend it to anyone who want to gain knowledge about clinical research data management.
 Absolutely great course! I learned so many helpful things and I'm looking forward to using Redcap again. Thanks for your commitment!
-Prático e elucidativo. Faz uma boa introdução sobre boas práticas para coleta de dados e introduz REDCap para manejo desses dados.
 I learn so much from this course. The instructors are very knowledgeable and make it easy for learners to understand. Thank you!
 I learned a lot from this course! The quality of the material is rich and the experience of completing the course is fulfilling.
 I went into this class thinking it was going to be dry, but it turns out to have been one of the best classes I have ever taken.
@@ -223,7 +219,6 @@ excellent overview of clinical data management
 excellent platform to learn and develop skill
 i did not like the peer-reviewed assignments
 exceptional for putting this into practice!
-Excelentes instrutores, excelente conteúdo!
 it was so helpful and i have learned a lot
 Brilliant course. Content was really good
 Instructors are great, loved the course!
@@ -231,7 +226,6 @@ Excellent! Impressive content. Thank you
 Just informative and wonderful lectures
 Excellent course! Highly recommend it.
 Great learning. Well organized course.
-Excellent overview to data management.
 Really engaging and education course!
 Very good course with very nice staff
 Excellent course! Highly recommended.
@@ -243,7 +237,6 @@ Very useful and pretty detail.
 Very good course. Learned alot
 great exparince , thank you..
 very learner friendly course
-Excellent course! Thank you!
 This is the best course ever
 Great Course for beginners!
 Good entry-level practice.
@@ -251,13 +244,9 @@ Great Great Great Course!
 it was very good session
 Great Course. Love it!
 Great course! Thanks.
-Quite illuminating.
 Excellent learning.
 Great thanks a lot
 Good Course Work.
-best course ever
 Too interesting
-Very usufel
-Execlent
 No need
 Con

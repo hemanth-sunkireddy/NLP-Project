@@ -14,7 +14,6 @@ Lecturer extremely slow, wasting lots of time just typing lorum ipsum text. Poor
 I really did not like having to take time to review other people's work.  I did not sign up to grade work, I want to spend my time doing problems.The forums are basically worthless.  They are just full of people asking for their assignments to be reviewed so REAL questions get drowned in the noise. Very disappointing so far. One of the worst I have experiences on coursera I have had.
 Assignment review process is slow, specifically for bootstrap course as it require 5 reviews required for clearance.
 Was good but the way of teaching was not proper.
-Don't like peers grading assignments
 This course is out of date
 Not very helpful
 poor information
@@ -33,11 +32,9 @@ It's very useful and I could understand Bootstrap rules so much by this cource.
 Purely Basic, Could have been better. Grading system could be better.
 Overall Good but libraries are outdated and way of teaching boring
 it is perfect that if the course have chinese subtitle
-No recomendado para principiantes en desarrollo web
 Covers just basics things.Quite good course.
 i dont like the peer review system
 Change the instructor.
-TOO BASIC
 Instructor is very clear about everything.The only thing lacking was more detailed homework instructions.When you peer grade your peers, you see the actual grading rubric which is a lot more specific than the actual homework directions.Luckily, you are allowed to submit the assignments as many times as you would like.
 Very good course!  I learned everything I wanted to learn and more, and the professor was very clear and pleasant to listen to.  The assignments were not difficult, but still served as a good test of knowledge, and also encouraged you to rely on official Bootstrap documentation.  You can move through this course very quickly if you already have a decent amount of HTML, CSS, and JavaScript experience.  I watched most videos on 2.5x or sometimes even 4x the speed.  If you don't have a lot of jQuery experience, don't worry.Also the microphone in the video picks up all of the typing sounds, and it's irritating to listen to when you're trying to learn.  >.<  I would highly recommend that the professor record the audio again.  Sorry if this is petty, but it was quite distracting to me.  That is just a suggestion for improvement, though; I really did enjoy the course otherwise.The course uses older versions of plugins like Grunt, for example.  So you need to install the exact versions that the professor installs, and you'll still need to do some independent learning later when using these plugins in real life.  WIndows users might hit a few roadblocks and need to create environment variables in order to get certain things to work.  Also, you might end up spending extra money on this course because you have to wait a long time for peer grading.
 This course has been really helpful to me for understanding the concepts such as less and scss, bootstrap4 classes, javascript, jquery. I will keep on practicing with all the concepts taught in this course.
@@ -148,10 +145,8 @@ Intermediate level course, waiting for advanced level course now.
 great course to start with bootstrap  , with a great explanation
 excellent Teacher but I think the course itself is abit outdated
 Overall a Nice experience but has turned Old, need an upgrade
-Cours de niveau Professionnel. Je le recommande vivement !
 If it wasn't for the accent I would have given it 5 starts
 The Grunt and Gulp part is a little too long and redundant
-i have to cancel as i need to get a prerequisite review
 Great specialization course to take for Web Development
 The course is well taught and covered a lot of things.
 Great course very informative. Great lecturer as well.
@@ -182,10 +177,6 @@ i really like this course content.
 Good enough to learn from scratch.
 Some contents need to be updated.
 this is best course for bootstrap
-details steps and basic exercies
-course is little bit fast paced
-javascript course is not proper
-last week is hard to understand
 Very good explanations so far.
 it could be the best i guess.
 Bundle of information. Good!
@@ -197,10 +188,8 @@ Course is so useful.
 Overall good course
 need some updates
 not that useful
-Awsome content
 TOO SLOW!
 Noice one
-ncie
 The lecturer is very clear on every step of the learning process, is super responsive on the discussion forums, and everything he does, he explains well before doing it. Highly recommend this course.
 This is course is amazing given ou already know some html, css and javascript. People say Bootstrap is easy but after this course I realized many wrong things I have been doing. Recommend it for sure!
 One of the best courses I have ever taken. Everything is explained in the best way possible. The Instructor is also good. Must give this course a try. It enhanced my knowledge of the subject matter.
@@ -251,7 +240,6 @@ I was searching for a source to develop more Front-End skills and this course is
 Thank all of you for this oportunity, specially to the professor Jogesh Muppala, it is hugely worth it.
 Really great course to start web development. The external resources are just great and provide much more information on the topics. I learnt about git, which is by far the simplest tutorial on git that i have ever seen. The sections that explained npm scripts and task runners are also really great. Really looking forward to learn more.
 Great course that doesn't focus on the particular details of a certain technology but showcases different technologies in a way that helps you understand why such a technology is needed and how to use it on an abstract level paving the way to select the technology you seem to like the most and continue specializing on it yourself
-Ótimo curso, didática diferenciada, conteúdo interessante e direto. Bom pra quem não conhece o Bootstrap e também para quem, como eu, utilizava mas não tinha uma base sólida. Os conceitos finais de Build e Deploy fecham o curso com chave de ouro. Enfim, farei os próximos cursos do programa. Obrigado aos intrutores e a Coursera.
 The content of this course was very elaborate. Learnt allot through this course. The best part about this course was that after every assignment, links to the read up on the resources were provided which helped in exploring and learning more on the content. The professor in this course is also great with a good sense of humor.
 This is a great course! But note this, if you were planning to take this course you should have a prior knowledge about HTML5 CSS3 and Javascript. This course was a package. It helps me a lot in my web development road map. I am struggling to find the best way to learn but after taking this, it helps me a lot. 5 star for this.
 Great Course, Teacher shows an 'engage' attitude to deliver his knowledge. Maybe just add some updates on the "Build and deployment" part... Got several messages that current version of some tools used there are now deprecated. (I know teacher advise us to use version specific, but still, wouldn't hurt to update it :) )
@@ -275,12 +263,9 @@ about things that I had understood wrongly before. The instructor is
 very knowledgeable. I will definitely take up the other courses taught 
 by the instructor.
 Great course in understanding the fundamentals of Front-End Web UI Frameworks and Tools, Bootstrap-4, and also the course instructor (Jogesh K. Muppala) taught the concepts very well.Thanks a lot to The Hong Kong University of Science and Technology for providing this course on this platform.
-Vraiment ce cours m'a ouvert le monde de  responsive design et UI notamment en utilisant des technologie comme grid de bootstrap4, jquery, jquery UI, fonteawesome,  scss et less, il a été pour évalution et à la révolution dans ma jeune carrière de développement et web et application mobile
 This course really helped me to remember and really understand the grid system of bootstrap. Now, I am able to design responsive web sites. Also, this course gives the fundamentals for Node JS, Grunt and Gulp to prepare de distribution folder with many optimizations. I really enjoy it.
-Este curso práctico te da las bases para poder usar Bootstrap 4 de inmediato. Además aprendes los principios de los preprocesadores de css más importantes y lo necesario para automatizar los ficheros de un sitio web para su despliegue productivo. Un curso definitivamente recomendable.
 Enjoyed the course very much. Such a peaceful instructor.Thank You, sir, for teaching us from the very basics of HTML, CSS, js to setting a developer environment to becoming a developer.Would recommend it for all the beginners who want to clear their basics and are new in this field.
 A must have for anyone who's into web design and want to learn how to design responsive web pages using Bootstrap. Got to cover all the basic components provided by the framework and also some hands-on with Less and Sass CSS pre-processors. Prof. Muppala once again did a great job!
-Excelente curso, no solo aborda Bootstrap sino NPM, Gulp, Grunt y muchos temas más. SI haces las tareas con honores y eres autodidacta te va a encantar porque aprenderás a hacer prototipos y a llevarlos a cabo, mi experiencia con el curso fue muy buena aprendí más de lo que pensé.
 This is the best course on the web if you want to know about the bootstrap. It contains the very important details about bootstrap and describe it's capabilities very well. The mentor will teach each and everything from a professional's aspect and you can learn bootstrap easily.
 Great course for anyone who has really understood or played around with HTML, CSS and JAVASCRIPT and wants to learn more about bootstrap in order to achieve some structural orderliness in their web pages and add more beauty to their web page. I never regret taking this course.
 I just love this course enrolling in the front end web UI frameworks and tools: Bootstrap 4, had fun while doing the coding part, and especially our mentor "Jogesh K Muppala" sir for explaining the things clearly. I recommend this course guys... go Ahead and have enrolled..!!
@@ -326,7 +311,6 @@ just came to learn BootStrap But Learned the things that I could never learn by 
 It's the best course I have learned on web developing, with both the well explanation about the underlying theory and the well organized code practice. It's a classic learning-by-doing course. I love it and recommend it strongly.
 This is one of the best Bootstrap4 Courses available . Also, the professor is great and I would love to complete whole specialization under his guidance. The additional links provided in every module are soo helpful. Thank You!
 A very practical course. Learned alot about the UI frameworks. Well organized course throughout. Course Instructor was a great teacher . Excellently delivered the course. Would love to learn more with the respected instructor.
-Un curso excelente, se deben tener nociones de HTML, CSS y JavaScript para una mejor comprensión de los ejercicios, el instructor es excelente mostrando todo lo necesario para la construcción e implementación de un sitio web.
 Gratitude to Professor Jogesh K Muppala for excellent content and efforts in putting up an excellent course.I wanted to learn Multiplatform Mobile App Development with React Native, learning Bootstrap 4 is the stepping stone.
 Excellent course - assignments were very good and challenging.  Looking forward to part 2 of the series.  The instructor is also excellent, great sense of humor and delivers the material in a way that is easy to understand.
 This course is wonderful. Many things have been covered in this limited course with great elaboration and good examples. The additional resources helped me in fixing all the errors and in studying the topics in more detail.
@@ -341,7 +325,6 @@ The course is very nice. Made it look simple and easy to learn. Bootstrap is not
 Amazing course!! Thoroughly enjoyed it and got to learn a lot from it. The instructor taught every concept quite clearly and the exercises were very helpful. Looking forward to completing the entire specialisation.
 Really goes in-depth for Bootstrap. Apart from Bootstrap you will many important concepts & tools like CSS Preprocessors, Task Runners. Jogesh sir explains really nicely. I am continuing to next course Angular JS.
 An excellent introductory course on Bootstrap. This course helps me not only learning and applying Bootstrap but also on NPM and how to set up node packages. Looking forward to apply the knowledge and learn more.
-Excelent way to explain and show examples, funny exercise, and awesome teacher's knowledge.Excelente forma de explicar y mostrar los ejemplos, ejercicios divertido y el conocimiento del profesor es sorprendente
 Very well formed course in terms of the content presentation. All the assignments are helpful in making sure that the content is well understood and learned through practice via the assignments and peer reviews
 Awesome class. He's very clear to understand and does a great job on taking you step by step on how to use Bootstrap and some tools to make your Web Development life easier. The exercises really challenge you.
 Even when seems to be a basic course, is really concise and useful for beginners. I never learnt Sass, NPM and Gulp in a way like this course does. It gives good examples for starting using these tecnologies.
@@ -398,7 +381,6 @@ Best Bootstrap framework course with lots of exercises and assignments. The main
 I'm getting a ton out of this course and finding it logically laid out with a great professor. The fellow students impress me as well. This is exactly what I was hoping for!
 Great Course. The contents are very up-to-date.  If you follow very exercises in the course, you will learn detailed concepts and techniques about bootstrap wen development.
 Great Course with well structured Syllabus to get step process to achieve great bootstrap knowledge. Grunt and Gulp were really important and industry ready tools to study.
-Cours construit étape par étape avec du matériel d'apprentissage de qualité et bien présenté.---Course built step by step with quality and well presented learning materials
 A really nice course to get started with bootstrap.The course material was very well prepared in a way that the new user will find no difficulty in going through the course
 Essential info of Bootstrap 4, you learn only the util informations about creating a real example site.Scripting part (NPM, Less, SASS, Gulp and Grunt) was really usefull.
 It was a great opportunity to start. This course it's quite simple but concise enough to approach the basics of web design and get motivated to take it to the next level
@@ -418,7 +400,6 @@ Awesome course. Learned a lot of thing from it. All the assignment and task is v
 The instructor was having excellent teaching skills. Assignments were given with sufficient challenges to learn. I wish to have more courses from this Instructor.
 i learn a lot several things in this course(npm module,bootstrap of course,saas,how to built a distribution folder...) and i encourage you to enrolle this course.
 Finally a course that revisits , all small part needed for whole web stack .. it's going good , though the teacher looked boring, don't judge a book by it cover.
-Muy buen inicio para la especialización, no solo porque abarca Boostrap 4, si no porque nos muestra las distintas herramientas utilizadas para el desarrollo web.
 Very good courses, working with front-end task was really cumburson for me but right with bootstrap 4 i'm able to rapidly climb from idea to design an interface.
 Excellent course. Really a very solid base for the continuation of the course and to become a serious developer. Thanks a lot Jogesh K. Muppala. Great work ! ;-)
 The best Bootstrap course & Tutor I have seen ever on the Internet & Real life.Hope the same energy will be in React also. A thanks to the tutor is not enough.!
@@ -429,7 +410,6 @@ After going through each of the elements i have learned in this course, it is cr
 The course is updated and is very useful as an introductory course. Handles and explains clearly very interesting topics that are not usually found on the web.
 I really liked the bootstrap portion of the course. I already have a background in html, css, and javascript. The topics were interesting and easy to follow.
 Very good! I enjoy the professor, I felt like his work was interesting and helpful, and I've definitely referred back to this code work for outside projects.
-Excelente curso! Me encanto el contenido y la forma guiada de enseñanza por medio de práctica. Sin duda continuaré estudiando de esta manera. Es fantástico.
 Nice course ,all because instructor and study material is too good ..It is so helpful everybody should try this if they are interested in web development );
 This course really helped me in clearing the front-end basics and provided a better knowledge and overview of how websites are being created in real world.
 The teacher do his job excellently!He explained things in detail but also understandable for people who only have basic knowledge in the particular topics.
@@ -525,7 +505,6 @@ Great course for beginners, i would definitely suggest to those who are looking 
 Very well explained, easy to understand, interesting topic, great teacher and it's awesome learn working in a real project.
 Boostrap is a very robust framework and this course provide lessons to make you comfortable developing responsive web pages
 Great instructor. Really a great course. It contains not just Bootstrap, but NPM, Gulp and Grunt, and other things as well.
-Excelente curso para iniciar los primeros pasos de desarrollos webs responsivos. Excelente herramientas muy bien explicada.
 Awesome course - everything is well explained and the professor has a good sense of humor. I thoroughly enjoyed the course!
 this course is very well described concept of bootstrap framework . after his course I could make html page simple and easy
 I think every processional should be earn this course to know about develop his working area prototype in the presentation
@@ -544,7 +523,6 @@ This is a very good course if you want to learn front end development with Boots
 any course may be excellent but rare courses can be illustrated step by step as great as the instructor Mupala ,thanks.
 Brilliant course! Very thorough and well presented.  Jogesh is a great teacher and delivers with enthusiasm and humour.
 It was very helpful. The professor made the classes very interesting. Thank you so much for providing quality courses.
-Cumplió con las espectativas que tenía. Pude utilizar lo aprendido en una tarea real. El profesor sabe y explica bien.
 great teachers makes complected issues easy. That's exactly what you get in this course and specialization as a whole.
 To many websites and couldn't find anything better than this! Already in love with this course. Looking forward to it.
 This course was good for learning as well as fun. Now I can make some bootstrap based websites. Thanks to this course.
@@ -573,7 +551,6 @@ Very informative, it was well paced with assignments that made sure you were abs
 I can simply say, amazing :) that is one of the most useful course i have ever had. Thank you so much professor.
 Tutor is amazing. Go for it if you want to take another step in your journey of becoming a front-end developer.
 very decent style of teaching... it gives both basics and dives moderately  into the details .. I learned a lot
-Es un buen curso. Aprendes a utilizar el framework que ayuda bastante al momento de trabajar en una página web.
 The instructor of the course is very good though he talks slowly. The content of this course is well organized!
 the instructor knowledge to define and illustrate all the point is very good which help me to get things easily
 I really feel this is the right way to teach, and i really enjoyed the way i learned everything in this course!
@@ -619,7 +596,6 @@ This is one of the best course i did whether online or offline. Structure and ma
 This course was a full package and very very much helpful. Everything was very systematic and clear.
 Learnt new things and hoping to implement all the learning in a meaningful and constructive manner.
 The course is nicely designed and explained by the instructor and the exercises are really helpful.
-Un curso muy bueno para iniciarse en el framework de bootstrap. Bien estructurado y bien explicado.
 Really great course and calm and talented instructor made this course really easy and fun to learn.
 I love the way he explain everything in detail and in an easy way for the students. : ) Many Thanks
 I learn a valuable skills , this course help me to understand the Bootstrap technologies and more.
@@ -632,7 +608,6 @@ Anyone with prior knowledge with aim to enhance the skill, I really liked this h
 the course is too interesting and nice but so much content .. i think its good for beginner level
 Best course on Front-end Development, from one of the best instructors of our times. Loved It. :)
 What a great experience I had with the studies and the various exercises. Thanks very much, Prof.
-Excelente, el profesor es muy bueno y la metodología es la adecuada para este tipo de plataforma.
 instructor is awesome and explains well. quality indian professors are living outside of India :D
 got a lot to learn from this course. The course professor is awesome to give a lot of examples.
 videos and notes given were very useful and the course is very efficient to acquire new skills.
@@ -649,13 +624,11 @@ Great course to start with bootstrap.Definitely recommend the learners to pursue
 a very good course for beginners in bootstrap.highly recommended.assignments were very useful
 Great instruction and learning materials. I have learn lots of things about front end design.
 A VERY GOOD COURSE. EVERY MODULE IS GREATLY DESIGN AND ASSIGNMENT HELP TO GAIN THE CONFIDANCE
-Aunque no tenga subtitulos, esta muy entendible para los que tenemos problemas con el ingles.
 This is a really helpful course which covers many elements of bootstrap framework in detail.
 Excelent web development course for beginners! Every step is well explained by the professor
 I started this course 1 week ago... the best choice! Easy going with a great teacher! thanks
 Great course that gives you really solid foundation and in-depth understanding of Bootstrap.
 Excellent course. The instructor is very knowledgeable and his teaching style is very good.
-Un curso excelente y muy completo, para ampliar el conocimiento sobre desarrollo Front End.
 Course with just the right speed, a lot of small exercises and great assignments. Worth it!
 Great course! I learned a lot. It gave me tools to continue my research for web development
 Amazing course, quite detailed and to the point . Good assignments, helped me learn a lot!
@@ -697,7 +670,6 @@ Excellent course that teaches development skills that are relevant in the real w
 Amazing course, amazing content, amazing teacher, well structured, worth every pound!
 This was a great course! Cannot wait to start the next module and grow my knowledge!
 This course is awesome, but concepts need to be more clear not the method or syntax.
-Buen curso, pero a la fecha se debe actualizar con las librerías usada en NPM y GULP
 Thankyou so much Sir for ur awesome course. I really learned a lot from this course.
 Teacher was very proficient. Make the learning easy and covers all necessary topics.
 Good course for getting high-level overview about Bootstrap, jQuery, Less, and Sass
@@ -707,10 +679,8 @@ Really Helpfull course and website i learn more here i'm glad i found this websi
 I would suggest this course to everyone who wants to learn from basics to advance.
 The instructor is one of the best I came across. I really like his teaching style.
 this is so awesome course and I have a great experience with exciting assignments.
-Curso muito bem apresentado , com conteudos de aprendizado muito bem organizados !
 Straight to Business, Very focused course with hands-on project. No distractions.
 It was a very refreshing and practical experience while indulging in this course.
-Es un excelente curso, además de aprender front-end tambien se aprende a usar git
 Great course with simple explanations and with the best theories. Thank you, Sir!
 I love this course.I got much knowledge concerned with bootstrap, npm, web tools.
 All the things mentions are explained very nicely. Very nice learning experience.
@@ -736,7 +706,6 @@ This former is pretty cool and his formation is fabulous , i really liked it <3
 Nice Course Structure and Beautifully explained by Professor Jogesh k Muppala .
 A very well build course. Assignments are really fun. Loved to learn from here.
 Fantastic course that is well taught with hands on projects and honors content.
-Es un curso muy detallado y explicativo, para mi opinión muy completo. Gracias.
 It is a good starting course for knowing how everything at the front end works.
 Cool class. Great instructor!!! Easy to learn Node.js and Bootstrap4 -- GREAT!!
 One of the best course and instructor. I learn those things which i never had.
@@ -762,7 +731,6 @@ I learn small bootstrap tricks than I don't know it. Simple and nice course.
 Really easy to understand. Thank you,I have learned a lot from this course.
 in this course every thing is explained in good way and enjoing this course
 Very well explained by the professor and quality of content was really good
-Curso completo, excelente instrutor. Finalmente estou aprendendo Front-End!
 Grunt and Gulp installation of the modules and execrises are very cumborsom
 The course is really great! Professor explain everything in detail clearly!
 Best course for web Development. Special thanks to Sir Jogesh K. Muppala..
@@ -797,7 +765,6 @@ Very Useful , just the node modules installed are in an old version .
 It is very helpfull to understand the bootstrap and jquery components
 Very good course taught by experienced and knowledgeable instructors.
 A course very fun and interesting. I enjoyed so much with the course.
-Excelente curso, todos los temas estan bien nominados por el maestro.
 It is a really good starting course in this specialization. Thank you
 This course was really good! Professor Muppala was excellent. Thanks.
 Nice Course! Very good for understanding basic concepts of Bootstrap.
@@ -895,7 +862,6 @@ Very good class. The instructor is funny and knowledgeable
 It was a very good course and very easy to follow through!
 Good course. Gives a solid understanding about Bootstrap!!
 this one of best courses that discuss gulp and bootstrap 4
-Helped me to understand bootstrap grid system, node.js,...
 Awesome and well structured. Teaching skill is impressive
 I really learn a lot from this course and I recommend it.
 It is really helpful course to start front end designing.
@@ -904,8 +870,6 @@ really helped to get to know about boostrap, git commands
 Excellent course. Really well structured and well taught.
 very good lecturer easy and understanding way of teaching
 I really like this course! This course helped me a lot :)
-Exelente curso para entender bootstrap y algo de Node Js
-Increíble y super el curso, el profesor explica muy bien
 It was a great learning experience. Thank you Professor.
 Learned Too Much from this Course.Must take this course.
 Detailed and Precise course. The Professor was excellent
@@ -914,7 +878,6 @@ This course is good and easy to understand for beginners
 Good job, deep course on Bootstrap. I really appreciate!
 Concepts are very well explained by the Author. Kudos ;)
 The course is awesome and the assignments are fun to do.
-Excelente profesor, temario actualizado y bien explicado
 Course is very good to learn front-end using bootstrap.
 Excellent course and the teacher explained very well 😊
 Amazing instructor, made me passionate about the course
@@ -965,7 +928,6 @@ it as a good course with good instructor knowledge
 it was very good experience learning with coursera
 Great, professional teacher and interesting tasks!
 Taught me more than my own classes did. Thank you.
-ce cours m'a beaucoup aidé a apprendre bootstrap 4
 A very great course. Will recommend over and over.
 Good explication, and very interesting the course
 gd explanation i enjoyed a lot while these course
@@ -993,7 +955,6 @@ Awesome course for beginners and intermediates.
 It is a nice course you can gain your knowledge
 Very useful for responsive website designing...
 Good start for the beginners in web development
-excellent!!!!!!!!!!!!!!!!!!!Love it best mentor
 This is the best course I have ever encountered
 Thank you sir for providing this great course.
 very detailed, a lot of material, great course
@@ -1002,7 +963,6 @@ I have learned a lot of things about bootstrap
 Really Good Course.I recommend it to everyone.
 It was really a GREAT Course, I learned a lot.
 Thank you for such a course.. It was excellent
-Excellent course for web development beginners
 Excellent course with the right level of depth
 explained in very detail and specific manner.
 Wonderful teaching style. Highly recommended.
@@ -1015,7 +975,6 @@ Great intro to web development with Bootstrap
 Really good, nice teacher, challenging tasks.
 Great way of teaching and very easy to learn.
 Nice skills, well organized and effective !!!
-tres bien expliqué. je confirme ce professeur
 It was a great course with a lot of practice
 It was a very knowledgeable and fun course!!
 Excellent Course with highly valued content.
@@ -1029,10 +988,8 @@ A wonderful course of bootstrap, I ever saw.
 Very nice instructor and best demonstrations
 One of the best course I've gone through....
 Very thorough presentation of this material.
-Un curso muy util para iniciar con boostrap
 The best course I had seen about Bootstrap.
 Great beginner course to bootstrap and web!
-Excelente curso, profesor muy experimentado
 the best course on Front-end UI devlopment
 Excellent professor, He explains very well
 Great Content & Sources , Enjoyed Learning
@@ -1055,7 +1012,6 @@ Muppal sir is amazing  thanks a lot sir!
 This was really a best experience for me
 It was some deep discussion on bootstrap
 Professor Jogesh K. Muppala is great! :)
-Excellent course.  Excellent instructor!
 Good course for starting with Bootstrap!
 Very informative and resourceful course.
 Well-structured course! Very recommended
@@ -1118,12 +1074,9 @@ I learn a lot, thank you teacher!
 really nice and  practical course
 Great course with great teacher !
 Dr. Jogesh is an amazing teacher!
-Es explicado claramente el curso.
 Everthing organized perfectly!!!
-Excellent course, very complete.
 Professor really do a great job!
 awsome good to learn every thing
-Best course you could invest in.
 Exceptional Course by instructor
 Nice Content anf a Keen teacher.
 sir's way of teaching is awesome
@@ -1133,11 +1086,8 @@ Great instruction and exercises!
 clear teaching... i like to flow
 Excellent class, really helpful.
 Thanks,the teacher is fantastic!
-Best Bootstrap 4 course ever !!!
 Amazing course, one of the best
 Thank you for the good insights
-Excellent course for Bootstrap4
-Best course, Best constructor♥️
 The teaching was really awesome
 Awesome step by step executions
 Amazing course, great professor
@@ -1157,14 +1107,12 @@ Was great learning bootstrap 4
 great course, thanks teacher!
 Very nice course for frontend
 Great course, very beneficial
-Instructive course I like it!
 Content was very informative.
 not too long and interactive!
 Nice course. Good explication
 A must do interesting course!
 Great course, well presented.
 Great overview of Bootstrap 4
-Nice course about Bootstrap 4
 Jogesh M. is a great teacher!
 Mumpala is a  greate teacher
 Very good and understndable.
@@ -1182,7 +1130,6 @@ very good and knowledgefull
 amazing to get started with
 This course is reaily good.
 Nice and interesting course
-excellent course instructor
 Learned a  lot in few weeks
 Great opportunity to learn!
 Its perfect for beginners !
@@ -1192,7 +1139,6 @@ teaching was very awesome.
 THANK YOU SO MUCH SIR ....
 Best course for bootstrap4
 content is very worth full
-best course I've ever seen
 very good Course.thank you
 Very good and useful tools
 great and beautiful course
@@ -1204,21 +1150,16 @@ Complete and very useful.
 clear course on bootstrap
 A very informative Course
 excellent way of teaching
-superb learnt many skills
 The way they is very good
 This is a great coursera.
 This course is amazing !!
 complete technincal sound
 Very rigorous and indepth
 enjoyed doing the course
-15/5000
-Excellent course
 Iam completely satisfied
 Great intro to Bootstrap
-Best course for newbies
 learnt a lot thank you!
 Awesome way of teaching
-Very good on bootstrap
 This is perfect course
 One of the Best Around
 clear, enough to start
@@ -1227,10 +1168,8 @@ Really helpful course!
 Really useful course.
 Very helpfull for me.
 Professor was amazing
-Had a Nice experience
 Very Good Course!!...
 Thank you so much Sir
-Difficult but useful!
 Good front end course
 a little bit outdated
 it was very helpful!
@@ -1239,7 +1178,6 @@ Course was excellent
 Amazing instructions
 Very good and useful
 it is perfect course
-Exceptional Course!!
 Excellent teaching..
 Powerful achievement
 very good thank you!
@@ -1248,23 +1186,16 @@ Must do this course
 Helped me very much
 Very useful course!
 Perfect Course ever
-Excellent Course.!!
 Tutor was  great!!!
 Great one to start.
 Congratulations !!!
 very cool professor
-Great Experience !!
-EXCELENTE COURSE!!!
 Its really awesome
-Muppala is a guru!
-Awesome course !!!
 interesting course
-excelent course :)
 very good chapter.
 it really helped m
 professor are good
 Excellent! Thanks!
-Ultimate (Aakhiri)
 Very useful stuff!
 Very nice thanks!
 amazing course :)
@@ -1272,49 +1203,26 @@ Nice way to teach
 It was really fun
 I Liked very much
 upto expectation
+great course!!!!
 very Good course
-eccellent course
-Excellent course
 Well structured!
 Good instructor.
 Good course! 👍
 it was the best
 A Great Course.
-Amazing Content
 thankz coursera
 Great courses.
-Автор молодец!
-Very very Good
-Tres bon cours
 So Informative
-So far so Good
 Great course !
-Best teacher.
 Nice Teaching
 Great Teacher
-十分简单，适合初学者上手。
-jogesh é foda
 Fun Learning
 Good Teacher
 Great Class.
-Very amazing
 Helped a Lot
 Loving it...
 Very clearly
-Ótimo curso!
-I am happey
-Great tutor
-Good Thanks
-Magnific!!!
-Ultimate!..
-excelent!!!
 thank you,
 it´s great
 Must try
-i liked
-Loved!
-marvel
-gramo
-Nice
-😀
-dd
+GREAT!!

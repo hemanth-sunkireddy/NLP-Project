@@ -6,7 +6,6 @@ i don't like this course..it is not complete OOP not data structure not c++.. it
 No Systematic Approchvery confusing for the beginners,
 Not recommend from the begining is an struggle, why dont make as simple to use VISUAL STUDIO instead of this amazon IDE that has request my payment INFO and know I cant access my account worst experience
 Not worth course
-i want unroll
 First of all lets see all the pros and cons:-
 
 Pros:
@@ -85,7 +84,6 @@ great lecture for entering c++. however, instructor's q&a response is quite late
 The last module was hurried. Project should have been more related to classes.
 Quite Quick and brisk course.Highly Recommended for brushing up the concepts.
 A good introduction to C++, and introduces you to key programming concepts.
-Good course, excellent instructor, helpful quiz questions and assignments
 The assignments are tough. Better student redressal system required.
 Amazing course,though a little fast paced especially he pointer part
 Kind of difficult for a not well-experienced c++ learner
@@ -95,7 +93,6 @@ One of the best course in Data Structures using CPP.
 Pretty good but could be little hard for beginners..
 Interesting course that cover the basic of the c++
 pretty useful and good intro to C++
-c++的概念，北大的李戈教授的课解释得更好。
 recomended course
 -Lectures were well made and very informative.-Instructors and staff were very knowledgeable and were able to answer all questions asked by the students in a timely manner.-Final project was very fun to work on and had a nice level of difficulty.-Thoroughly enjoyed this course!
 So well designed course! Should be named c++ made easy.  I specifically liked the challenge problem and Week 4 programming assignment. Thanks professor Wade Fagen-Ulmschneider and Eric!
@@ -344,17 +341,11 @@ Very good for new learner!
 A whole new level of C++.
 Very well crafted course.
 very good course in c++!!
-Excellent experience!!!!!
 Good approch to tech c++
 pretty good intro to c++
 lectures are very clear
-padrisimo de la mamaron
 complete and insightful
 very helpful! Thanks!
-Useful intro to C++.
 Good course for OOP
 The course is Fun
-HIghly enjoyable!
 BEST C++ COURSER
-I t was awesome
-VERY BAD

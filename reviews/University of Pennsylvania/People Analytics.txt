@@ -75,7 +75,6 @@ I'd like to do more assignments.
 How can I get the certificate?
 it needs more applications
 ordinary
-Basic.
 Thank you Prof. Kassey, Prof. Haas and Prof. Bidwell. The course was nicely designed and really touched upon the pressing issues regarding people in an organization and how analytics can be used in overcoming those issues. I loved all the modules of the course and would recommend the course to anyone who wants to make a career in HR as analytics will be crucial in managing the workforce in coming time. The only recommendation is that it would be better if the course digs deeper into the techniques introduced. Overlall, great job by the team.
 would be good if some of the examples were not football and baseball, given i'm not from the us and don't understand those sports... also would be good to do some research on crossfit given their sport model seems to lend itself more to ppl analytics
 A nice overview of the subject, introduced important basic concepts and prescriptions. Would have been useful to have a bit more instruction on how to complete some of the concepts that were mentioned. Being able to clearly understand the steps involved in running  a variable regression analysis for example would have been of value. Over all the course was of benefit, though it lacked a bit of rigor.
@@ -204,7 +203,6 @@ The course was equipped with substantial knowledge. Sadly Professor Matthew Bidw
 The only thing I would change is that you after saved the quiz grade, you could get feedback on the wrong answers.
 Content-very good, Delivery- Excellent, Faculty- Amazing. Overall great experience, enriching and worth pursuing.
 perspective of people analytics with Organizational network analysis and talent management is given good details
-Una introducción muy valiosa al mundo de people analytics. He echado de mnos algunas herramientas más concretas.
 Some more emphasis on prevalent analytical techniques and use cases would add the already informative course.
 The course would have been valuable if we did hand-on exercises and used statistical tools to gain practice.
 A very informative course .... Helped to gain a lot of knowledge about how data can be used to manage people
@@ -218,7 +216,6 @@ A good comprehensive overview  and insight of how data can be adopted into human
 Good Learning Experience. The course is not in depth. But leaves you with a taste of people analytics
 The course elegantly captures the most important applications of Talent Analytics in the industry.
 Didn't involve much of Data Science's usage in Business Decisions which as why I took this course
-Buen curso; te otorga aplicaciones básicas de la analítica en el área de desarrollo de personal.
 Great overview of challenges being currently faced by companies on retaining and hiring talent.
 Very good overall course- more exercises would be helpful but very good empirical knowledge.
 Good introduction to People Analytics. I couldn't quite relate to the NFL example, though.
@@ -261,7 +258,6 @@ By enrolling we can learn the basics of people analytics.
 a little bit out of date. wish an update for this course!
 Good intro course. Doesn't elaborate on analysis methods
 A few too many sports analogies, but overall good stuff!
-Well delivered, sometimes doesn't go into enough detail.
 The course touched very little on the technical aspect.
 fantastic course. must for every hr professional...
 Simple and easy way to understand People Analytics
@@ -287,12 +283,9 @@ ell presented and to the point
 This course is very awesome!
 Good overview. Well made.
 Insightful and practical.
-Excellent course modules
 Great facllitators
-very good overview
 good course.......
 Quite revealing
-sac
 This course is an eye opener and is explained in a very comprehensive manner. The Quizes measured the actual understanding of the concept. I would like to thank all the three faculty for their best efforts. It was wonderful being a part of this course.
 A very good introductory course. I would recommend completing a basics of statistics course as well to better understand the concepts. Prof. Cade Massey does an excellent job in covering the concepts most essential for implementing people analytics.
 This is a very well defined course to give a very good start to the knowledge of People Analytics. The professors have brought in numerous examples to make the understanding of analytics better.
@@ -382,7 +375,6 @@ It has been an amazing experience learning with Coursera. I got a better experie
 Great course for HR managers who are interested in starting People analytics. Professors explain broad area of people analytics, so that what we can do with people analytics in diverse tasks and challenges we face as a HR manager. Though, it doesn't deliver statistics.
 excellent job from all of the three professors. I really enjoyed the course and it gave me a lot of suggestions and things to think about. was definitely helpful in order to have a more clear idea of the processes behind working realities. well spent time, absolutely
 This course was both challenging and interesting. Forcing me to challenge what I though i knew and think outside the box. Then introduced a whole base of new ideas and material which will allow me to apply this new skill to my role and think differently about things.
-Muy interesante en todos los aspectos. Personalmente me han enganchado más los contenidos relacionados con la evaluación del desempeño. 100% recomendable para todo profesional de los Recursos Humanos (e incluso para todo aquel con responsabilidad sobre personas).
 This was my first Coursera course and I loved it! I have decided to pursue a career in HR / People Analytics / Database Administration and this course was my first step. I feel like I have a good understanding now on where I should look for more study material.
 Great introduction into this fascinating area. While potential of this emerging field is highlighted very well the course also clearly identifies the need for caution and the challenges that may arise (surprise we are humans!) in making sense of the data.
 Gave a fresh perspective to looking at this domain of people analytics. Got me acquainted with some fresh ideas and analysis. This course has got me interested and increased curiosity in a very new growing domain that I look forward to explore. Thank you!
@@ -413,7 +405,6 @@ Very interesting course which gives you the fundamental of people analytics by s
 It has been a very interesting course. It has made me understand new perspectives of relationships with people. I think all managers should know these ideas, things would improve in many companies.Thank you very much!!
 This course gave me an overview of people analytics, topics such as collaboration,talent analytics and regression to mean were thought provoking.Overall a a well paced and informative course for practical applications
 This course show me how to understand the power of big data and advanced analytics to identify problems in internal processes and create new efficiencies, rewarding them with significant improvements in performance.
-Хорошо организованный курс с интересным материалом и отличными преподавателями. Многие вопросы были освещены, разобраны по полочкам и объяснены. Доп.материал подобран интересный. Благодарю за такой интересный опыт!
 It was a very insightful course that helped me understand the use of analytics in managing people in any organization. It helped me develop a critical viewpoint on the various aspects of human resource management.
 People Analytics studies how to measure employees performance and identify SWOTs of HR of a company. I loved the course because it shows that HR have an important contribution to the success of of a whole company.
 All three professors were prophetic and I listened their talk curiously to understand the new field. When the course came to an end, I was nervous.."why it ended?" Excellent teaching material and teaching method.
@@ -430,7 +421,6 @@ The course focus more on the HR part than the analytics itself but is very inter
 Excellent course as it doesn't only provide perspective of applying analytics to HR processes, but actually goes quite in detail about the principles and methods of statistical applications.
 A clear explanation of how analytics can be used/applied in the different aspects relevant to people management. From selection to development. Pretty well conducted and with clear examples.
 This course helps us to know briefly about the analytics that is used in the organization concerning its employees for their appropriate performance evaluation, staffing, and collaboration.
-Professores excelentes, conteúdo com casos e várias leituras adicionais para complementar o entendimento. Estou encantada e muito animada para me aprofundar ainda mais neste tema! Obrigada!
 A very valuable course to understand the importance of People analytics. Good learning for me. Really enjoyed doing it. Overall the lecture plan and the way it was presented was very good.
 It was a very informative course covering different aspects of Hiring, staffing, selection and analytics with respect to the different temperament and personality and performance of people
 Great course that offers great insights. I've been working in HR for 5 years and this course helped me think from a completely different point of view! Definitely worth my time and effort!
@@ -513,7 +503,6 @@ Outstanding!  This has been an invaluable learning experience.  I highly recomme
 Great overview of People Abalytics, it's application areas and practice examples ! Also great to highlight ist limits and pitfalls
 Great course designed to understand the basics of people analytics and to understand where analysts need to be careful. Thank you
 Thoroughly enjoyed the course, along with all the theoretical knowledge, this course had a balance of practical examples as well.
-Muy interesante, me brindó herramientas conceptuales y prácticas que me permitieron re-prensar mi quehacer diario. Lo recomiendo!
 A great course with plethora of valuable insights. Definitely recommend this course to anyone looking to learn People Analytics!
 Insightful course about people analytics, I learnt a lot from the course and it inspired me to learn even more about this field.
 This is a quite interesting and essential course for HR manager, especially living in an industry of rapid technological change.
@@ -603,7 +592,6 @@ Extremely informative.Thank you for enhancing my knowledge on this important top
 Very useful, just wish i had learned this early, i will be a big help for my paper.
 Excellent course - particularly enjoyed the piece on collaboration but also the ins
 The course is very well organized by modules and the knowledge was shared clearly!
-Excelente curso, me gusto mucho la dinámica de los profesores con ejemplos claros.
 EXCELLENT COURSE...…. WITH GOOD EXAMPLE. I HAVE GOT AN IDEA ABOUT PEOPLE ANALYTICS
 An exceptionally well designed class with outstanding lectures and class material.
 Very useful and interesting course. Examples are relevant and practical.Thank you!
@@ -635,7 +623,6 @@ A complete course. Dynamic course and very easy to understand. I recommend
 Excellent course. I have a better and wide vision of the people analytics.
 Knowledgeable faculties, good use of examples, perfect learning experience
 A really clear and useful introduction to talent analytics. Very helpful.
-通过学习该课程，我了解了人员评估和选拔、内部晋升和外部招聘、人员稳定和留才、组织网络分析方法等基础的人力分析的知识，期望在后续能更多加深和拓展。
 Excellent course for understanding people analytics and the sub streams
 Easy to understand and to implement. Great content and great charisma!
 great eye opener and important insight into improving people mangement
@@ -646,7 +633,6 @@ Enjoy and learn everything because people are complicated. Thank you.
 The course content is good and upto the mark for beginners to learn.
 The course is very good and it makes me to think in a different view
 Never knew there's a subject on people analytics, quite informative!
-People Analytics의 기본적인 개념과 실제 업무 시 주의 깊게 살펴야 할 다양한 요소들에 대해 학습하였습니다.
 Engaging instructors and excellent content. Would highly recommend.
 industry examples (with definitive results) makes it more engaging.
 Great teachers explaining with interesting examples and clear ideas
@@ -685,7 +671,6 @@ Great and impressive knowledge shared by the teachers.
 a must watch course on people analytics and management
 Great course and was on par with the Wharton standard.
 This was my first course and I thoroughly enjoyed it.
-Recomendado para quienes dirigen equipos de analytics
 Except for the section on networks, wonderful course.
 I learned many things that are new to me. Thank you.
 great coverage of vast array of topics..thanks a ton
@@ -699,7 +684,6 @@ Excellent  course very well thought by the faculty
 This Course is amazing for human resource faculty
 Very succinct and practical with Wharton quality!
 Very nice course. Highly recommended for Beginner
-Muy buen curso introductorio del tema: Analytics
 Excellent course amd teachers!! Congratulations!
 Great course to start your HR Analytics journey
 A great learning experience. Excellent faculty.
@@ -709,11 +693,9 @@ Very nice, useful and inspiring course. Thanks!
 Very good course structure & amazing teachers.
 Good summary of what that new "field" is about
 This course was very insightful! Thank you :)
-Very interesting, and valuable skills to have
 I can learn new knowledge here. Good lecture!
 Excellent overview of entire People analytics
 Thanks for putting up such a great course !!!
-Muy útil y deja muchos desafíos por delante.
 Great content and information + presentation
 Nice course. Great learning opportunity!!!!!
 Very well structured and good new knowledge.
@@ -754,8 +736,6 @@ A very useful and effective course.
 Excellent introduction to the topic
 Fully satisfied with this course!
 professors were great.... Thanks!
-Muito bom. Curso muito completo.
-Excellent course, super material
 Very good content and structure.
 Awesome Course. Highly revealing
 New things to learn. Very useful
@@ -771,10 +751,8 @@ The insights are invaluable.
 Good course for HR Aspirants
 informative and challenging
 great and new perspectives.
-Excellent content coverage.
 A great informative course.
 Really compact knowledge!!
-Excellent content for intr
 Recommended Course for HR
 It was wonderful learning
 Easy course.Good lectures
@@ -786,40 +764,22 @@ I LOVED this course!!!!!
 Great insights, thanks!!
 Insightful and helpful.
 Everything was great!!
-Concise and excellent!
 very general knowledge
-Es un curso excelente.
 Awesome Professors !!
 Great Online Course..
-excellent methadology
 I really learnt a lot
-perfect very valuable
-amazing! learnt alot
 very good course (Y)
 this course is great
-Very Helpful for HR
 Very nice teachers!
 Great for Freshers.
 Awesome professors!
-Interesting Stuff !
-Best Course So Far
 Enough good course
-Cours exceptionnel
 Very insightful!!
 Not a fan of NFL.
 Good and helpful!
-Useful programme
-Very academical!
 Helpful. Thanks!
 I really liked.
 Very Helpful :)
-Awesome series
 Very education
-Nice concepts!
 Good insights
-Extraordinary
-INTERESTING!
-I made it!!
 thank you！
-beautiful
-G

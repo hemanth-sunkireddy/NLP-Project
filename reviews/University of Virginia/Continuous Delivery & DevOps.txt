@@ -28,7 +28,6 @@ In this course explain basic for devops and how to work devops team with develop
 I think the course is good for someone who has never done anything with CI & CD, but it was mostly just covering the theory of "why" you should do something with little in the way of practical examples.
 A great class but some of the quiz questions were difficult to pull out from the material- when I would get a wring answer and re-watch the video, it was still not very clear what the answer would be.
 this course is extra  add on skill and practice  to the Software devloper and tester to understand the flow of buisness and application and for making testing plans and the pipelines in the DEVOPS
-très bon cours pour découvrir le monde de la livraison continue CD et de la livraison d'intégration continue CI avec l'explication du pipeline et des différents métiers autour de celui ci.
 I am new in DevOps and the explanations were clear and complete. I enjoyed the interviews of engineers and experts of pipeline to understand the concepts from a practical perspective!
 The overall course is great but lacks the live project demo version of all the techniques taught in it. but for a beginner level to understand overall DevOps this sis a great course.
 This course is great for beginners, but it would be better to add a pre-requisite of knowing basics of github so that everyone can get a much clear understanding of the demos.
@@ -40,7 +39,6 @@ This is a very good basic course of what is CI/CD and how it can help to build a
 Good course which i had learnt alot. Recommended for those keen to understand on CI/CD and this is a good start.
 More examples should be given for CI/CD. Examples given for unit and integration testing was excellent.
 For foreign learners it is a little bit frequent speech of the teacher. Subtitles have many mistakes.
-Buena introducción para poner en marcha los conceptos de entrega continua bajo metodología DevOps
 Nice explanations, and charismatic hosts, this course will be improved with more tech demos.
 To the point and a great introduction. interviewing the industry experts was a huge plus
 Very nice to bring some real cases like the interview we could see with experts
@@ -72,7 +70,6 @@ A great introduction to DevOps. Gives an overview of DevOps components, related 
 This course is very great when you are working in a CI/CD environment. This will help you understand the whole pipeline for SW deployment and how can you enhance or speed up the time of deployment. With all the techniques, learning, and new ideas, it is a better kick off for a newbie in the SW industry. Thumbs up for this course!
 Very beginner-friendly. I think the pace and content of this course would help relatively new software developers a lot in understanding what practices are being used in top notch companies
 Nice DevOps Course. Explains the process in details with examples. gives you an idea on what next things you can do if you already using DevOps, else gives you a good understanding of it.
-Excelente curso, principalmente na exploração de ferramentas free/open source como exemplo.
 Great course- super helpful. I liked that it was so comprehensive on DevOps and delivery. If you want to go learn everything about Kubernetes or Jasmine, there are lots of good options. What I needed was to better understand what all this stuff is and what matters when.
 Excellent course on devops and CI/CD. Provides a clear overview of concepts and techniques, also mixing in some nice perspectives and real-world examples "from the trenches". My own role is usually that of project management or product owner (with a strong technical interest as well). For me, the level of information was just right, and provides as lot of useful context.  To what certain teams in my organisation are already doing. To what I was already doing in part, but with lacking background knowledge (where this course helps to fill some gaps), And regarding further steps to take to move towards a more continuous pipeline. Very useful!
 Great course to cover lots of the areas around continuous delivery & DevOps. It doesn't give you lots of technical detail inside (leave it in resource for further study). The benefit for this is for beginner, you can have an overview of how all CICD/DevOps, SRE works. for people who really want to devote to this career, then you can slow down the learning path to check and practices the topics Alex provided in resources. No one can be an expert in all those areas.  The interviews in later weeks are great information to understand what the first line experts' thinking for this job.
@@ -92,7 +89,6 @@ I am very thankful, it's helping me to understand how the DevOps process works, 
 Very well understandable course for DevOps and Continuous Delivery. Thank you Alex for very good level of videos and very motivating content of this course. It gives me new energy to improve our CI and to go forward from CI to CD with my team.
 Excellent course, both its content and presentation are great. Rooted in industry practice which makes it not just academic. I like that all slides are downloadable for reference. Also, the links to online resources are relevant and useful.
 My sincere thanks to Alex Cowan for creating such a wonderful course with lot practical examples with great content and wonderful insights from Interviews with industry experts. I highly recommend this course to any devops enthusiasts.
-Una muy buena base del Continuos Delivery & DevOps, con la opción dentro del mismo curso de profundizar en algunas herramientas relacionadas. Con un buen apoyo de recursos didácticos y un cierre muy bueno de relato de experiencias.
 Very nice explanation. Now I am on position to understand the ops key skills and where ti integrate the idea if any thing goes wrong in deliverable. Interviews with tech guys, to get more clarity of using tools and their approach.
 This is great course to understand CI/CD pipeline and DevOps as a whole. Interviews videos and demo session with industry expert is very insightful. Go for this course if you are beginner and want to understand the DevOps.
 This is the most important course to be taken by every software engineer and i was never happy to know about this course. It gives you an over all idea of how to be a good engineer in delivering the product to the client.
@@ -171,7 +167,6 @@ Nice.I learn how the pipeline works during  DevOps.
 Good case studies, and technical exposure to DevOps
 Really good introduction to devops for beginners!
 best course to understand CICD and devops basic
-Excellent course to understand CI/CD pipe line
 Good course content which are well articulate.
 Very Good Introduction to Pipelines and Devops
 Was very useful to learn the benefits of CI/CD
@@ -188,7 +183,6 @@ Very well explained overall theory
 Good course to understand Devops
 Very Nice course for Deployments
 It's a great course, thanks Alex
-Excellent course. Thank you Alex
 Great class for learning CI/CD!
 Amazing course. All concepts w
 Very informative course for be
@@ -202,5 +196,4 @@ As per my expectations
 Very good Explanation
 Very Helpful Course.
 Recommended Course
-good and awesome
 very good cource

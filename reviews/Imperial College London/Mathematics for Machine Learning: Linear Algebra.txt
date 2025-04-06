@@ -156,7 +156,6 @@ totally enjoyed it. requires a bit of side research as any online course would. 
 This course reviews the essential concept of linear algebra in the context of machine learning. However, it would be much better if it provided more optional exercise and reading materials.
 decent course. It gives a good enough background to understand the mathematics necessities of many areas of data science. could be more thorough and dive deeper into some of the content.
 Good course because it shows how to understand geometrically, things that I had hitherto only understood computationally.
-Excellent Instruction
 It's a good overview.  I think that to get a lot out of this course it would help to have at least encountered basic matrices, vectors etc before.  It's not that these concepts aren't introduced it's just that I can imagine if you have never encountered these things before you might get overwhelmed a bit quickly.  It would also help if you have some rudimentary knowledge of programming i.e. know basic syntax, what a for loop or a while loop is and other basics.  I know a bit of programming and i'm pretty ok at math so the course was manageable for me. Especially good was showing how all of the concepts learnt can be applied to understanding the Google Page Rank algorithm.The best part of this course is the conceptual overview it gives and the instructors constantly reiterate how this type of understanding is more important than just being able to chug through a whole lot of algebra.  Computational skills aren't really that important because apart from very basic examples, a computer is pretty much necessary to do the calculations anyway and as we all know, just because you know how to plug stuff into a formula doesn't mean you have the faintest idea what you are actually doing!I think a very bright person could probably fully understand this course coming at it from scratch but I know that I would have struggled if i'd never glanced at the math or done some basic programming before.
 I would give this course 5 stars for the fact that in five weeks, the course is able to go through perhaps a semester or two or three of Linear Algebra (LA), and how LA fits into data science.  I gave it four stars because I believe the program should include lots of links to reference and learning aid resources.  Because I had done a couple other courses on LA relatively recently, some these arcane LA concepts were grasped with some, but not too much, effort.If you are even just a little familiar with LA, this course will give you a good foundation for the LA relative to data science.  So, if this is you, and you want to get into Machine Learning (ML) to understand how ML works internally, then jump right in.Thanks to all who contributed to make this a great ride.
 Overall, the course is good and well worth your time if you goal is to brush on Linear Algebra. It is pretty important that you have been exposed to linear algebra before though, as some topics are covered pretty quickly. My only complaint is that there was a lot of unnecessary obfuscation. The lectures constantly alluded to things without actually naming them (e.g., gradient descent in one of the earlier lectures). I found the "Essence of Linear Algebra" video series on YouTube to be invaluable to actually making sense of some of the lectures in this course, so if you do take this course I suggest doing the same!
@@ -190,7 +189,6 @@ This course has provided everything that it had promised. The professors of this
 Great course, but difficulty spikes after the first few weeks and problems become much more challenging, albeit far more interesting though.  The course reaches its peak when it challenges you on the interesting problems presented to you during the last few weeks.  You may need to have some basic understanding of algebra and a bit of calculus too before starting.
 Really Good course for people having some basic linear algebra knowledge. They could have done better on explaining some concepts rather than rushing through it... But a great refresher course... One recommendation would be to suggest good books for Linear Algebra that might be helpful for students who take this course, some book which can accompany this course.
 I feel like some part should've gone a bit more in depth. Due to time constraints for the course, I guess that's why some topics where not developed further. Would be quite nice in these cases if you could point to other sources, books, etc. Or maybe do a compilation of sources based on what the students have used to get unstuck on particular issues.
-As paletras e numero de exercios foram muito bons. Porem o forum não é muito bom, existe questões abertas a 4 meses que ainda não foram respondidas, e muita repetição de duvidas.Poderia ter apos os exercicios praticos, um video explicação de como resolver. Porque se a media é 80%, é presumivel que o aluno pode não saber alguma coisa e ainda passar
 I loved doing this course. I did this course to revisit the concepts I have learned in my undergraduate, I remember most concepts but there are few moments where I have to watch videos again and again to follow along, anyone who is beginner might find it a bit intimidating, but don't give up just follow along and connect the dots between concepts.
 I think this is a great review of linear algebra, especially for someone who has already previously studied the topics.The example with the PageRank algorithm was very interesting and a great add to the course.Possibly a downside of the course was a lack of practice of the material, especially considering how easy the notebook assignments are.
 The course and the faculty were amazing altogether. All my queries regarding linear algebra were cleared and I began to look at linear algebra in a new eye. The only flaw was inaccessibility to the correct Notebook link. Only after going through the forum was I able to get the correct link as it was, luckily, posted by someone.
@@ -312,7 +310,6 @@ Programming assignments failed to save and submit sometimes. But the course itse
 The instructors are very good in delivering the course content..However, more reading resources should be provided.
 Provides a good understanding of Linear Algebra for Machine Learning. However, it is a little lacking in exercises.
 There were some problems with the notebooks used in the assignments but apart from that this course was brilliant.
-Achei que haveria uma pequena introdução ou explicação de como seria usado esse conhecimento em Machine Learning.
 Nice course! Hope to improve the programming function. It is really hard to find the errors in it for a greenhand
 Good course. It will be great if this can also include material if you want to go deeper after taking the class.
 Went a bit too quickly for me towards the end of the course (coming into this as a layman), otherwise very good.
@@ -323,7 +320,6 @@ Good course but Instructor should provide some lectures on python programing whi
 This course is short, you can conclude it in a month, but you will learn a lot with the assignments in Python
 The course provided a good insight into some of the essential concepts with respect to vectors and matrices!
 This course provides basic insights about vectors and matrices and their analysis in multidimensional space.
-Permite ver claramente lo que potencialmente se puede lograr con la aplicación de los conceptos aprendidos.
 This course is a very good opportunity to introduce to the main concepts of linear algebra for data science
 the content of this course is really clear, but the assignment system about program needs to be improved.
 The course is great with really good teaching community , as a beginner it was a really good experience.
@@ -382,7 +378,6 @@ The course content is good, but the programming assignment is too easy.
 some topics are explained in a typical way and a bit problem was occur
 Its is the best course to know about matrices and their applications
 Exams were hard and most of the exams were source of the knowledge.
-excelente curso, me gustaría que se complementara con programación.
 Decent course. Wish things were explained in a more detailed way
 Good overview and introduction to key concepts of linear algebra
 Wish it was a bit more spontaneous but overall great content!!
@@ -397,7 +392,6 @@ not bad, I feel the information is not enough for ML
 like a building blocks for one step forward into AI
 Excellent Introduction to the concepts, Thank you!
 reasonably well constructed and presented material
-Good Course, Best Videos, Excellent Understanding
 well  made course for machine learning foundation
 Great course.Animation can be addes for pagerank
 Great way to build foundation in Linear Algebra
@@ -414,7 +408,6 @@ Prof. Sam is a bit hard to understand.
 good stuff hopefully, i will be useful
 i don't know , just finish it so soon
 a little bit hard for a beginner lol
-Veru useful Course in Linear Algebra
 All topics are taught very clearly!
 Really it was a very  nice course .
 Week 4 topics were a bit confusing
@@ -423,21 +416,14 @@ great recommended for everyone
 great intro to linear algebra
 greate course for beginners!
 Very intuitive and helpful.
-Nice Content and lectures.
 Should go more in details.
 good high level overview.
-quite complex but useful
 no lectures, only videos
 Great to relax and learn
 Good content, thanks.
 can be more detailed
 Pretty good course.
 thanks coursera....
-Good Understanding
-give more example
-A nice course.
-TOO long
-gfhf
 Amazing course, great instructors. The amount of working linear algebra knowledge you get from this single course is substantial. It has already helped solidify my learning in other ML and AI courses.
 I came to this course after starting other ML courses feeling the need to refresh/update the mathematical foundations to follow those previous courses. I have really enjoyed it and think of it as a great course in general.Having read some other opinions here I find it a little bit odd to read people complaining about the python tasks. If you come to a course like this one is because you are interested in ML so python is something you will surely be using, so learning a bit before engaging this course would be a first step.Regarding the maths, this course doesn't go in depth  in maths theorems and stuff like that, it explains in a visual way what you need and then use the maths to accomplish it.
 Professors teaches in so much friendly manner. This is beginner level course. Don't expect you will dive deep inside the Linear Algebra. But the foundation will become solid if you attend this course.
@@ -544,7 +530,6 @@ Great content, lecture videos are brilliant. I would make one suggestion; it wou
 This is a very good introduction and review of Linear Algebra.  The particular highlights are the use of geometric perspectives to give intuition rather than just labouring through the mathematics.  I also learned where I need to learn more in order.  Overall will recommend either as a review or a stepping stone to learning more about Linear Algebra.
 One of the best Linear Algebra [LA] courses for beginners/novices. It takes away the drudgery of algebra and formulae and tries to explain the "essence" of LA. This is by no means comprehensive LA course - but good enough for people who are fed up with "this is how to calculate the Eigen vector/determinant/<insert pet peeve>" mode of teaching LA.
 Brilliant course which helped me to re-learn/learn linear algebra methods for machine learning! The course instructor videos, course structure, worked examples and assessments were all extremely useful and allowed me to achieve my learning goals. I would recommend this course to anyone (but would maybe first suggest brushing up on basic python).
-Me parece un curso muy bueno, es básico pero la verdad hay que practicar mucho haciendo ejercicios y no conformarse únicamente con la información de los vídeos, si no, buscar otras fuentes para complementar. Para ser básico fue un desafío porque hay problemas que aparecen en los exámenes que requieren de mucho análisis. Vale la pena;  me gustó!
 This course has helped me to understand the basics of linear algebra and it's application in computer science. I was aware of mathematical calculations of the linear algebra, but I did not know reason and meaning of those calculations. I am grateful to Imperial College London and Coursera team for giving me opportunity to take this course.
 Awesome content and very clear lectures. Would be great to have links to more in-depth explanations of certain unexplained assumptions. For instance, it's unclear how the characteristic equation comes about (by assuming that the characteristic matrix does not have an inverse) and also why the page rank matrix is setup the way it is.
 I really appreciate staff of ICL's effort to bring us such an intuitive and straightforward course. It's totally different from those linear algebra courses I've received in China. From your idea on explaining this course on space and transformation, I started to build a strong foundation about linear algebra, and machine learning.
@@ -740,7 +725,6 @@ The course was absolutely fantastic except for the very last week, where I felt 
 I liked it!Good leturers who are really inteested in the subject. I've bben listening to lectures with much pleasure.Interesting assignments and quizes!Highly recommend the course.
 I'm impressed how good this course is. It provides lots of intuition, many examples and exercises about the topics and  Prof. Dye is a incredibly talented instructor. Thanks a lot!
 This course was very useful to not only revise the basic concepts from mathematics but also to start understand how these concepts are useful and used in Machine learning. Thanks.
-muy bien estructurado, los exámenes se disfrutan debido a que se entienden los conceptos y las preguntas con conseptualmente profundas, no los intentes si no has visto los vídeos.
 I'm really glad that i took this course rather waste my time on binge watching.I gave me a strong intuition about the operations and manupilaiton of matrix and coordinate systems
 The course is very good only thing is you have to spent some quality time to understand in deep why linear algebra is more important and how does it involved in machine learning.
 I am new to this platform...I would have liked to have the option for the system to accept lower grade (60%) if I don't have time to do 80% but have general idea on how to do it.
@@ -785,7 +769,6 @@ great class, only focused on the core concepts of linear algebra, and try to bui
 you must do this course...the best course to learn mathematics behind machine learning. Look no further.This is an amazing million dollar course for data science
 Easy to get the concepts of Vectors, Eigen Values, Eigen Vectors, and Page Rank algorithm. I can now implement some algorithms which needs matrix manipulations.
 Great content, clarity and visualisations. I found this course extremely useful, it gives me fundamentals to understand more advanced machine learning problems.
-El curso desarrolla varias herramientas importantes para el manejo de vectores y matrices enfocadas en aplicaciones de Machine Learning. Es bastante intuitivo.
 This course is a must for all the people who wants to go deep into machine learning and data science as this covers the prerequisites of the courses available.
 It is highly recommended. Very useful to those who are interested in AI and ML and looking for deep dive. Thanks very much coursera and imperial college London
 Brilliant course, thought intuitively and had a significant impact on my perspective in viewing transformation and other operations related to linear algebra.
@@ -900,7 +883,6 @@ A beautiful course to give you an insight about the geometric interpretation of 
 One of the best mathematics course in Coursera. Probably the best introductory course for mathematics in Machine Learning.
 It' like I am learning the vectors and the concepts of linear algebra with much more efficiency knowing where to use them.
 Really loved every moment of this course. The intuitive understanding you get from this course is priceless in many ways.
-нормальный курс, базовые вещи по линейной алгербре рассказаны, объем небольшой но то что рассказывается - весьма доступно
 Awesomely interactive and renders decent coverage of subject.. would recommend it for every ardent learner of the subject
 Superb course for revising the old concepts and learning new concepts, showing geometrical and arithimetic point of view
 Great course. Good use of animations during the lectures. The notes in the python projects help if you're new to Python.
@@ -941,7 +923,6 @@ Really nice courses. The way combining the learning and practicing really impres
 Excellent! each video and the instructors walked along with us to show the amazing Linear Algebra Core Concepts!
 The course is great. Assignments really help me understand more clearly of what I have learnt from the lectures.
 Excellent course, really good for students seeking to understand mathematical concepts behind machine learning.
-El curso es muy bueno. funciona muy bien a manera de repaso si ya antes has llevado un curso de álgebra lineal.
 Excellent introduction to linear algebra for ML. Very intuitive examples and conceptual understanding of maths.
 Fantastic course - not too hard, not too easy but covers a fair amount of material and in a very intuitive way.
 good teaching . but felt it should be more of animative  teaching so that we can understand the topic in detail
@@ -1051,7 +1032,6 @@ It was to the point and intuitive to learn the this course and the exercises are
 This course helped me to attain a sound knowledge in Linear Algebra. Thank You professors!
 Very interesting course! Examples are practical and closely related to data science topic!
 This course is amazing for the beginning of machine learning with the base of mathematics.
-Excelente curso bien explicado de la utilidad del álgebra lineal. básico pero interesante.
 Pretty basic, but nicely executed. Practically going through the basics of linear algebra.
 It is a nice course with understanding focused over procedures and mathematical exercise.
 This course and Grant Sanderson's youtube videos can make anyone superb at Linear Algebra
@@ -1067,7 +1047,6 @@ Good Course! Helps to visualize the Linear Algebra and it's application in Data 
 Since I haven't been doing linear algebra after college this course is a good refresher!
 This is a mind-blowing course, very informative and takes your skills to the next level.
 I very friendly introduction to linear algebra that makes you fully comfortable with it.
-demasiado bueno el curso, la manera tan facil como explican y lo hacen ver los docentes
 A truly beautiful course, that builds an intuitive understanding of the basic concepts.
 This s course is very essential to study further neural networks and machine learning .
 Vectors and matrices were always confusing to me, this course cleared all my confusion.
@@ -1117,7 +1096,6 @@ I want Thank you Coursera and Instructor for adding the values in my knoweledge
 Great course! It teaches Linear Algebra in a fun, easy(ish), and effective way!
 Thanks Coursera and Imperial for the awesome instructors,  material and content
 damn good! i love David Dye and sam cooper teaching approach and explanations!!
-Excellent contents, explanations and practice quiz and programming assignments!
 Nice to learn math for machine learning and it's nicely design course for that.
 This course is amazing. The concepts are difficult but the effort is worth it.
 It gives me eyes to see everything in the world can explain by linear algebra!
@@ -1157,7 +1135,6 @@ This is an intensive but very useful course of stepping stone to ML Math
 perfect recap of necessary terminology and math algorithms, great course
 Well designed for students who want to understand Linear Algebra for ML.
 Clear explanations by the professors and good guided hand-on practices.
-جدا ممتاز ولكن احيانا الكويزات لاتتواافق مع حجم معرفة المهارات البرمجية
 Very good to learn the intuition behind so many matematical operations.
 Gave a nice intuition to the subject and that was exactly what I needed
 Well presented, easy to follow and very good explanations and examples!
@@ -1168,7 +1145,6 @@ Highly recommended for anyone who is starting out in Machine Learning.
 I read the linear algebra in my first year but I understand it now....
 Great teacher, great course, easy to understand but still challenging.
 it was really good and helpful. bright lecturers and amazing contents
-Excelente curso! Se aprenden cuestiones de mucho interés y relevancia
 Outstanding course, great teachers and beautiful visualisation tools.
 Awesome course. Could be improved by having more guidance on homework
 Great course and taught me insight into why linear algebra is useful!
@@ -1189,7 +1165,6 @@ Very good very clear. Begineers will definitively have a take out.
 The assignments were hard ,but learned good amount of information.
 Excellent course, with a great team of well-motivated instructors.
 Demanding but worth it. You have got to mirror the bear to see...
-Si colocan subtitulo en español seria fantástico.Excelente curso.
 Intuitive explanations rather than jargons, very enjoyable course
 I really enjoyed this course. This was a good refresher for my LA
 Very clear quick browse through some concepts from linear algebra
@@ -1215,7 +1190,6 @@ Amazing course. I'll take it again, and again, and again :)
 Very good all around.  Good material for me.  Good teaching
 The instructor does a great job at explaining key concepts!
 It gives a great visual intuition on linear algebra topics.
-讲的很好，就是因为语言问题有一些不理解，另外pagerank那个还没理解，但是快到期了，没办法，比较7天的试用期太短了
 Awesome way to quickly revise some linear algebra concepts.
 Informative and concise course. Good pace and explanations.
 Very practical and dynamic tutorial of linear algebra. thx.
@@ -1240,7 +1214,6 @@ great course. gave me lots of intuition of linear algebra
 Good balance between presentation and excellent exercises
 The hands-on learning on web page ranking was insightful.
 Very interesting course. I enjoyed learning this course.
-Excellent presentation, practice quizzes and assignments
 Exceptionally Good..With highly experienced instructors.
 nice intro to the linear algebra world and relevant code
 Really good course, help me to understand linear algebra
@@ -1312,18 +1285,15 @@ Easy course, if you are an engineering student
 Need to provide more examples and explanations
 Awesome course with great learning experience!
 greate course! really clear and well teaching!
-Essential recap and practical implementations.
 I am in last week and till now it is the best.
 The best linear algebra courses I ever learnt！
 great instructors!great learning!great course!
 It was good experience. I enjoyed this course.
 A perfect course to start with linear algebra
 one of the good course about machine learning
-Excellent course! Enjoyable learning process.
 Awesome introduction to LA!Very good content!
 very useful! changes the perspective of math.
 Truly exceptional course. Strongly recommend!
-Excellent course. Well designed assignments.
 Very Good Course. Instructors are excellent.
 Excellent course with fantastic instructors.
 The materials and the lectures just awesome!
@@ -1339,7 +1309,6 @@ I learnt new concepts and enjoyed learning
 Great video production, clear and concise.
 Terrific! That is very easy to understand.
 Good for studying basics of linear algebra
-Very easy to understand, even for beginner
 Good course to start learning math for ML.
 Really nice introduction. Highly recommend
 Nice introduction course! Worth doing it.
@@ -1347,8 +1316,6 @@ useful lectures for growing our knowledge
 one of the most amazing must have courses
 thanks for explaing the things very clear
 Excellent introduction to linear algebra!
-Хороший курс, проходится на одном дыхании
-Excellent course ,i had  been enjoy lots.
 Simply excellent and highly recommended !
 Very challenging yet extremely beneficial
 Builds intuition. Prof. David Dye rocks.
@@ -1368,7 +1335,6 @@ nice course and very clear explanation
 I think the last week is too difficul.
 Well designed and application oriented
 programming assignment could be better
-기초 선형대수 개념을 잡아가는데 아주 도움이 되었습니다. 감사합니다.
 thank you very much for your pure work
 It's really a very interesting course.
 Wonderful and challenging experience.
@@ -1391,7 +1357,6 @@ Awesome explanation of each topic!!
 Excellent journey to review maths.
 Great course!! Highly recommended!
 Assignments are fun and practical.
-Hat Spaß gemacht und viel gelernt!
 Crisp and to the point, Liked it !
 Excellent Presentation of material
 Great Course!  Great Professors!..
@@ -1419,7 +1384,6 @@ A great course in a good series
 It was a stone groove, my man.
 different learning experience.
 Very professional and complete
-Muy bueno, se aprende mucho...
 Very useful, thanks very much!
 just one word " Knowledgesome"
 Great course and instructers.
@@ -1434,22 +1398,16 @@ it was an excellent Course.
 I really enjoyed the course
 Good Explanation and Useful
 I was a invaluable course.
-Excellent course. Thankyou
-Enfocado a lo que debe ser
 Thanks for a great course!
 Very good and fun course.
 I found what was promised
-Excellent Course Overall!
 Great practical Knowledge
 Good course.  Enjoyed it.
 Good course and teachers.
 Great and useful content
 Great Overall Experience
-与国内的课程不同，教你从几何的角度理解线性代数。
 Great course, I loved it
-Good value against time
 Great job thank so much
-A Must for ML enginners
 IT'S BEST COURSE I HAVE
 Very Good Math Lecture!
 short and informative !
@@ -1462,35 +1420,25 @@ High-quality teaching.
 Very clearly explained
 Very, very accessible.
 Awesome Instructors!!
-excellent assignments
 Awesome presentation.
-Altamente recomendado
 Great quality course!
 Good intuitive intro.
 A well worthy course
 Really Great course!
 Brilliantlyexplained
 its vary good course
-Excellent enjoyment!
 Very nice opertunity
 David Dye the best!
 Interesting subject
-讲得很清楚，视频内容的展示方式也很独特
 nice of mathematics
 It's really useful!
 Great course!!!!!!
 Great instruction.
-week 5 was amazing
 Good refreshing!!!
 It is very nice..
-great material <3
 Unbelievably cool
-just exceptional.
-Excellent Course.
-Brilliant Course
 Well Structured!
 Simply Fantastic
-Very very good !
 Learnt alot..!!
 Good Refresher.
 Amazing class!
@@ -1500,15 +1448,7 @@ Nice teachers
 Thank You Sir
 Really cool!
 GOOD COURSES
-Got momentum
 Pretty nice!
-learnt alot
 Great intro
 It is hard
-Muy aspero
-(๑•̀ㅂ•́)و✧
 NIce One
-可以听得懂的课程
-epic
-Osm
-j

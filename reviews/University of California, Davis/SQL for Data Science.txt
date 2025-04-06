@@ -48,7 +48,6 @@ Some of the quizzes do not make sense and I have to select something that is wro
 I finished the first course in the series, however it quickly became apparent in the second course that the instructors are unprepared and the assignments are thrown together without student learning as a priority.  If you want to learn SQL or Database systems, I highly suggest taking "Modern
   Big Data Analysis with SQL" from the CLOUDERA team and  "Data Warehousing for Business Intelligence" from the U Colorado team.Both of those course paths are much more informative, structured, and up to date.  You are wasting your time if you choose this path.
 The final project assignment is a bit of a mess. Some of the questions are very unclear, and the database provided is incomplete in ways that make it hard to address some of the questions. I also found the lecture format and materials frustrating. I learn much better by reading and by being able to go back and reference materials, but that really isn't possible in this course -- the doesn't contain any of the actual code examples and is often really vague.
-Hola, no es tan bueno que no puedas correr código mientras aprendes con ejemplos.
 I felt the course was put together in a hurry.  There was a lot of information that was incomplete or just plain incorrect.  The assignments were even more vague than I was expecting.  OTOH It does lead you through learning very basic SQL.Too much focus was given to SQLite which is not an industry standard.  Perhaps using a free DBMS like Postgres or MySQL would have been better.  Are there any interactive T-SQL or Oracle engines that could be put in a box like the SQLite here?
 This is the first course from Coursera that I didn't like at all. For absolute beginners is not suitable. There is only theories and somehow boring because there isn't any examples to do at the same time to understand the content better. I recommend to add more examples to the weekly courses like the ones for the final project so we can understand the theory more.
 It stars strong, but on weeks 3-4 it lacks comprehensive examples and guidelines, and that makes you feel lost. Also, the final assignment is very hard, and it asks things in a non-comprehensive manner, which makes you spend a lot of time until you understand what they are asking you.
@@ -86,7 +85,6 @@ There are few examples about every lesson, and may not have examples for some le
 The presentation and speaker
 Not the best for beginners
 Didn't like the teacher.
-Too hard
 Great for complete beginners. +) Video tutorials + coding practices in controlled, sandbox environment. +) No need to install anything. You can complete everything in browser view. -) Quiz and exam questions are poorly written; they are unclear and unhelpful.  -) Quizzes and exercises are also far an few between. You need more frequent exercises. -) Nobody will answer your questions. But that's ok. You will still learn the fundamental concepts and you will pass the test. Overall, this course is good as a very first step in a safe and clean environment. If you want something in a more real environment (say, integrate with Python), you will need to take another course.
 This is not a course. It is a presentation of material. The version of SQLite that is provided does not support the important and flexible functions that SQLite normally supports.The material covered is very very very basic. I do not recommend this course as there are more efficient methods of getting an introduction to SQL.
 As a beginner, the course is easy to understand and follow, and the course teaches a lot of useful commands. However, I think the course still has a lot to imrove. Some codings in the lectures have problems (e.g. lack ','). When introducing new commands, the teacher did not show the running results of the coding example. I also think the course lacks some application in the real world. Maybe providing more real business cases will help students understand better about when some commands will be applied.
@@ -136,7 +134,6 @@ This course is great at getting you started in SQL. The complexity of the assign
 I think this course does not provide opportunity to learn sql practically. It only gives the theory of sql language, which I think is not sufficient to get the whole idea. Another thing, the quiz and questions are way too harder compared to the lectures provided.
 I think some parts are not explained well and lack of examples, furthermore complicated topic are treated  fast and easy topic are treated in a deeper way. I found myself in difficulties and there isn't a way to ask a mentor more infos about the topic.
 This is a basic SQL course. I'm not sure why it is called "SQL for Data Science" other than that is a catchy title. I took this course to refresh my SQL skills. It did give me an idea of where I am weak, but I don't feel I achieved my objective.
-El curso fue muy básico. En mi opinión hubiera sido mejor si los contenidos de las semanas 3 y 4 fueran más prácticos.Las preguntas del examen final tenían una redacción muy pobre y ambigua, y no había mentores encargados de solucionar dudas.
 After the 2nd week, the instructor just introduces new concepts and does not explain the working of the algorithm. Also, more or less the video length should increase and more examples should be discussed.Overall the course is great !!!!
 Quizzes and assignments require a lot of knowledge not actually covered in the course forcing you to search for information elsewhere.Questions are not clear in many tests creating incorrect answers which are not of the learners fault.
 This course is okay but I feel like they need more practice queries not just a test and you never got to try it before also the questions need to be better explained. Other than that I feel like I did learn the basics of SQL
@@ -190,7 +187,6 @@ A really good course, but the forum isn't that great.
 Quiz and graded materials not available for free.
 Too much theory and very little or no practice
 Good general basic introductions.
-Soso
 Pretty decent introductory course to SQL.Pros: Quiz and coding assignments are good, overall speaking.Cons: (1) The instructor usually spends lots of time laying out the learning objective and the background info. (2) Too few examples. (3) Too few coding tests. Ideally, put one quick test after each video for students to get their hands dirty as soon as possible rather than wait till the end of the module. (4) Provide summary pdfs which summarizes the syntax the module covers. (5) Provide answers to the coding questions.
 The course met my expectations as someone with no real prior knowledge. I now feel much more confident. The  lectures were well structured and the were a good amount of exercises. THe only reason I am giving the course 4-stars is due to the final exercise. Some of the questions were vague/not worded clearly enough. I had to dig through the forum to try to understand the questions.Overall I would recommend this course!
 The Content of the course is good, quizzes are fine, but the final project is a total mess up, inconsistent and don't contain the course potential, so you won't be able to apply the knowledge by doing it
@@ -273,7 +269,6 @@ The course is very good for a sql starter to get to know the coding world. I wou
 I like the overall look, feel, and organization of the course. It was well paced and simple to understand. I struggled at times with coding questions as some are very ambiguous and there isn't always an easy way to find guidance in the forums. Overall, though, I was very pleased.
 Overall a good course for the starters in SQL in Dtaa Science filed, however I felt it could be some more hands-on oriented with some more examples, and it was mainly of lecture contents, rather things could be shown visually for a better understanding. Thank You for the videos.
 Would have loved to see more live videos of how to do stuff. There could have also been an SQL initial setup tutorials in the system which would have been more beneficial on how to setup a relational database. But, I was able to learn the basics of SQL and how it works overall.
-Buen curso que permite aprender SQL de forma rápida y eficaz cuando buscas mejorar tu CV y obtener habilidades necesarias para el sector de análisis de datos. La última prueba es un poco compleja...¡dedicale tiempo! No te copies de los github que puedas encontrar en la web ;-)
 Very good course for beginners to start and specially for people without any programming background. The assignment provided at the end of every module give a very good exercise for practice. Only thing is some real life examples could also have been included in the lectures.
 I really appreciate the way SQL is taught in this course. The only limitation is that if the coding given by the student does not match the coding in the answer , then it is displayed as incorrect. However the coding might be technically right and generate the same output.
 The amount of content that is covered in this course is very comprehensive. The videos are precise and very useful. The practice tests and weekly assignments are very helpful. The peer review assignment was very poorly worded and ambiguous. Other than that good job guys !
@@ -345,7 +340,6 @@ The course is interactive and apt for beginners. The pace is perfect. The flow o
 Sadie did a great job with explain SQL concepts. Only thing I didnt like was peer review assignment for which I had to beg people to review mine to get mine graded.
 This course is extremely helpful,4 start for that.Only if it had assignments along with the sample data to measure the range of our learning will be much helpful.
 Lectures build at a slow, comfortable pace, but be prepared to discuss things on the message board, and read classmates' comments, or the quizzes will rock you.
-Es una excelente introducción al uso de SQL para consultas sencillas, uniones, etc...Me encantó la verdad, un excelente trabajo por parte de los organizadores.
 Great Course and instruction. Gave enough information to easily get started and also many resources to help increase your knowledge. Assignments were relevant.
 I wish there were more practice exercises in between the videos. It would also be more helpful if there were more visuals/animations to accompany the lessons.
 More exercise will be much better. For now, it is not enough for the learner to apply their skills learned in this course so they cannot master their skills.
@@ -358,7 +352,6 @@ Great course, but maybe could use a bit more practice materials between lectures
 I think the course is a very good overall complement while learning SQL, one thing I would like to see it some type of a live coding real problems.
 Everything was fine and easy to follow. Unfortunately the final exam question's were not really clear and easy to unterstand, so this makes it 4/5.
 Perfectly prepared. Some tasks in the assignment were boring and tedious (listing number of rows for all tables; getting the non-null attributes).
-El curso fue muy bueno, muy claro. Aún así me parece que estaría bueno agregar más ejemplo en los videos, principalmente para las semanas 3 y 4.
 A good introduction to SQL with interactive videos. Maybe I will improve the playground a bit so we can practice more queries along the process.
 Goor refresher or basic start. Personally I found the use of http://www.sqlitetutorial.net very hepful for this course, more so than the slides.
 The questions in the final assignment were quite difficult to understand and the overall course took longer than the estimated amount of hours.
@@ -368,12 +361,10 @@ The course was a great introduction to SQL and the peer reviewing process is a g
 Worth doing. Perhaps i missed more elaborate query examples and devote more time to the creation and  reading of other (external) databases.
 I think videos should have more information, as some questions are such that finding answers is not straight forward. But very good course!
 The final assignment, at certain parts is not very clear maybe it's time to update it based on review and repeated question from the forum
-Bon cours dans l'ensemble. Bonne structure et plutôt pédagogique, mais le test final est un peu compliqué par rapport au matériel couvert.
 Overall good, the questions in the assessment were confusing at some points. I would look at editing those to be more specific to the ask.
 Nice course with good pacing. Though it is a bit simple and going through other functions like window function will be really useful.
 Lectures should be more engaging and easy to visualize.Some parts of final assignment were vague.But I learned a lot,that's for sure.
 It was good for who start the learning for the 1st time.For the beginners it helps a lot for their skill to understand and to learn.
-Puede mejorar en la cantidad de ejercicios prácticos que sea realizan durante el curso, esto facilitara la dinámica de aprendizaje.
 Some glitchy issues with the quizzes, etc. and some funky results in the rubric for the assignment.  However, overall quite useful!
 The Course content is awesome. The instructor explained the SQL concepts very well. Best place to start with SQL for Data Science.
 Overall it's excellent. However, there is no introduction to the software installation and this frustrates me a lot as a beginner.
@@ -433,7 +424,6 @@ more practicals to explain the concept will be better rather than theory. please
 Really nice course. Concepts are very nicely explained. Love the lecture delivery of the Instructor!
 The Course should be in more detailed as few topics are too hard to understand in 4-5 minutes video.
 An intensive, challenging but very useful course for beginner level to build up essential technique
-Ich konnte sehr viel Lernen, und das gelernt anhand von nachher kommen den Übungen direkt anwenden.
 Excellent, but needs more material to practice coding. It's hard to practice if you're new to this
 Course need more example and practice and also try to make it more fun. It is a little bit boring!
 Concepts are clearly explained. But video tutorials might not be good enough for practicing coding
@@ -486,7 +476,6 @@ The difficulty level of the peer-graded assignment should be less.
 Week 3 is not clear at all. The other 3 weeks are well explained.
 SQL course was very informative and useful to start data science.
 This course was very informative and refreshed all basics of SQL.
-VERY SIMPLE WAY OF LEARNING AND ITS VERY GUD FOR SLOW LEARNER TOO
 The introduction to "aggregate function" should be more detailed.
 It is good to learn the course very for data scientist aspirants
 the course was awesome with clear and best possible instructions
@@ -548,7 +537,6 @@ Course is satisfactory for beginners
 best and simple way of teaching sql
 Nice. Could include more examples.
 Great course, I have learned a lot
-GOOD FOR BEGINNERS IN DATA SCIENCE
 waiting for peer review is a pain
 It was very helpful. Thanks a lot
 It would be great helpful for the
@@ -560,23 +548,15 @@ The course was very engaging
 Great course for beginners!!
 Need more query assignments
 This course was really good
-A real great experience :)
 Nice Course for beginner
 its a very good course.
-Overall pretty useful.
 we need more examples
 It was really good.
 Was a Great course!
-Good for berginner
 more coding please
-Good for beginner.
 good to begin with
 Very food course
-Nice course. I
-Bom curso.
-Nice start
 Its GOOD
-Solid.
 Eas
 This course has really helped with optimizing queries that I work with everyday, enhancing my understanding of RDBMS, joins, analyzing and structuring exactly what you need and yielding those results.
 This course is designed with beginners in mind, and it is an excellent introduction to SQL. I intend to further my knowledge of SQL after taking this course. The instructor did a terrific job.
@@ -669,7 +649,6 @@ Learning this has been fun, specifically the way this course is designed and the
 The course is quite comprehensive and understandable. Although the lecturer explains in a very slow fashion, it doesn't really bother me since we can speed up to 1.5x. I really like the final project that we have to solve but there are a few things to be improved: It's better to make a system that we can write queries directly while listening to the video.
 I enjoyed this course and really learned a lot. I loved being able to go at my own pace and start the course over if my schedule was too busy. You can do practice quizzes as many times as you want and you are given opportunities with extra time to redo your quizzes. This format gives you a great opportunity to learn and at your own pace which was awesome.
 This course has an amazing structure. It allows and highly encourages to think like a professional and provides resources that allowed me not only to pass the course but will also be relevant when I move ahead in this skill and career path. The assignments are also very well designed. Passing the final assignment gives a lot of confidence in the subject.
-Muy buen curso para empezar a tocar SQL. Tanto las pruebas intermedias como la final te ponen contra las cuerdas y te obliga a utilizar casi todo lo aprendido. Si no has programado nunca o empezaste y lo dejaste te aconsejo tener algo de paciencia para completarlo. Entender cada video y cada paso que das. Sin lugar a dudas escogeré el siguiente curso.
 The concepts in this course are explained very well and are very descriptive. They are taught step by step and she also gives an explanation as to why we use these concepts and why theyre important. I was able to delve deeper into SQL and was able to acquire the basics in order to solve real life SQL problems. She is one of my favourite instructors!
 Even though this course is aimed at beginners, the assignments encourages a person to do some additional research. This simulates how a person should continually research and explore to enhance one's knowledge and experience. The final peer graded assignment was fun. Make sure you allow enough time to spend on it and you will reap the rewards.
 Really great introductory course to SQL. I highly recommend taking this course for those who have little to no experience with SQL. All of the course work and material was easy to comprehend and very digestible. In addition, the quizzes and assignments were great supplemental exercises to reinforce the concepts that were taught in the course.
@@ -831,7 +810,6 @@ the teaching is really good but I when did the final peer review quiz , i fount 
 One of the most transparent and easy to follow courses on SQL! Thanks very much, I wish there was a whole specialization so I could continue with the same pace.
 Amazing course, it gives you a clear vision of how to use SQL in data analysis. Also, the instructor is very clear and give a lot of good complementary material
 The course content was good and educative. The quiz and coding exercises are challenging to the point of enforcing your brain to register what you have learned.
-Excelente curso. Se aprende de manera sencilla y se termina programando SQL con soltura. Eso sí, hay que trabajarlo y recomiendo encarecidamente tomar apuntes.
 One of the most important skill that is required these days . The course was very nicely planned ad all the key concepts were nicely explained by the teachers.
 Awesome class, learned a lot!! I was a complete beginner in SQL and I feel like I have learned some advanced syntax. The quizes and final project were awesome.
 Great class.   The time estimates I thought were understated especially for week 3 and week 4.   Budget yourself plenty of time for the 2nd half of the course.
@@ -896,7 +874,6 @@ Great course for beginners! Great instructor, explaining concepts clearly. It is
 I really learned a lot in a short time. This course is a great start if one wants to learn SQL. I can absolutly recommend this course!
 The course provide basic solid understanding how the querying work.I would recommend it to everyone who wants to get great background!
 Excellent intro to SQL.  I've already recommended it to my Operations manager as a pre-requisite for read access to our SQL databases.
-Excelente curso!!! Aprendí muchísimo sobre SQL en este més de curso y quedé muy interesado en seguir capacitándose en "Data Science".
 Very well expalined, intended mainly for anyone which does not have any prior understanding for either SQL language or data analysis.
 Hi their. I liked the course a lot and the faculty was very understandable. She teached everything with live examples . loved that!!
 very nice introduction to SQL, in very few steps got me from my 0-knowledge to being able to understand DBs and run complex queries!
@@ -917,7 +894,6 @@ great introduction course for SQL, devoted lecturer, good teaching style, suffic
 The assignments were fun and helpful in learning SQL and presentational slides were also very clear and effective for learning.
 This course was very good, easy to follow and understand. The quiz and coding tasks were useful and made it easier to practice.
 This is a very good introduction to those who are unfamiliar with SQL and I've gained a lot from it. Thank the course team !!!
-Pembelajaran dalam coursera terutama topik SQL For DataScience sangat mengasyikan,karena penyajian kursus yang begitu menarik.
 It's a fun course to learn and introduces you to a simple, easily used programming language that is used everyday in industry.
 easy to understand with hands-on on examples and this is from someone who had never worked with sql or coding software before!
 The course was very well designed, and a good intro to SQL. I am looking forward to advanced SQL courses in the coming month!
@@ -939,7 +915,6 @@ It's  a great and fundamental sql course. The only advice is that if some proble
 I find this course good and provides detailed information for beginners who want to venture into the data science field.
 This course empowers you with all the basic SQL understanding one needs to have to kick-start their Data Science career.
 the material is presented in a convenient format, the course content includes all the necessary knowledge to get started
-Me siento muy afortunado de haber participado en este curso. Conciso, introductorio, bien diseñado y muy bien explicado.
 I'm very happy with all of the content in this course. Sadie's video lessons are nothing but great and very informative!
 Well the examples were very accurate for the course. I liked the final assessment specially it was a very good practice
 This course positively surprised me; the content is excellent, and i am already applying all that i learned from Sadie!
@@ -978,7 +953,6 @@ It Was fantastic online course i ever took...Thanks To mam'am Ms. sadie St.Lawre
 A great course which not only introduces you to SQL but also teaches you the different applications of SQL.
 Good Course, If you are a beginner a lot of effort has to be put but all in all excellent way to  teach SQL
 This course is really great to study the SQL and it will help to used for professionals as well as students
-Es un curso bastante completo para aquellos que se inician en este mundo de SQL así como Ciencia de Datos.
 the content of this course is ver solid and the lecture always can explain some basic concept very clearly
 Course is really very good. Content is well organised, takes you through the concepts. Excellently taught.
 The instructor's ability to reveal the content of the subject was really good. Best course for beginners.
@@ -997,7 +971,6 @@ Highly recommended for everyone who wants to know basic of SQL as well as use of
 The facilitator is so great! I love her voice. I have learned a new skill for data analysis. Thanks!
 Solid overview of SQL for beginners and practical assignments/tests to go with it. Highly recommend!
 Great course for beginning SQL knowledge. I use all of the concepts at work which this class covers.
-Uma breve passagem sobre todos os principais topicos da programação SQL. Excelente para iniciantes.
 This course is very useful one can start their carrier into data science after learning this course
 This course was really useful. It gave me a good base to understand and start using SQL at my work.
 Excellent course to start with SQL. You have to work hard to solve coding questions and final exam.
@@ -1005,7 +978,6 @@ it very well-formatted for beginners. The instructor is also good and community 
 Learning SQL for Data Science is very interesting. I learned a lot of new things from this course.
 This course is enough for Data scientist. All important sides are taught by course.  Thanks a lot.
 Amazing content, Amazing teacher. Learned core concepts that are helpful with real world examples.
-Muito didático e incentivador! Dispõe de muitos exercícios. Ótimo principalmente para iniciantes!
 Very helpful for SQL beginners. The course content was good with proper SQL queries and examples.
 Sadie has been a great professor throughout the course. The course of course was amazingly good.
 I like this course, it's clear. The assignments help me to use and exercise what i have learned.
@@ -1033,13 +1005,11 @@ I'm very glad that I took this course. It wasn't easy but all was understandable
 Very well taught. This is a good intro for learning SQL and I had fun doing the assignments.
 This was an excellent course for someone who wishes to either brush up or pick up SQL/SQLite
 Great course and nicely explained. I was able to understand it from the beginning. Thank you
-Me gustó mucho, excelentes presentaciones y me motivó a continuar aprendiendo más sobre SQL.
 most important thing which i feel in order to get thing very powerful is kind of assignment
 It was a brilliant tutorial.Thanks to Sadia st. lawrence for making such wonderful videos .
 This is a really good course for beginners.Well explained and easy to understand.Thank you.
 This was a really good course! It was comprehensive and thorough. Truly truly great course!
 It will be a good start to SQL, but you will have to invest some time in order to catch up.
-Excelente curso de SQL! Da muchas herramientas para poder usar SQL de una manera integral.
 Sadie is a great instructor, clear presenter and holds immense knowledge for data science!
 best mam and teaching pattern , will like to join many such courses that mam will conduct
 Amazing course with just the right difficulty! Enjoyed learning and will sure continue...
@@ -1103,11 +1073,9 @@ Great for someone looking to get into basics of SQL and data science domain.
 Awesome teaching. Number of example could have been more to give the concept
 The best course to learn deeply SQL, lots of exercises, and practical quizz.
 Thanks to Sadie for making this SQL course so simple & fun way to learn . :)
-100% recomendado tanto para iniciar como para afianzar conocimientos en SQL
 Fantastic SQL course I like the way of explaining with practical knowledge.
 Absolutely loved the course. Strongly recommend this course for beginners !
 Course is little lengthy, More information is required about the assignment
-Curso sensacional. A professora é excelente e o material muito bem montado!
 Awesome facility for the course, excellent explanation and best question .
 Excellent course. Very good coding exercise to test knowledge acquisition.
 Thank you for your work) I hope to see each other and work on your team :)
@@ -1136,7 +1104,6 @@ Nice for basic SQL, I learn a lot about detail query and how to use it.
 A lot of practice on how to retrieve data and really good explanation!
 AHHHHFELT AWESOME , ALL CONCEPTS RECALLED AND IMPLEMENTED SUCCESSFULLY
 Excellent!! Only if the  pratices follow each chapter would be better~
-Muito bom para quem está começando, mas tem um mínimo de conhecimento.
 This is a very good course for the beginners. I recommend this to all.
 Very usefull course for everyone who want to use SQL for Data Science.
 Really good course! SQL from basics with good explanation of concepts!
@@ -1158,17 +1125,14 @@ very good course content and presentation. very helpful! Thank you!
 I learned a lot from this course! The content was clear and useful!
 It exposes me to first-hand practical training on database analysis
 Excellent introduction course for those who know nothing about SQL.
-Простой, лаконичный курс с практическими упражнениями, всем советую
 I've got a primer in the fundamentals of SQL and working with data.
 Great overview and also review in case you know some SQL beforehand
 Well structured course, good examples, and excellent presentations
-Muy bun curso y explicaciones claras y eficaces teórico-prácticas.
 This is a great course with amazing tutors and learning materials.
 Very Great Course, Learn lots of thing about SQL and Data Science,
 FABULOUS COURSE AND THE WAY THE FACULTY TAUGHT IS  VERY IMPRESSIVE
 Its been a wonderful experience in learning sql in a different way
 great course! Very complete syllabus, explanations, and homework.!
-Excellent cours pour bien comprendre le SQL Je recommande vivement
 I didnt recieved my cerificate ,Kindly provide my certificate ASAP
 Such a great course. I enjoyed it a lot. It is absolutely worthy!
 The course is very helpful for beginners like me. So thanks a lot
@@ -1185,11 +1149,9 @@ Its a very useful course to study about the fundamentals of SQL.
 she is great teacher and knows how to explain everything easily.
 very well explained course.I have learnt a lot from this course.
 Excellent lectures from Ms Sadie, good pace and good entonation.
-Curso de muy alta calidad, videos y foros muy bien documentados.
 Excellent way to continue to develop SQL and Data Analyst skills
 Really easy to understand and just the right amount of material.
 I liked this course alot and the instructor was also very good.
-Excelente curso, enseña las bases de SQL de una forma sencilla.
 Thank you a lot! I started new steps to make this world better.
 The assignments in this course make me understand SQL perfectly
 Excelent course with a very good content an a great instructor.
@@ -1205,7 +1167,6 @@ great teacher and great platform to learn sQl for DataScience
 A lot of great information. Look forward to the next portion.
 Very Helpful for anyone who would like to start learning SQL!
 Really helped me move from academic research to data science.
-Excelente introducción a SQL y también la explicación.Gracias
 Interesting content delivery carried out in logical sequence.
 Sadie is very well-spoken and keeps the material interesting.
 this course was excellent for basics in sql for data science,
@@ -1214,7 +1175,6 @@ Was a great course! provided great basic knowledge of sqlite
 Everything is really good. I love my teacher and her's voice
 I am confident now, I am ready to do it myself. thanks a lot
 Great course, i learnt a lot of interesting stuff and skills
-Es lo que se necesita para un investigador o Data Scientist.
 I have learned many essential thing to enhance my knowledge.
 One of the best courses out there to learn SQL from scratch.
 great lesson !! it show me a lot of differences between DBMS
@@ -1223,9 +1183,7 @@ Great course! I definitely have a solid SQL foundation now!
 This is an outstanding course for people who are new to SQL
 Thank you !! That  was a really great learning experience.
 love the teacher, everything's super great! Learned a lot!
-Excellent course, content and exercises.Highly recommended
 Excellent course! It was covered all of the topics in SQL.
-Exceptionnel, simple, intuitif et passionnant comme cours.
 The course content was good and it was easy to understand.
 Great course content and clear to understand. Thank you ..
 Excellent course that allowed me to apply my SQL knowledge
@@ -1237,14 +1195,11 @@ Very Nice getting through this course and very helpfull !
 Great course... Fast, clear and with interesting projects
 its wonderful, easy to understand.the trainer was awesome
 very easy-to-digest but comprehensive cover of SQL basics
-Excelente, aprendí cosas que me serán de mucha utilidad.
 Very good friendly teacher, gives enthusiasm to learn ..
 This course really helped me in getting expertise in SQL
 Well structured and clearly explained course, thank you!
-Buen curso para iniciarse en uso de SQL. Bien explicado.
 Easy to understand and is a good for further development
 An excellent course to build a strong foundation in SQL.
-Один из лучших курсов на платформе, очень много практики
 It's  great course, i've learned more from it. Thank you
 Great course for beginners and intermediate SQL writers.
 Great refresher in SQL and data science working  methods
@@ -1255,7 +1210,6 @@ very nice instructor. step by  step to teach SQL basic.
 A great course to learn the basics of SQL, using SQLite
 One of the best courses to brush up on your SQL skills.
 Easy to understand, good explanation , nice review test
-Práctico y sencillo para aprender los rudimentos de SQL
 Very good, start from very beginnig of SQL to advanced.
 An amazing course which brings the fundamental for SQL.
 this course is very informative and easy to understand
@@ -1282,14 +1236,12 @@ its really interesting and very useful for beginners
 Great course to have a strong introduction into SQL.
 Very good instructor and she has very deep knowledge
 That's a great course for introducing people to SQL.
-Excelente exposición de temas y muy claras las ideas
 Straightforward and easy to understand. Great course
 pretty useful for a beginner insight on data science
 This course is great and suitable for the beginner.
 Good knowledge of SQL queries... it is very useful.
 Good Course. Learnt many skills by updating my self
 Great course to build up basic understanding of SQL
-Definitely a great start for beginners like myself.
 i like this course can make my career in data field
 from all the courses this one was very comfortable
 That was great for me to learn sql in data science
@@ -1304,7 +1256,6 @@ Very good course. The last exams are a challenge.
 This was a great course and I learned so much. :)
 Easy to understand. Exelellent  course for newbie
 One of the best of best course for SQL beginners.
-es excelente para alguien que no sabe nada de sql
 Its a great course to begin SQL for Data Science
 Well structured course, with useful information.
 Very useful and best way to get started with SQL
@@ -1321,7 +1272,6 @@ Good course, thanks, and charming presenter  :)
 excellent course for first time learners of SQL
 Very easy to follow.Great course for beginners!
 Really good course to understand basics of SQL.
-An excelent course. Complete and understandable
 All necessary and relevant for data scientists.
 I love this course. Just so wow(.^-^.  ___doge)
 that s a good experience about lernign sql! :)
@@ -1379,14 +1329,12 @@ Great introduction to SQL for Data Science
 Great course! I gained very good knowledge
 Thanks for the course it was really nice .
 Very good course! I really appreciate it!
-no doubt , great instructor, appreaciated
 Exceptional and practical oriented course
 Thanks a lot for your Coursera knowledge.
 Very valuable course. Thank you Sadie! :)
 Easy to comprehend, pleasant to complete.
 Its an awesome course to learn sql basics
 best way to improve your technical skills
-Best Course for a data science enthusiast
 Best course I've taken on Coursera so far
 It was great. I had a great SQL approach.
 Wonderful course and excellent teacher!!!
@@ -1447,7 +1395,6 @@ Great course. Thank you very much !!
 The course was informative and good.
 I'm thoroughly enjoying this course.
 you are delivering best explanation.
-Excellent course for data scientists
 good one! Recommended learning it ！
 Great course and clear explanation,
 Great introductory course into SQL.
@@ -1468,7 +1415,6 @@ Great course for beginners in SQL.
 Really great course for beginners!
 Wow!! A nice course for beginners.
 A great course. Fantastic teaching
-Der Kurs ist echt empfehlenswert!!
 best course to learn Data science
 A very good course for beginners.
 Best Instructor I have ever had .
@@ -1484,7 +1430,6 @@ Really nice introduction ! Thanks
 very nice course,i loved it.....
 Nicely explained all the topics!
 excellent course for a begginer.
-excellent course i learned a lot
 pretty clearly talking about SQL
 Easy to follow and learnt a lot.
 IT's a great course for starters
@@ -1492,11 +1437,8 @@ I really enjoy the way she teach
 A great didactic introduction !!
 Very helpful as an intro course
 This course needs more examples
-Nice course for data scientists
-Nice SQL course, I recommend it
 Good course with clear basics!!
 great course, great information
-Quite useful. SQL is essential.
 this is very interesting course
 Fantastic syllabus and tutoring
 Really a great course. Perfect!
@@ -1573,11 +1515,6 @@ it was wonderful session
 Nice introduction to SQL
 Explanation is very good
 Very easy to understand.
-excelent for beginners!!
-intensive for a beginner
-Excellent courseperiod.
-nice organize course :D
-Excellent for Beginners
 It was an amazing class
 The Course was Perfect
 Excellent for Freshers
@@ -1586,9 +1523,7 @@ Useful course! Thanks!
 Good to Start with..:)
 this is a nice course
 A really good course.
-madam you are awesome
 thanks for everything
-good for beginner SQL
 yeah its simply super
 Good knowledge of SQL
 The course is super !
@@ -1598,57 +1533,35 @@ Nice course to learn
 Clear but Efficient!
 Very nice course!!!!
 Brilliant Course!!!
-Nice  presentation.
 very useful course.
 It was challenging.
 really great course
 very useful..course
 Strongly recomended
-maam is so so good
 up to expectations
 Great for start!)
 pratically useful
 Amazing Course 💖
-good for begining
-quiet interesting
 Awesomely taught!
 Very good Course.
 Quick and useful.
 easy to follow up
-VERY GOOD COURSE.
 really worth it.
 Solid SQL basics
-Fáil de entender
 good for studies
-Good for student
 Great professor!
 enough practice!
-excellentcourse
 Learned so much
 One of the best
-Awesome course.
+It was amazing
 GREAT COURSE!!
 good explation
 it was great<3
 easy to follow
-Thanks, Sadie.
-execellent!!!
 good course!!
-Just stunning
 Fine to learn
 Very help ful
-Nice project
-Solid start.
-Exceptional.
 Thank You :)
-very usefel
 Top Class
-AMAZING!!
 Thanks :)
 best hai
-very hel
-enjoyed
-Fuego
-精辟易学
-GJ
-nj

@@ -10,11 +10,9 @@ the overall course is well-structured, and is a good start for a novice reviewer
 Five stars for the excellent teachers and content, but the course is not made for Coursera: very long videos, slides full of words, many references to the group work for the course at JHU, tiny quizzes and just two practical assignments. The format and the examinations can be definitely improved.
 The courses are great but some of them requires prior general understanding. Therefore, as a beginner it's a bit hard for me to get the whole picture.
 Although the course faculty is good, it would be really helpful if there were notes summarizing each week.
-Me gustó el curso, solo que al final, me perdí. Desde que empezó con el meta análisis.
 Great content, but not delivered in a very dynamic manner so hard to stay attentive.
 need more developement on network meta analysis, etc..
 It's good but I felt bored in some lectures !!!
-Important in medical practice
 there was no notes
 Overall, I enjoyed the course, and as someone who has read systemic reviews but not undertaken them, I feel that I have learned a lot. The course is not perfect - some of the information presented is out of date, with the videos appearing to be at least five years old. Much of the course is underpinned by reviews which determined how to optimize systematic reviews, and it is likely that more is now known than when the videos were made. The age of the course also meant that the quoted sections of the Cochrane Handbook are several editions out of date, and the module on search strategies included screenshots of PubMed's old interface rather than the new 2020 interface. However, the underlying principles for both the Cochrane Handbook and PubMed are the same, so this didn't detract too much from the course. The three instructors had varying presentation styles, with one tending to read every word on the slide. Luckily an engaging speaker delivered the majority of the videos.
 Learned a lot about meta-analysis and systematic reviews. Module 8 took it for granted that everyone has had epidemiology and statistical courses that are used in the module. The course is not only for public health students and professionals but also other members of various disciplines.There should be an optional module on the basics of the statistical procedures for module 8 for non-public health course attendees. This additional (optional) module will facilitate the use of the statistical procedures mentioned in module 8.
@@ -77,7 +75,6 @@ it was a nice experience to learn a new skill. Sessions were clear n well explai
 4.0-.4.5 regrettably the course is missing heterogeneity assessment. Overall, it is good course.
 Fair and easy to understand even for those that have never read a systematic review before.
 helped me a lot to learn basics about systematic review and meta-analysis... thanks a lot
-Me gustó el curso, aunque es demasiado materia y quizás se podría dividir en dos partes.
 It's a good course as an introduction to Systematic Review and Meta-Analysis.
 I am looking for an application now. Wish to have certain hands-on training
 Some parts were hard to understand, but it's still a good option to learn.
@@ -119,12 +116,10 @@ This is a really nice detailed course with tons of examples, if you can afford, 
 The lecturers were excellent and learning outcomes were met. Highly recommended for all public health specialists.
 learned a lot. Good example to help to understand. very clear
 interesting and well organised course
-讲解细致、全面、通俗，对于非英语母语的学生也很友好。
 The course was very well-designed. The pace, content and materials were very good. Being the fellow from the related field of Epidemiology and Biostatistics, thought of sharing my views on some points. The last two lectures were comparatively too fast and some participants may not at all have prior exposure to the domain of epidemiology and biostatistics. Hence, the pace for these too needs to be adjusted for more comprehensive assessment. Secondly, the rubrics for the assignments, has scope for more structured presentation either in the form of tables or diagram. As such though they were very helpful, we needed to scroll down too much to find out the elaborate explanation for the same. Hence, a more structured format may be in excel, with vlookup functions for scoring system may be very handy at the back hand. This will facilitate the peer reviewer to have quick eye ball scrolling and in fact maximize the participation. Am looking forward for more such courses on Meta-Regression and Network-Meta Analysis in future.Thanks a lot to all the faculties who helped us in completing the course sucessfully. Moreover the peer reviewer help, and their precious time is also duly acknowledged.Warm Regards and ThanksDr Ashwani Kumar MishraAdditional Professor of BiostatisticsNational Drug Dependence Treatment Centre (NDDTC)Natioal Investigator-National Investigator for National Survey on Drug Use, India 2019All India Institute of Medical Sciences (AIIMS)New Delhi-110029INDIAEmail: akmaiims@gmail.com
 Very much appreciated the course content and its presentation. Always felt challenged and supported in completing the modules. The course content is well organized and logically sequenced, with clear instructions and use of examples. I especially like the balance in the way that systematic reviews seek to be information-led rather then method led and the inclusion of qualitative synthesis helps appreciate what is considered 'meaningful' nicely offsets any over reliance on statistical significance as the sole criterion regarding the importance of the research outcomes. However, the presentation of this part of the content was tentative and almost apologetic in emphasizing the importance of the qualitative synthesis, yet expressing a sense of uncertainty in how to do it. And sometimes the content got a bit skewed - for example it was stated that one has to be confident in one's judgements in order to make appropriate interpretations. When this kind of inductive process is applied as an assessment protocol  it is interpretations that informs judgements, not the other way around (ie in assuming a description - analysis - interpretation - judgment sequence) - after all, one's is being asked for an overall judgement of quality.
 This course enables you to understand the fundamentals of Systematic review and metaanalysis in such a way that  it will not be forgotten.Each and every video had so much clarity with clear cut learning objectives that were met at the end of the lecture along with a summary.Just going through the stems and responses of the quizzes in itself was like another revision of the entire course.A good grip of fundamentals of meta analysis was a confidence booster.The assignments were thought provoking and the peer evaluation process was very liberating,On the whole a great course .
 Amazing course, definitely learned a lot regarding systematic reviews. The only thing I found to be a bit challenging is that at some lectures they assume you have previous knowledge in stats, while for someone like me this is my first stats course. But don't worry, it doesn't interfere a lot without your overall understanding of systematic reviews.Note: it focuses a lot more on systematic review that it does on meta-analysis, which kind of makes sense because meta-analysis is only an optional component of a systematic review, as you'll get to know in this course.
-Considero que este curso es una excelente introducción a una temática interesante y compleja como lo son las revisiones sistemáticas y el meta análisis. Los docentes son de primer nivel, dando consejos prácticos al igual que explicando los fundamentos teóricos. Como se deduce de estas líneas, el inglés no es mi idioma nativo, sin embargo con el nivel básico-intermedio que poseo del mismo pude completar el curso sin mayores dificultades. Aconsejo no dejar de hacerlo sólo por la brecha idiomática.
 Hi. I really enjoyed the course. This is a great introductory experience for me of systematic review and meta-analysis. In the future, maybe, I hope that the course or a separate course will have a section that walks the participant through an actual meta-analysis. Maybe, you can provide a screenshot of the actual literature search, how the quality of the study was measured, how the effect sizes were determined, etc. Overall, this is a great course.
 This course gives you a perfect overview at introductory level. The course units and time spend on different aspects are balanced, the material used is supportive, and I enjoyed the way the teaching staff engaged in this course. A next interesting step could be how to deal with all the new developments in science (such as open access, FAIR procedures, etc) and their meaning with regards to the quality of reviews.
 https://in.linkedin.com/in/rammishraHi This is Ram Mishra. I am working to deliver Systematic literature reviews (SLR), and also familiar with Meta-analysis (MA). This was a refresher course for me. I got to know many things in details through this course, which I used to do without giving further thought. Overall, this is a great course for someone looking forward to learn the basics of SLR and MA.
@@ -147,7 +142,6 @@ This course added many aspects to my academic life. It was a great opportunity t
 Very interesting deep learning course of basics of Systematic Review  & Meta-Analysis, It provides the concepts of PICO, assessment of risk of bias, minimizing meta-bias, qualitative synthesis and interpreting results. Thank you for providing me the opportunity to learn from this course. thanks alot.
 Easily understandable  well  designed course  Modules  with  flexibility  to  choose  time and target  dates.Module assessment  formats are very  simple and  user  friendly.Peer Graded  assignments were self  explanatory to answer the  questions .Overall  i have  enjoyed the  content and  the  course
 My only regret is that I should have taken this course BEFORE formally embarking in making systematic reviews. This is an excellent introductory course on the said endeavor, with very little assumptions on your baseline knowledge in the art and science of critical appraisal and evidence synthesis.
-Excelente curso! brinda las bases necesarias para realizar una revisión sistemática. Como su nombre lo indica, es una Introducción, y una introducción muy buena y completa. Adicionalmente, también brinda información suficiente (como libros y artículos) para seguir aprendiendo por uno mismo.
 Well-rounded and excellent coverage of all the key aspects of systematic reviews as well as meta-analysis. The comprehensive coverage provide a very good broader view. The explanations were given very clearly and the examples helped in understanding each topic. Highly recommended course!
 i found this course a great intro to the concept of systematic review which is a special type of research that helps resolve conflicts in published studies, provide evidence for healthcare practices and policies and identify the the area in which research is lacking hence orienting it.
 An excellent platform for the budding researchers and  especially for all postgraduate students .I would strongly recommend this course for all those who are planning to perform a Systematic review.Once again many thanks for coursera for giving us opportunity to learn SR and MA.
@@ -209,7 +203,6 @@ Very informative, plenty of examples throughout. Stimulates a lot of thought not
 A Surprisingly crystal clear course. Loved the weeks 5 and 6,made all the difference to my understanding.Thank you coursera for a wonderful learning experience.
 Excellent course with a good level of detail. It has given me  much greater understanding of systematic reviews and meta-analyses and the process of doing them.
 It's a superb course. I felt that is probably the best introductory course to who wants to prepare a systematic review and meta-analysis.I strongly recommend!
-Muy interesante para empezar a idear temas de nuevas investigaciones. Los profesores de alto nivel y siempre con explicaciones sencillas a topicos complejos.
 it's a great opportunity to understand systematic review steps and details in meta-analysis. I'm pretty sure, this course affect positively my future career.
 Course that I recommend doing to introduce yourself in the topic of reviews and meta-analysis. Both the content and the teachers' explanations are excellent!
 It's an amuzing course, to all personel and physician who want to know about the publication and elaboration of a meta-analysis. So many important themes.
@@ -232,7 +225,6 @@ It was a very good course, very good introduction. I will now have to complete w
 It is a excellent option to learn about sitematic review and meta analysis, basics concepts with the posibility to go deeper as you can do.
 Very good course, informative and give good start to some one who is new to this area...even to experienced some one like...it is very good
 An excellent course in terms of introduction. It really attended my expectation and I am more secure to work and start a sistematic review.
-Es un curso bien diseñado, claro, se enfoca en puntos claves y por medio de los ejercicios permite entender mejor y obtener realimentación
 Very informative and systematic. But have to pay attention to the terms because it can be quiet difficult for the beginners in this field.
 Great intro to the topic. Nice lecture content and presenters.  Left me wanting more! I wish there was an advanced course as a follow up.
 The course is well-prepared and designed. It is a good starting point for those who want to conduct systematic review and meta-analysis.
@@ -240,13 +232,11 @@ Excellent course to understand the basics of systematic reviews, you get the bas
 A very detailed course about writing a systematic review, still helped me to gain better understanding while reading one as a clinician.
 Very nice and well-explained course. The lectures were engaging and dynamic.  I've learned a lot. Thank you very much for this course.
 HiHow do I enrol or pay for certificate. Completed course succesfullyExcellent online course, good speakers, topic is dealt in detail.
-Buenas teoría, explicadas muy claramente. Me quedé con ganas de aprender un poco más sobre los meta-análisis. Me gustó mucho el curso.
 Excellent Course that will easily Guide you through the journey of systematic review and meta-analysis but requires full attention !!
 However i had a forgettable experience of peer graded assessment, even though my answers were same as prescribed i got fail, thrice.
 My doubts regarding how to conduct meta-analysis was cleared with help of this course. It helped me to improve my academic expertise
 Excellent education opportunity for those who wants to be familiar with methodology of modern review articles. I loved it very much!
 Great course, as a physician I learned a lot from it. It also has very informative Pdf copies of the lectures for future references.
-Un muy buen curso para aprender a leer criticamente una revisión sistemática. Además, me anima para plantear una yo misma también.
 Very useful! The educators of the course explained the concepts and processes very clearly with many examples. Thank you for this!
 An essential course for researchers in every field. Gives you insight into the process of reading and writing systematic reviews
 It is an excellent course and has updated information from previous Biostatistical and Investigation courses from my university.
@@ -285,7 +275,6 @@ Covered basic information regarding systematic review and meta-analysis. Certain
 Very informative course.Very detailed description of each steps of systematic review and meta analysis
 it helps me a lot with the basic of systematic review. Even a simple stage like reading the RR and OR.
 Excelent course for beginners , really learn the principies about systematic review and meta-analysis
-Es un buen curso, aunque deben mejorar la forma en la que se hacen las evaluaciones entre compañeros.
 This course is a great opportunity to  get to know the field of systematic reviews and meta-analysis!
 i think it is wonderful work ;i'm really proud of it and it will help me in the following days.thanks
 Really fantastic and concise overview for people who are new to systematic review and meta-analysis.
@@ -294,7 +283,6 @@ It's an amazing course for beginners and even for those who really interested fo
 This course has been a great learning experience for me. I am very grateful to the Team. Thank You!
 Highly structured and clear introduction to the art of doing and understanding a systematic review.
 The length of some of the videos and lectures was a bit  long. In some parts, they were monotonous.
-Um curso com extrema excelência! Não poderia ter escolhido outro melhor. Parabéns aos envolvidos!
 Very good introduction to SR and MA! I enjoyed the videos, quizzes and peer reviewed assignments!
 Understand how to read SRMA or even conduct one on my own. Definitely will recommend this course.
 Great course! I would like to continue learning about systematic review of observational studies.
@@ -328,7 +316,6 @@ Very informative course. But i will be happy if you give Certificate to me for f
 Its a good course if you want to start doing a systematic review or a meta-analysis.
 The explanation is clear and easy to understand. Better than the class at my school.
 Very helpful course! Ideal for introduction to Systematic reviews and meta-analyses.
-Excelente introducción a metodología de las revisiones sistemáticas y meta análisis
 Great introduction not only for systematic review but also for scientific research.
 Excellent course for me to upgrade my skill in systematoc review and meta-analysis
 Great introductory course, highly recommended as a first timer or for a brush up !
@@ -365,7 +352,6 @@ Great teaching and great learning experience from the expertise
 Amazing approach to the Systematic Reviews and Meta-Analysis !
 It is Amazing course  thanks for JHH and thanks for Coursera.
 Excellent course with high standard faculties and resources.
-Muito bom. Aprofundaram em metanálise que é muito importante
 Very informative and useful for students new to the subject.
 Excellent pace, informative material and valuable resources
 good introductive course for meta analysis. We can trust JH
@@ -380,11 +366,9 @@ Very useful and understandable course..Thank for that.
 Really enjoyed taking this course and I learned a lot.
 This is the best online course I have attended before.
 One of the most perfect course to start with SR MA's.
-Excelente, la metodología fue dinámica y muy práctico
 Good introduction and overview to Systematic Reviews.
 Very informative in a easily understandable manner!!
 Reallly nice lecturer, good structe and nice slides.
-VERY INFORMATIVE AND A FANTASTIC LEARNING EXPERIENCE
 a well set informative course. highly recommendable.
 Than; you very very much, i hope i can join you soon
 Fantastic! Lots of excellent and useful information.
@@ -406,15 +390,12 @@ please get back some more information about it
 Great course, especially for medical students.
 Good explanations were given for every topic.
 It's becoming more interesting and educative.
-Excelente curso para alunos da área da saúde.
 essential introduction to systematic reviews
 this is the first online course I completed
 Good basic introduction course to SM and MA
 It is perfecto to introduce to the subject.
 this course was very informative. excellent
-Curso ótimo! Obtive um grande aprendizado.
 nice flexible timing precise informations
-Excellent course. Absolutely recommended.
 Very well designed, a clear introduction.
 It is direct and very easy to understand.
 This course is awesome! I love it so much
@@ -429,8 +410,6 @@ it is the best education that was given
 Excellent course with the best profesor
 Great course! Very useful and valuable!
 Congratulations. It is a great course.
-Excelente curso, muy claro y didáctico
-Perfeito, adorei! Aprendi muitissimo
 This Course has more than I expected
 very informative ! Thankyou coursera
 Well organized and detailed material
@@ -442,7 +421,6 @@ Very good course, it help me alot.
 Very Understandabe and Good Guide
 It's useful...very nice to learn
 Wonderful learning opportunities
-Excellent course!!! I loved it!
 Love this course. Very helpful.
 Its easy to learn step and step
 A real nice and helpful course.
@@ -452,16 +430,12 @@ Very well orchestrated course
 Thanks guys. Its been awesome
 this is a super useful course
 very nice course,very useful
-Excellent and precise course
 Nice course for a beginner .
 very well conducted course !
 Excelent course. Thank you.
-GOOD LEARNING WITH COURSERA
 It was a very useful course
-Muy completo!  y muy util!.
 Rather compact and clear.
 Very informative subject
-Muy completo y didáctico
 This class help me a lot
 Worthwhile at any level.
 excellent course! thanks
@@ -470,21 +444,12 @@ Its a wonderful course!
 Thank you for all Staff
 Very Good and usefull!
 It is worth attending
-Excelente y didáctico
 very useful and clear
 Good overview course
-Best quality course
-Brilliant course .
 Wonder full course
 A terrific course.
-Excellent to get
-Valuable course
 Need PDF please
 awesome course!
-very good Mooc
-Excellent job
-excelent work
 GREAT COURSE!
 Gorgeous!
-Excelle
 Grea

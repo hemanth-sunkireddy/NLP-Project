@@ -40,16 +40,13 @@ Strong disconnect between teaching videos and assignments.
 Course would enhanced if pdf's of lectures were provided.
 There is a decent space for course improvement.
 week 6 content is not clear at least for me .
-Week 5 and 6 Lecture quite poor
 Concepts not clearly explained.
 many topic were explained badly
 Explanation is not in depth
 Dr.Sam Cooper is the best.
 Change the bald man.
 Not very challenging
-NOT VERY SYSTEMATIC
 It's nice
-.,
 This is my first time learning calculus (I'm a 16 y/o high-school sophomore), and I'm satisfied with this course. The instructors were great, and the assignments are awesome.If I would suggest one improvement, it would be to give more examples in the lectures. Some lectures were packed with examples, and some had none at all. I had to often refer to Khan Academy and YouTube to learn the concepts which the instructors did not provide an example for. (Especially in Week 4). Sometimes this would frustrate me because it would take me hours to grasp a concept. Having said this, this course is for you if: (1) -  you want a refresher on fundamental calculus concepts that relate to machine learning, or (2) - if you want to learn calculus for the first time, and you have a strong desire to learn these concepts. But no matter what, DON'T GIVE UP and don't stop until you've completed the course.I hoped this has helped and good luck on your ML journey!
 The course is led by two instructor and my ratings is an average of the two performances. The videos in week 1 to 4 are absolutely outstanding and a pleasure to follow. The ones in week 5 and 6 are ok but not great. The use of quizzes and coding assignments throughout the course is very engaging and of great use for retention and application of the learned subjects.
 The first part of the course is fine. Towards the end, lots of interesting concepts explained too quickly. I'd rather have more detailed explanations, especially about linear and non-linear regression. The examples are quite good.
@@ -133,7 +130,6 @@ Some complex topics were explained a bit too fast. The course on Linear Algebra 
 Good for those who already know a lit bit of Calculus, beginners might feel it difficult.
 It is hard course and time required is much more than estimated time given in the course
 Very helpful to understand the topics.But last two weeks was a bit tough to understand.
-un enfoque interesante, un buen repaso de matemáticas y una excelente apacibilidad.
 Week 6 was not easy for a complete beginner, but all the other weeks were amazing.
 The practice quize should be more along with detailed explanation of the topic
 Good
@@ -150,7 +146,6 @@ Excellent course, some parts in the last weekend were not so clear
 Really good for fundamentals, the assignments were too easy though
 Last week was very rushed. Should be more patient in teaching.
 great content, but the grader software needs some improvement
-First 4 weeks were awesome but last 2 weeks were mediocre.
 Awesome course, just wish it had more info on hessian.
 Good grounding in fundermental material needed for ML
 Weeks 1-4 were great, 5-6 felt rushed and confusing
@@ -163,20 +158,16 @@ A brief but also very in-depth course
 Great instruction and good materials.
 A challenging but exciting course!
 It was a very hard course
-Didn't like last two week
 Professors were awesome
 hopefully it is useful
 It's just amazing.
-Less detailing
 Excellent course. I completed this course with no prior knowledge of multivariate calculus and was successful nonetheless. It was challenging and extremely interesting, informative, and well designed.
 Great course to develop some understanding and intuition about the basic concepts used in optimization. Last 2 weeks were a bit on a lower level of quality then the rest in my opinion but still great.
-Excellent summaries of important points.
 This specialization consists of the courses which deliver essential mathematical background to ML learners. I think learners would feel confident and solid when diving into ML after taking this course. Video lectures are great with clear graphics and lecturers are passionate with energy. The most outstanding part is the programming assignments: They are designed so elegantly that you can get intuition right away once you go through them. They are simply amazing.Meanwhile, be aware that learning curves are often steep at some points. Without some basic python skill and ML knowledge, I guess quite many people would feel frustrated. But please don't give up and push it through to completion. You will be absolutely rewarded at the end.Thank you for great contents, David and Sam.
 Challenging in places but another great speedy introduction to the relevant maths and how they are applied to ML. The best thing about this course is that you learn the general mathematical concepts and then see them in action in ML through examples and exercises.  It's great. I used this course to refresh my maths skills learned long ago. I also found the pace good: neither too slow or too fast.   The course would probably be quite challenging for someone who never had exposure to the concept of matrix algebra or derivatives.
 I really liked the teachers and everything they prepared for the students.Lectures are entertaining, not boring.Assignments are interesting. Especially, i've found very useful the structure of learning: (1) you have a short lecture, (2) you have a small quiz which continue to intriduce you to the topic and in parallel let you to try it on practice - it was really great!Thank you a lot! I loved this course (as a previous one) so much!
 The first four weeks are excellently prepared and the programming assignments are almost too easy at some points. The last two weeks and a part on backpropagation in the first four weeks give a nice intro on how to apply the learned methods. In the last two weeks there were some minor flaws in some slides and it is less easy to follow but it is still very well presented.
 Really like the approach that a learner should get the intuition and understand how things work graphically. Then a learner should understand how numerical methods work and how math concepts can be used in Python code to do some optimization. Also, the sandpit exercises are great to easily understand how gradient descent works, which is a very important concept in ML.
-Excelente.Muchas gracias por compartir generosamente su conocimiento.Ha sido muy grato para mí repasar temas de cálculo multivariado, álgebra lineal y optimización.Gracias COURSERA, Gracias MINTIC y Gracias a  The Imperial College of London. Un abrazo a cada profesor que ha dado lo mejor de su enseñanza en cada uno de los videos que he observado.
 Really helpful and informative course. Different  from the traditional math course, this course focuses on the intuitive understanding of math rather than the calculation. The calculation part are done by python code, which lays a foundation for further machine learning course and shows how the mathematical concepts are used in practice.
 This is a great course! I have learnt a lot in this course. I have leant single variable calculus and linear algebra (freshman year difficulty), and this course is challenging but doable for me! All the assignments are designed carefully and interesting to complete! I would like to say thank you to all the instructors of this course:D
 This course was perfect for me.  I took calculus years ago in high school and college, but had forgotten most of it.  This course got me back to Jacobians and Hessians quickly .  These are essential tools for optimizing multivariate functions and fitting data sets with lots of features to models.   Really enjoyed the course!
@@ -266,7 +257,6 @@ Excellent for reviewing  the main concepts of Matrix Algebra and learn some few 
 It is very challenging course. I have to watch the video many times. But the explanation in the practice quiz is very useful. It helps me to review the lectures and try some complicated function. No pain no gain
 The best course in the specialization. The material is very abstract, but the Lecturer's explanations are so clear that it seems easy - even though it isn't! A model course. I've learned a great deal. Thank you!
 So glad the Professor made it back - he didn't show up until week 5.  He's so charismatic and funny to watch.  I learnt loads from this module and really appreciate the 'audit access'.  Power to the People :)
-Muy bueno, con explicaciones y profesores super claros, mostrando y desarrollando la teoría junto con la práctica en ejercicios de programación básicos para quien no esta adentrado al mundo de la informática
 Very interesting and engaging material in this course. Feel a little bit difficulty while understanding topics from Sir David Dye's videos but the way of teaching by Sir Samuel J. Cooper is really excellent.
 An amazing course. Materials are presented in a way that spurs you on to learn more. The BEST MOOC I've taken so far! This course is great in how much material is covered. Truly a calculus roller coaster.
 The course taught  Multivariate Calculus from scratch. Quizzes and programming assignments were highly helpful in clearing concepts and applying acquired knowledge. Thanks a lot for this wonderful course.
@@ -281,7 +271,6 @@ Fantastic course and amazing instructors! I have always been a bit intimidated b
 I am happy see that how the simple concepts of calculus can be helpful in answering the machine learning problem. Instructors are very professionals and did full justification with the course.
 Though it was tough course, after you finish it, you might have a little confidence in your understanding linear regression. For a beginner like me, that will be my start point for my career.
 Very clear lessons by two excellent coachs who present a smooth progression of the fundamentals of optimizations for machine learning. Plus very nice visualizations of the gradient descent.
-El curso explica de forma sencilla, los conceptos de calculo necesarios para la comprensión del aprendizaje de máquina. Realmente muy útil. Además, incluye ejercicios prácticos en python
 very good course about the math for machine learning, they teach every detail and I was able to complete the quiz and assignment just after class and don't have to seek help on Google.
 Just like the linear algebra one this course is absolutely awesome. The instructors provide structured insights, the assignments are well prepared. I'm amazed how much fun math can be!
 Just a great course for getting you ready to understand machine learning algorithms. The chapter on backpropagation is simply outstanding and the programming assignments are awesome!
@@ -332,7 +321,6 @@ Excellent course on multivariate calculus and application of calculus in Machine
 Prof. Dye's presentation is so polished - the examples are exactly the type to help cover much ground, while building a strong intuition.
 a very good explanation of the required calculus basics for machine learning. moreover, it opens the way for the wide optimization world.
 Very well structured and nicely explained. The assignments / quizzes are very helpful for deepening and strengthening the understanding.
-Muy adecuado si estamos interesados en introducirnos en el mundo de los algoritmos usados en inteligencia artificial y machine learning
 This is a must course to be taken up for AIML enthusiasts. Will greatly help before listening to Andrew Ng in Machine Learning course.
 Great course!! It was challenging, but as any good challenge the reward is worth it. Thanks for the opportunity of learning with you!!
 Good short videos and have  great some practical assignments  in python.A good intro and can be a good refresher to  calculus for you.
@@ -365,7 +353,6 @@ This course helped me in learning key concepts of calculus like gradient, gradie
 It us good course and gave me basic understanding of multivariate calculus. It provide insight of gradient descent.
 Well explained and I would say also https://www.mathsisfun.com/algebra/taylor-series.html to get some more details.
 Nice course, but you should check the english subtitles, they are wrong 5% of the time and also have grammar typos
-Excelente curso, su fortaleza radica en la claridad de las explicaciones y en la forma en que aplica los conceptos
 This one is a very good course and also very well organized. I also have used khan academy for making things clear
 Fabulous applied mathematics course! It is so interesting  that I cannot believe that it is a mathamatical course.
 A very good course. Also, It is a very important for those who want to know how machine learning algorithms work.
@@ -398,7 +385,6 @@ Everyone should take this course before jumping into machine learning algorithms
 Outstanding Calculus class with lot's of Knowledge I learned, I will apply in my research. Thanks
 Fantastic overview/refresher of multivariate calculus, with links to ML / neural nets throughout.
 Great introduction to Multivariate Calculus with a lot of visualizations to prop up the intuition
-muy bueno, aprendi otra manera de ver todos los conceptos de los temas que comprende este modulo
 Got excellent understanding of gradient descent in case when there are multiple stationary point
 The instructors explains things so well, this course makes you understands concepts intutively.
 It was a Nice journey throughout the course. gained so much of knowledge and hand on experiance
@@ -419,7 +405,6 @@ Good introduction and useful addition to calculus toolbox as applied to Machine 
 Great course for those who studied it a long time ago and need to refresh the knowledge.
 It is a wonderful course, helped me to gain a solid foundation in multivariate calculus.
 A well structured course packing a lot of learning content and taught by good lecturers.
-Aulas excelentes! Professor conhece bem o que ensina e tem bastante didática! Recomendo!
 Great intro to Multivariate Calculus. Seamlessly connected to the Linear Alegra course.
 The authors of this course do their best to give intuitive understanding. Great course!
 Really clear, provided a thorough understanding of how steepest descent / ascent works.
@@ -449,7 +434,6 @@ Excellent course for gaining a basic understanding for calculus-coding stuff.
 Great course. It provides good insights on Calculus used in Machine Learning.
 This is a good course for those people learned calculus before for a refresh.
 Great course for review linear algebra before stepping into machine learning
-Excelente curso, excelentes profesores y excelente material didáctico 10/10.
 Amazing as usual. Very clear and highly engaging content. Thank you so much!
 Great Quality of instruction and linking to actual uses in Machine Learning
 The best course!!calculus, statistics and  programming. you can learn all!
@@ -459,7 +443,6 @@ It was a great basic course on learning intuition behind Machine Learning
 The most fundamental course on Machine Learning that I have done so far!
 Professors have done a great job in explaining clearly a complex subject
 Very useful discussion of a often difficult subject. Highly recommended!
-Buena relación con la realidad.un enfoque del calculo bastante moderno.
 This course was very informational and a good learning curve in my life
 The course is very useful with very interesting quizzes and assignments
 You are amazing! I've really enjoyed to review the basis with you guys!
@@ -473,7 +456,6 @@ Great course! A bit more challenging than the Linear Algebra course.
 In love with this course from Coursera and Imperial College London
 It helped me to  brush up my calculus knowledge.thanks to the team
 Amazing course, very challenging and lots of learning. Thank you!
-Muchas gracias por el curso! Muy buen material, súper recomendado
 Amazing explanations by the instructors and, greatly constructed!
 It was nice course. Little bit time consuming but we can manage.
 This is a very good course both on theoritical an applied sides.
@@ -498,7 +480,6 @@ Very well taught, great flow of lectures, awesome teachers!
 Excellent course and interesting applications with python.
 totally mind blowing and refreshing way to learn calculus!
 This course gave a good intuition of the mentioned topics.
-Super Great!!!Clear illustration on multivariate calculus.
 Great balance between presentation and excellent exercises
 One of the best courses I've come across on the platform.
 Great overview of multivariate calculus and nice intro to
@@ -517,7 +498,6 @@ Great comprehensive course for Mathematics behind ML.
 One of the best practical math  courses I have taken
 Amazing course, everything is very well explained :)
 Great course learned a lot Teacher was very engaging
-excelente curso con todos los temas bien explicados
 Excellent way of explaining such abstract concepts.
 Good revision for the calculus' application in ML
 great course, wonderful instructors. thanks much.
@@ -542,13 +522,10 @@ Excellent course with engaging instructors.
 Great course with highly relevant material.
 Very informative, thanks to team coursera.
 think you  for imperial college of  london
-Excellent primer for multivariate calculus
 I enjoyed the journey of learning with ICL
 Very high quality lecturers and material.
 It was awesome diving into ml algorithms
 Great course! Especially the first half.
-Un excelente curso. An excellent course
-A nice course on multivariate calculus.
 I think this course will help me a lot.
 One of the best courses that I've done!
 Very good course to refresh the basics
@@ -556,12 +533,10 @@ great instructors, amazing mathematics
 Thanks a lot. The lecturers were great
 Good course and excellent assignments!
 Very well taught course; good build up
-Very entertaining, good for beginners
 very good course. I totally loved it.
 Thanks for such a wonderful course .
 It was really helpful. Thanks a lot.
 Excellent course with good examples!
-Awesome course Multivariate Calculus
 Challenging course, but worth doing.
 Thank you very much for this course
 it was awesome learning this course
@@ -574,7 +549,6 @@ Hard Course but I learned a LOT!!
 Absolutely loved every moment!!!!
 Just as great as first course. :)
 A must have for data scientists!
-Excellent Review, Just excellent
 Great course to build intuition
 Thank you! Really nice course!
 well taught - great activites
@@ -583,7 +557,6 @@ Very Informative and Useful.
 it is a good solid course
 Really amazing course....
 Amazing time investment.
-Excellent, Challenging.
 very instructive course
 Brilliant instructors!
 Very good. Enjoyed it
@@ -591,18 +564,8 @@ Very well teaching.
 awesome! I love it!
 Good review for me
 Very Intuitive. :)
-Excellent 👍🏻👌🏻
 Really insightful
 Great coursework!
-El mejor curso!!
-Excellent topics
-Calculus 5 star
 Pretty Awesome!
 Thank You sir.
-it's amazing.
-ITS AMAZING
-EXECELLENT
-retretret
-VERYGOOD
 Thanks.
-niubi

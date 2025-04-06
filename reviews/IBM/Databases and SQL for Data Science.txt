@@ -9,9 +9,7 @@ The videos do not show the proper syntax (there are no ";" at the end of the que
 If I could I would rate this course 0/5None of the resources you ARE OBLIGED TO USE to accomplish the course work. You have to use The console on IBM cloud for DB2 and does not work. You should install the desktop version of the software and it is somehow blocked by US export laws (what on earth should that mean?)Why do not you provide alternative ways to do it?! That's just disappointing, to say the least.Shame on the creators and people lucrating on this product.
 Lots of errors. To this course's credit, there was a lot of effort providing practice work in the early material. For the more difficult tasks at the end, there was far less structured practice work. https://www.w3schools.com/sql/default.asp this link will come in extremely useful, as will supplementary YouTube videos..
 This is a useless course. I've done many courses on Coursera without issues, but I would not recommend this one, mostly because you've got a zero chance of getting any response from anyone if you need clarification or assistance with anything, even completing assignments.
-Die Videos sind veraltet und die Plattform von IBM hat sich mittlerweile stark geändert. Ebenfalls treten einige Fehler auf, das ablegen des finalen Testats war nicht möglich, da der Timestam im CSV "Chicago_Crime.." nicht erkannt wird..
 Very limited to IBM DB2. Not useful in real world.Very limited and restrictive practice and assinments.For a true learning experience one needs to do a lot of external research and work to show a measureable benifit.
-Todos los laboratorios tuve problema para cargar datos y muchos inconvenientes mas que no pude solucionar de ninguna forma y que en el foro de discucion tampoco pude encontrar una solucion
 The tools used are not very user friendly, I spent more time troubleshooting them than actually learning. It feels like the instructions need to be reworked and ordered correctly.
 This course doesn't work. It relies on IBM Cloud that will spit out an ERROR message with every command, even if you copy and paste from the course instructions. Save your money.
 No clue how to find anything on IBM cloud for the last assignment. How can it be so hard to write clearly how something is done? You are changing money for this.
@@ -37,7 +35,6 @@ simply the instructions for the final task do not work. very poorly designed cou
 terribly conducted course. 0 help and support for the programming. horrible.
 Labs on IBM Cloud  are not working, it's not a course it's a bad joke!!!
 No response to any queries in the discussion forum. Unable to proceed .
-Бесполнезно. Всё равно что прочитать оглавление к документации по SQL.
 Peer review is great way but it they way it's made it just terrible!
 Terribly poor designed course. Video content very dissatisfied.
 Very buggy course for it to be enjoyable. Not exactly worth it
@@ -54,9 +51,6 @@ very basic for professionals
 CANNOT USE THE DB2 DATABASE
 Worst course on Coursera.
 The video were confusing.
-need 100x improvement
-BAD GATEWAY 502
-Tragic
 If you are located outside USA or Canada, don't take this course. Because IBM cloud DB2 will not give you free account to do the lab exercises. Otherwise you have to pay 202$ to get an account. I didn't continued the course due to this issue.
 This course is more about IBM roping you into using a bloated cloud ecosystem, than it is about teaching you SQL.  You will only learn DB2 stuff, and only through their cloud dashboard.  This entire specialization is disappointing, but if you've made it this far, masochism may carry you through it.
 No live examples, no tutorial on how to navigate Db2 cloud. Maybe I was expecting too much; disappointed.
@@ -105,7 +99,6 @@ Not suitable for non computers background students.
 WHY FORCE ME USE THE IBM CLOUD? SO COMPLICATED
 The IBM tools are so unfriendly to new users
 Last few lessons are not clearly explained.
-The voice-over makes me wanna sleep.
 The Lab env sometimes has trouble.
 Expected more from an IBM course.
 needed to update many topics
@@ -199,8 +192,6 @@ Not up to the expectation
 exams are not challenging
 Very confusing at times.
 More SQL needed.
-averge course
-ok
 Overall good course but a few typos and unclear instructions, mostly with the labs and our own 'user specific" DB2 specs which were needed for the 1st and 2nd lab - yet, clear instructions for doing so were posted several labs afterward. Labeling of individual labs (their titles/ filenames, when opened in Jupyter notebooks, did not correspond with the actual weeks in the course that the should have - wks 2 were called wks 4 and wks 3 were called wks 6) That made it a bit confusing at times. They appear to have been from a different course or earlier revision. Maybe revisit and revise this course soon for better flow. Also, please check the comments/discussion boards and address those concerns that are repeatedly coming up. Quite a few more students than just myself were stumped or confused over the same issues. Thank you.
 Worth all the effort..! Great coursework if you're willing to spend some time to understand DB2 infrastructure,creating Db2 database on IBM Cloud, compose and execute SQL queries, and access a database from Python based Jupyter notebooks. Key takeaways from the course : 
 - Creating databases on IBM Cloud
@@ -281,7 +272,6 @@ Very useful hands-on labs looking at real-world data sets.  Some of the learning
 Excellent course for a beginner to learn in detail if we put a little extra effort, as well as  experienced person to learn to work on real data.
 It is a great experience after all to learn extracting data from multiple tables with subquery & implicit join.This is definitely something new.
 This course is good but little bit fast. Videos needs to chunked down as too many things get covered in single video without proper practice.
-Un bon cours concernant l'usage du SQL. Il reste nécessaire de s'appuyer sur des ressources extérieurs pour appréhender au mieux le langage.
 Great course with very useful and cohesive content. The IBM db2 software is a bit slow and difficult to access but otherwise a good course
 Best Course so far in this series. The labs in week 3 and 4 are especially good, with lots of problems to solve on real-world datasets.
 A good level of complexity with enough tutorials to understand it all. Though, sometimes they were repeating something several times...
@@ -360,13 +350,11 @@ Would have liked to learn more about connecting to other DB's
 Very basic. Good introduction to SQL with Jupyter Notebooks.
 its interesting course but need to add more practical lesson
 Good Refresher Course and I like the Final Hand on Exercise.
-I little more exercises my be useful for beginners like me
 a good intoduction to RDBMS and data manipulation with SQL
 Very usefull for beginers. Week 3 and Week 4 are awesome!
 Good course. Tutorials for IBM Developer could be better.
 Good course for beginners and very good practice content.
 Um, equips students with the top range basic  knowledge
-faltarían algunos ejemplos de Oracle y otras databases
 excellent course with real practical implementations.
 This course is the best one on this specialization.
 Great course!, just a bit fast paced for beginners.
@@ -378,8 +366,6 @@ Good for the basics - will help getting into SQL.
 Video content could be little more interactive!
 It was a very basic course though learnt a lot
 Good Introduction and Training on using to DB2
-课程不错，基本的SQL语法都讲到还配合了练习。只是在使用IBM DB2的时候还不是很熟练。
-He tenido problemas con la herramienta Labs
 i haven't received my badge for this course
 Good. But I have expected it deeply diving.
 Very nice contents with proper sequence...
@@ -400,7 +386,6 @@ Good material but still too simple
 Great introductory course for SQL.
 A lot of videos that talk at you.
 gets hard really fast from week 3
-Muy buen curso!. Muy recomendado.
 Well organized for introduction.
 Good work; a very good course.
 it was good for basic learners
@@ -412,22 +397,16 @@ Very good base to start SQL!
 Nice Course for SQL Practise
 The Assignment was too easy
 Good basic overview of SQL
-GOOD FOR STARTING WITH SQL
 Claim Badge not received
-Good for SQL beginners
-A decent course on SQL
 SQL magic was awesome
 Good for basic SQLs.
 wonderful experience
 need more examples
-only for beginners
 Very informative.
 Good job by IBM
-Can do better.
 Great primer.
 Bit too easy
 tons of bug
-zbs
 This is a great review of an important topic. If I knew how much this mattered for the advanced capstone course I would have paid more attention. As it was, I came back here frequently.
 This is definitely the best course so far on the IBM Data Science Professional Certificate! I have been very keen to learn about SQL and Relational Databases for a while and this course enabled me to achieve that objective, in a fun practical manner. I was challenged all the way through and cherished being able to spend time making mistakes and learning from those mistakes in the hands on lab environment. 10/10 course and if the author of this program ever decided to make another course extending from what was taught on this course, it's safe to say I will be the first to sign up!!
 Practice lab assignments were excellent in reinforcing my learning, they were just the right kind of challenging. This course has been the best one in the Data Science Professional series by far.
@@ -476,7 +455,6 @@ I wanted to learn a little bit of everything about SQL queries and I found exact
 Great content. Delivered in a format that would get you from no SQL knowledge to querying real world data sets in a few weeks. Off course, as with everything, you would need more practice to develop your skills. This course definitely provides the foundation for that additional practice.
 very good course and lot of labs to practice yourself..if you are new to database or sql then this is for you it has some extra information explaining some of the jargons used in database system.I'am just a fan of Coursera and the way of teaching, i am very satisfied with this course.
 Brilliant Course, I have learned so much and found a new passion for SQL. The best part of this was the real world data that we work with and the way the hands-on sessions, particularly the ones in Week 4 are. They guide you in a way that you learn how to develop queries...great fun.
-Der Kurz hat mir sehr geholfen, mit SQL Datenbanken mehr vertraut zu werden. Besonders hilfreich war die Mischung zwischen Theorie Input und den Hands-On Labs. Somit konnte ich erste Erfahrung im SQL Queries schreiben sammeln und mit den Tools für Datenbanken arbeiten. Sehr gut.
 Databases and SQL for Data Science is great course for all those, who are eager to learn SQL. It was great a experience to run a SQL Query on IBM Cloud also on Jupiter. The course content covers almost every corners. I will highly recommend this course to anyone wanna learn SQL.
 In-depth course for SQL. This was very well planned understanding the mindset of a New Be. One needs to practice the concepts like once in three days to be on the toes. Thank you Coursera and all Professors who made this possible! Hoping to meet you again on the next course.
 A while back, I had taken my first Database and SQL course in university so this course was a great reinforcement of my existing knowledge while expanding on some concepts and using new tools I was not familiar with. So thank you dear instructors for this excellent course!
@@ -487,7 +465,6 @@ Very good course for SQL and Databases. Goes through the concepts of Databases, 
 I liked this course. It was really informative and helpful. I would like to see you guys coming up with another course teaching about how to collect data from different sources if it is not readily available as .csv file.Thank you for this wonderful course.
 Liked the video material (from IBM Cognitive Labs) which provided a very good conceptual understanding of relational databases and SQL querying language. Also useful to understand how to query a SQL server on the cloud (in this case IBM Cloud) from python.
 I learnt have easy is to set up a database on ibm cloud and load data set. Also I have refreshed my knowledge about SQL. I found the labs very entertaining and the topics in the video very well distributed :) Thanks for the work done in making this course!
-Muy bueno y completo, se integra los conocimientos de modulos anteriores y se tiene un buen reforzamiento de SQL.Asimismo, el usar el Skill Network Labs junto con el IBM Watson Studio  y el servicio IBM DB2 on Cloud es una gran experiencia de aprendizaje.
 This course covers all required basic of SQL. Although I was aware of basics but I leaned connection to database from Python. Access data using various libraries in Python. I really recommend everyone to take this course to start with Database in Python.
 There are a large number of practical examples which reinforce the theory thought in the video lectures. Would highly recommened doing the optional parts of this course as well as it will benefit the person taking the course. All in all a great course.
 A good and elaborate course for beginners. Hands on lab assignments are better than most of the courses and Mr. Rav Ahuja and team have been spot on in covering the core of the topic.A great stepping stone to start off data science using SQL
@@ -523,7 +500,6 @@ One of the best course I never studied before. I'm really happy with what I'm le
 An appropriate course for the beginner. Introduce the basic queries statement. And the most useful point is instructing how to use DB2 and how to start SQL in python. The DB2 is fluent and easy to use.
 Good opportunity to learn essential and fundamental SQL skills. The most important part of this course is that it teach you to use SQL and Python together while getting familiar with Database concepts.
 Awesome Course!!!! I learned a lot about IBM Watson, SQL queries how to connect to API, and more of Jupyter Notebook. This course is strongly recommended for those who wants to become a Data Scientist.
-Excelente curso, aprendí relativamente rápido los conceptos básicos de SQL desde 0 y conocí el uso de Python a través de Jupyter Notebooks, habilidades aprendidas son de gran uso en el campo laboral.
 A very useful course with some very interesting datasets/Jupyter notebooks to work through/practice your skills. Offers a good balanced blend between theory and practical/practice. Very good course!
 Clear, thorough, well-designed.  Labs give useful practice, assignments and quizzes test the actual instructional content.  This course is by far the best in the IBM Data Science specialization.
 Great introduction to basic manipulation of SQL tables and working with the IBM DB2 databases by connecting to them with iPython. Very straightforward explanations and very enjoyable tasks.
@@ -627,8 +603,6 @@ Very interesting course for beginners and would recommend for people who want to
 It is very helpful to understand the databases and it has many practical applications related to data science.
 Excellent course for those who has some basic knowledge of SQL and the last module is the plus of this course.
 Excellent introduction to databases and data management through IBM API and SQL magic. Very interesting tools.
-Ce cours est très intéressant car il regroupe des notions très importantes pour un scientifique des données .
-Fue un excelente curso, con ejercicios prácticos y ejemplos que pueden ayudarte en tus asignaciones laborales
 Interesting and insightful. Brief and concise explanations and plenty of practical works. Highly Recommended.
 There is always problems with IMB Lite account, Better to show how to install any workbench and work on them.
 Incredible must take course. I really loved it . From the beginning till the end. So many things to takeaway.
@@ -642,12 +616,10 @@ This course provides a quick refresher for SQL users or introduction and practic
 Excellent course. It's taken me years to get such a holistic SQL learning experience. Absolutely priceless.
 I like the way of flow of course and material which was provided was good.It was total practical oriented.
 Informative, ran at a good pace. The Jupyter Notebooks worked well and the final problems were reasonable.
-Muy bueno a pesar de que es todo en ingles el traductor de Google me ayudo mucho para tenerlo en Español.
 I was challenged, but found the material to be comprehensive and concise.  The labs were the best so far!
 Best course I have followed so far. Great exercises. Pace of vid's was nice. Great job, Rav Ahuja & Team!
 I loved the final assignment and the ibm_db api. Inline magical function (%%sql) is simple and powerful.
 It was a nice course taking us through the basics of sql and databases and to access them using python.
-Lo maximo, muy buena oportunidad para poner en destresa tu habilidad en el campo de las Bases de Datos.
 It is really helpful to study databases and sql for data science. It covers every basic to basic topics
 generally speaking, the course provides an extremely perfect point of view for SQL and its application.
 The course is designed very well as it starts from very basic and goes to intermediate level smartly.
@@ -659,7 +631,6 @@ Its a wonderful learning experience with the given content and hands-on practice
 This course is awesome, I really enjoyed this course. good platform to learn basic things from sql.
 Amazing course! First time using Coursera, and this class definitely makes me think I will be back.
 Great course. Part dedicated to Python should be better and more clearly explained (step by step).
-Excelente curso muy bien explicado, aun sin tener conocimiento de SQL es muy entendible y practico
 This is very important course to learn the data handling skills. I liked this . Thank you authors.
 Level of Course Contents and Assignment are really good along with DB2 Cloud learning environment.
 The course was Great! It will be perfect if more excersices were to be added, maybe longer exams.
@@ -676,10 +647,8 @@ you could learn how to connect to IBM db2 with python and using magic sql in pyt
 Great course. I loved the fact that it provided us with notebooks to solve real world problems.
 Great beginner level course, though worth doing the Open Source Tools module first for context.
 Very useful. The final assignment is a very good exercise to put on practice what was learned.
-Excelente curso, nos enseña a procesar información a través de SQL para la toma de decisiones.
 Great course, with nice datasets for real world project work. I enjoyed the class quite a bit.
 This is a great course because they use real world datasets where you can test your abilities.
-Conteúdo muito bom. Acho que deveriam considerar a inclusão de material para databases No-SQL.
 Hands on lab material provided in this course is very helpful in order to understand concepts.
 Very useful course for novice in SQL! Gives an valuable overview of IBM Cloud infrastructure.
 A lot of examples and hands-on. At the end of the course i was able to become fully operative
@@ -757,10 +726,8 @@ Awesome course for getting knowledge of database and SQL for data science.
 Excellent course for beginners to learn Databases and SQL for Data Science
 Great Course but detailed guidance would be make this course a lot better.
 A great introduction to SQL and how to use SQL language for database work.
-Les cours de Coursera sont juste Géniaux merci bcp j'apprends super vite !
 Good overview of SQL and IBM DB2. Practice exercises are well put together
 I have no doubt this is  most comprehensive SQL course on MOOC platforms !
-Aprendí muchas cosas nuevas, y el contenido estaba muy bien estructurado.
 Concise and very useful All basic about SQL provides here Great course ^^
 I was great way to learn SQL for database.Accessing database with python.
 weeks 3 and 4 have quite challenging and interesting tasks. I liked that.
@@ -888,7 +855,6 @@ Lots of information.Great course .Great excercises
 Perfect course to step into Data Science field!!!!
 omg!! the portions to read and practice are large
 SQL is very useful and important for data science
-Idóneo para comenzar a interactuar SQL con Python
 Nice structured, real practices with IBM database
 Not incredibly difficult, but extremely valuable.
 Very nice and useful course. Very well presented
@@ -921,7 +887,6 @@ Applied and clear guidance, excellent course
 This course thought me how to work with SQL.
 Decent course. Final problem set was useful.
 Very Descriptive tutorials and knowledgeable
-Excellent practice on relational databases!
 great course! challenging final assignment.
 Good choice for learner without foundation!
 This is a very good practical course on SQL
@@ -933,13 +898,10 @@ Many thanks to IBM team am really grateful
 Outstanding Course! I highly recommend it.
 Great Review course for SQL and data bases
 Very good course, excelent content, thanks
-Im not ble to do week 4 ssignment pls help
 contents are great but IBM Watson is suck.
 The overall course is good and interesting
-Excelente contenido, ejemplos muy claros.
 excellent materials with detail guideline
 Excellent material, to the point covered.
-Fine course!am running sql like an expert
 Superb Content! Loved it. IBM is da best!
 Good course if u do the practice properly
 Exceptionally worth of putting your time
@@ -948,7 +910,6 @@ Overall it's a nice course for everyone.
 Really Gained Something From This Course
 Good course for data analytics entusiast
 Thanks for IBM for providing this course
-Excellent explanation about SQL Queries!
 Good course to know about SQL and RDBMS.
 Great course. Compact and comprehensive.
 Awesome... Simple and Easy to understand
@@ -959,11 +920,9 @@ The course is extremely useful. Thanks!
 Great content and very-well structured!
 Great exercises and labs to practice !!
 Really helpful courses, very dynamics!
-Excellent course for SQL introduction!
 very detailed, relevant and practical.
 Awesome exposure into the world of SQL
 Very good for someone who's new to it.
-Conciso e muito prático!!! Excelente!
 Wonderful course. Teaches the basics.
 very helpful and knowledgeable course
 Well explained and pleasant to study.
@@ -977,12 +936,8 @@ Really enjoyed the section on Joins.
 Very detailed course. Nice contents.
 Excellent Course Syllabus and topics
 This course is extremely informative
-excellent course!!! 100% recommended
 it is very useful for data analysis.
-excellent course in reasonable price
 Perfect course, simple and efficient
-The excercises are quite practical!
-Excellent course. 100% recomendated
 Fabulous content and good teachers.
 Very well presented and articulated
 a lot of useful practical exercises
@@ -996,14 +951,11 @@ Good course with detailed contents
 Very informative and interesting !
 Great, simple, and clear overview.
 It's really well organized course.
-Excelent entry level course in DBs
 Great course for starting into sql
 Love it. My favorite course so far
-Best course on databases and SQL.
 Best Course of the specialisation
 Great course for beginners in SQL
 it was great! thanks to Coursera!
-Excellent course!! Learned a lot.
 Very high-level course. Excellent
 Very good course for beginners..
 Nice course. Easy and enjoyable.
@@ -1011,7 +963,6 @@ it was very helpful to learn sql
 BEST COURSE FOR BEGINNERS IN SQL
 Very detailed and clear teaching
 Great course, vey much hands on!
-nice course design and content!
 an amazing course for beginners
 Brain storming course. Must do.
 Very didactic and clear course.
@@ -1021,12 +972,9 @@ Very well taught and explained
 best one in the specialization
 great course, enjoyed learning
 No explanation! It's super...
-Excelente curso, recomendado.
 Great course for Data Science
 Great course, well organized.
 learn the necessaries topics
-Thank you. excellent course!
-best sql course in couresa .
 The course was entertaining!
 Gives a in-depth view of SQL
 A good course of SQL and DS.
@@ -1036,14 +984,12 @@ very clear and robust course
 Best Way to Sharp Sql Skills
 Very good learning material
 It's GREAT Course! Amazing!
-Excellent course! Loved it!
 useful course for beginners
 Great basic SQL knowledge!!
 The assignments are useful.
 Great hands-on assignments
 The best one until now!!!
 Great hands-on exercises.
-EXCELLENT STUDY MATERIALS
 Great introduction to SQL
 great course on Databases
 Quite introductory course
@@ -1052,7 +998,6 @@ Great and through course.
 i learned too much things
 great course, great tools
 this course was amazing!
-Con la excelencia de IBM
 great challenging course
 Thank you for the course
 The Course was great!!!
@@ -1062,70 +1007,39 @@ Very relevant and neat!
 Great labs to practice.
 In-depth SQL concepts.
 Well Decorated course.
-It is Excellent course
 Awesomely articulated
 very accurate course.
 It is awesome course.
 Simplistically taught
 Very  good. THNK !!!!
-NICE EXPLANATION!!!!!
 professionally tained
 it worth every penny.
 the best course ever)
 Had a great learning!
-VERY GREAT EXPERIENCE
-muy bueno y practico.
 amazing course jhatu
-A must do course..!
-EASY AND EFFECTIVE!
-A marvelous course!
 Loved the exercises
-IBM还是很赞的，提供了很好的实验环境
-ONE OF BEST COURSE
-great!!!!!!!!!!!!!
 Practical oriented
 wonderful course..
 Best way to learn!
 Great foundations
-Great Experience!
 Well informative.
 Very rich course!
-Nice one good go
 Amazing course..
-Very well done!!
 That's wonderful
 Great For start.
 Thebestonesofar!
 simple and nice
 Great course...
-excellen course
-buenos ejemplos
 powerful course
 Well structured
 good course!!!
-clear content!
 Little lengthy
 BEST I Love it
-Well organised
-Good exercises
 nice and good
 Really hepful
 Neat course!
 Really grate
-nice  course
 Great Cource
-vale muito!
-wonderful..
-Super good!
-EXCELENT¡¡
-Ousting...
-Nice !!!!!
-Good job!
+Good Stuff
 exciting.
-Aweosome
 its good
-Was good
-sql의 기
-lucid
-Thx
-aaa

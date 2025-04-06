@@ -6,14 +6,23 @@ import pandas as pd
 with open("data.pkl", "rb") as f:
     df = pickle.load(f)
 
-# 2. Drop duplicates based on review text
+# 2. Print stats before removing duplicates
+total_reviews = len(df)
+duplicate_reviews = df.duplicated(subset=["reviews"]).sum()
+unique_reviews = total_reviews - duplicate_reviews
+
+print(f"\n🧾 Total reviews in dataset: {total_reviews}")
+print(f"🔁 Duplicate reviews found: {duplicate_reviews}")
+print(f"✨ Unique reviews retained: {unique_reviews}")
+
+# 3. Drop duplicates based on review text
 df = df.drop_duplicates(subset=["reviews"]).reset_index(drop=True)
 
-# 3. Base folder to store reviews
+# 4. Base folder to store reviews
 base_dir = "reviews"
 os.makedirs(base_dir, exist_ok=True)
 
-# 4. Loop through institutions and their courses
+# 5. Loop through institutions and their courses
 for institution in sorted(df["institution"].dropna().unique()):
     sanitized_institution = institution.replace("/", "_").replace("\\", "_").strip()
     inst_dir = os.path.join(base_dir, sanitized_institution)

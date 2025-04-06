@@ -26,7 +26,6 @@ the content of the course is rather irrelevant of the assignments, at least in t
 the lectures are very shallow and lack good code examples. The programming assignments are too hard. The worst course I have ever seen.
 it's not good to explain only without practice or giving examples
 the instructor is like this is ABCD.., and the assignment is like write a report on a topic. the course is too hard for a beginner, then the instructions are confusing.
-实在是大大低于我的期望，教学内容和作业完全脱节，使得学生花费了大量时间自己没有头绪的学习，课程本省较为枯燥乏味，缺少实际操作性的演示，大部分是概念性和理解性的知识点，实际操作价值不大。
 I really cannot recommend this course for lack of its structure but as I have decided to do the specialization now I cannot stop. Quizzes are good and test the depth of concepts we understood in lectures but programming assignment fails everything. It feels like lectures are made by a person and assignments by a completely new person with a lack of communication. A strong suggestion from being new to programming is that consider the lectures as per the assignments you have made. Programs required to complete the assignments include functions that have not been covered in the lectures nor have they been provided in any supplemental or suggested reading. Assignments are mean to implement what we have learned in the lectures and readings. But the codes required to complete the assignments either have not been taught or mentioned with good references. People with prior programming experience can adapt to it but me being new to it struggled a lot. Especially on week 3 and week 4 programs. I literally had to do filter and sort data in excel to be able to answer some questions in the programming assignments. Please refer course on "Strategic Leadership and Management" by the University of Illinois at Urbana-Champaign in Coursera. There is such an amazing interrelation among assignments and teaching that it makes you want to go further and also try to read or work around more. Please first consider the assignment you want students to complete and then design the lectures. For the week 3 program, I learned after lots of googles to use the argument 'pattern' in the read.csv function. It's really frustrating to solve those programs without a proper understanding of functions. I hope you make the changes as after completing this course even we can utilize it. Thank you for your efforts.
 I would not recommend this course to anyone. I enrolled in this course because I am familiar with statistical analysis and wanted to become more adept at using R, and this course was very disappointing. The lecture material and practice assignments in Swirl are nice, but they leave you totally unprepared to complete the quizzes and assignments. There is a massive leap in difficulty from the practice assignments and lectures to the quizzes and programming assignments. Going back over the lectures, practice assignments, and textbook will provide only minor assistance for assignments - there is not enough information to complete the assignment. Because the course resources are inadequate, students must spend hours Googling and troubleshooting in order to finish assignments. An article posted on the course discussion board claims that this is due to the creators wanting to instill a "hacker mentality" in students, so they will work to find the answers themselves. While I agree that students should not be spoon-fed the answers, this is a course that charges an admission fee. I took this course because I was looking for resources to learn - if I wanted to spend hours searching random corners of the internet for the answers to R programming questions, I could've done that on my own time at no charge. I feel like I took a basic anatomy course and the first test required me to safely remove someone's appendix. In short, do not take this class.
 If you are planning to learn R, then go and buy a book. This course is a complete scam. At least don't pay any money. The reasons; 1.) They advertise that you need couple of hours of study per week. That's a lie, you have to study much more than that unless if you know a little R programming. 2.) The quiz questions are totally unrelated from the lessons. They teach you the basic stuff but they expect you to accomplish intermediate quizzes. 3.) The instructor has no idea how to teach. May be he is trying to prove something.  I couldn't really understand his motives. If you really want to teach that's simple. You do couple of extra videos and teach whatever you are asking in quizzes, or tell us to read a certain material. He didn't do any of them which means he either doesn't know how to teach or this specialization is a complete scam.4.) And I don't really understand what coursera is doing by the way? What kind of a business model is this. I was planning to enroll many specializations but now I am not going to do it. So think about how much they are loosing. Where is the quality assurance. Just because one guy comes up to you and say that he teaches this and that do you believe them? MY ADVICE TO YOU: DON'T PAY ANYTHING FOR THIS SPECIALIZATION. AND FOR ANY OTHER COURSE READ THE BAD REVIEWS FIRST (WHICH WAS MY MISTAKE).
@@ -116,7 +115,6 @@ The assignments used knowledge WAY above that taught in both Swirl and the lectu
 The level of assignments does not match the level of the course. They are very hard on a beginner. Some practice in the right direction could do help the beginner.
 It's too time consuming, not for a newbie. The classes are pointless, cause they are pretty easy and then the homework is ULTRA-DIFFICULT, classes are pointless.
 no help no teacher....it seems we are not here to learn but only to pay and challenged!! very very disapointing for a course that it sells for begninner!!
-No se pone absoluto interesés en la progresión del alumno. Las explicaciones son extremadamente escuetas y las tares de una dificultad desproporcionada.
 R training and coding is not good. Explanation is good but assignments are very different and one needs to self learn a lot of R coding by themselves.
 the worst course for someone has no knowledge about programming, if you don't have experience in any programming language .. don't take that course
 Lecturer is very poor, explains very little and the assignments he give have no connection whatsoever to what was taught. waste of money and energy
@@ -172,13 +170,9 @@ The videos have very little to do with tests
 Too difficult and dry. Not for beginners.
 There is some topics with no practice
 Too much complicated. Not useful.
-Not for beginners in programming.
-Not for beginner programmers.
 Nothing Interesting here
 Instruction is brutal.
-Content is not good!
 Not enough support!I
-Not for beginners.
 Poor courseware.
 not satisfied
 Frustrating.
@@ -283,7 +277,6 @@ Not a great course for beginners tbh.... it jumped a bit from topic to topic and
 This is not an introduction to R programming... this is more in-depth than just introduction... in week 2 we're asked to compute and program to read multiple files at once with very specific functionalities!... this is not an introduction to R programming whatsoever... also it requires a lot of user reading from other sources i.e. google, stack overflow... etc...  I don't recommend this to newbies
 The course content and swirl online assignments are at the beginner level, but I feel the assignments are above the beginner's level.  The assignments do not align to the course content and the forum has little value added due to the congestion with people asking for assignment reviews.  Recommend stating in the course content the appropriate section in the book (for those who buy the book).
 The workload and the structure of the course was vastly different from the previous session. I had a very hard time to follow and to keep up with the pace at times and had to play catch up often. I wish there were more exercises to help the students familiarize with core functions and concepts instead of throwing them into the deep end and wait for them to "grind it out."
-Las evaluaciones no tienen el mismo nivel que las clases. Se ven temas en los videos para que a la hora de hacer el examen se introduzca (breve y muy pobremente) otras funciones y estructuras que nunca se mencionaron antes. Durante los videos se muestras funciones que se ven hasta semanas mas tarde. No recomiendo el curso. Aprendi mas por medio de los modulos de swirl.
 I'm finishing the course happy due to the certificate, but I am also very frustrated.
 The assignments are very unfair when compared to lecture contents. If you don't
 have any previously knowledge in R, it is very difficult to conclude the
@@ -495,13 +488,6 @@ The video lectures and reading presented material well, and the programming assi
 The course videos and quizzes were really good. But the assignments are not even remotely approachable by the learner . The student can never complete the assignments with the  things taught in the course. Only if we refer a lot of other materials and sample programs can we at least start to guess which functions to use in the assignment code . More sample programs are to be provided by the tutor so that the learner may become more familiar with the structure and usage of functions and other stuff in the code.
 There is a high disparity between lecture content and the knowledge required to complete the assignments. It would be great to have a complete walk through of each assignment, showing the different ways in which the same functionality can be created, after having submitted an assignment. This would really had helped me to better understand why something is done in a certain way and improved my understanding of how R works. Currently there is zero feedback on completed assignments, which does not aid learning.
 I had to search alot in order to complete this course. There isn't enough guidance for someone new. It would be very wise for a course review. It should have been more videos,  analyzing real life examples and how a new learner should try to solve these problems. It was a real dissappointment for me. Swilr from the othee hand was an excellent tool which i really enjoyed . If swirl had somekind of explanantions of how you do something or what is the process for solving an iissue, it would be perfect!!
-Existe um gigantesco abismo entre as palestras, os
-exercícios apresentados no “Assignments” e a codificação necessária para passar nas tarefas. Exemplo
-disso, é  que não precisei de ferramentas
-para abordar as aulas e “Swirl” com o que me sinto confortável em usar.Isto é um enorme prejuízo para os objetivos de aprendizagem
-do curso.Em vários momentos, pensei em desistir por causa dessa
-consideração. Eu tenho experiência em codificação SAS, sou tradicionalmente um
-bom aluno, então isso é frustrante.
 Even though the video lectures, discussion forums, swirl & reading resources are informative, there is a huge disconnect between the assignments & what is taught. It is impractical for people who have just been introduced to R(with no background in programming) to take up this course. The graded assignments should be made simpler or should be preceded by smaller ones which help first-timers get used to coding in R. I do not think Swirl; even though a valuable resource; achieves this task remotely.
 It was a little difficult grasping functions as I didn't have much programming background. The swirl practice modules were great but I wish they constructed some lessons that would build a function from top to bottom like we were asked to do in the programming assignments. The lectures, swirl practice modules, and quizzes were great but they all re-iterated the same basic information. I wanted to learn and practice building more functions by applying the basic information to do complex tasks.
 It is easy to follow, it should be a 2 week university course, but IMHO it should cover more about the data type problems that can arise with R loose data types. It is focusing too much on the code profile concept without leaving interesting knowledge about that. It should cover better the native idea/implementation about computation as single instruction multiple data, which is not well covered. In the end, this is one interesting aspect of the language that makes it useful for data science.
@@ -583,10 +569,8 @@ It would be better if it was more interactive. The videos aren't very helpful fo
 Everything begins slowly and everything is nicely explained at the beginning. But then suddenly the level of difficulty escalates ... for someone without any previous knowledge it is nearly impossible to finish the assignments independently ...
 I have to say i learned a lot from this course, but the relevant between the course' videos and the assignment attached as follow is less. Even though i finished to watch every video, the process of finishing the programming assignment is hard.
 A bit of a deep plunge if you've never coded before, yet too shallow to satisfactorily introduce someone skilled in other languages to the many peculiarities of R. I don't envy instructors trying to balance these two needs in such a short time.
-总体上来说，学习这门课还是有收获的，比如能用R进行一些非常基础非常简单的统计，会小有成就感。但是，这门课的确不适合如我这样的没有编程经验的人学习。首先，这门课的课程内容感觉安排的相当松散，感觉各周之间和各个lecture之间都很跳跃。课程里面的一些例子也比较复杂。其次，就像讨论区的一些人所评价的那样，这门课的作业难度确实很大，而且和授课内容相当脱节。基本上，认真听了所有的授课内容，完成QUIZ也不成问题，但是作业难度还是很够呛的。PS, 只有我一个人很不习惯老师讲话距离麦太近了嘛！！
 This course is very thorough, but I did not feel that the lessons often prepared me for the programming assignments.  I found that I was frequently looking on the internet for additional resources and finding that I was definitely not alone.
 The course material discusses basics and the quiz questions involve having to learn and implement much more than what is taught. Taking a sample question(or something similar to what is asked for in the quiz) and explaining that will help.
-Los ejercicios prácticos no entran a tanto detalle como sí lo hacen las evaluaciones y son bien fáciles. Mejorando eso (un swirl package  u otro adicional) la experiencia sería mucho mejor y verdadera sentiría que aprendí bien el curso.
 Course was good, but the material covered was at a fairly high level and done too quickly.  This course could use some demos and since its a core foundation for the rest of the courses, maybe it should be a longer more in-depth program.
 I thought this course varied pretty widely between the basic, building block nature of the videos and swirl exercises and the difficult assignments. I did not feel as though the curriculum set me up to be successful on the assignments.
 Difficult course. Prior knowledge in programming clearly a big help to adequately follow course material. If no prior knowledge is had, then following the lectures swirl exercises and completing the assignments is quite a challenge.
@@ -596,7 +580,6 @@ The course is excellent and cover many tasks that usually you perform with R. Ho
 Extremely hard programming assignments for people with little or no programming background. Even though these assignments were truly challenging and difficult to complete, the course complied with some of the proposed objectives.
 The programming assignments are a great way to get your hands dirty with R, but this is not a course for someone without any prior programming experience, and I found the lectures didn't have much connection with the assignments.
 There is a huge gap between the content taught in the lectures and what is tested in the assignments. Other than that, it is quite a good learning experience IF you have a decent amount of experience with programming beforehand.
-Me ha gustado, pero creo que los vídeos serían mejores si se viera al instructor  programando más a menudo, en lugar de solo teoría. Para las personas que no tenemos apenas experiencia en esto, resulta un poco difícil de seguir.
 The course's program assignments could've been framed more clearly to understand better, especially the corr function in program assignment 2 and the last program assignment, overall the course was a good experience to learn R.
 Very challenging course for a beginner with well designed assignments. Terrible lectures however. Most learning is self led using Youtube and Data Camp. The supporting material provided via the discussion forums is very useful.
 The course materials do not give you enough to complete the assignments. The coverage is only cursory and you need to do a lot more extra work and research to get even close to the standard required to do the final assignments.
@@ -644,7 +627,6 @@ some knowledge needed in the programming assignment is not covered in the lectur
 The course is challenging and the exams use real-world data. The sequence of the course is not linear, the exams are too difficult compared to the material covered in classes.
 I'm not saying R Programming has to be a gripping subject, but this course is pretty dull.  The value of good teaching methods is often underrated in transferring knowledge.
 Useful content, but the assignments often don't consolidate what's been covered (i.e. aren't summative), instead introducing new topics which requires independent reading.
-Le cours en lui-même ainsi que l'entrainement sur swirl sont bien réalisés. En revanche, les devoirs à rendre sont à un niveau bien en dessus de ce qui nous est présenté.
 Good course overall but assignments have too little guidance in how they should be completed and can its easier to use material from future lessons to solve the problems
 Lectures were a little disappointing but I learned a lot with the programming assignments. The assignments were difficult and quite time consuming but worth the effort.
 The course is not for absolute starters, i recommend having some background of R prior to taking this up. The assignments and exercises are good to gain some knowledge
@@ -758,7 +740,6 @@ Good course but some flavor of plots  especially ggplots would be very good
 Programming assignment level nothing compare with swirl ir clases content
 Assignments are difficult and are not fully related to the course videos.
 The exercises ae far more advanced than the lectures and study materials.
-Muy desequilibrado. Las tareas y las clases están en diferentes niveles.
 Bit tough and the professor's were rushing through the course in videos.
 It is good. but can be made better by adding more practice assignments.
 Quite difficult to digest for a beginner. Hope the examples are easier.
@@ -787,7 +768,6 @@ the assignments are difficult without instruction
 Good, but need more data/videos to solve the quiz
 It is not entry course! Please be well prepared!
 assignments where too hard for the given videos
-说实话，上课内容不够实用，理论性知识太多，实践太少，而造成课上知识和作业的脱节，不适合新手学习
 The contents are too basic and poorly explained
 It could have much programming assignments...
 Extremely useful introduction to the basics.
@@ -795,7 +775,6 @@ Good, but you can make it more interactive!
 Its good but found it a little theoretical.
 This was a very necessary but boring class.
 Programming assignments are way too tough.
-Course Content could be more comprehensive
 Assignments were too hard for beginners.
 Quite difficult for beginners but useful
 I already wrote a review of this class
@@ -806,29 +785,23 @@ Hope this to be more interactive  :)
 Very interesting course - Thank you.
 It was a lot tougher than expected!
 The assignments are too difficult!
-Lectures did not match exercises.
 course assignments too difficult
 Needs to be revised and improved
 it is not a course for beginner
 Should cover bit more in detail
 Pretty short introduction to R.
-只看视频很难写作业，我没来得及做swirl感觉做起来挺困难的
 not the easier way to learn R
 good but very time consuming
 in course purchase make th
-Quite hard for beginners
 Needs clear instructions
-No esta todo en español
 course is really fast
 a little fast paced.
 straight and narrow.
 nice to learn:))
 homeoworks are
 Need Update
-作业和教学有点脱节。
 too fast
 Very cha
-Swirl.
 I would be cautious to recommend this course to a complete beginner. I had been using R for about 6 months before starting this course and found the content challenging. For instance, topics like lexical scoping covered in this course are usually tackled in a more Advanced R course. For a complete beginner into R, I would recommend a book like "R in Action" by Robert Kabacoff or the course on Udemy by Jose Portilla.However, if you have had some exposure to R and would like it to take it to the next level, this is an excellent course. It will force you to learn things on your own. Read the documentation of R functions, peruse through stack overflow and really step up your game.
 Great course, however I think it is particularly hard for those who never had programmed in R before. Moreover I think the Programming Assignments were quite hard regarding the topics being discussed during the weeks.
 Great course to start getting your hands into R. While the lectures are OK and the Swirl exercises are great, the course falls a bit short in building you up to tackling the weekly programming assignments. I had to spend a lot of time researching on my own to complete the assignments. I don't mind that, but I could do that on my own without paying for the course. I'm paying because I want to learn R quickly without spending hours researching what could have easily been described in the lectures. A lot of times, the course mentors in the discussion forums provided the best guidance. I would have liked each programming exercise to build upon the last one, so that at the end of the course I would have a great R product to review later. As it is, each programming assignment can stand on its own. When learning to programming in a new language, I prefer small, quick victories that build upon one another to accomplish a great task. This is the reason for not giving full 5-stars. Otherwise, Dr. Peng does a good job at providing material. And, be sure to check out his podcast, Not So Standard Deviations, to remind you that even people who have been in this field for years still find some areas challenging. It gives us R beginners some mental support.
@@ -871,7 +844,6 @@ Awesome overview of R. This course feels like a real college class, complete wit
 If you don't have experience programming, this course is probably impossible without extensive online research to complete assignments.  Perhaps this is a good thing - I guess we're supposed to be learning how to 'hack' our education and find answers on our own in the future as we lead our own projects.  Still, being a complete noob, I would have prefered a more robust introduction to the language.  In the end, however, I did feel relatively competent (good enough to be dangerous to myself) in R after 4 weeks.
 Good introduction to R. Without my programming background, I think this course would be more difficult. For example, when I think I should use a switch statement in an assignment, I already know what a switch is, I just need to search online to learn how to do it in R. At the same time, speaking as someone who's worked in software engineering, a lot of any programming job is not about being taught everything but being taught enough to then go out, search online, and find out what you need to get the job done.
 Excellent course in terms of content, the videos and quizzes are nice if a bit elementary compared to the level of the last major programming assignment, and the transition from using elementary functions into actual programming is not handled that well though, it does require previous programming intuition in order to do so smoothly. Programming asignments are tough, and its very time-demanding, and I got stuck in a couple sections. The practice exercises with the Swirl package are also very nice.
-Es un curso que requiere de bastante tiempo porque las tareas de programación de las semanas 3 y 4 pueden ser muy frustrantes, estuve a punto de abandonar pero con la ayuda de los foros pude hacer todas las tareas perfectamente. No obstante, me tomó más tiempo de los planeado. Recomiendo revisar los foros apenas se terminen de leer las instrucciones de las tareas de programación para evitar perder el interés. Yo lo disfruté, me sentí retada y reforcé mis conocimientos previos de R en funciones.
 If you have basic programming knowledge it will help you move through this course and meet deadlines, or you will need to set aside a very large amount of time daily to learn. I hear DataCamp has great tutorials for learning and practicing R along with the Swirl practice problems provided with weekly assignments for this course. The forums are a very good supplement to understanding the details of the project assignments and quizzes. Rigorous and rewarding when you put the work in.
 I learned a lot.  I have programming experience, but it was 20 years ago.  I would have enjoyed the course more if there had been more focused and relevant examples.  The syntax of R is not straightforward and my style of learning likes to have examples to reference.  The R Programming book is helpful, but i found myself using a lot of other reference material and I would have moved thru the class faster (and with less frustration) had the presentations had more relevant examples.
 A thoroughly enjoyable course but some of the assignments (in particular lexical scoping week 3 programming assignment) features concepts that were far outside of the week's lecture material. Fortunately the forums were extremely useful in figuring out what to do. Without them, the assignments would have been next to impossible (for a person new to R). For that reason I give it 4 of 5 stars. If those lecture notes are included in the required reading then I'd happily give it a 5.
@@ -934,7 +906,6 @@ This course was very helpful to understand the basics of R-programming and to ap
 This course is REALLY not for the faint hearted.The forum is full of post with titles such as 'Feel like giving up', and replies like 'DONT GIVE UP!!.' This course is obviously not for people without programming background. In the course they will teach you simple things like 2+2, but the assignments will require sin 2 / log2 * exp2^2
 Amazing Tutorial and course. The methods they use are simple but the lack of exercises in programming, its a downside. In my programming experience, it's needed more practical examples. Swirl is one side of the course that helps the user understand what R programming is, but in my opinion, different examples or projects are needed.
 There is a big deep from the quizzes and the Swirl exercises to the projects. A few more hints would make them more useful. Such as the actual methods to use to solve a problem etc... This is a beginning courses and they are way too difficult without more guidance. And frankly, the discussions are way too confusing and cluttered.
-El curso fue muy bueno, pero ni el libro de la clase ni los videos tenian relación con las evaluaciones. Me hubiese gustado más explicaciones a problemas complejos. De manera que pudiera comprender con mayor habilidad las asignaciones de programación. El curso me ayudó a aprendermucho más de R, estoy muy feliz por eso. Gracias
 A very engaging class. The information provided is essential and the assignments help you grow. Two things to note that kept this from 5 stars: video lectures were not practical enough and did not encourage student participation, while assignments were not closely connected to the material covered in the respective week.
 Good course.  Definitely do the swirl exercise. that is where the real value is.  slides can be improved.  certainly voice over them can be improved... really hard to listen to at times with the so much (er, ah, um, oh). Improve examples on slides, they could be made much clearer.  Really learnt it when I did the swirl
 I would say 3-4 stars. Week 3 was kind of dense really. The assignment was also a little over my head not due to the complexity but certain aspects were not covered in length. Week 4 was good though, and it was enjoyable. Overall a really nice introduction to R and I would certainly recommend this course to my friends.
@@ -948,11 +919,9 @@ A little too much for a beginner especially the assignments. had to use function
 Peer reviewed assignment was tough for someone who has not used Github, but challenging and interesting. I took a week to finish this course besides work. So overall, it was not very time consuming. Since I had sufficient experiences in R, it was rather easy. But I think it is helpful for a beginner.
 This was a good class.  The lectures were interesting.  The swirl package was fun for the most part.  And the message boards were actually informative and helpful.The actual programs we were required to write could be used for other things in business or health science, and therefore were practical.
 Meaningful course but the videos and homework are sometimes not tightly related, so I felt it a little tough and spent many time working on it and trying to figure it out by myself. The forum is useful when I found some problems. All in all, it's still a valuable course for programming beginners!
-En la lección de debug faltó profundizar. Estuve unos minutos intentando detener el proceso hasta que el computador quedó totalmente paralizado. (GT:In the debug lesson it was not necessary to go deeper. I spent a few minutes trying to stop the process until the computer was completely freeze)
 The Swirl practice exercises are great, they're optional but I would highly recommend doing those. The graded assignments are pretty difficult considering only the basic concepts are discussed in the lectures, you definitely need to do some trial and error in R to figure out what you're doing.
 This course clears up concepts related to  R programming, and makes use of well-designed R practice sessions, quizzes, and programming assignments. You are expected to solve the assignments on your own, and if you are truly a beginner with no previous R experience you may find it challenging.
 Needs more structure on R logic, development of R functions were very challenging. I would recommend maybe extending the course one more week to cover in depth the logic of R objects and functions and the lexical scope with practical exercises. Expand swirl() with more challenging commands.
-Muy buen curso aprendí bastante, tal vez me gustaría si es posible actualizar el contendio o un poco de informacion extra post curso como referencia como los libros que recomiendan. En general muy buen curso, el examen final si estuvo un poco complicado pero me ayudó a aprender bastante.
 Some topics are missing - like 'pipes' , 'tibble' et al. These are more often used in contect of data science usage of R. Some advanced ones like 'Lexical scoping could have been introduced a bit later in the course, or can put fundamental knowledge of R as a pre-requisite to the course.
 Video lectures were useful and thorough, but the assignments included some materials and concepts that were not even talked about, which poses a huge problem for beginners.  Maybe try splitting up R Programming into two levels, one for beginners and another for more advanced individuals?
 its fun and well taught but i was having a little trouble understanding how to go about some of the topics here, this course being my first ever programming class i have ever taken. all in all i enjoyed every bit of it and its something i see myself doing in the future. Two thumbs up!!
@@ -998,13 +967,11 @@ Thanks a lot for such a wonderful training!The videos prepared are really  good 
 This course is definitely a must for anyone and everyone who has not worked on R (doesn't know what R is about), but has some previous exposure to basic programming! I was satisfied with what I had learnt at the end of this course!
 I have zero experience in programming before taking this course however, assignments are hard to solve only if you isolate your concepts from the videos they prepared (Although it stumps me when I still can't figure the code out).
 The course is really good, intense, and ... hard ! I guess that more assignements in swirl are better to get people more used to the tool instead of just leaving them with a huge, deep Programming Assignement for them to complete.
-Este curso contiene una buena cantidad de temas muy relevantes y útiles. Sin embargo, las evaluaciones pueden ser más difíciles que lo que uno esperaría dados los contenidos del curso (videos y ejercicios prácticos). Recomendado.
 Video lectures don't cover all of the knowledge required for the quizzes.  Seems like if there is a question on a quiz the details of the question should have been taught in the lectures or notes.  Overall good experience though.
 Hello there! This particular course has helped to acquire knowledge about the concept and various aspects of this and its flexibility of work. Certainly, a productive course one could ask for. I'd suggest te same for others too.
 Was difficult for me, but spent countless hours reviewing, writing, and testing. The only way to connect individual commands and concepts with a fully operational program is by practicing and going through the code line by line.
 Overall great way to be introduced to R programming. The peer review assignment should be more instructional breaking down the function examples. Needed to do a lot of outside research to understand what exactly was going on.
 Course Conent is good but somewhat superficial and not aligned with assignments, there is a significant time spent learning coding outside of the course.  Nothing wrong with that but it's worth setting expectations correctly.
-El contenido del curso me pareció bueno.  Sería positivo si se pudieran incorporar más ejemplos prácticos sobre el funcionamiento de las "loop functions".  Fundamental el aporte de los ejercicios a través del paquete swirl.
 Very useful, I really enjoyed it.What I felt is that some of the assignments are too advanced for what is taught during the course, but I guess searching solutions outside of the course is also part of the learning process!
 Amazing course, it really gives you insights for the basic of R coding! According to me, the only problem is that there is a big gap between what is taught during the lectures and the skills needed to pass the assignments.
 All the things are pretty good and informative. The only point is that rate of getting new lessons are a little high so you need to spend lots of time a week to get familiar with all the subjects and doing the assignment.
@@ -1035,7 +1002,6 @@ Very good introduction to R Programming.  It would be especially good if at the 
 Good course to start working with data analysis with R.In my opinion, Peer assignments doe not work properly for this type of course.I got a Zero from a peer who definitely hadn't any idea what she was doing.
 An order of magnitude more difficult than the intro course. Unexpectedly tricky at times ( esp. if you're primarily versed in programming & not stats ) but more all the more worth it for the difficulty spike.
 Great content,but for a beginner like me,I think the course should have more and more code assignment starting from short and easy to the final assessment.On solving the coding assessment,I felt intimidated.
-He aprendido bastante sobre un tema que era desconocido para mi, no ha sido fácil precisamente por lo anterior; sin embargo, las tareas de Programación no son tan claras en las especificaciones que se dan.
 I completed this course with blood and sweat. Programming Assignments will make you doubt yourself. Basic knowledge of programming is recommended. Although course is heavy, its quite informational as well.
 Great course, very well structured. Just one thing: for an absolute newbie in programming, it is extremely challenging. Some more guidance, practical exercises, step-by-step explanation would be great.
 Get ready to use stack overflow and google a lot. Videos are more technical but give you a good oversight of what R functions r like. Assignments were sufficiently challenging as a beginner programmer.
@@ -1095,14 +1061,12 @@ Interesting outcome (especially for assignments), but the course material could 
 A good introduction to R. The practical assignments with Swirl will help a lot for those new into programming. I recommend to take additional introductory courses in R.
 Very nice course. It covers the most important aspects and has good documentation. Is important to dedicate more time to get to know properly the tool and the language.
 The course is interesting and very engaging. However, I felt difficulty in writing the codes for the assignments since I don't have a coding or programming background.
-Muy buen curso pero debes estudiar mucho por tu cuenta, la dificultad de las tareas de programación está muy desproporcionada en función de lo que estudias en el curso
 Difficulty of Programming assignments was much higher than anything else in the course. Took a lot of "hacker" mentality to complete them...but maybe that's the point!
 The best part was the Swirl package to practice. But I think it would be better if you provide more to practice because R  is different than other languages like JAVA.
 level of difficulty for quiz and assignments are sky high;it seems in the course you learn how to multiply and in test you are asked to know how differentiation wordks
 Pretty good coverage of statistics and dataframes in R. Would consider this worth the money I paid for it and I've used R in the past. Newbies will definitely benefit!
 Good course to get started and get you comfortable with manipulating data in R. However, does not cover object oriented programming, pivot tables or advanced plotting.
 It is a good course with very challenging assignments. Given the class levels, maybe too challenging. Though I must say I did complete the course before its deadline.
-Excelente curso introductorio, considere que la tareas son de mayor nivel que las lecturas.Tendrás que investigar un poco más por tu cuenta para resolver las tareas.
 Good one for a beginner. The assignments requires self study from the internet as the material isn't at par with the assignments, they've slightly higher difficulty.
 Good. But may need to check whether all the information in the lectures are updated, such as all the arguments in the function may not work with the latest package.
 Not an easy one, but for experienced developer who wants to learn a new language, and all help provided (forum, examples etc.) it shouldn't be too hard to complete.
@@ -1143,7 +1107,6 @@ The course is really good. But the peer evaluation is kind hard. If there has th
 Very well designed course covering almost all required aspects of R programming.  It would be much better to add few demonstration of coding as well.
 The good course!But, actually, may be toooooo hard for people without previous programming experience. I struggled a lot while trying to complete it.
 overall pretty solid. would love a bit more feedback and/or greater correlation between material and assignments. But overall nice introduction to R.
-El curso se apoya mucho de la practica y de las diversas funciones en R para que el estudiante pueda aprender realmente, es muy dinamica y retadora.
 I am not fully satisfied with the course content, but I truly appreciate 1) Swirl Exercises 2) Peer reviewed assignments and 3) Mentor's assistance!
 Assignment 3, Q4 was exceptionally hard. Would've been good to have more easy questions leading up to it, as it was I felt dropped off the deep end.
 Very good course. But the final test was too difficult. Almost impossible without external help for people like me with no experience in programming
@@ -1155,7 +1118,6 @@ As a beginner, find the course work is a bit tricky compare to the lecture notes
 I think homework are too difficult.we should use the function which is not taught in the course.and so, we have to rely the TIPS mentors give us.
 Best platform for poor students to have grip on technical courses or those students who have scarce opportunities to learn. Keep the good work up
 Can be a little more explanatory..found the assignments little tough but they left me brain storming so I learnt by hit and trial at most places.
-El curso es excelente sin embargo las asignaciones sobrepasan muchas veces en dificultad el contenido de las clases. Igualmente excelente curso.
 Excellent course. Will be very helpful in the future.However I found the pace a litlle too fast to proper assimilation of programming resources.
 I think it was a good course, but the examples are basic while the assesments were pretty hard. Maybe it'd be splitted in two different courses.
 Slight gap between the swirl assignments and the programming assignments. Needed to google additional techniques to accomplish the course work.
@@ -1193,10 +1155,8 @@ more detailed examples should be put in videos. Swirl is a good option but learn
 The course is great overall, but the assignments are far difficult and hardly relevent to what are taught through the videos.
 Need more resources to learn about the projects. The resources are online but extra exercises will help to sharp the skills.
 This course is very good and a medium level for beginners.You will need use many functions that no have in the explanations.
-Excellent cours, bien expliqué, avec un petit bémol sur la difficulté des devoirs (où il faut écrire des fonctions) !Merci !
 It's a good introductory course for R programming but it's a bit basic if you already have some experience programming in R
 Videos and quizzes are very good. Final assignments for each week are VERY hard and differ a lot from the course material.
-Bom curso mas poderia ter alguns vídeos ensinando mais sobre funções e outros parâmetros, pois é bem fraco as vídeo aulas.
 Explanation of the course is wonderful but extra practical exercises are needed. SWIRL in not enough from my point of view
 Nice introductional course to R! I was only missing some illustrations that would enhance the understanding of the matter.
 It is well-organized. I don't know why but compared with the lectures, I prefer the swirl tool they use in this course...
@@ -1214,12 +1174,10 @@ Good course to start learning R,but still missing some explanations in the lectu
 It was good. Some topics are complex and maybe they require more explanations, for example when you create functions.
 I found this to be a very valuable course. I would intend on taking more programming due to what I have learned here.
 Learning sessions and the assignments had a huge gulf in between. But in a way, it was good that it was challenging.
-Es un curso muy útil para principiantes, ya que permite lograr una buena formación inicial para cualquier interesado
 good course, but some assignments are challenging and require programming experience above the level of this course.
 practical and straight forward, although if you do not have any background in programming, you may need some support
 Great to learn. But some of the assignment instructions were not clear enough, and took a lot of time to figure out.
 This course tells me basic functions but if we want to learn it more specialised or proficient, it may let you down.
-j'ai beaucoup appris grâce a ce cours , il manquer cependant un peu plus de simplification dans les notions de base
 The material is hard to take in for first time learner and the assignment is too difficult compared to what taught.
 Overall it's good. And I think PPT may be much more helpful if there is a video of professor, and some animations.
 I have learn lot things about r programming.its most useful to take next step and thankful to all teaching staff.
@@ -1273,7 +1231,6 @@ It was very good, but the programming assignments weren't clear enough to someon
 A good course covering the basics of R, but thought the speed was a bit too high for a few concepts.
 Course was good but i think more information should be added given the importance of this language .
 Good questions, Nice forum support, found the videos boring, learnt mostly through swirl and books.
-En algunos casos las asignaciones no estaban acorde a las herramientas proporcionadas en el curso.
 Challenging for those without programming experience. But with hard work and forum, you can do it.
 One problem is that the programming assignments are not much related to the corresponding lecture.
 I think as new programmers we should get a bit more hints while doing the programming assignments
@@ -1290,7 +1247,6 @@ It is a very worthwhile class, but I think the assignment is a little harder tha
 The course is good for someone with no background of programming. But it is not very rigorous.
 Course is well written. The textbook is very useful. However, the material is a bit too easy.
 Very worthwhile although needed to keep checking the forums for extra advice on the projects.
-Muito bom o curso, todo profissional que deseja trabalhar com ciência de dados precisa fazer.
 Even though is a good course, the assignments are not align with the contents of the course.
 Great content with really challenging assignments! An amazing opportunity to really learn R.
 The course was Ok. There is a library to make some exercises in R Studio very well prepared.
@@ -1351,7 +1307,6 @@ R is a harder language than I had thought.  This course explores key areas well.
 Good material but a lot of time was required to complete the projects each week.
 if you're a new programmer, it would be frustrated to strat with this course. ..
 Good introduction to R basics, well integrated with swirl library and R Studio.
-Overall good. Could have been bit better via adding few problem solving videos.
 The assignments were harder compared to the topics dealt with in the lectures.
 pretty good. But i suppose that the structure of this course is not very well.
 I think overall it was a good course - but a little basic for a 4 week course.
@@ -1366,7 +1321,6 @@ Very enriching course. Steep learning curve for beginner in the assignments.
 Great course. However, more examples in the contents would be really useful.
 swirl practice is great but the professor seems to jump around very quickly
 good, can we have mini project as well, so that we have more hands-on to R?
-Es bueno pero las tareas son de un nivel muy superior al curso en general.
 It was good hands-on. The course could have had 1 more week of in-depth R.
 Assignment difficulty level was higher than the provided lesson contents.
 Course material was taught well but could do with more practice examples.
@@ -1406,7 +1360,6 @@ It is great to know R and r-studio, with those difficult exercises.
 programming part would have been better with slightly more guidance
 Please add a guide for the submission of the assignment to GitHub.
 Nice. Could have been more simple. Beginners would struggle a bit.
-No hay suficiente contenido para todo lo que piden en los deberes
 This course really help to learn all the basics of R programming.
 it has helped me to learn  r language from basic to  intermediate
 Assignment is actually much harder than what we have learned in v
@@ -1439,7 +1392,6 @@ Need more exercises, examples and perhaps more literature.
 Practicing in swirl helps a lot to understand this course.
 Nice Course! Quite challenging and good for the beginners.
 There is a large gap between the assignments and lectures.
-Es dificil sin conocimientos previos, pero esta completo.
 Nicely organised, the swirl exercices are of welcome help
 Should be harder; more comprehensive, have more homework.
 Some of the assignments are a little tricky for me hahaha
@@ -1462,7 +1414,6 @@ great labs, and practice exercices. I learned a lot !
 Good overall, slow at times, and very broad material.
 Nice cource, well explained material that is address.
 It's a good course and useful with patience learning
-Lectures are mediocre, but assignments are valuable.
 assignments are much more defficult than the lecture
 Good One , but quiz 3 is not accepting right answers
 The assignment quizes were exceptionally difficult.
@@ -1483,7 +1434,6 @@ Nice study for starting in field of Data Science
 Course can be made more rigorous and exhaustive.
 Solid content coupled with hands on experience.
 Not easy for a beginner but very well explained
-Muy buen curso para iniciarse en el mundo del R
 It's quite normal for an online learning course
 Not ideal for those who are new to programming.
 Difficult but fun! A really good tool to have!
@@ -1510,7 +1460,6 @@ Very nice. Kept me thinking about problems!
 Good but there is lack of practice session.
 Videos are boring, but swirl is very helful
 Prefer More Sample study during the course.
-отличный курс, 3 неделя правда бестолковая
 Could have explained a few more functions.
 Nice course but requires a lot of effort !
 Pretty decent course for learning R basics
@@ -1552,7 +1501,6 @@ The slides are a little bit boring.
 Great course for all R enthusiasts.
 Can have more material on functions
 nice but not understood some topics
-R programming is good for beginner.
 Very useful and practical content.
 Detailed and very well structured
 I bit more examples would be nice
@@ -1573,7 +1521,6 @@ It was very fun and exciting!!
 Very informative for starters.
 Need more practical exercises.
 very practical course to learn
-So far, I don't really like R.
 Great to learn R Programming.
 Somewhat hard, but rewarding.
 assignments are really tough
@@ -1593,7 +1540,6 @@ Great way to ramp up on R.
 Good course to begin with.
 Good class. i appreciated
 Not easy for new learners
-I enjoyed it quite a lot.
 The course is too basic.
 good introduction to R!!
 Good but not excellent.
@@ -1602,44 +1548,30 @@ Solid introduction to R
 Good introduction to R!
 Some problems with quiz
 This is a tough class.
-Excellent primer on R.
 too hard to understand
 Good introduction to R
 Reading quickly slides
 satisfactory teaching
 Thank you so much for
-Best site for learner
-还可以吧哈哈哈哈，小伙伴让我看到你们的双手
 Some though job to do
-Good tools. Fun data.
 A lot of programing!!
 It´s a good R course.
 Bit tough with pace.
-Extremely difficult.
 Quite the difficulty
 too hard assignments
-quite challenging !!
-Nice course material
 Need more excercises
-Excellent Program!!!
 wonderful journey !
 Quite tough  course
 Fun course to learn
 Very nice lectures.
-Were useful course
 Kind of difficult
 Strong intro to R
-視頻內容沒啥收穫，助教老師人很好
 Good course!!!!
-Very enlighning
 Good intro to R
 Too challenging
 More functions
 should be free
-TOUGH COURSE
-nice course
 thorough!!
-A good
 Very challenging, but good course.  I've been programming in R for over a year, but there were still some things for me to pick up in this class.  Assignments were a challenge, but satisfying to tackle.
 Really interesting course. The interactive coding sessions with swirl are especially useful. Would be great, if you provided sample solutions for the programming assignments, in particular for week 4.
 The course can be little more better for folks who are non programmers to begin with. This is an advanced course for a beginner/non programmer, hence would recommend to have a beginner course for non programmers/ R and then this course should be offered.
@@ -1656,8 +1588,6 @@ I have long since wanted to learn R, but other online tutorial sites which mostl
 This is one of the most frustrating courses I've ever taken. Please do not mistake this for criticism, it is not. This course is basically trial by fire, but at the end of it, I am surprised how much I have learned about R. One suggestion I have for students is this: do not just write the code for the functions from the assignments. Play around with the different functions by writing your own codes. Here are some ideas: write a code that takes in two numeric values and one letter that each represent the corresponding sides of a right triangle.  Your code should calculate the length of the third side using the Pythagorean theorem. Also, write a code that solves a quadratic equation in standard form given three numeric values as elements in a vector (where each element = its respective leading coefficient). Finally, write a code that takes any numeric matrix with dimension [3:n] and runs each column of the matrix through the quadratic formula. Doing this really helped my understanding of the split and lapply commands.
 Excellent course. Really. Don't listen to those people saying it is too difficult. You just need to think, probably watch again some small lecture, and probably go to the Discussion Forums (or Stack Overflow in my case to know about how to do something specific in R), to solve the Programming Assignments. It has the right level of difficulty and the instructor, Roger Peng is amazing. He's very excited about the subject and his energy helps to motivate you throughout the course.Maybe just a little bit of programming experience is required (just thinking in programming terms or knowing the basic functions). But really, I believe anyone with motivation, patience (you're gonna need this last one haha), and focus can pass this course without a problem. I almost didn't take this course because of the negative comments I read before starting. But trust me,take the leap and start R Programming from Johns Hopkins University. You won't regret it! Especially if you're interested in the Data Science or Data Analysis field.
 I really enjoyed this course!I was already somewhat familiar with R but I now feel much more confident in my R programming skills. I am glad this course was not exclusively helpful for people just starting with R. I learned many new things and I sometimes struggled with some of the assignments (especially week 3 programming assignment) and they pushed me to understand more complicated concepts, which I was really happy about.I thought the swirl library was also really helpful. It solidified what we'd learned in the video lectures, and sometimes delved into things I had not seen before or things we had seen before but with more detail, such as ellipses (as arguments in functions), definition of binary operations and simulations of coin flips.The only part I was not interested in is the history of R at the beginning of the course. I didn't really care for it, but I think I understand why it's there.Overall, I really enjoyed it and I would definitely recommend it to other people.
-Foi um curso bem útil e de grande aplicabilidade, passando muito bem por todo conteúdo de funções, loops, extrações e manipulação de conjunto de dados, reforçando muito bem através de exercícios. Em conjunto com os principais métodos usuais de depuração, otimização e utilização de gráficos. 
-Entretanto, achei este curso com uma dificuldade considerável nos projetos semanais para quem é iniciante, dediquei por um mês uma média de 4 horas/diária (inclusive aos finais de semana) e a maior parte do tempo gasto foi buscando conteúdos de apoio, metodologias adicionais em fóruns como o GitHub, Stackoverflow e lendo a biblioteca do R. O que não é algo ruim, pois no dia a dia, iremos nos deparar procurando novas informações e metodologias mais atuais para fazermos algo de uma forma mais eficiente.
 Brilliant content!! Practice exercises really help you evaluate yourself. A little knowledge of R programming before this course is helpful as that might help understand the slides better. Though it is not mandatory but one can still utilize free resources available online to build the basic knowledge. Also, if you have prior experience with any programming language, that'll be very helpful. Would highly recommend this course.
 Great course.Just as a spoiler, in the cache excercise, no one really understood what they answered and admins should change that assignment URGENLTY, because is frustraing. So when you solve that part, don't feel dumb, we all did, we feel you bro.
 Thanks to Coursera and Prof. Roger D. Peng for offering such a wonderful course on R Programming. Before the start of this session, my knowledge of R Programming is NIL. After attending the session, I'm confident that I could program in R and level of my knowledge is more than that of fresher. Thanks for the well designed course on R.The Quizzes and Assignments are good and helped me test my understanding. These helped me improve my confidence level as well. I appreciate Professors special video session before difficult assignment. Just following these sessions closely, I could complete the assignment to my satisfaction and have confidence to attempt and complete.I completed this course in the old format. Do I need to repeat it in the new format ?The Discussion Forums are amazingly helpful in sharing subject knowledge and making the learning Fun. Getting help from some corner of the world and getting thanks from some other corner of the world makes this learning truly Universal and great Fun.Thanks again to Coursera and Prof. Roger D. Peng.Wishing Coursera and my Professors all the best and Success always.Best Wishes,S. Ramalakshmanan
@@ -1756,7 +1686,6 @@ Even though the lectures are shot and to the point, the assignment helps you to 
 Excellent introduction! I have been using R on and off for the last 8 years, and have also used it while doing a Masters degree, but was never given a thorough and proper introduction of the basics. This should be an absolute must for anyone using R as an analytics tool be it as an academic or an industry practitioner.
 This is exceptionally nice program, it really give me a  great sense of R and some absolutely fascinating skill to work with data. Lecture are really well drafted and pretty comfortable in  understanding, mentor are responsive and replied as quickest as possible. Looking forward to gain the expertise in R programming.
 This course and its assignments comprehensively cover and build a very solid foundation for R Programming. The discussion forums greatly help a lot and provide ample support to any roadblocks or doubts encountered while solving an assignment problem or any of the material in general.Thankyou for this course, Dr.Peng!
-Um bom curso introdutório de R, excelente para quem está começando e possui disciplina para usar o curso como base e ir além. Recomendo buscar recursos a mais do que o oferecido para otimizar os exercícios propostos e com isso o curso será mais proveitoso, afinal, a maior parte das coisas nessa área se aprende assim.
 Its such an awesome course but need a lot of practice apart from the practice exercises. If we don't make a note of the concepts or didn't practice we cant memorize anything. Jeff Leek, he is such a great professor. I think he is the best when it comes to explaining something. I am doing Data Science Specialization.
 A very useful course that teaches techniques I could implement at work almost from day 1. Prof. Peng teaches the material in a very clear, well structured manner, and provides good real life examples.The course provides a suite of tools and techniques for data analysis that's a great starting point to build from.
 This course was quite demanding for beginner(Especially the assignment..) it would be nice if there is more detail explaination and guideline for the assignments. But i learned a lot from this course and swirl practices were really helpful for me to understand all the functions on R. Highly recommend this course
@@ -1868,7 +1797,6 @@ Really nice introduction to a different programing language. To me that have a b
 I am really very happy for completing the course. The difficulty level of the assignments can be scary at first glance, but with the help of the mentors in the forum and their complementary lectures, they become achievable.
 Very good introduction to R, and its use of data structures, indexing, logical arguments, lexical scoping etc. The problems at the end really ensure you come away from this course with sufficient knowledge. Would recommend.
 This is a really useful course on the basics of R programming. The instruction is clear and friendly to novice programmer. Certainly, this course only opens the door for you, more useful stuff will be learned from practice.
-Excelente, seria bueno que en los foros de discusion o en un apartado llamado recursos, se tuviera un tutorial en donde se den algunos tips o ayudas al momento de escribir codigo para las tareas de programacion asignadas.
 A great introduction, my only suggestion would be to add pdf notes to the 3rd and 4th weeks so the course could be totally self-contained. This is not a real issue, however, because the book is provided for free/donation.
 its very good course and I seriously inspired the way it teaches me, first time I opened R programming and now I am little more comfortable, hope and wish I will continue my zeal toward data science, thanks for the course
 Excellent teaching method. Achieved the target I was hoping to get through this course. Some of the programming assignments were very challenging but nevertheless with the provided guidance, it is well within the limit.
@@ -1896,7 +1824,6 @@ Best beginner's course in R.  You will learn all the necessary nuts & bolts of R
 Head start for learning R Programming. great resource.Though I little improvement needed. Like, when instructor teaches, if he could use digital pen, engagement of students can be improved. just a suggestion.
 A course that is very well structured . Hats of the instructor for very good videos and clear explanation of various topics. of the various text books out there, this text is one of the best and a must read .
 I have done the previous course in the series that is The Data Science Tool box. So with that in mind I think this course is exceptionally well made. I thoroughly enjoyed the whole course and the assignments.
-Estuvo genial!!!, el último assignment fue intelectualmente estimulante, aplique varios conceptos aprendidos en el curso que con toda seguridad cambiaran la forma en la que programo en R de aquí en adelante.
 it would be even better if data frame gets more discussion, such as subset a data frame. As to debugging, how to use R studio debug tool can be included since that is the working environment most people use.
 I love this course. Very easy to follow, but also has very challenging homework. THere is some disconnect sometimes between the lessons and the assignments, and often there's a steep learning curve for them.
 As a non-programmer, I found this course a grilling, uphill personal challenge, which I successfully completed. I encourage every aspiring Data Scientist to go for this course, as it is tests you completely.
@@ -1908,7 +1835,6 @@ I excelled my expectations!I'n not sure wether someone with no previous experien
 Well taught and incredibly useful course. R is a great language for statistical computing and data science, and this course provides a well-paced introduction to the language and some important features.
 I am feel the assignments are really helpful. They help me rethink all the knowledge we learned and apply them in the real problems. without the assignments, I would not really understand R programming.
 Very good course. The lectures introduce you to R step by step while the swirl exercises give you a hands on experience on the console. Creating interactive tools in R would have been a useful addition
-Ha sigo un curso genial, muy completo. Ha llenado completamente mis expectativas. El nivel de exigencia es alto.Is a great course, has an excellent content. Has a high level of exigence in all aspects
 before starting this course i have experience of R programming but this course gives me a lot of new function and how to build a function and  a most useful function str,debugging and Rprof.Thank You!
 This course is really good. It's difficult to understand every contents perfectly if you are beginner.But the content of this course is excellent. When you finish, you get a good level of achievement.
 This is course is probably my favorite out of the Data Science: Foundations using R specialization. There was plenty of opportunity to practice and further develop by burgeoning R programming skill.
@@ -2059,7 +1985,6 @@ high level teachers , and well-organized course, in a pedagogic way. Understanda
 Really quite a detailed introductory course on R. For those wanting to get a kick-start this would be the perfect course for the cause without any doubt
 A good course to gain more experience in programming with R.  The assignments are of reasonable size, and expand on the basics presented in the Toolbox.
 Challenging. Its a plus if you have a background on PHP, Python, and Java and not just SAS and SPSS. Otherwise, it would be a steep learning curve in R.
-La primera vez que lo tome significo un impulso en mi carrera profesional; efectivamente iniciandome como un programador en R, y no solo como un usuario
 Great course for beginners! Informative, well-structured and straightforward. The "SWIRL" exercises and the introduction to GitHub are also very useful.
 It was great experience with R Programming. Mentor was really good to learn online. I feel a bit celebrated explanation required for doing assignments.
 I encountered some difficulties in the process, but through getting help, I managed to survive and learn the course. It's been a worthwhile experience.
@@ -2104,7 +2029,6 @@ The course is properly designed for people new to R programming, assignments are
 This course helps to become good in learning fundamentals of R Programming language. The assignments were challenging and helped me learn a lot
 This is one of the very good courses to kick off with learning R programming form scratch. Awesomely organized. Thanks a lot team John Hopkins
 All the explanations are clear and straight to the point. The pace of leaning is perfect. It covers everything one need to get started with R.
-Excelente. Muito detalhado e didático. Ideal até para quem não sabe nada de programação. Excelentes professores com pronúncia clara do inglês.
 I've learned a lot in this short course. It's not for the faint-hearted to be honest. Many concepts are deep and hard to grasp at first sight
 Very good course to start one's data science journey and build strong basics of R. Swirl module particularly was a very good way to practice.
 Challenging, but rewarding.  I have been using R for years, and this is by far the best course on R Programming that I have ever come across.
@@ -2115,7 +2039,6 @@ I've learned much about R Programming, and feel I have a solid base and am now f
 in conjunction with swirl this is a comprehensive starter kit for R. I already have some tools I can use in work (when they let me have it!)
 It's a good preparation for a PhD prospective applicant like me. The course is tough but VERY USEFUL and INTERESTING! Thanks all Professors!
 Programming in R is different from programming in C and similar languages. After this course it is much easier to understand  Python Pandas.
-Los proyectos son muy duros y muy diferentes a lo que se presenta en los vídeos.  Pero esa exigencia hace que se disfruten las actividades.
 This course really gives you the basics  you need to become a good Data Scientist. The practical assignment made me adept at R Programming.
 As the title suggests it is about programming in R. Not a lot of stress on all the built in functions, useful libraries, or plotting data.
 A very wonderfully explained course dealing with the basics of R, helps first timers to learn and understand R programming from the start.
@@ -2150,8 +2073,6 @@ Course was really helpful in understanding R Programming even for the students l
 The course covers a good overview of R, and offers a lot of training exercise that are immensely helpful, I thoroughly enjoyed it!
 a great course, containing everything that is necessary for the upcoming courses or to start exploring more depth of R on your own
 This was an interesting course, but I would suggest to change (slightly) the format of the lectures. Supporting with more example.
-Excelente curso, me auxiliou e muito no aprimoramento das minhas habilidades com R. Estou maravilhado com as novas possibilidades.
-Curso bem detalhado e prático. É possível ter uma boa ideia inicial da linguagem de programação realizando os projetos indicados.
 This was a very clear, easy to follow introduction to R.  Swirl exercises were a great way to get some hands-on, guided practice.
 Very good course, I am learning about R programming in a friendly way, doing exercises and so on. Congratulations for the course.
 The course is Awesome. I liked the hospital Exercise, but it would be great if you can add more optional exercises like this one.
@@ -2169,7 +2090,6 @@ Very useful and compact introduction to R. After completing this course, you can
 This course was very compact and useful. I feel more confident about manipulating large data sets with R thanks to this course.
 I love it. Especially the the interactive package 'swirl' they have created. I love it !Looking for some other course as well.
 The JHU Data Sciences program is relay good and very beneficial for all the researcher, students quantitative related fields.
-Te ofrece herramientas muy poderosas de una manera muy sencilla. La práctica exige algunas horas extras, pero nada imposible.
 Great way to get accustomed to the syntax in R! Previous programming experience definitely helps, especially with dataframes.
 I loved this course, Roger is an excellent tutor, the swirl program is amazing, I am going to continue using it for practice.
 Very helpful for beginners! I learned a lot from this especially about how to code functions in R to utilize whatever I need.
@@ -2183,7 +2103,6 @@ It's nice to have this opportunity to learn R on Coursera! I especially like Swi
 Superb course content for starters like me. Especially the assignments are really good. They help to get the concepts clear.
 Course materials and mentor support are great. Programing Assignments can be challenging at times, but are worth the effort.
 Good even for beginers. Right doses of theory and practice portion. Useful practice exercises and clever project assignments
-Dans ce cour on y apprend à utiliser beaucoup de fonctions et également des outils de diagnostique et d'optimisation de code
 the course design is great!  I found the exercises in swirl is interesting!I learn a lot in short 4 weeks! @Roger thank you!
 Very straightforward - I took CS in school and these lectures were a lot more clear and concise than those I had in school.
 Extremely helpful and easy to follow. The swirl function is of great assistance to help learners revise what they learnt!!!
@@ -2202,9 +2121,7 @@ I've learnt many things about R that, surely, will be very helpful to play with 
 The course is not hard, good for new R learner. Some of the links in the material are not accessible, need to be updated.
 Had general knowledge on R Programming and techniques to run. It has nice links and is useful for future project as well.
 This is a really good course with lots of exercises, the interactive R library is an amazing tool for hands-on learning.
-Muy buen curso. Aprendí mucho de R y me ayudó a generar la habilidad de pensar como científico al abordar los problemas.
 Very solid and useful course! I have learned the coding skills and never imagined several lines in R can be so powerful.
-Excelente curso para iniciar en la programación en R, explicado a la perfección y con ejercicios retadores y didácticos.
 Very useful course to learn R. The videos can be some what boring, but doing the assignments and swirl is very helpful.
 A great course that turns an R user into an R programmer. Not an easy course for a beginner but I am glad I've done it.
 The course was so useful and helped me understand the usage of R. Assignments help a lot in understanding the concepts.
@@ -2242,7 +2159,6 @@ I am learning a lot through the assignments! make it more difficult next time so
 Great introduction for people with very limited programming experience. Appropriately challenging and interesting.
 Very well organized course that starts from basics and continues to help us explore the nuances of R programming.
 It's a really good course if you want to learn R, but you'll need to have some previous Knowledge in programming.
-É um curso  muito legal e que permite entender como funciona o R para os primeiros passos de análise. Recomendo.
 This course is very much capable enough to enable an individual to grasp the concepts of R programming language!
 The first project was too advanced for a beginner, but after chugging away at these projects you catch on quick.
 One of the most challenging courses, yet extremely rewarding after completion.  Learned a lot to apply in real w
@@ -2353,7 +2269,6 @@ Hi,I really like the structure of the program, I believe I'll make the best use 
 Excellent course!!!took a little long to complete!!!!Assignments are challenging for Beginner level
 Easy enough to achieve what is asked, but hard enough to force you to learn how to use the program.
 Very good and challenging course. It is not basic (in my humble opinion), but is totally worth it!
-Curso muito bem estruturado, repleto de exercícios práticos que estimulam a participação do aluno.
 Very balanced course with perfect combination of course material, slides, quizzes and assignments.
 Diffifult programming language to learn, but well worth it in the end. Lots more practising needed
 Great course. The difficulty curve is a little steep at the beginning, but in the end it is worth.
@@ -2385,7 +2300,6 @@ Helpful and interesting course! All materials are good. I'm happy I've chosen th
 I loved the course. It gives you a great start in R but the assignments can be tough sometimes.
 Was very useful for beginners of R programming. Good course. Now I feel I can go forward with R
 Nice introduction to R. No errors/irritations in the exercises or tests. The setup is flawless.
-Trés passionnant. Cours très bien fait et permet une initiation progressive à la programmation.
 Tip of the iceberg. Gentle introduction to R - together with Swirl it is a proper introduction.
 Nice, concise and useful set of techniques and topics to get aboard of R programming and tools.
 Good for starting R programming, but it would be better if it deal with more in-depth contents
@@ -2397,7 +2311,6 @@ this Swirl tool is excellent way to learn how to do the real programming, not ju
 Thank you Coursera!!!! Class methods were easy to follow, and the help on the forum was great!
 Amazing course. Lots of new tricks learned. The assignments were challenging and a lot of fun.
 Great introduction.  I think the swirl tutorials are particularly helpful for learning R in R.
-Es una materia dura pero muy buena, los materiales de enseñanza y la metodologia es excelente.
 An amazing introductory course for R, very well structured and the exercises were challenging
 It is a really challenging course but at the same time teach you solving problems by yourself
 Every Topic is well explained and related to R programming for intermediate level programmers
@@ -2413,7 +2326,6 @@ It's very good course and useful but you will be in need for more practice swirl
 I found the course efficient and framing very well the important base lines of the language.
 Excellent overview of the basics the practical exercises using swirl really kept me engaged.
 the learning curve is quite steep, requires more than just mastering what the lecturer said.
-Отличный курс с нетривиальными заданиями! Рекомендую курс к прохождению и спасибо создателям
 This is an excellent course!!! Do this first If you have a plan to learn the R programming.
 Excellent course! I would recommend completion of Swirl courses to reinforce ideas learned.
 The best course that I have ever taken regarding the introduction to a programming language
@@ -2479,7 +2391,6 @@ This course just pushes you to the large world of R to explore, experiment and l
 Great course for R beginners to get familiar with the basic functions of the program!
 Difficult but worth it. You really learn to code in R and tools to apply in your job.
 I think this class is one of the most beneficial course in Coursera !!!Thanks alot !!
-Curso muito bom! Pode ser desafiador para quem não tem um "background em programação!
 good course , i have learned more and earn new skills that help me to use r language
 Though But I pulled through. The Read materials must be updated to include more info
 Good course. A to Z of R is covered. The support team is very helpful. Love Coursera
@@ -2514,7 +2425,6 @@ Great course. Very important for all the persons that have interest in this area
 I liked the course but would prefer if there were more exercises and assignments.
 well designed and easy to learn! thank you Coursera and Johns Hopkins University.
 an excellent course that allowed me to expand my knowledge and learn new things.
-Très bon cours ! Cependant plusieurs prerequis étaient necessaire pour ce cours.
 Great course. Really good teaching methods and very simple to understand as well
 Somewhat challenging for newcomers, but great videos and supplemental materials!
 Excellent. The exercises, labs and quizzes were set up awesomely. Learned a lot.
@@ -2540,7 +2450,6 @@ This course is very useful to explore new things,thank you so much  coursera.
 It was a great experience for me. I learned a lot from this course.Thank you!
 Excellent course. Nice videos and exercises, and I enjoyed the swirl courses.
 Challenging and worth my time.  It validated my understanding of the subject.
-这门课程对于R语言入门非常有帮助，老师讲课很清晰，PPT简洁扼要。课程的练习方式非常有趣，令你乐在其中！这是我第一次在Coursera拿到证书，太开心了！
 Very interesting data sets that keep you engaged and wanting to learn more R!
 I study java at the university and this course has helped me alot to learn R.
 Great Course to get started on R from zero. Thanks a ton to the Instructors .
@@ -2629,7 +2538,6 @@ Excellent course, but the difficulty of the content can be increased
 Loved the assignments. Stick with the problem sets for some time! :)
 A really nice course that flexible to adapt with student activities
 Very nicely designed course for a very novice R programming learner
-Muy bueno! Excelente profesor el Dr. Peng, ahora a seguir adelante.
 Great introductory course, but uses interesting real life examples.
 It was a course that required lots of effort.  But it was worth it.
 It's a good course to quickly learn the basics of programming in R.
@@ -2654,7 +2562,6 @@ Wonderful chance to us I'm very lucky to have a part  of coursera
 Excellent course with very challenging but nurturing assignments!
 Helpful course to get the basics right for learning R Programming
 Very useful for implementation of R programming in Bioinformatics
-是非常好的课程了！个人认为一点瑕疵是：作业难度比课程难度高太多，靠个人比较难解决课后问题，希望有更加循序渐进的方式来布置课后作业。
 I Enjoy to the Course, really make me Excited. Thanks Coursera :)
 Very nice course. The assignment is a bit to difficult for me who
 Could provide a bit more assistance on the programming assignment
@@ -2680,7 +2587,6 @@ IT IS VERY USEFUL COURSER THAT I CAN SOMETHING ABOUT 人PROGRAMING
 An excellent tuturial invaluable for every analytical scientist!
 Excellent course for introduction in R! I really recomended it!
 Great final assignment. Cleared a lot of concepts in R. Thanks.
-Es muy buena para aprender y reforzar conceptos de programación
 Great course, definitely feel confident in the basics of R now!
 Thank you so much for the lecture :) It was a great experience.
 The course was just right: neither too difficult, nor too easy.
@@ -2749,7 +2655,6 @@ Good starting course, enough theory and practical exercises
 Felt way more confident with R programming, R + RStudio = ❤
 Great assignments. Tests what is taught already and beyond.
 The assignment can be easier and is better with guidelines.
-Excellent Course! Gave me lot of confidence in data science
 Assignment was a test and I did learn a lot or programming.
 A very good introductory course to R for a beginner like me
 Challenging yet rewarding course for programming beginners!
@@ -2780,7 +2685,6 @@ Great course, intuitive and usefull for the R first timer
 A very simplest , easiest and effective mode of teaching.
 It is a solid start to learn R.Very friendly for rookies.
 Good course to get overall idea in R for fresh starters.
-Um curso excelente e necessário para aprender a usar o R
 An excellent learning curve, easy to follow and practice
 This course is great because provide the basic knowledge
 Broad coverage of topics in R- great introductory course
@@ -2813,11 +2717,9 @@ really helpful to understand the basic of R programming
 Very nice course, rich material, and amazing professor!
 It's an awesome experience here learning with coursera.
 This was a very helpful introductory course to get your
-Algo duro para el tiempo disponible pero muy buen curso
 This course is great for learning R and lots of basics.
 A real challenge for a novice but rewarding in the end.
 Amazing course. Learnt a lot. Especially through swirl
-Es un curso bien explicado y completo. Muchas gracias.
 Thsi course is very challenging and enhances thinking.
 Excellent.But programming homework is a bit difficult.
 This is one of the best course to learn R programming.
@@ -2832,10 +2734,8 @@ wonderful course for learning R language with RStudio
 swirl is very helpful to consolidate basic knowledge.
 AWESOME IS THE WORD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 easily understanding and great design for assignments
-Great course!. Excellent content and better exercises
 Very good course to learn R Programming and R Studio.
 A good fun intro to R that gives you a good grounding
-En us excelente punto de partida para trabajar con R.
 Excellent course to start with R. Highly recommended.
 Its one of the best courses and I have improved a lot
 Excelente course! I will recommend it to my collegues
@@ -2945,8 +2845,6 @@ An awesome course... enjoyed a lot ...cheers!!!
 Useful and well-organized. I have learned a lot
 Excellent in-depth instruction, easy to follow.
 Excellent course, good examples, good tutor :-)
-Excelente curso me gustó mucho porque aprendí.
-特别好的课程，通过这门课程掌握了R的基础应用，讲解很清楚，尤其是swirl包的练习受益匪浅。
 Nice and easy to Understand,Thank you Coursera
 Very good and informative introductory course!
 This course was truly worth taking. Thank you!
@@ -2968,7 +2866,6 @@ good course with perfect interactive exercises
 Awesome work and learned a lot as a beginner!
 Very helpful material and it also used for ML
 a lot of research to complete the assignments
-Excelente curso em R, está me ajudando muito.
 Good course. Programming assignments were fun
 Very very useful course. I really enjoyed it!
 it was informative course to polish my skills
@@ -3021,7 +2918,6 @@ One of the best courses on introductory R.
 Very easy form to learn R with this course
 A very well suitable course for beginners.
 Nice to learn the basics in R Programming.
-aw sum experience but little bit difficult
 This class is a real challenge! Enjoin it.
 Very useful and well defined course indeed
 a brilliant course to get experiemce on R!
@@ -3055,7 +2951,6 @@ Good one, really challenges you to learn
 it is a bit difficult for the r beginner
 Challenging and interesting! Many thanks
 Good fundamental knowledge of R acquired
-For a beginner like me, it's very useful
 Challenging assignment, great professor!
 Swirl() is a very useful way to learn R.
 I enjoyed this course and learned a lot.
@@ -3093,17 +2988,14 @@ Super knowledge and easy to understand
 Very thorough. Good informative class.
 Excellent course and very challenging!
 A very good foundation to understand R
-Excelente Curso. Gran calidad técnica.
 it is a very helpful course, thank you
 Content is very prepared and arranged.
 Well organized and interesting course.
 One of the best online courses I took.
 Harder than I expected. Learned a lot.
-Muito bom, ótimo professor e material.
 It was very informative..and excellent
 very useful for learning from scratch.
 Great introduction to the R language !
-Es un buen curso, aprendes mucho de R.
 Amazing course, it´s very instructive.
 Challenging course, but in a good way.
 R Programming course was very helpful.
@@ -3114,7 +3006,6 @@ Provided a great learning experience.
 Very clear, comprehensive and useful!
 I'm happy to have completed 1 course.
 Very well planned and helpful course.
-Excellent course structure. Loved it!
 Provida a good base to R programming.
 A very good starter course to learn R
 Very good for exploring R programming
@@ -3132,17 +3023,14 @@ Excellent and well organized! Thanks!
 Jump Starting R programming. Best one
 Great course! Difficult but rewarding
 Amazing course to learn R programming
-Excelente curso, me ha gustado mucho
 very good course ....a bit difficult
 Best course for beginners to learn R
-Me gusto mucho el curso es muy bueno
 Very helpful and step by step course
 very good for data science beginners
 Great course material and exercises!
 A lot of codings and skills to learn
 Very Useful Course in Data science..
 Great intro to R Programming. Thanks
-Muy buena metodología de aprendizaje
 The course tutor was very proficient
 It is really a GOOD course to learn.
 It‘s gooood for us primary learners.
@@ -3151,7 +3039,6 @@ Full of stuffa nd really teaches you
 A very good course for begineers. :)
 This course was very good and brief.
 Very good course. I improved a lot!
-Dá um panorama do básico muito bom!
 Awesome course! Helped me a lot! :)
 great couser, no im familiar with R
 Very good. I rate it as 5 out of 5.
@@ -3166,8 +3053,6 @@ Good introduction to the R language
 awesome course with basic knowledge
 great  learning through this course
 Best Course to learn R programming.
-Will make you a ninja R programmer!
-課程內容豐富、完整，架構清楚，按照進度完成能夠具備基本的R語言操作能力
 Very useful and easy to understand.
 Excellent! Well tought, good ebook!
 Great course to understand R logics
@@ -3189,20 +3074,16 @@ Very Helpful course for beginners.
 Great course! Totally recommended.
 Difficult but a challenging course
 The course is very helpful for me.
-Excellent entry-level course on R.
 Excellent teaching and good course
 Well paced and structured course.
 Excellent course for R beginners.
 Difficult course but worth doing.
-Está bastante bien para iniciarse
 Thanks Coursera.Nice teaching way
 I learned so much in this course!
 Excellent and challenging course!
 In depth coverage of basic topics
 Great learning and starting for R
-Excelente basic course aboute R.,
 great experience with courseera .
-Excelente curso, aunque muy breve
 These courses are really helpful.
 Great course to learn basics of R
 Excellent course!! Thanks a lot!!
@@ -3211,13 +3092,10 @@ A good first course for beginners
 Now i can do more thing with R :)
 Very well explained, recommended.
 Nice, swirl lessons are very good
-Es muy bueno , aunque ya sabia R
-Un gran curso. 100% recomendado!
 Well-strctured with useful tips.
 Very Helpful. Thank You Coursera
 I learned a lot of R programming
 It was great working with course
-全英文的，确实有些不习惯，但是对于零基础的人而言还是不错的课程。
 Great intro into the R language.
 very detailed and very practical
 Very useful to beginners of R !!
@@ -3234,7 +3112,6 @@ Swirl exercises are very helpful
 Great way to get started with R.
 nice course for the beginners...
 It's  quite useful for beginners
-Excellent course to run about R.
 Thanks you so much for learning
 Good for learning R programming
 Tough class, but really helpful
@@ -3243,35 +3120,29 @@ very good, I have learned a lot
 It's pretty good and detailed !
 very useful and needs some work
 Good course for understanding R
-Great opportunity for beginner.
 Great courser to R programming.
 A good way to start learning R!
 Good intro. Hey it is not C :-)
 good course to learn R language
 Tough course but well worth it!
 Very useful to get started in R
-Intense course! I recommend it!
 Great course for very beginners
 Rather boring, but very useful.
 Absolutely loved this course!!
 Good course for start to use R
-Excellent practice assignments
 Amazing! I finally finish it!!
 The best R Programming course!
 very useful and helpful course
 This is really a nice training
 good basic understanding of R.
 This course is really helpful!
-Assignment is quite difficult.
 the swirl is such a good idea!
 Very nice course for beginners
 Course was Thorough and Helpfu
 A perfect course for beginner.
 I really liked the assignments
 Wonderful introductory course.
-Excellent for Data Scientist's
 Learned a lot in this course.
-Muy buen curso introductorio.
 Very Nice. Enjoyed the course
 Great Course for R programmer
 Great course for beginning R.
@@ -3279,15 +3150,12 @@ Thank you for my first steps.
 It's a really helpful course.
 Very useful to learn about R!
 Great course, great homeworks
-Genial para introducirse en R
 Great course to start using R
 very helpful and educational!
-Excelente curso! Muy completo
 the assignments are not easy.
 Useful and easy to understand
 fantastic studying experience
 Great course on R Programming
-nice content..understandable.
 challenging and interesting!
 Amazing course. Thanks a lot
 Great for learning R basics.
@@ -3300,7 +3168,6 @@ Good content , very helpful.
 Very good course to learn R.
 it is difficult but worth it
 Detailed and good exercise !
-nice content and examples...
 Thanks for all your efforts.
 Easy to follow but demanding
 Great start in R programming
@@ -3314,18 +3181,15 @@ Swirl is really very helpful
 I really enjoy this course!
 Challenging but very useful
 It was nice and explorative
-Excellent course to start R
 Good course and instructors
 Excellent course! Thanks!!!
 Fantastic introduction to R
-Excelent experience so far.
 swirl is really interesting
 Very useful as a start in R
 very nice quality education
 Excellent introduction to R
 Great course for a beginner
 Tough, but great, I made it
-Excelente, muy recomendable
 It is a good overview of R!
 very organized, so helpfull
 it was a very good course.
@@ -3338,7 +3202,6 @@ Best for learning R.......
 Great course to get into R
 Great starter course in R.
 Good material and content.
-I CAN LEARN A R LANG. EASY
 Very Helpful for a Novoice
 Top level course! Amazing!
 This is a good start to R
@@ -3351,10 +3214,7 @@ This is an awesome cource
 Good job!Congratulations!
 recommendation. very good
 Good starter course for R
-quite enlightening course
 Nice coverage of concepts
-very useful for beginners
-R语言很好的入门课，assignment很有难度。
 Exceeded my Expectations!
 Great basic knowledge ...
 very good and high level
@@ -3364,31 +3224,24 @@ Must course to learn R!!
 A Great Learning about R
 Excellent and wonderful!
 learned so much - thanks
-some experience required
 Great Course !THANKS !!!
 Great Introduction to R!
 Good course for biginner
 Very informative course!
-Vey useful for beginners
 Very nice course indeed!
 This course is so good!
 the  course was amazing
 very nice the materials
 Good Course for learn R
 love with r programming
-很好，有中文字幕，作业的形式多样，学到了很多。
 Swirl is really useful.
 Very progressive course
-Very fundamental course
 A very good course. :-)
-Challenging, still fun.
 Love hands-on learning.
 Very very good! Thanks.
 great intro course to R
 Worth it! Vale a pena!
 Very clear and useful!
-SUCH AN AMAZING COURSE
-good intro to R coding
 Very good lesson for R
 Great difficulty level
 Great to learn basics.
@@ -3397,22 +3250,14 @@ Good one for beginners
 Best R tutorial Class.
 Good Introduction to R
 nice learning R course
-第一次完成的mooc课程，从此爱上了数据科学
-Excellent. Good work!!
 It let me learn a lot!
 Great ! Nothing to add
-Awesome sauce course!!
-這是一堂很扎實的課程，比我在大學學的還要詳細
 Good course to learn R
-课程讲解清晰，配合swirl能快速掌握R编程
-Excelente curso de R.
 one of the best for R
 Nice and very helpful
-Well designed course!
 perfect and wonderful
 wel structured course
 great time with Swirl
-best course available
 Swirl was very useful
 nice way of teaching.
 Learned a lot about R
@@ -3428,14 +3273,12 @@ very helpful course!
 Pretty useful for me
 a little hard for me
 I love this R course
-Very essential part.
 It is worth to do it
 A crash course in R.
 Loved the Coursework
 very useful material
 it strength my basic
 BEST R COURSE EVER!
-非常棒！老师讲的详细，课程学分好拿~~
 It´s a great course
 great - all about R
 Good explaination!!
@@ -3451,116 +3294,59 @@ Nice assignments :)
 Very fast and hard.
 Great course for R!
 Very good course :3
-Excellent program!!
 A very good course!
-I love data science
 thanks to coursera
 Was amazing course
 Good site to learn
-massive achievment
 interactive course
 Very Good Course -
 Very good guidance
 Strongly recommend
-老师讲的很系统，学到了很多，感谢老师
 challenging course
-Excellent Material
-très bien expliqué
 Great Learning !!!
 was fun! thanks :)
 really helpful : )
 Perfect fantastic!
 Very practical one
-Excellent effort.
+very good, thanks
 Loved this class!
 Great intro to R!
 Very Interesting,
-it is wonderful!!
-GREAT course!!!!!
-非常棒的课程，我会抽时间继续课程的
-有时间节点，督促拖延症患者，感谢~
 Very  clarifying!
-挺好的，挺不错的，简要而覆盖面全。
-Sehr sehr gut!!!
 vary good course
 Everything is OK
-Excellent videos
 great intro to R
 Very Good Course
 Great intro to R
-marlboro advance
 Very nice class.
 Hard, but GREAT!
 Good way learn R
 Very well built.
 Great R starter!
 Very Explanatory
-Important course
-Best Course Ever
-I just love it!
-un cour parfait
-it's quite good
 good learning R
-Increible Curso
 nicely crafted!
 helps a lot !!!
 Great teachers.
 It was excelent
 Thanks, Helpful
-Excellent Class
 It is the best!
 Good challenges
 Excellent Work!
 It's very cool.
 It's wonderful!
-nice intro to R
 ¡Great Course!
-ever wonderful
 it helps a lot
-little hard...
-Really good!:)
 Pretty Robust!
 Very useful :)
 very practical
 Well organized
-Swirl is good
-Useful skills
-I love Roger!
-课程深入浅出，讲的很好啊。
-Great design!
-buen curso!!!
-Very nice ^_^
-so so awesome
 Good enough!
 learned alot
-🎶I love it,
-literal dank
-great useful
 Great class
 very handy!
-HELPS A LOT
 great help!
 thanks jhu
-Real Great
-SO HELPFUL
-Buenísimo.
-fenomenal
 Top class
-Good base
-All great
-well done
-讲的还是精辟直接的
-GOOD jOB
 R is fun
 LIKE IT
-정말 좋아요!
-Better!
-GREAT！
-Finish
-superb
-Superb
-nice
-Yaaa
-Well
-thx
-=)

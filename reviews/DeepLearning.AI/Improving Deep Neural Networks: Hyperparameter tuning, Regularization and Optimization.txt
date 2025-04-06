@@ -28,7 +28,6 @@ The notebooks of this class are terrible. They should receive more attention so 
 There are many errors in the course materials and no one seems willing to fix them.
 The programming assignment for week 3 was full of bugs
 Could have been a 4 week course
-ala0z
 Lectures are good. Quizzes and programming exercises too easy.
 As far as the video lectures is concerned, the videos are excellent; it is the same quality as the other courses from the same instructor. This course contains a lot of relevant and useful material, and is worth studying, and complements the first course (and the free ML course very well).The labs, however, are not particularly useful. While it's good that the focus of the labs is applying the actual formulas and algorithms taught, and not really on the mechanical aspects of putting the ideas in actual code, the labs have structured basically all of the "glue" and just leave you to basically translate formulas to the language-specific construct. This makes the lab material so mechanical as to almost take away the benefit.The TensorFlow section was disappointing. It's really difficult to learn much in a 15 minute video lecture, and a lab that basically does everything (and oddly, for some things leaves you looking up the documentation yourself). I didn't get anything out of this lab, other than to get a taste for what it looks like. What makes it even worse is TensorFlow framework uses some different jargon that is not really explained, but the relevant code is almost given to you so it doesn't matter to get the "correct" answer. I finished the lab not feeling like I knew very much about it at all. It would have been far better to either spend more time on this, or basically omit it.As with the first course, it is somewhat disappointing lecture notes are not provided. This would be handy as a reference to refer back to. Still, despite these flaws, there's still a lot of good stuff to be learned. This course could have been much better, though.
 The course provides very good insights of the practical aspect of implementing neural networks in general. Prof. Ng, as always, delivered very clear explanation for even the difficult concepts, and I have thoroughly enjoyed every single lecture video.Although I do appreciate very much the efforts put in by the instructors for the programming assignments, I can't help but thinking I could have learnt much more if the instruction were *LESS* detailed and comprehensive. I found myself just "filling in the blank" and following step-by-step instruction without the need to think too much. I'm also slightly disappointed with the practical assignment of Tensorflow where everything is pretty much written out for you, leaving you with less capacity to think and learn from mistakes. All in all, I think the course could have made the programming exercise much more challenging than they are now, and allow students to learn from their mistakes.
@@ -65,7 +64,6 @@ I wish the course material on Tensorflow was updated to Tensorflow 2, but it is 
 Good explanation of hyperparameters and optimization in DNN. As a beginner to tensor flow, I felt it hard to debug the tensor flow assignment. It would have been easier if the assignment included validation of each function before building the complete model.
 Would have liked programming assignment in python to understand the various initializations and optimizations. Although tensorflow introduction was good, It felt like being left stranded without a python assignment to cement the things learnt in the class.
 The lectures are good and informative. However, the programming assignments are hard to learn from - an unhelpful combination of too easy and too obscure, so that it's hard to believe I'm developing skills that will help me program such things myself.
-Ich hätte mir gewünscht, dass Hyperparameter Tuning tiefer behandelt worden wäre.Anstelle eines randomisierten Ausprobierens hätte ich mir mehr Erfahrungswerte gewünscht, wie man situationsabhängig Netze konstruiert und Parameter wählen sollte.
 The material is very well and intuitively explained.  I am disappointed with the assignment.  It seems to be based on older versions of Tensorflow, and seems a bit outdated.  This becomes very clear if one tries to run the assignment locally.
 The course notes don't lend themselves for use as reference materials. The programming exercises are spoon-fed. The material is more up-to-date than Andrew Ng's Machine Learning course, but that set a higher standard for online education.
 the lectures in this course seemed very packed and rushed, squeezing in a lot of content that felt skipped over instead of delving into the math a bit.  The jupyter notebooks also have alot of errata that haven't been updated in a while
@@ -150,11 +148,8 @@ Outdated with Tensorflow 1
 Again, nice videos but not
 Multiple grading issues.
 could be more engaging
-Update for TF2.0 :)
 Looks raw yet.
 awful sound
-enjoyed :)
-괜찮음
 There are both areas needing improvement and places where this course excels.To begin let's consider what I think needs improvement.Since this program says that it does not require prerequisites, it really ought to provide backup reference materials specific to course content. Specifically I found it difficult to follow details without the basics of differential calculus, matrix algebra, Python, and TensorFlow. One alternative is to hire a tutor, which is what I did.Although there is an active community and tutors, support from the course's owner deeplearning.ai  can be improved. For example there are comments in the forums about how long it takes deeplearning.ai to fix bugs in the code.My last suggestion for improvement is how this course is taught. There is so much content that questioning needs to be more frequent. Currently grading is done through ten multiple choice questions and a programming exercise after a week's worth of videos. While the programming exercises are good, learning would be improved significantly by including three or four questions with each video, even if they are not graded.Overall, I have the sense that deeplearning.ai has not been improving or updating this course.Nevertheless this course still deserves four stars. The presenter is well organized, articulate and enthusiastic. The entire course follows a coherent plan.  This course and its predecessor supplies a great deal of content.  Each video runs 6 - 10 minutes on average which is about the right length, However I was always stopping them to write down points to better grasp the content.As mentioned, there are a few bugs in the programming exercises. However they are rigorous, cover the material, and effort has been made to make them interesting.Overall, while there is room for improvement this is still a worthwhile course.
 I enrolled in this course without taking the previous ones (I have already done an MSc in Computer Vision and Machine Learning so I thought I wouldn't need the others), but the material has been easy to follow and understand. It is really interesting as it helps you understand important concepts such as bias and variance, or why does batch normalisation work. Sometimes Deep Learning can be seen more as an art than a science, and this course is helpful for defining a good strategy when carrying out deep learing experiments.
 The course began from very basics to complex functions, hyperparameter  tuning is efficient in building better models, Kudos to Sir Andrew NG for explaining all of them in the simplest way possible. I would highly recommend this course to all interested in deep learning. But I believe that assignments can be made more challenging rather than just filling up the codes with syntaxes. Logic building is very important.
@@ -236,7 +231,6 @@ Topics are explained very well. There may be a false sense of accomplishment com
 gain quite a lot of insight into the deep neural network, the tunning, regularization and so on.one remark on this course, we talked a lot about tunning processes in wk3. However, not much practical exercises on this part, e.g. we didn't try to implement the batch normalization ourselves and to incorporate batch normalization with other parameters etc.
 Although I loved this course, I believe there are certain parts that could be broken down into even simpler intuitions. If such a change a possible, this course will be the best one out there. Anyway, I really enjoyed the course and it was a great learning experience. Tensorflow was introduced very finely and it aroused my curiousity to learn more.
 Really informative course to learn about the various kinds of optimizations and the differences between the optimization techniques. Learnt how to tune the hyper parameters for effective training . Also got a chance to learn about mini-batches and the corresponding gradient descent and the difference between batch and mini-batch gradient descent.
-Un curso muy bueno, el instructor tiene dominio del tema y sobre todo el final del curso es muy bueno en cuestión de poner en practica la teoría que al principio te explica. En ocasiones el instructor va un poco rápido en los términos teóricos y puede llegar a abrumarte. Creo quería ideal poner más ejemplos prácticos cada que explica un concepto.
 Materials are good and Professor Andrew presents the course in the really understandable level, so I still learn a lot throughout the course even if I have taken similar mooc courses on other platforms. Programming Assignments are much easier than the fourth course (Convolutional NN), but it gives many inspiration to me. Great thanks to the team!
 Great material, very clear and pleasant teaching, good software environment for the programming exercises. The exercises are a bit boring at times (cut and paste without much thinking) but maybe this is a quick way to memorize the material... Some long known problems in the exercises should REALLY REALLY be addressed! (would have given 5 stars)
 Content is great! A good introduction to a lot of hyper-parameters in neural net. However, there are some bugs in the evaluation system of programming assignments. For example, the system does not recognize Pythons '-=' operation and gave me a fail, which I did not figure out until I saw the forum where people were having the same trouble.
@@ -363,7 +357,6 @@ The content of the Course is very precise and assignment truly reflect what is b
 The class should include more introduction on the current ml frameworks such as tensor flow etc. Possibly it should include one more project for the ml framework. Hope to give students more experience on the ml frameworks.
 Good and detailed information on how to tune parameters, optimization techniques and regularization. I'm confident that this course learning will help me in training NN to better convergence in a shorter time than earlier.
 I would have liked more details on the math.  Furthermore, I think that the discussion of TensorFlow was a bit too short.  Although I was able to do the assignment I have not yet developed an understanding of TensorFlow.
-Excellent. Mon regret est que l'exercice final ne mette pas en oeuvre le tuning des hyperparamètres sur un jeu de cross validation. Un exercice supplémentaire avec TensorFlow ou Keras sur cette notion aurait été un plus.
 Very InterestingAs usual, it is very good from theory point of view. Practical examples are also really interesting.Do not expect to be autonomous after the course, as you won't be able to use Tensorflow or Keras alone.
 I'd make the tesnsorflow section a separate week with much more elaboration, the first time (in both course 1 and course 2) I felt a subject was lacking information. It's mostly noticeable in the programming assignment.
 The course really takes the student by the hand through the exercises. The disadvantage is that it is not really necessary to understand what you are doing. Just follow the guidance. But on the whole really satisfactory
@@ -557,7 +550,6 @@ Well detailed course.. Tensorflow is very basic and it could have been improved 
 Explains neural nets like a tutorial more than a formal course. Overall pretty insightful. Also, instructor can speak louder.
 Great course!!  The only improvements I'd suggest is more difficult assignments (less guided) and more written documentation.
 Very good - wouldve been more effective if included the questions part way through the videos as previous courses have done.
-Es necesario que actualicen los notebook por ejemplo el de TensoFlow ya que esos códigos no corren bien con la nueva versión
 This course was a little bored for me. I already knew a little bit about hypertuning so I felt that the course moved slowly.
 Provides a good code skeleton to build a neural network, but would unlikely have one poised to do improvements on their own.
 Some assignments, even though I get the same result as the output given, it get marked as wrong... Please try to rectify it
@@ -693,7 +685,6 @@ The assignements are very instructive and useful, but they could be more challen
 Content is comprehensive but lack of an detailed assignment of tuning hyperparameter.
 Great overview. The only critique is that the practice problems are a bit spoon-fed.
 learn a lot about how to fine tune hyperparameter & other regularization techniques.
-hay funciones de tensorflow que ser[ia adecuado que las explicaran en los notebooks.
 Assignments are too easy. They wouldn't even require one to watch the course videos.
 Very Good for knowing details . Few more practices in programming might help a lot.
 4 stars for the course's rich content. minus one for the overly structured projects
@@ -734,7 +725,6 @@ It would be beneficial to give more details on how tensorflow optimizers work
 This is an important course to go through for improving deep neural networks.
 Very nice one. Focus on practical aspects that are quite necessary to use NNs
 too complicated, many lessens in couple of short videos.poor video transcript
-Se podría mejorar mucho la redacción del libro del ejercicio de programación.
 more python / tensorflow, as well as data exploration and cleaning is welcome
 Excellent on the basis. could cite frameworks like hyperopt, hyperas, etc...
 There are still some minor typos to correct, but it's a great course anyway!
@@ -749,7 +739,6 @@ Insights about how machine learning works in real life is quite ingeniuos.
 very good lecure. somewhat difficult to me. I will repeat again and again.
 Very informative but got some issues with the last programming assignment.
 More rigorous independent projects/assignments are needed for this course.
-Deepened my understanding of how to make deep neural networks work better!
 Would have been more helpful if TensorFlow was covered in greater detail.
 Practices are more like "type after me" than a real learning opportunity.
 Excelent course with very interesting insigth on tuning a multilayer ANN.
@@ -795,11 +784,9 @@ Really good insight into the inner workings of a neural network.
 Too less coding and practice exercises, thou the theory is great
 Good but need letter recognition NN to understand what he writes
 Tensorflow part was quite messy, but besides that, very helpful!
-日本語訳があまりなかったので、英語がそこまで得意ではない初心者の人は勉強の順番の工夫が必要だと思う(自分はそれで乗り切りました)
 I had some issues regarding coding, but other than that, great!
 Need further explanation on the optimizer with gradient descent
 Great course, lecture is perfect. assignments could be improved
-代码给的答案和自己写代码运行得到的答案不一样，让我想破脑袋想了很久都不知道哪里错了，结果一提交答案评分的时候又说我是对的，头疼
 Good overview of optimization methods, but moves a little slow.
 4 stars due to tensorflow 1 assignment instead of tensorflow 2
 A little too much hand holding in the programming assignments.
@@ -807,7 +794,6 @@ Tenserflow section could have been a little bit more elaborate
 programming assignment should be more open, with less guidance
 Very quickly jump to almost profffi TF. It's little suddenly.
 Little less well structured/organized than the first course..
-感觉讲到tensorflow框架这块儿的时候跳跃有一点点大，如果tensorflow相关的联系更丰富一些，说明更多一些就了
 not very happy about tensor flow introduction. rest was great
 This was helpful.  I advise spending more time on tensorflow.
 More assignments would make this course even more productive
@@ -836,10 +822,8 @@ Very good.Would be better it it touches tools like keras.
 Good course , 'll get to know more about hyperparameters
 A bit short on the Tensorflow tutorial, otherwise great.
 Installation of tensor flow might have make it complete
-极高水准的教学，然课程略短。 编程作业依然过于保姆化 ，简直就是直接喂到嘴边。这样反而起不到加深印象的效果 。
 Great course for Hyperparameter tuning and Optimization
 Enjoyed the content and the introduction to Tensorflow.
-内容は素晴らしいが、日本語訳がついている動画が少なく苦労した。英語が苦手でDLを何も知らない人は少し大変かも
 The course was great but I think it needs more quizzes
 Useful but rather dry iteration of the specialization.
 Great as usual except the typos in the assignment page
@@ -866,7 +850,6 @@ There should have been more exercise on tensorflow
 TensorFlow is a bit nebulous.I need more practice.
 The syntax and logic of tensorflow is a bit blurry
 Was great! Would have loved to see more tensorflow
-좋은 강좌입니다. 단 한글 번역 부분에 오류가 많습니다. 이후에는 수정되었으면 좋겠습니다.
 Good follow-on from course 1 of the specialization
 Sorry for the last review - the quiz can be saved.
 Definitely improved my understanding on the tuning
@@ -885,10 +868,8 @@ Tensor flow should be explained in more detail
 Very great course on how to tune NN in details
 Builds on fundamentals, which is always good!!
 More practical examples would be very useful.
-Cours intéressant merci beaucoup Mr Andrew Ng
 batch optimization is good but not graded :-(
 should provide more materials for tensor flow
-great now I understand Adam optimizer better
 I can understand concept of deep neural net!
 There were some typos throughout the course.
 Great but som explanations seems a bit wierd
@@ -906,13 +887,10 @@ Programming assignments are too simple.
 Could do with more tensorflow examples
 Well organized !! clear explanations !
 I expected it to be in TensorFlow 2.0
-感觉作业设计的很好，可以不需要太好的编程能力就能完成，还能加深多算法的理解
 it was difficult somehow but awesome
 Update to TensorFlow 2.0 is required
-Some model are not understood deeply
 Consistently challenging. I love it!
 suggest to update to tensorflow 2.0
-excellent & quite challenge course!
 Very good course.highly recommended
 nice one, but video quality is low
 It's a very helpful course. thanks
@@ -921,7 +899,6 @@ Week 3 exercice could be improved
 Interesting and tough to finish.
 Would like to have more practice
 TensorFlow needs more explaining
-Some errors in jupyter notebooks
 last assignment need improvement
 A very practical hands-on study.
 Great course, incredibly useful
@@ -931,20 +908,15 @@ tensorflow should be told more
 Thank you for your teaching :)
 need more intro to tensorflow
 Labs should be more difficult
-nice ......but too diffucult
 Learn a lot. Pytorch needed.
-No course material available
 some video need more explain
 Good and practical knowledge
 It is 5 stars if more deeper
 the course content was good
-not very like tensorflow...
 More mathematics expecting
-Useful but not very unique
 Challenging and rewarding
 Learned lots of new stuff
 Concepts and intuitions.
-Some error in assessment
 A very important course.
 Audio could be clearer.
 Very nice,good learning
@@ -953,33 +925,22 @@ A great course as well.
 Course is really good.
 Simply Great course!!!
 It was amazing course.
-homeworks too simple!!
-有点难懂，不过通过编程练习依然学到很多东西。
 some kind of abstract
 Need slides and notes
-week 3 has some typos
-Useful for Debugging
 Good course overall!
 Another Great Course
 Overall good class.
-Sometimes quit slow
 Awesome content...
-a little difficult
-Add more quizzes.
 Thank you,Andrew
+it is very good
 希望更新Tensorflow2
 pretty good one
 Add more theory
 Bad handwriting
-Great module !
-pudo ser mejor
 Great revision
-So difficult.
 tf version1.X
 tough one
 easy bb
-NICE!!
-作业过于简单
 Thank you Andrew!! I know start to use Tensorflow, however, this tool is not well for a research goal. Maybe, pytorch could be considered in the future!! And let us know how to use pytorch in Windows.
 After completion of this course I know which values to look at if my ML model is not performing up to the task. It is a detailed but not too complicated course to understand the parameters used by ML.
 I really enjoyed this course. Many details are given here that are crucial to gain experience and tips on things that looks easy at first sight but are important for a faster ML project implementation
@@ -1012,7 +973,6 @@ Insights into best practices and directions for common problems make it an one-o
 The topics of this course, such as the setting of hyperparameters and the use of tensorflow, are critical topics for me, and in this course they are explained both in lectures and in practical tasks.
 I enjoyed it, it is really helpful, id like to have the oportunity to implement all these deeply in a real example.the only thing i didn't have completely clear is the barch norm, it is so confuse
 Very insightful. it would be nice, however, if the course had more information about Tensorflow 2.0.
-体验很棒，喜欢这种有作业有评分的课程
 very practical.
 Hello. I am Kunjan Mhaske, a graduate student of Computer Science completing (fingers crossed!) the MS degree in December 2020. Currently, I do not have funds to take university courses till August and hopefully, I could secure the co-op or internship for August to December 2020 so that I can fund my remaining semester from it. I am interested in AI and Data Science field and currently, my major is in AI with Computer vision and Machine Learning. I heard very positive reviews about this Specialization course of Deep Learning from my friends and I wanted to complete it this summer so that I could cash this knowledge in my full-time job or internship hunt. Please refer me for any opportunity I am very much in need of financial support for the completion of MS degree as well as living costs. My email is km1556@rit.edu and https://www.linkedin.com/in/kunjan-mhaske is my Linkedin profile. Fortunately, Coursera offered me the financial aid for the first and second courses in this specialization which turns out to be very helpful for me in this situation. I have applied for the rest of the courses in this specialization. Hopefully, I could get financial aid for all the 5 courses. Although I have a 3.76/4.0 GPA, the depth of concepts explained in this course is very good for my level. I have completed this course in 6 days and I am already feeling confident about the field of Deep Learning. Thank you so much for this wonderful course material and your support. God bless you all.
 I had taken Andrew Ng's Machine Learning course. I went on to learn Deep learning from other tutorials and I always wished there was a course on Deep learning too by Andrew Ng. And now that there is, It was worth the wait.1. All the topics are arranged in logical order. So you feel like a tour of deep learning. Earlier I had to refer to multiple sources for different topics and they usually had different naming and notations which were really confusing.2. Having taken about 6 top rated courses on AI domain, I can assure you Andrew Ng is the best in his teaching style and content.3. Exercises and theory go hand in hand. So, you know how to implement as soon as you learn theory.4. Out of a lot of techniques in each topics like Optimization, Regularization etc. this course picks the most contemporary techniques. This helps you not to wonder which techniques to use in your work.Overall, This Specialization is like a cookbook for AI. My appreciation and gratitude to Andrew Ng and his team for their contribution to AI.
@@ -1023,13 +983,11 @@ It explains a bunch of complicated maths and methods in a way that is at least c
 I took the Machine Learning Course from Stanford with Andrew Ng a few years ago and enjoyed it but I was also somewhat overwhelmed by the math. In contrast, this is my second course in the deep learning specialization and I feel like so far the courses have struck a good balance, introducing core concepts and derivations for things but also making sure I get guided practice along the way, and also not moving straight to frameworks but having students code more or less from scratch first. I'll probably need some practice on kaggle or other datasets as well as reference to a few other learning materials to feel like a strong practitioner, but this gives the tools to make that possible and I'm very satisfied with this result.
 All the courses in the Deep Learning Specialization are very good and met my expectations. I was guided through the nitty-gritties of neural networks, fortunately with a strong emphasis on Computer Vision (my area), deep diving in coherent coding exercises. Prof Andrew, as always, managed to connect the points between theory and practice, recollecting the concepts treated in past lectures, while showing how Tensorflow operates and how to use it. If you ask me, I'd say that the slides of the Machine Learning course used to be better than the slides for the 4 courses in this specialization, in the sense of being useful as studying guide for the future. The current slides only make sense to those who went through the course.
 Knowing this makes the difference. How do you evolve from being a monkey behind a keyboard knowing how to tensorflow a NN to homo sapiens? The concepts provided in this course will make the job.pros: + workflow to address and optimize your supervised learning problems          + wide and easy-to-get overview on most essential concepts           + improves your understanding  of NN; those who are already familiar with these concepts might still benefit from this clear and insightfull presentationcons: - programming assignment will not suffices to give you a sufficient knowledge of tensorflow to make your own applications, you should integrate a bit. (However, mastering tensorflow is not the intention of the assignment).
-Très bon complément de la partie 1 avec systématiquement une présentation intuitive puis technique (pour programmer à partir de 0) des concepts ..Le contenu est très dense, je conseille donc de prendre des notes et d'essayer de refaire quelque démonstration! Je conseille de bien lire tous les codes en détail ligne à ligne.Par contre l'introduction à tensor flow n'est pas très bien expliquée selon moi (seul petit point faible) mais ce n'est pas l'objet de cette partie je pense.Attention la deuxième partie ne comporte pas de sous titre français. Mais finalement en ayant un niveau moyen en anglais, j'ai facilement suivi avec les sous titre anglais car il y a souvent des schéma et le même vocabulaire revient souvent.
 Good pace for beginner as the last one. With step by step teaching us a lot of useful skills to train our model much faster, Andrew starts to put more attention on practical field, and rather than giving us many equations, he as before likes to use some vivid examples for giving us an intuition, which I think is very helpful to understand those scientific words of computer science. But it doesn't mean, that this course is perfect, even I gave a full point to it. The subtitles have a lot of mistakes and the audio is also poorly processed. Sometimes, you will hear the same words twice. But in a word, this is the best course for the beginners and the engineers who are willing to know something about ML and AI.
 I loved it. It showed me practical aspects of machine learning, including how to chose the hyperparameters and how to use tensor flow. My only complain is that I'm not sure how much of this information I will retain given that the practical exercises are guided. They build a lot of the functions for you. Still I'm giving it 5 stars because I have not seen this problem solved so far in any other Coursera course. They need to find a balance between teaching you a lot and making it easy enough for most people to be able to pass the exam and not get stuck in the details. Probably they could offer extra practice automatically graded exercises for those of us who want to make sure we won't forget the material.
 I'd highly recommend this course to any of my colleagues interested in Deep Learning.It is a great followup to Deep Learning and Neural Networks.My one 'complaint' is that the mathematical depth is too shallow for someone like me (PhD, Mathematical, Computational and Experimental Physics)It would be great if there was a course that was targeted to people with advanced STEM degrees, and years and years ( 4 decades in my case) of software engineering experience, where more time was spent on the mathematical framework, and the basic algorithms; that way, I'd have the satisfaction and pleasure of constructing the full algorithm implementations myself.That being said, once again, Andrew is a great teacher.
 I was very impressed with the quality of Dr.Ng's teaching; simple enough to build confidence in your understanding of the inner workings of neural networks yet thorough enough to prepare you for deeper study (academic or otherwise). For $50 this course is a steal; you could go gather all the information & struggle through it yourself but be prepared to spend a lot of time & effort sifting through mis-information. After taking the 1st coarse I was impressed; course 2 follows in a similar vain. Some of the courses offered through Coursera are more polished than others; if you're at all curious in deep learning, or even if you've already begun your studies, do NOT miss out on this opportunity.
 Previously, I have taken online classes before in Machine Learning by going the cheap route (Udemy, blogs, youtube) and you get what you pay for. Andrew Ng explains it the most thorough, easiest, and simplest way possible.  Presentation material is very understandable. Great class for new machine learning learners. Highly recommend it. The only downside is that the programming exercises are little too easy in my opinion. I feel like the best way to get your hands dirty is to do actual projects (do your own projects). These lectures are good for intuition and background of different types of Neural Network architectures. Other than that, Great material. Thanks Andrew!
-El curso está muy bien impartido por Andrew NG y te permite adquirir muy rápido conocimientos sobre los puntos clave para mejorar el aprendizaje con redes neuronales de una forma genérica. La práctica de programación con la plataforma tensorflow de python es muy valiosa, aunque se hecha de menos una mayor profundidad en el uso de las herramientas disponibles de tensorflow y otras utilidades de python para redes neuronales. El curso utiliza como ejemplos didácticos y prácticas la aplicación de redes neuronales al reconocimiento de imágnes, pero estaría bien ampliar los ejemplos con aplicaciones prácticas a otros campos como puede ser un modelado de un proceso físico.
 This course has been the game-changer in my understanding of the concepts of hyperparameter tuning and optimization. The conceptual knowledge of various tuning techniques along with the theoretical and practical information about the algorithms like GD with Momentum, RMSprop, and Adams have made me confident. The introduction to the machine learning framework along with the assignment focusing on Tensorflow has also made me confident to learn more and prepare better projects. As I have mentioned in my previous course review as well the programming assignments are extremely useful and very much important for the understanding of various deep learning concepts.
 Andrew ng is simply the best. He is by far the number one teacher for ML. He explains the materials in such an intuitive way like no one else. I think that for my needs, he introduces just the right amounts of math and practicality. This course really showed me how gradient descent optimization methods work. From before, I knew about these optimization methods and what they do, but never fully understood them. After taking this course I feel much more confident using them. The transition to tensorflow is done at the perfect time. After writing NNs yourself using numpy (first course in this specialization), you can truly appreciate tensorflow.
 Thank you Prof. Ng and Cousera for this amazing course! It was totally helping me with my career development and with feeding my interest in Machine Learning science itself! Upon cancelling my subscription of this course, I would to like to let you know that, it had to happen simply because coursera's webpage wasn't smoothly running with my current network based in China. The browsing and watching experience wasn't very idealized and it sort of discouraged me from keeping using it. If the issue could be solved, I am sure more people in my location will be attracted and encouraged to use Coursera.Stay safe and I hope you all the best,
@@ -1069,7 +1027,6 @@ As always Andrew Ng is very didactic explaining different and complex hyperparam
 This class was awesome! Thank you to Andew Ng and his team for putting this Specialization together. It is amazing for someone with so much experience in this field to be willing to share their wisdom with everyone, practically for free. The course content is filled with information that would have taken me years of to acquire. I am fortunate to have the opportunity to build a strong foundation in this field at a time when A.I. is becoming society's new electricity!
 A very valuable course to improve your understanding and develop a better toolset in using NNs. The instructor gives great tips on how to approach problems and explains the latest techniques very well. Also features a nice introduction to TensorFlow. As an experienced programmer I found this course to be a breezy and fast hands-on tutorial to get you going quickly if you are doing these courses to apply for something you are interested in (e.g. personal project)
 Excellent course!! Really glad to have taken this course as a part of the Deep Learning specialization. This course gives a breakthrough in designing neural networks and deep networks using a thorough understanding of all the major aspects to be considered. The course also helps in learning current industry-wide used opensource frameworks such as TensorFlow. The assignments are well designed to make the step by step understanding and exercise of the learning.
-Um dos cursos que mais gostei até o momento. Desde que comecei a estudar deep learning vejo se falar de muitas técnicas que pareciam impossíveis de compreender e implementar, mas esse curso não só ensina como implementar algumas delas, como também ajuda a entender o motivo dessas técnicas serem tão boas para os modelos de redes neurais, dando uma boa intuição de como cada método funciona. Além disso, apresenta e ajuda a desmistificar o framework tensorflow.
 This course was a great continuation of the first. The lecture pace is great (and ability to speed up or slow down the video speed helps a lot), the reiteration of past lessons helps with some of the denser materials, and the overall presentation is excellent. Also very nice that the problem sets aren't out to trick you! The material is new enough to many of us to begin with! The emphasis on practical application of the material is key (for me, at least).
 This course is very well designed and the instructor does an amazing job at explaining the concepts making it easy to learn, even for a novice in the field. This course helped me to get a greater understanding of Neural Networks. I learned how to enhance the performance of Neural Network by selecting appropriate hyperparameters, using regularization, using normalization and various other techniques. It was interesting to learn about the Softmax function.
 The course covers an extremely important topic (I know I've been lost in hyperparameter maze before) ,  and allowed me to get a good feeling of what, when and how to use hyperparameters. I guess that to actually master the topic students will have to practice with their own models and data sets, therefore I think that getting actual practice on this topic would be out of the scope of the course, and thus I think the programming assignments were adequate.
@@ -1252,7 +1209,6 @@ It's a great course like the others and quite valuable.  I am not quite sure how
 This course helps practitioner or beginner to know how to tune supporting parameters in order to achieve more efficient/accurate NN. In other words, this course helps me figuring how to optimize the NN design, and I think this is recommended for beginners who like to explore Deep Learning/NN
 This course provided a lot of insight in how to improve accuracy by tuning hyper parameters and also introduced multi-class problems and Deep learning programming frameworks! Awesome specialization to have as it aims to create well rounded expertise in Deep Learning and Neural networks area.
 After the first course, This course was really important for optimizing the Deep Nets and increasing its accuracy to further heights. The discussion forum also helped in clarification of many intriguing doubts. The assignments were suffice in implementing and understanding the fundamentals.
-Отличное продолжение первого курса от этой организации. Множество важных моментов отлично описаны, а задачи по программированию помогают закрепить это на практике. Как отдельный курс наверное не стоит наверное смотреть, но если рассматривать всю специализацию целиком - это отличный продукт!
 Coursera is so amazing to provide an opportunity like this to someone who is living in a 3rd world country with almost no opportunities in a high entry barrier field like Data Science. It is inspiring to see what coursers stands for, providing a learning opportunity to everyone, everywhere.
 Nice breadth and depth of relevant topics in this course. Andrew Ng is as always very precise about the issues presented and helps build up our knowledge step-by-step in a super structured way. Nice to work with both Python (semi-raw) models and getting a similar introduction to TensorFlow.
 Took the course to retest my knowledge in Deep learning. Have completed this course some time back. Without certificate. Professor has covered each of these topics in good detail. Practice workbooks and assignments are really helpful and provide a great start for deep learning enthusiasts.
@@ -1276,7 +1232,6 @@ Very helpful in building on the foundation in neural networks and deep learning 
 Nice illustration of the tricks including Batch-Norm, Optimization as well as Dropout, etc. Sometimes the lack of the theory is sort of unstatisfying, but considering the difficulty of a comprehensive intro for all of the above, it has been good enough for beginners to catch up with.
 While the first course in the specialization is the perfect introduction to the realm of NN, this course is the place where I learned to implement a true Deep Network. It talks about various optimizations and parameters of the DL models. Bonus, it introduces the tensorflow framework.
 Great course! Very well laid out approach to tuning  a deep neural network.  FInal introduction to Tensorflow was useful, but I think a lot of information was compressed into a single video. Suggest spreading this a little more.  The Tensorflow programming assignment was pretty good.
-Genial curso en el que aprender como optimizar tu red modificando una serie de parámetros y usando diferentes algoritmos. Ademas genial introducción a Tensorflow con el que avanzar en el montaje de redes de manera rápida. Recomendado totalmente tras realizar el curso anterior a este.
 This course is awesome. I never had this deep understanding of tuning hyperparameters, batch normalization and regularization before taking this course, though I went through several online material. The Tensorflow introduction and subsequent programming assignment is also excellent.
 It would be super cool if this course could be extended with pytorch just to compare with tensorflow. Usually courses are extended on udemy, for instance (not a marketing, just a comparison), even after all the materials are completed. It would be sand to have this course abandoned.
 Thank you, Andrew and the others, who helped him! The tests are very useful and lectures give enough theory to understand everything. The only think I would like to add is a quiz. Quizzes are very useful and can be used so as to make your brain repeat the what you heard in a video.
@@ -1308,7 +1263,6 @@ Excellent course, giving a very good insight into how to approach building a dee
 Quite detailed curriculum. It is a great continuation for course 1 of this specialization series. As usual, Prof. Andrew Ng is there to guide our way throughout the course duration. A really fun and intriguing course which can lead to course 3 as a proper continuation.
 This course was perfect for me.  I thought it was a good balance between theory and practice.  I don't think I'm ready to start building NN's from scratch, but at least now I know how to get started.  Also, I now have an understanding of the complexity of a ML project.
 Mini Batch/Adam Optimization concepts was very well explained. I was expecting the detailed derivation of the backpropagation for the batch normalization case. Overall it was a great course and it greatly improved my understanding about concepts used in deep learning.
-4.5/5 A diferencia del primer curso que es una continuacion del de Machine Learning de Andrew Ng , aqui vemos una evolución del contenido , se pasa a ver miniBatch Gradient Descent, Regularizacion , Momentum , Adam , y un inicio a tensorflowrealmente un MUY BUEN Curso
 Through the class, the tuning of Hyperparameter is detailed introduced  and more important is that why it's tuned is very clear. Suggest persons study deep learning to study this class carefully.Expect to have more info from the current study in University or College.
 I guess the difficulty is what you make of it, with further studying and dedication, but I would like to encounter more challenging assignments, where one has to code entire cells for instance, as opposed to a single line here and there. But everything else is great!
 Contains very good understanding of Hyperparameters and their tuning process.Secondly, teaches very well the mathematics of optimizers such as GD, SGD, GD with Momentum, GD with RMSProp and ADAM.Finally, a small glimpse of Batch Normalization.Highly Recommended!!!!!!
@@ -1363,7 +1317,6 @@ I'm very happy can finish this course. After taking this course, I understand ho
 THE COURSE TAUGHT ME DIFFERENCE BETWEEN RMS ,MOMENTUM AND ADAM OPTIMISER.WHY BATCH NORMALISATION IS IMPORTANT.HOW REGULARISSATION AND DROPOUT IS USEFUL.GRADIENT DESCENT AND MINI BATCH DESCENT AND WHY IT SHOULD BE BETWEEN 1 AND NUMBER OF M(SAMPLES).
 This course was a great introduction to more advanced topics of deep learning. I was primarily interested in the second week of this course, where different optimization techniques like momentum and optimization algorithms like ADAM were discussed.
 Great knowledge on how to optimize hyperparameters and example code is always appreciated. I appreciated the knowledge on effectively using sklearns hyperparameter search methods and knowledge on how to use tensorflow to create my own gpu methods.
-Excelente curso que explora o ajuste fino dos hiper-parâmetros, Regularização e Otimização dos modelos de Deep Learning. Recomendo fortemente este curso, pois o professor possui uma excelente didática e os exercícios são muito claros e objetivos.
 The course material was very good.  The only issue I had was that the system seemed to go down once in a while, and I would have to exit and sign back into Coursera.  Restarting the kernel didn't help.  This would sometimes cause me to lose work.
 considering the topics that are covered those are very good and detailed and as a beginner those are required to be known to every individual , especially professor andrew has put a lot of efforts in designing the course it seems , it's very nice
 Thanks to the instructor and the team for creating an excellent and rigorous online course. I particularly enjoyed learning the ADAM optimizer from the ground up. The quizzes and programming assignments are also challenging and fun. Thanks again!
@@ -1401,7 +1354,6 @@ This part is one of the most important to working with NN or DL nets. The instru
 I this course I learned how to improve Deep Neural Networks by applying different methods that help to speed up the convergence and to reduce overfitting. Also, now I have some basic knowledge about using TensorFlow. Thank you very much!
 pretty good course all in all !, I would say considering the difficulty of this topics, the instructor has done a great job in transmitting the relevant parts that one needs to remember and also in justifying why things are as they are.
 Very well structured class as a follow-up to the first one. Heavy on information but this is a good thing. As someone who isn't pro at Python, the development part was much smoother since programming wise it is similar to the first one.
-En línea con los anteriores. Muy teórico pero perfecto para entender los entresijos del funcionamiento de los algoritmos. Si acaso echo en falta algo más de tensorflow pero supongo que se verá en el resto de cursos de la especializacion
 I really like the practical aspects of the course where although there is a focus on teaching the fundamentals, there is also a good focus on teaching the latest frameworks to apply the knowledge of the learnt concepts more efficiently.
 Excellent practical advice on running NNs. The lectures teach the subject matter in a lucid and intuitive way. The course ends with a TemperFlow exercise that shows how to implement NNs at a higher level than peviously shown with numpy.
 Great material. Short, precise videos. It would be great if you propose projects to work on outside the course, in order to learn more about the topics. Just like ideas where we could apply what we have learned and a seed to build upon.
@@ -1448,7 +1400,6 @@ Good stuff.   All in all well worth the few weeks to get a better idea of how to
 Very rich with information on various ways Neural Network training can benefit from optimizations.  I'm sure there are many more optimizations to explore, and this serves as a great introduction to some of the more common ones.
 The optimization algorithms and the the introduction to tensorflow were the topics I liked the most. Although hyperparameter tuning is important, this seems to me to be still very empirical. Also, more interviews would be nice.
 In this course, Professor Ng shares great guidelines on tuning deep learning hyperparameters, which are a lot compared to other machine learning algorithms. This will surely help any deep learning projects to be more effective.
-Excelente material, muy pertinente todos los temas del curso. Hay un error en la forma de calificar el examen de la segunda semana.Por mejorar: Ojalá los cursos dieran las diapositivas que usa Andrew Ng para dictar las clases.
 Adjusting parameters are highly essential skills for deep learning programming that most of my friends lacking. Great lectures and assignments around the topic, many thanks to the lecturer and assistants for their great works.
 The course will make all concepts about improving deep neural network understand in excellent manner by Andrew Ng.Must complete the course on deeplearning.ai.Mathematical concepts along with applciaitons are clearly explained.
 This course is an absolute necessary for anyone who wants an in-depth knowledge of optimising their deep learning solutions. Loved the course work and I could easily relate the course contents with the practical aspects of AI.
@@ -1651,7 +1602,6 @@ This course was very helpful in that it delved into more of the practical aspect
 This course helps to become pro/expert in DL/ML within a short period of time. Andrew shares his decade long experiences and best practices in this course. I strongly recommend this course.
 Great hands on experience of tuning and tensorflow tutorial. Unlike the old ML course and the one taught by Hinton, this course prepare you for the newest framework instead of Octave staff.
 I have understood the basic math of neural networks, also how we can tune the parameters to optimize the neural network, so that it perform better.A Very Very big thanks to deeplearning.ai
-Me pareció excelente y al punto. Todos los consejos dados son realmente aplicables y se entiende la razón de cada uno. Los ejercicios no son excesivamente complejos y están bien redactados
 Amazing course.  A must course for everyone who wants to save a bunch of time by making their training model efficient. Andrew Ng is an amazing instructor and makes every lesson look easy.
 January in this year, I did not know this course. At that time I want understand TensorFlow but I didn't know where should I begin.  After finish this course, I suggest anyone, this is it!
 Words cannot explain how important this course has been for me. Andrew NG proves. Everything that has intuitiion, is really easy to learn. Very few person in machine learning who kills it.
@@ -1794,9 +1744,7 @@ this is a great course teaching practical aspects about deep learning, you can l
 Wonderful course!!! Taught me how to tune hyperparameters and basics of tensorflow framework. Good kickstart to deep learning!! Thanks a lot Coursera and Deeplearning.ai
 Excellent course. This help me a lot for my Masters research. Thank you so much Coursera for the financial aid you offered me for this course. It really helped me a lot.
 This is indeed a very good course. It helps me understand what the parameters are and how to tune them. Very practical and intuitive. Thank you again all my instructors.
-Gran curso! Te enseña a comprender que los hiperparámetros no son solo números con los que jugar, sino cuál es su sentido y cuáles son prioritarios (entre otras cosas).
 This might not be the best curse . in the world, but it is doubtlessly the best one in my mind. Thank you, Dr. Andrew! Thank you, Coursera! Also, many thanks to Github!
-Este segundo curso de la especialización fue realmente provechoso. Muchos de los conceptos que se manejan resultan vitales para lograr desarrollar buenos modelos de AI.
 Again, a very structured course with Dr. Andrew Ng being so calm and simple explaining all methods of the course. It was worth my time! Many thanks to the organizers :)
 Very nice materials. The self-contained Jupyter Notebook is nice in that it doesn't require local installation. However, it kept crashing. I'd much rather code locally.
 Today i have finished the 2nd course. It was amazing a lot of things to learn and still looking for the remain 3 courses of deeplearning.ai. Thanks to the coursera team
@@ -1862,7 +1810,6 @@ Wonderful course. Great teaching by Andrew as always! Can be recommended to anyo
 There are a lot of things you don't realize you need to be doing when you first get started, and this course helps you to understand when and how to tweak things.
 The course is perfect for those who love learning the intuitions and inner working of Neural Network, a bit difficult for non - mathematical background learners.
 I like how the course guide through the math as easy as possible and focused on having the intuition that really helps during practical machine learning projects
-Muito Obrigado pela oportunidade Coursera. Os cursos de vocês desvenda toda  teoria que engloba o assunto. Obrigado pela oportunidade e pelo excelente curso !!!!
 Always in favour of Dr. Andrew Ng's course. But, it would be good to improve the difficulty of programming exercise though it is quite fun and really informative
 Got to learn lot of things from this course. Like hyper-parameter tuning, softmax, batch normalization, tensorflow etc. The quiz and assignment was very helpful.
 This course is really helpful in improving neural networks and getting a better understanding of deep neural networks and tensorflow  assignment is very helpful.
@@ -1917,7 +1864,6 @@ More details about deep learning. This gave a more thourrouhly understading of t
 Very important course if you have already taken the deep neural network course. The course make sense of all you learned previously on deep neural networks.
 this course contents and the way it was laid out and expressed was so much cleaner and detailed than udacity or any other course I have gone through. Kudos!
 Clearly explained quite a lot of techniques for optimization of cost function in deep neural nets, including hyperparameter tuning. Very useful to practice.
-Buen curso, me gusto mucho ya que aprendi muchas cosas que no conocía sobre regularización y seseo de parámetros. Ademas muy buena introducción a tensorflow
 As always, Andrew is absolutely amazing at transmitting advanced 
 knowledge and making it accessible to most people. Thank you Andrew and 
 the whole team !
@@ -1956,7 +1902,6 @@ It was very interesting to know very different kind of optimization algorithms. 
 What shapes any machine learning model is taught here! Also, one gets to learn the basics of operations as well as how to use the programming frameworks.
 A brilliant insightful course! Many things which I had no clue or was wrong at were beautifully explained by Andrew. Absolutely adore the way he teaches!
 Great, as always. If you want a simple but informative course which gives you the most critical knowledges in Deep Learning area, this course is for you!
-Excelente continuación del primer curso, muy buen aprendizaje en el mejoramiento de lo visto en el primer curso y excelente introducción a Tensorflow 1.
 some topics are explained in more of intution based way, rather than solid prof but I don,t think its needed to implement in most real world situations.
 Lot of new concepts and a very critical part of deep learning NN - Hyper parameter tuning and Optimization algorithms were a great learn in this course.
 A must do course to learn neural networks. It teaches you a lot about the nitty gritty of neural networks and several methods to improve their accuracy.
@@ -2046,7 +1991,6 @@ Very fantastic lesson! Have learned much things by study it. someway,I think hom
 With this course I not only understood more about DNN, but also learned to program better using Tensorflow in Jupyter notebooks. Thanks Andrew Ng
 Amazing intuitions and insights how to tune and understand "hyperparameters world". Thanks again Andrew Ng and Coursera for this amazing journey!
 Excellent course, would have loved to learn more about Thiano in addition to TensoreFlow, but overall very happy with the content of this course.
-Os conteúdos são excelentes, assim como a didática do professor. Perfeito para quem já possui uma experiência na área e quer se aprofundar mais.
 It was well formed and the instructor had a vast knowledge about the subject , would highly recommend this course to deep learning enthusiasts..
 Whilst the topics were covered with good perspective, as usual by Prof Andrew NG, more sessions on Tensorflow could have made the course better!
 FABULOUS!! This course helps build deep neural network with higher accuracy and reduced training time. On top of it you get to learn Tensorflow.
@@ -2068,7 +2012,6 @@ This course is extremely useful since it covers the very recent developments in 
 Thank you guys for the great course! The small typos in the assignment only make it more interesting :) But definitely should be easily to fix.
 Introduction on TensorFlow will help me with practical applications. As always, thanks for the best course, Andrew Ng, Mentors, and colleagues!
 Exceptional teaching and material.  So often the big picture gets lost in a deep ocean of details.  Somehow Andrew Ng manages to give you both.
-Es un curso pleno en temas de regularizacion y optimizacion. Provee información clara, ejemplos y ejercicios que permiten la aplicacion de DNN
 This is the best course ever on hyperparameter tuning and regularization as well as optimization. A big thanks to Andrew Ng sir and  his team.
 the grate content provie by the deeplearning.ai and the intiuation of the different concept of deep learning is teaching amazing by Andrew Ng.
 Amazing course so far! Loving every minute of it. Informative, challenging yet easy to understand at the same time. Highly recommend doing it!
@@ -2087,7 +2030,6 @@ This course really helps with improving neural network as suggested by the name.
 DEAR TEAM OF DEEP AI SPECIALISATION AND DEAR DR. NG ! THANK YOU VERY MUCH!I'VE USED YOUR NOTEBOOKS AS A TOOL FOR BUILT MY OWN NEURAL NETWORKS
 Through tackling more advanced concepts of neural network optimization, the course actaully runs you through the fundamental concepts as well
 Loved this part of the code... it allowed me to understand more about the optimization and regularization tricks such as RMSprop and Dropout.
-Este curso es muy importante si lo que quieres es, no solo aprender a crear Redes Neuronales, si no hacerlo de una manera eficiente y rápida.
 Very nice course! I wish there was also a tensorflow course as a companion. Thank you for demystifying neural networks and their frameworks.
 I just do not have words to express what i am feeling now ,,  definitely confident and more confident to m move ahead in this specialization
 Good material and course content and very neatly organised. I hoped more would be covered on topics pertaining to different regularisations.
@@ -2110,11 +2052,9 @@ Hyperparameter tuning usually mentioned in papers without any systemic workflow.
 Fun and engaging, and very accessible too! A great overview of various optimization algorithms, and a great introduction to Tensorflow too.
 Awesome curse If you want to understand the mathematics behind some deep learning techniques. Highly recommendable curse! Thanks Andrew Ng!
 Very useful. Goes through a lot of recent advances to optimize deep learning performance. The exercises does feel easy and straightforward.
-Curso bem ministrado, com um olhar profundo para o tema. Gostei muito, supriu a necessidade que eu tinha em entender a fundo redes neurais
 It is a good breakdown and logical progression of the need and evolution of parameters and hyper-parameters. Throughly enjoyed the course.
 In spite of my strong mathematical background I found many interesting features for using maths in Deep Neural Networks. Excellent course!
 Okay with week 1 and week 3 but you need to improve the motive behind presenting week 2. Also what was the purpose of batch normalization?
-Excelente curso para um entendimento mais profundo sobre os parâmetros que compõem uma Rede Neural. Parabéns ao mestre e mentor Andrew Ng!
 I believe a approach Sir takes while teaching the course makes it comparatively easy to learn the very difficult concept of deep learning.
 very great useful. I want to learn  compute science (bachelor's degree)by top 10 of university. that Mooc is success. I want more learning
 Awesome! Very helpful & interesting. Looking to take up more courses in future.Best way explanation. Awesome quiz & programming exercises.
@@ -2152,11 +2092,9 @@ Really fun and informative, it was so clear I feel I have very good basics and u
 Awesome course that introduces you to tuning hyperparameters, different optimization algorithms and implement most things from scratch.
 Really interesting content, especially regularization and dropout.  We must have to go through this before start implementation of DNN.
 Overall great, very interesting! I think it would be great if you could provide some PDF with material summery in the end of each week.
-Muy buen curso para mejorar las Deep Neural Networks, bien explicado y las tareas ayudan mucho a clarificar su implementación en Python
 Excellent material and even better presentation! Home work assignment are done so well and help you understand the material. Loved it!!
 Great course. It does use Tensorflow 1.0 though and I do feel like they hold your hand too much during the exercises. Enjoyed it still.
 Great course. I would sugest to add some extra practice on parameter tuning. It would be usefull to have some tensorboard introduction.
-感谢吴恩达老师带来的课程,这门课不仅仅使我对深度学习更加感兴趣.还让我想到了很多能够用其完成的一些事情. 课程虽然结束了, 但是有关于深度学习的学习才刚刚开始, 最后再次感谢吴恩达老师, 以及提供这个平台的coursera课程,让我在中国可以听到来自全世界的课程,谢谢!
 Excellent Course, I could go deep into the Machine Learning methodologies and I learned how to optimize Deep Neural Networks Algorithms
 I got to know the optimization algorithms to use and also the Tensorflow programming framework in depth. It was a really useful course.
 Alot of useful info about neural network tuning and easy introduction to Tensorflow framework. Absolutely must see for every DL novice!
@@ -2164,7 +2102,6 @@ A must course for understanding hyperparameter tuning, regularization, and optim
 Great introduction to regularization and optimization. I wish the TF assignment were done in PyTorch instead, but it was still useful.
 Amazing content and wonderful teaching skills of Andrew Ng. Thanks for helping me out on such a difficult topic with so much of ease!!
 Thanks to Prof Andrew, now I can understand the roles of hyperparameters. Tuning them skillfully requires a lot of experience, though.
-기본의 코스를 Numpy를 통해서 배우다,  본격적으로 프레임 워크 (Tensorflow) 들어가니 이해가 잘 됩니다. 특히 머신 러닝 강좌를  이렇게 코딩을 섞어서 만들기까지, 얼마나 많은 정성과 노력이 들어갔음을 알기에 경의를 표합니다.
 Very nice course that provide enough information for learning start handle their optimization process and implement in their own work.
 Excelent course, very useful. You will learn a lot about optimization methods and other techniques for parameter tuning. Thanks again!
 this course is very good it gives good practical ways to implement neural networks in python and with Tensor Flow, i like it very much
@@ -2191,7 +2128,6 @@ Continue to find the structure of the lectures, quizzes, and programming assignm
 An excellent course structured in a lucid manner and makes one feel neural networks is so easy. Eager to move on to the next course.
 Easy understand in a very complex deep learning techniques. Professor Andrew transmits his deep knowledges in a clear and simple way
 I am learning a lot as I am progressing. Great content and none other than Andrew Ng can teach complex algorithms in such a easy way
-Curso muito bom como sempre. Rumo a ser um bom especialista em Deep Learning. Um muito obrigado ao Andrew por me proporcionar isso!
 Thanks a lot to Andrew Ng for explaining each and everything so nicely and the assignments are adding a lot of value to the course.
 Excellent Course with excellent programming exercises. The programming helps me a lot to gain a better understanding of the course!
 This is the exception course offered by Andrew Ng and his team. Very deep insights of deep learning are demonstrated and explained.
@@ -2260,7 +2196,6 @@ Great course with well-structured step by step guide to get us familiarize with 
 One of the best courses I have completed, superb instructor, awesome content, well structured material, fantastic assignments.
 Excellent course! I would recommend to professionals who wish to gain an understanding into the nitty-gritty of deep learning.
 With Deep intuitive knowledge about Deep nets, Hyperparameters, Optimizers makes feel super confident of Deep Neural Networks.
-O curso é muito didático e consegue passar os principais conhecimentos sobre Deep Learning de forma direta, concisa e precisa.
 Andrew Ng has a talent for making complicated concepts appear simple. The videos in this course are definitely worth the time.
 Another wonderful course from Andrew Ng, and gives a good intro to tensor flow at the end. Looking forward to the next course!
 Excellent course with lots of info & hands-on learned. In particular, Andrew's style of instructing is very clear and concise.
@@ -2280,7 +2215,6 @@ I loved this course. Assignments played a very important role in my learning, as
 The greatest course I have ever taken! So grateful to Andrew and your team to make the studying so interesting and rewarding!
 this course is very good to introduce you to concepts such as hyperparameters optimization and frameworks such as Tensorflow
 Thanks Andrew Sir for creating such a good content and I hope that this would help me in my voyage along the massive AI sea.
-Muy buena y muy útil la practica esta bien aunque creo que lo de tensorflow es muy útil y quizás debería tener más presencia
 Thanks to this course I will now be able to improve the performance of my neural network in a more efficient way. I loved it
 The focus on building "intuitions" behind the math has been a refreshing approach to learning material like this. Thank you!
 Very good introductory material on regularization and optimization. Also introduction to tensorflow as frameworks is spot-on
@@ -2302,7 +2236,6 @@ An extremely valuable course to take learners from blindly creating neural netwo
 Very great. But the programming part of lesson 3 has nothing related to the first part of Week3, only the tensorflow's part
 The lectures are very clear and nice. The quiz and assignments are also very well designed to guid you through all details.
 the course was giving miniature details about how to tune your NN to improve its efficiency. Too many things and was good.
-Muy bueno, solo falta que un humano arregle los subtitulos en español. Pero de cualquier forma gran curso, muy recomendado
 The course is very informative and a clear mathematical understanding of neural network optimization concepts is provided.
 really cool course, i think after doing this i can read up more on the concepts and will be able to understand them easily
 Great aside from the Tensor Flow section which is a bit rushed but there is a specialization on TensorFlow so all is good!
@@ -2318,7 +2251,6 @@ Thank you very much for professor Andrew Ng's explanation, which has benefited m
 Another great course following the first course on Neural Network, thank you Andrew Ng and team for putting this together
 Andrew Ng is amazing, the way he describe things are awesome. It open many new things to learn and expand ones knowledge.
 This course is very good for basics and to start learning frameworks such as Tensorflow. I enjoyed learning this course .
-Excelente curso, aunque me quedé con las ganas de implementar la normalización de lote en Numpy antes de usar TensorFlow.
 Learnt a great deal about tuning models. Concepts of regularization, batch norm and optimizers  were very well explained.
 It was so awesome .I got to know the minute details which would certainly help me in making a better deep learning model.
 This coursera really tells me a lot about how to tune parameters, and very useful skills to optimize the NN. Very thanks!
@@ -2338,7 +2270,6 @@ One of the best online course I have got! The way Prof Andrew conveys his ideas 
 Very good course that show you some insight on thing that it would take a lot of time if you experience it by yourself.
 A very good course for someone who wants to understand the fundamentals of deep learning. Also, very apt for beginners.
 Nice course for beginners in Deep learning and a good introduction was provided for deep learning framework TensorFlow.
-Ce cours est une étape très intéressant dans cette spécialisation. Je le conseille vivement aux apprentis. Bon lecture.
 It really help solve a lot of question about how to improve dnn. Through this course, I learn basic knowledge about tf.
 Initially, I thought that this course is not important for this specialization but ut turned to be an important course.
 Well-structured course that gives you some very good insights into how hyperparameters are handled within deep learning
@@ -2365,7 +2296,6 @@ It was a great learning period with a high quality content, I learned a lot. tha
 Great Content. And Great Programming Assignments to Practice All the Things Taught in the Slides.Thank you Andrew NG.
 This course helped me to understand better the concept of Overfitting and the behavior of Neural Networks in general.
 I think this course is very useful for the beginners understanding the basic and important concepts of deep learning.
-Genau so gut wie der 1 Kurs dieser Reihe. Ich bin sehr überzeugt von dieser Möglichkeit sich neuen Wissen anzueignen.
 Nice trick for improving DL performance, even if really hoped that there's a really way to find the best parameters..
 Very good course with proper explanation of Hyper parameter tuning, Regularization and Optimization  of deep learning
 Excellent material presented very eloquently. However, it would have been nice if more focus was laid on TensorFlow .
@@ -2451,7 +2381,6 @@ Awesome course to know about the hyperparameters and their tuning and its import
 Its a great course for learning optimization techniques which are very well explained with the math behind them.
 Great course.  I now have a better understanding of the process of fine tuning a model to maximize its accuracy.
 Perhaps more examples of tensor overflow with direct implementation of neural networks provided by the framework
-Estoy muy emocionado por los cursos de la especializacion, he aprendido bastante. Le agradezco a deeplearning.ai
 Highly useful course. Complex concepts are explained in a structured way which makes them easily understandable.
 very good understanding of the hyperparameters for various optimization algos is given, with very good intution.
 Was insightful and excellent. Looking forward to immediately learn the next course as I implement the knowledge.
@@ -2477,7 +2406,6 @@ I feel much more confident in my ML skills after taking this course.The assignme
 Must known and very common terms in Deep Learning are well explained in this course. It's good in every aspect
 That was one of the best courses I've ever had during my entire scientific learning and working! Thanks a lot.
 Informative overview about ML techniques which are helping on the way to improve modelling with deep learning.
-Una manera de optimizar el aprendizaje de tu modelo. Qué buen curso, qué buen profesor. Recomendado totalmente
 Good balance between theory and practice, focusing on the impact of hyperparameters across the whole solution.
 Awesome! Learned a ton about tuning models, and especially loved the intro to TensorFlow in the final section!
 Fantastic Course! The video lectures were crystal clear about the concepts and the assignments were top notch.
@@ -2566,7 +2494,6 @@ It s a good introduction to the tensorflow and gives detailed information about 
 The course is good. The first week was very long. Could you split it in two and add some more exercises?
 Wonderful course for interested learners in DNN. It is very useful for my research enhancement.Thank you
 Wel, I think perhaps pytorch is easier than tensorflow and it may be a better alternative for the course
-Muy bueno la parte de Regularizacion y Optimizacion. La intro de Tensorflow no suma mucho en este curso.
 Very Good content for learning the parameters tuning and well taught lectures on regularization methods.
 Provide good insights to tune neural networks from scratch and also provides introduction to tensorflow.
 Another awesome step on the journey with Andrew Ng. This course was fantastic, just like all his others.
@@ -2574,7 +2501,6 @@ Very good! It leverage your knowledge about deep learning making you a better pr
 Sir , you're amazing . About to complete this course within 3 days . Very much excited to learn from you
 This course helps to understand further knowledge that we learned in the previous part 1 specialization.
 Awesome course. I really like the detailed explanations and the exercises. I'm looking for the next one.
-Encore un excellent cours, faisable en 3-4 jours pour un passionné. Merci pour toutes ces connaissances.
 very good course: good teaching, useful materials, very good assignments to master the ideas. I like it!
 I think it's so good for me . In the process ,l learn so much about code to improve deep neural network.
 It would be better, if some Tensorflow related tutorials or examples been provided to jump start easily.
@@ -2639,7 +2565,6 @@ The course is very interesting, however I wish a bit more time was spent on tens
 Excellent course, well structured material and assignments really helped with consolidating learning.
 Excellent course. Thank to Coursera, Professor and staff for putting together such wonderful material
 Thanks yet again for simplification and isolation of concepts in exercise.  Helps  in learning a lot.
-Me encantó, muchas gracias a Andrew Ng y a todo su equipo por la gran labor que están realizando :).
 I have no words to express my sincere gratitude towards Coursera, deeplearning.ai and Mr. Andrew NG.
 Great course, clear and concise lectures and very helpful assignments.  Looking forward to course 3!
 Very well designed course and very well taught by Prof. Andrew Ng who always motivates participants.
@@ -2784,7 +2709,6 @@ Thank you !! This course provides very useful info for data science newbies. Muc
 A great experience while learning. Intuitive way of teaching maths behind the codes. Love it.
 Too much informative course. Complex concepts are formulated such that they are easy to learn
 I would like to see more contents like GAN or reinforcement learning. That would be so doped!
-谢谢Andrew！这门课太精彩了！他不仅系统性地带领我们理解深度学习理论，也帮助我们在编程上不再害怕，这对我的帮助实在太大。我觉得课程组可以提供一些不错的参考资料和文档的话，那就更好了。
 Excellent course that supplies not only the basics but the intuition behind the applications
 Such an amazing teacher to learn from and an amazing course with a lot of helpful resources!
 Very good teaching. Would be great if the Tensorflow homeworks could upgrade to Tensorflow 2
@@ -2970,16 +2894,12 @@ Well explained and the programming assignments are the best. Learnt a lot. Thank
 I HAVE LEARNED HOW IMPORTANT HYPERPARAMETERS  TUNING, REGULARIZATION AND OPTIMIZATION
 Great learnings from this course specially on the optimizations. Glad to do this one.
 Great Course on tuning hyperparameters. Addition of Tensorflow was great and helpful.
-Genial. ahora me siento mucho mejor parado para la implementacion de redes neuronales
-COURSE CONTENT WAS WELL DEFINED AND ORGANIZED. EXPLANATIONS ARE REALLY SMOOTH AS WELL
 Very well explained. Assignment covers almost all type of problems taught in lecture.
-Excelente curso, recomendo fortemente, principalmente pela base matemática fornecida.
 Great course that has thought me a lot about building practical deep learning models.
 I loved this course. It was very in depth and helped me understand a lot of concepts.
 Nice descent course and it helps a lot for either my personal interest and my career.
 It's great to know how to adjust hyperparameters and make my NN work more efficiently
 Best course to understand the effect of different hyper parameters on model accuracy.
-非常好的课程，吴恩达老师讲解的十分透彻，并且有非常好的，练习环境，对于巩固课程学习的知识十分有帮助，最后再次感谢吴老师团队的精心制作。感谢coursera团队的帮助谢谢。
 Topic covered in this course will really help data scientist to improve ones DL model
 Very good content and teaching approach! Already recommended the course to my friend!
 This is the best course for people who are studying Deep Learning for the first time.
@@ -2998,7 +2918,6 @@ An amazing course. Can't wait to explore the other courses under this specializa
 Great course to go through some practical aspects of building a deep neural network!
 great course,homeworks were kinda easy but the overall content was great. thank you.
 Really loved working through the programming assignments and validating my learning.
-教授了很多调参技巧，还有些优化算法，平时用框架看不到这些实现，能手动来一次，加深了认识，如xavier初始化，即使有些从事深度学习的同事也不很清楚内涵，尽管算法很简单。
 The lectures are awesome, bu think the exercise need some more polish and more depth
 this course gives a good knowledge about hyperparameters  and tenserflow. I like it.
 Wish class had textbook instead of videos. Would like to keep documentation on this.
@@ -3008,7 +2927,6 @@ I'm truly saying that this professor has an amazingly soft/pleasant way of teach
 Brilliant course to understand Neural Networks with great practical focus!Thank you!
 Very useful guidelines to achieve successful results developing Deep Neural Networks
 Great course! It helped me a lot about the parameter settings to train the networks.
-Детально разбирается материал. Очень полезная информация к дополнению первого курса.
 The information for a practitioner that Dr. Ng provides in this course is priceless.
 Programming assignments were too good. Very informative. Clearly explained concepts
 Very Good course. It provides deeper knowledge on fine tuning the hyper parameters.
@@ -3084,7 +3002,6 @@ As always it was a great experience learning from the very best in the business.
 Excellent material. Clearly a lot of effort has been put on making this courses.
 These courses gives a new aspect of life. I gained lots of valuable information.
 Very thorough explanation about the hyperparameters and optimization techniques.
-相比系列课程的第一课，该课程内容更加深入，对于深度学习模型构建过程的参数问题及优化方法给出了详尽具体的分析和探讨，能很好的让学生理解深度学习背后的意义，满分推荐
 Andrew Ng always makes difficult concepts easy to understand! Thank you so much!
 Easy way to understand the optimization algorithms and the TensorFlow framework.
 A helpful course about how to fine tune the hyperparameters of neural networks !
@@ -3148,7 +3065,6 @@ Nicely Explained! Great course for those who have started with Deep Learning.
 High-quality content. Very well organized and topics and detailed discussions
 Great course on Hyper parameter tuning with all the low level details needed.
 if assignment is tf v2, it would be better.however, I am glad to practice tf.
-Me pareció un buen curso, complementa bastante lo aprendido en curso anterior
 Great opportunity to see the difference various optimization techniques make.
 Great Course!! This course should be part of every deep learning career path.
 Another well-taught course. Cant wait to complete more in the specialization.
@@ -3208,9 +3124,7 @@ This course resume several years of experience practicing Machine Learning.
 It's great step, as usual intuitions and assignments are top notch to help.
 I enjoyed the course very much and learned some tricks I didn't know in DL.
 There is so much information that I would not be able to get anywhere else
-Tenia videos que no se podian reprodicir por mas que cambiara de navegador
 It was a really insightful course, which explained the features very well.
-这门课程给我带来了很大的帮助，不像很多的DL课程从理论入手，比较枯燥晦涩，这门课讲解深入浅出，可以给初学者非常直观的感受，是一门很棒的DL入门课程。
 This was a great experience. Learned a lot. Thank you for this opportunity
 Really good and clear explanation of concepts and thanks to  Andrew NG sir
 excellent course gives best experience for the practical as well as theory
@@ -3346,7 +3260,6 @@ A nice combination of theory and hands-on practice for improving DNN.
 Another excellent course, well taught and great programming exercises
 It was an excellent course, I have learnt a lot through this course..
 Thnaks Andrew!! You keep on inspire us through your indepth knowledge
-Отличный курс. Очень познавательный. А преподаватель просто отличный.
 Very well detailed and interesting course. develops a lot of interest
 A good overview on hyperparameters optimization. Good intuitions too.
 Great techniques on how to improve the performance of your algorithm!
@@ -3359,7 +3272,6 @@ Great course, easy to understand with enough programming instructions
 Shallow dive in practice. Great starting point! Thank you, Andrew !!!
 The homeworks (programming assignments) are a little bit an overkill.
 I liked the Framework choice as TensorFlow  and the project was nice!
-Excellent lectures on hyperparameters and optimization techniques :-D
 Give some good practices in optimizing neural network implementation.
 Right balance between details and speed at which course is conducted.
 wonderful lecture! Gained so much from this lecture, thanks you guys!
@@ -3467,9 +3379,7 @@ You wouldn't be able to make a good algorithm without these tips.
 as you go on further with the courses things become more clearer.
 good for hands on experience and deep understanding on algorithms
 The course is great. I studied a lot of knowledge in this course.
-ótimo curso para obter insights sobre implementações e intuições.
 Good explanations of some essential technics for model improving.
-生动有趣，Andrew的课程将理论进行了很好的提炼，让没有基础的听众也能够对深度神经网络的改善有整体的了解。师傅领进门，修行靠个人
 Quick recipes for good recap of the content. Thank you Andrew Ng.
 It was great exploring various ways to improve my neural networks
 Great insights and great intro to TensorFlow, really got me going
@@ -3505,7 +3415,6 @@ Great tips for tuning networks and finally know what softmax is!
 Introduction of Tensorflow is concise and to the point as usual!
 Great intro to tensorflow after learning the underlying concepts
 Complicated ideas presented very clearly! Would highly recommend
-Ng的课一如既往的浅显易懂，而且十分有用，希望能学习更多有关tensorflow方面的内容，不知道后面几门课是否会经常使用该框架
 it helps a lot for me to understand the Neuarl networks! thanks!
 Very practical tips and intuitive explanations for these tricks.
 hurray!  more good stuff, and nice intro to tensorflow in week 3
@@ -3542,10 +3451,8 @@ Thanks to Andrew and the team for providing such great course!
 Andrew is a great teacher, the whole series is almost perfect!
 Great overview of optimizing networks and intro to tensorflow.
 Great overview of the rules of thumbs to optimize DL NN tuning
-Bom curso, mas os notebooks foram muito melhores que as aulas!
 Further understanding on deep nn construction and optimization
 As expected from Andrew Ng's previous courses, just excellent!
-讲解的非常细致和深入，对初学者友好。而随着对ML领域的理解不断丰富，也会产生更深入的理解。非常感谢为这门课程做出贡献的所有人
 Dismantled the Neural Nets into several understandable blocks.
 well planned and excellent method of teaching.Loved the course
 Awesome. It is getting serious and more fun as it gets Deeper!
@@ -3578,7 +3485,6 @@ nice design to clearly show the principle of neural networks.
 Thanks for Coursera, I have learned so much from this course!
 This course gives excellent in site on Hyperparameter tuning.
 The experiences from the teacher will help the starter a lot.
-Este curso es fantástico!!, he aprendido muchas cosas nuevas.
 Very insightful. I really enjoyed the programming assingments
 I have learned a lot from the course, and I had a lot of fun.
 Loved it.  All of the courses in the program are outstanding.
@@ -3591,7 +3497,6 @@ Good introduction and content for Optimizing Neural Networks.
 Very fast. Would not recommend to non maths background people
 another amazing class. I really like the whole series so far.
 Very good, such a new perspective obtained after this course.
-Fantastic course, useful details, understandable explanation.
 This is awesome but there are some confusing debugging issues
 Great course, although we used an old version of TensorFlow.
 Great course, but please upgrade the final assignment to TF2
@@ -3605,11 +3510,9 @@ Was very easy to follow. Straight-to-the-point instructions!
 It helped me to gain deeper understanding of neural network.
 Amazing course. Put in a lot of work for this one. Loved it.
 Thoroughly enjoyed this course. Thanks very much Andrew sir!
-Un curso muy completo para introducirte a un nivel ams de DL
 It is the must taking source . Recommended. Helping me a lot
 Amazing course from Andrew as usual !!! Highly recommended !
 Very clear course for new learners to know about the concept
-课程制作水准确实没的说，绝逼的超一流。最后的大作业，不知道是不是seed值不同，最后的精准度和预期不一样，但是也是100
 Amazing course! Looking forward to some more great learning!
 Excellent course, with an excellent teacher, I recommend it.
 Andrew Ng is awesome. He is changing the world of education.
@@ -3638,10 +3541,7 @@ Very useful. Course materials are clear and well organized.
 Flat-out five stars, this is a fantastically useful course.
 The explanation of the concepts is very easy to understand.
 Awesome course with amazing content. Very good assignments.
-Muy bueno en la forma que se explica los conceptos. Gracias
 This course is extremely helpful to real-world NN projects.
-很棒：有理论、有实践。再一次感受学习的魅力。 感谢吴恩达老师以及你们的团队。 也许，你真的帮助我改变了命运。 谢谢你。
-Que dire ! très belle introduction , explication parfaite ,
 This is another great machine learning course by andrew ng.
 Amazing course, very easy to understand and you learn a lot
 Very informative course on tuning the deep neural networks.
@@ -3665,7 +3565,6 @@ Interesting course to learn how to optimize your ML model!
 Thank you for providing such an amazing course! Thank you.
 Great intuition to understand how to improve deep learning
 Very well balance between theory and hands-on assignments.
-质量一贯的好但是就是有点短，希望能加长一下。还有能不能提供如何安装TensorFlow的视频知道我觉得这很关键！！！
 Thumbs up to Andrew Ng for making the complex more simple.
 Really helpful course to learn how to tune the parameters.
 A wonderful overview of hyper parameters  and model tuning
@@ -3728,7 +3627,6 @@ All the practical knowledge in this course is amazing...
 Very well structured course with many hands-on exercises
 Help you get the best understanding of the deep learning
 It will help me to find solutions in ANN implementations
-老师讲的非常好，深入浅出，可以看出来老师认真地备了课，已经停了Andrew老师很多课了，非常非常感谢老师的付出。
 Very interesting, Good continuation of the first module.
 excellent.. 7 stars.. more then 5. I really learnt alot.
 A very important course for all deep learning enthusiast
@@ -3769,7 +3667,6 @@ Fantastic! I really like the explanations and exercises
 Great course! Very intersting and simple to understand!
 Great example, let you easy to understand Deep learning
 Excelent course! Thank you Andrew Ng and coursera-team.
-第一门课把深度学习的原理全面的讲解了一遍，而这门课，对超参数的调优作了系统性的讲解，在实际操作时知道从何入手。
 A good teacher with very clear explanations !! the best
 This is a very aggressive course in deep learning area.
 Attention to detailed explanations is much appreciated.
@@ -3781,13 +3678,11 @@ Simply awesome go for it. Thank you so much Andrew sir
 Great course! Love Andrew Sir's teaching. Keep it up!!
 great teaching in an easier approach. Thanks Andrew :)
 I learned a lot from this course. Thank you, Coursera.
-모델의 결과를 어떻게 향상시킬 수 있는지 등 세세한 부분을 잘 가르쳐주십니다. 앤드류쌤 최곱니다!
 It helped me to understand concepts of tuning in depth
 Awesome course that makes deep learning more tangible.
 The topics were advanced and practical, I am impressed
 Great course about tuning parameters of deep learning!
 very useful  easy-understand  and impressiving courses
-Très bon cours, avec en plus l'initiation à Tensorflow
 I just love it. The learning curve is perfect for me!!
 One of Tough and interesting course in specialization!
 Very good one but frameworks part is little bit clumsy
@@ -3798,7 +3693,6 @@ Great course and finally an introduction to Tensorflow
 great to know such details for tuning hyperparameters!
 Great information building on class one in the series.
 Awesome course! Step by step and very easy to follow.
-Bastante ameno y muy adecuado para empezar proyectos.
 The course is designed very well. Enjoyed learning!!!
 Amazing course. Great job by instructors and Mentors.
 Excellent. However more exercises should be included.
@@ -3821,12 +3715,9 @@ As always a wonderful course from an amazing teacher!
 EXCELLENT COURSE, BUT LACK OF TRANSLATION IN SPANISH.
 Very thorough and detailed explanations, very useful.
 Very helpful, it really taught me many useful skills.
-Excelente curso!Lo recomiendo con los ojos cerrados.
-Excelente curso, excelente profesor, muchas gracias.
 Very Structured way of deciphering complex concepts.
 I learned a great deal of material including theory.
 great but you can explain tensorflow in more detail.
-Es un curso espectacular, super claro y recomendable
 I miss the small questions at the end of the videos.
 Videos and Practical Assignments both are impressive
 This course has valuable content! Well satisfied. :)
@@ -3842,7 +3733,6 @@ Thanks you very much, this is really a great course!
 Great intuitions and explanations by Prof. Andrew Ng
 Great for gaining deeper understanding on the topic!
 Worth the time if you're interested in deep learning
-Muy útil para entender cómo tunnear una red neuronal
 the tensorflow programming exercise is very helpful!
 Speechless. The best specialization I have had ever.
 A great high level overview of the methods involved.
@@ -3937,7 +3827,6 @@ Really helpful! Keep on with the next course now!
 Very good course and well timed with great ideas.
 Great in depth Explanations and very Informative!
 Thank you for opportunity to become closer to AI!
-非常感谢cousera这个平台，提供详细的课程同时又能够让我在编程测试题中更好地掌握知识，非常感谢
 Top level material. Very useful to run a project.
 Thankyou for making me learn the basics so nicely
 Thank you so much, Andrew. This course is so good
@@ -3964,7 +3853,6 @@ Please provide slides at the end of whole course
 The course  helps  to implement neural-networks.
 Informative course with well-guided assignments.
 Very nice methodological lesson on deep learning
-J'ai beaucoup apprécié ce cours ! it was great !
 it was a very good content to start from scratch
 Last week was so fast, particularly tensor flow.
 useful, clear and exercises were not frustrating
@@ -4000,7 +3888,6 @@ Great course with an excellent course structure
 Very good tips on improving nn!Love Prof. Ng!!!
 Very helpful for me especially Tensorflow part.
 Andrew Ng knows how to simplify complex things.
-Awesome Awesome .. THanks Andrew, you are best.
 it is a good course with good learning material
 This was very interesting and practical course.
 I love this course ,and i love Andrew.thank you
@@ -4075,12 +3962,10 @@ Simple explanations of complex optimizations.
 Thanks for making such great materials public
 Excellent course and thank you Andrew Ng sir.
 It is the best AI course I learned until now.
-既可以通过视频学习理论知识，又能够通过在线编程实际实践。很容易掌握。真是不错的难得的课程！
 Learned many useful and practical techniques!
 So many practical advices! Well done, Andrew!
 Professor Andrew's presentation is fantastic.
 Assignment is quite helpful and well designed
-课程很精彩，浅显易懂，受益匪浅。建议：希望能在每一个课题结束之后推荐一些更深入的文章资料。
 As always, Andrew Ng is a fantastic teacher!
 gives better understanding to neural network
 Very informative course...highly recommended
@@ -4099,9 +3984,7 @@ It was very good experience and class for me
 Thank you much  for such interesting courses
 very nice, I learned a lot from that course!
 this course was amazing. I really enjoyed it
-Nice course, nice instructor, nice materials
 Very good, I learned a lot from this course.
-本课程让我了解了正则化，BN，Softmax背后的原理以及接触了TensorFlow框架
 Well explained and documented - recommended!
 Comprehensive, clear, and engaging as usual.
 Very helpful and good learning experience...
@@ -4113,7 +3996,6 @@ Many important issues are discussed. Thanks
 This is the special sauce to deep learning.
 Very helpful course.Thank you Mr. Andrew Ng
 Its  a must attend course, in deep learning
-Надзвичайно приємний курс. Усім рекомендую!
 A very useful collection of tips and hints.
 Thank you for sharing such a deep knowledge
 math part was quite difficult to understand
@@ -4130,7 +4012,6 @@ Excellent course! Interesting and engaging!
 It has copious details that helps me a lot.
 Good course!Especially the tenserflow part!
 Great for practice in modern deep learning.
-중요한 Hyper parameter에 대한 배경과 이론을 이해할 수 있습니다.
 Good explanatory course for neural networks
 Nice Course, thanks to all who contributed!
 It taught me a lot of intricate concepts :)
@@ -4142,7 +4023,6 @@ Very good course and very nice community :)
 Great insight into Deep Learning Algorithms
 excellent course by andrew ng and coursera
 Best course and I thank instructors a lot.
-Tolle, einfache, zielgerichtete Erklärung!
 Great learning from a top rated instructor
 Very interesting, specially the last week!
 Learning using Notebook is is really Nice.
@@ -4195,7 +4075,6 @@ Thanks! The best DL course for beginners!
 easy  to understand and hace great useful
 Great course, but exercises are too easy.
 Enjoyed a lot completing the assignments.
-more deep program exercise will be better
 Excelent Course..!! Highly recommended..!
 The Tensorflow assignment was awesome !!!
 Important course in DEEP learning series.
@@ -4210,7 +4089,6 @@ the milestone beginning in the DL career
 Able to follow and understand root cause
 It's more than excellent, it's flawless!
 One of the best courses I've ever taken.
-stupendofantabulousfantagoricallymagical
 My experience was really really awesome.
 very practical and well organised course
 Good course, just jupyter notebook hangs
@@ -4220,7 +4098,6 @@ Thanks Andrew Ng. I enojoyed the course.
 Great step-by-step lecture, very helpful
 Another brilliant course from Andrew N.G
 Thank you, This course is help me a lot.
-老师讲得非常赞！！而且课后的编程题目做得非常用心！！最后的证书非常的有成就感！！
 Perfect course to learn the fundamentals
 thanks andrew! this class help me a lot！
 Interesting contents and amazing teacher
@@ -4240,7 +4117,6 @@ Excellent learning. Highly recommended.
 Great and very well organized material.
 detailed course with great explanations
 Amazingly taught. Loved all the modules
-Excellent course. You will learn a lot.
 very insightful and developed intuition
 very useful. Ng's introducing is great!
 Helped me clear a lot of basic concepts
@@ -4248,7 +4124,6 @@ A good course for deep learning novice.
 Excellent Support and course materials.
 Even more useful than the first course.
 A very rich course, I've learned a lot.
-这是个非常好的课程，学习后受益匪浅，让我对深度学习有了进一步的了解，感谢老师！
 Great intro into Deep Learning! Thanks!
 Excellent as always! Thanks Andrew sir.
 A very meaningful course. It's perfect！
@@ -4263,7 +4138,6 @@ Way the content is explained in awesome
 perfect!! especially the program work!!
 Some key points are explained very well
 Brilliant, very clear and comprehensive
-学了很多调试的技巧，迫不及待找个小的项目来练手了！！！感谢Andrew Ng！
 I love the information about TensorFlow
 Very interesting and useful. Thank you!
 Good, helpful, well designed.Thank you
@@ -4297,7 +4171,6 @@ Really well taught and easy to follow
 Course was awesome! All hail MOOCS's!
 This is a phenomenal course. 5 stars.
 Very well explained concept as usual.
-Excellent course content and lectures
 Thoughtful and in detail explanation.
 Satisfied specially tensorflow guide.
 not bad; seems well prepared lectures
@@ -4307,7 +4180,6 @@ Assignments were amazing liked them!!
 Phenomenal course on in deep learning
 Excellent. Need your slides, Mr Ng!!!
 Thanks for such a remarkable teaching
-字幕可以只是单一语言的字幕，比如：不必同时是英文和中文并存，这样会当掉屏幕
 Very good course.  Really enjoyed it.
 Very nice, step-by-step instructions!
 Got idea about regularization and all
@@ -4316,7 +4188,6 @@ Excellent Course, very practical tips
 another clear and to the point course
 Excellent and very informative course
 Lots of valuable practical knowledge.
-Nice course, excellent course design.
 Awesome course by awesome teacher :))
 Great explanations and very practical
 the best course , I feel very excited
@@ -4330,7 +4201,6 @@ Awesome course! Strongly recommended!
 Thank you again for this nice course!
 I really enjoy the course, thank you
 great course with detail explanation
-useful and very detail for beginners
 Awesome course! Thank you very much!
 Top instructor and rigorous content.
 Learned everything taught at classes
@@ -4344,7 +4214,6 @@ Again, top notch content. Well done!
 In love with Andrew NG. Huge respect
 top of top courses in deep  learning
 Excellent! Great as I was expecting!
-Thank you Andrew Ng you are my idol.
 Thanks for this class what I learned
 Lots of very useful information here
 Very informative and quintessential.
@@ -4369,7 +4238,6 @@ very good course. easy to understand
 The best Deep Learning class ever!!!
 I loved to learning about TensorFlow
 a really useful course for beginners
-可以学习不同的高级参数调整方式，正规化的方式和Tensorflow的使用
 do we have better than Andrew??????
 Perfect course. I enjoyed it a lot.
 Excellent course. Highly recommend.
@@ -4379,24 +4247,18 @@ The best course! I really liked it!
 Well explained with great insights!
 The content is an absolute delight!
 the simplest course I had ever seen
-Not I feel like I am doing some AI.
-Cousera 上最好的课程设计！每次上课都是享受，每次做作业都是激动
 thanks for andrew and his co_worker
 Made NN really easy to understand !
 Just right level and very enjoyable
-Excellent and understandable course
 Amazing course with perfect teacher
 good. but i need more tensorflow :D
 Great course! Thank you! Andrew Ng!
 Great course with excellent content
-给出调参的一些经验性指导，并且课程内容非常的直观形象，有助于加深理解。
-非常好的课程，使得我能在最短的时间内得到关于机器学习最正确最多的认识。
 Concepts are explained very well :)
 One of the best courses I ever had.
 Make the assignments more rigourous
 Nice course to understand NN model.
 awesome course, highly recommended.
-Extremely useful practical advices.
 Very useful and excellent lectures!
 Best course to start Deep Learning.
 Amazing Tips, Andrew Ng is the best
@@ -4409,34 +4271,28 @@ great course!!! Thoroughly enjoyed
 Best Course of the Specialization!
 Very helpful course. Thanks a lot!
 Very Clear presentation. Excellent
-Quedo muy satisfecho con el curso.
 Very detail and easy to understand
 Very good course for deep learning
 lots of learning with key concepts
 Easy to follow, great assignments.
-좋았습니다. 많은 내용을 실무에 적용할 수 있을 것 같습니다!
 just as great as the first course!
 Very good explanation about tuning
 Excellent, i like the assignments.
-课程指导非常详细，尤其配合编程作业，原理与实践结合，非常透彻，喜欢！
 It's very much helpful. Thank you.
 Improved by knowledge drastically!
 Professor Andrew Ng, thanks a lot.
 Great course, clear, easy to learn
 awesome explaination by Sir Andrew
 Much harder than the first lesson.
-我非常喜欢这门课程，内容很详细，我能听懂，而且可以自己能实现一些应用
 Great course, wonderful assignment
 Great course! Very well organized!
 wonderful class, I reall enjoy it!
 this course have interesting thing
 very concise lectures by Andrew NG
 Excellent as every one from Andrew
-Excellent course in deep learning.
 easy understandable, good teaching
 Very good, like the first course !
 Ng tell you how to nudge the model
-Great! Very fundamental materials!
 Great and very interesting course.
 Sharp, fast, optimal and rewarding
 Very good course, thank you Andrew
@@ -4467,7 +4323,6 @@ Very crisp and clear explanation.
 gives nice idea about tensorflow.
 I just want say, thank you a lot.
 Pacing and structure are perfect.
-本课程非常棒，从中学到了很多关于深度学习的知识，对于入门的获益匪浅
 best and most practical DL course
 An extremely well drafted course!
 Great course. Explains very well.
@@ -4476,8 +4331,6 @@ Oh tensor flow is a great help !!
 Good and practical introductions.
 Great course with practical tools
 Great course. A lot of insights!
-Excellent exercises and lectures
-深度学习框架TensorFlow是1.0版本，有点老，其余都很好
 course by andrew ng is excellent
 Amazing explanation by Andrew NG
 Awesome Course! Professor Andrew
@@ -4489,18 +4342,14 @@ The course is really very useful
 Very enlightening and beneficial
 It was really helpful Thank you!
 Great instruction for fresh man.
-Excellent course and a must one.
 Great curriculum and explanation
 really great course to recommend
 this course is especially useful
 Andrew Ng is my favorite teacher
 Awesome course. Well-structured.
-Very useful for proper modeling!
-Thank you very well done indeed!
 great course! Thank you so much.
 excellent as always with Mr Ng:)
 wonderful class for deeplearning
-老师上课非常耐心同时富有激情，配套的测验题和编程练习都很容易上手
 A great continuation to course 1
 The best course among all others
 Informative, Concise, Practical.
@@ -4519,10 +4368,8 @@ Easy to understand. Thank you..
 Great explanations and examples
 Very good lectures by Andrew Ng
 Andrew ng.... i love so much...
-非常感谢coursera提供这么好的课程，内容很详实，收获很大
 Very good tips. Clear advice :D
 Very Useful Course in Practice!
-可以很清楚地了解整個參數調整的涵義跟DL基礎理論與實務的銜接。
 i learnt a lot from Ng. Thanks.
 Andrew is such a great teacher!
 an useful course and thank you!
@@ -4532,7 +4379,6 @@ Great. I love you Andrew Ng Sir
 excellent and insightful course
 Great Course and great learning
 nice course, very appreciate Ng
-66666666666666666666666666很值得学习
 Very nice and efficient course.
 improve my deeplearning ability
 great things were taught easily
@@ -4546,25 +4392,19 @@ Really helpful fine-tuning nn.
 Good groundwork course! A must
 Very good practical assingment
 Glad to have done this course.
-Notebooks didn't work properly
 Excellent content thanks a lot
 Overall great and substantive.
-没想到我也能用自行推导Adam，真是太酷了，谢谢吴恩达老师！
-hyperparameter에 대해 잘 배울수 있었습니다
 Excellent materials as always.
 Andrew Ng my favorite lecturer
 This  course is EXCEPTIONAL!!!
 this is best course i've taken
 very nice course i loved it :)
-Best deep learning course ever
 Thanks so much for this course
 Great Learning .  Thanks a Lot
 Amazing. The more, the better!
 Very interesting and practical
 great course! thank you Mr. ng
 Amazing course, very in depth!
-Got so many practical  skills.
-Excellent intermediate course!
 Really nice described concepts
 Very Useful and easy to learn!
 Great practical class. Thanks!
@@ -4578,8 +4418,6 @@ Great lecture with exercises!
 a great course for beginners.
 Clear and practical, loved it
 This is perfect class for me.
-It's Excellent experience !!!
-Very good, I get much help!!!
 very informative and thorough
 the most important one of all
 Every thing is cristal clear!
@@ -4595,9 +4433,7 @@ awesome course, learned a lot
 Excellent! Thank you Prof Ng.
 Really smooth and informative
 As good as expected. 5 stars!
-非常感谢吴恩达老师教授讲授的知识，以及幕后工作人员的努力！
 help me a lot! thanks Andrew~
-Excellent, practical material
 The course is really helpful!
 very accessible and practical
 Very helpful, thanks Andrew.
@@ -4617,11 +4453,8 @@ nice course and very helpful
 like Andrew Ng very much!!!!
 I love how you teach newbies
 Its again a very useful one.
-Nice course, one must do it.
 Good explanation of concepts
 very useful also for experts
-Excellent course, thank you!
-Superb Course for beginners!
 Great lectues and exercises!
 Best course in this segment.
 Excellent course, as always!
@@ -4633,8 +4466,6 @@ Good learning experience !!!
 Nice course.  Thanks Anderw!
 Good to tune hyperparameters
 As great as the first course
-给我带来了很大的提高，对于深度学习的理解更加透彻，感谢！
-该系列课程的第二部分，对神经网络超参的讲解，非常有价值！
 Great course as the 1st one!
 awesome Course Great teacher
 Amazing !  and Insightful !
@@ -4646,8 +4477,6 @@ wonderful,I like the course
 really clear and well paced
 Thanks for this opportunity
 Great Course! Thanks Andrew
-useful practical techniques
-really helpful tuning skils
 very useful and fondamental
 To the point and effective!
 Awesome Content and tutors!
@@ -4656,7 +4485,6 @@ Very practical and helpful.
 Great. Effeicient teaching.
 It's a great course on DNN.
 Very useful course. Thanks!
-非常棒的课程，推荐所有准备入门深度学习的同学来进行学习
 Thank you, Prof. Andrew Ng!
 Andrew Ng is still a legend
 Great Course. I enjoyed it!
@@ -4665,18 +4493,14 @@ Very intuitive explanations
 This course is very great!.
 great lecture. Many thanks!
 Andrew is great, as always!
-Excellent learning resource
 Superb!! thanks Andrew Ng!!
 Still the best of the best!
 Very clear and interesting!
 Excellent pace and material
 very good course, thank you
-Gives excellent intuitions.
 Awesome course as expected.
-Muy práctico y entretenido
 Great Learning Experience!
 Please refer to course 1;)
-Best deep learning series!
 Thank you for every thing.
 I learnt lot of new stuffs
 Thank for dedicated course
@@ -4687,7 +4511,6 @@ Thank You for this course!
 Very useful and practical!
 As always, amazing course!
 Awesome Course. A must do.
-講解的很清楚，作業難易適中，做完會對教的東西更有感覺
 Yet another amazing course
 Incredibly  useful for me!
 very good and very useful!
@@ -4698,15 +4521,12 @@ Good course, easy to learn
 Andrew is a great teacher.
 Very good series of course
 In depth! Learned so much!
-Excellent course as usual!
 Great course.Thanks Andrew
 Great intro to Tensorflow!
 that is just simply great!
 The course is so organized
 very nice !! thanks Andrew
-nice course, learnt a lot!
 I love it, very insightful
-Valuable practical advice.
 very  good ! learned a lot
 Great intro to TensorFlow!
 intuitive: from why to how
@@ -4717,11 +4537,9 @@ Very useful to tune in NN
 You will learn TensorFlow
 Concise and super useful!
 very good course. 100/100
-Excellent course again :)
 Absolutely fantastic! :-)
 Great Course! Appreciate!
 Outstanding! Very useful!
-(^_^)     (^_^)     (^_^)
 very instructive material
 Absolutely useful course.
 Great intro to TensorFlow
@@ -4739,24 +4557,16 @@ great course, worth doing
 This Course is excellent
 insightful and practical
 Very instructive course!
-einfach super, wie immer
 Also incredibly relevant
 Thank You for the course
-Muy completo y didactico
 Thanks for your guidance
-Fantastic course design!
-Bastante útil y práctico
-Another excellent course
 Wonderful Explainations.
 It is easy to understand
 I REALLY ENJOYED IT !!!!
 Very Useful! Think you !
-这个系列课程的字幕遮挡问题一直是个槽点，希望改进
 little diffcult but good
-OF COURSE A GREAT COURSE
 Amazing thanks Prof. Ng!
 This course is very good
-作业是不是有点问题，满分但是跑出的结果有点不一样
 very useful and  thanks!
 Complete and interesting
 Very helpful course !!!
@@ -4780,26 +4590,19 @@ perfect lessons, thanks
 Andrew NG is awesome...
 Great, really enjoy it.
 Very instructive course
-非常好的课程，对我未来的研究和学习帮助很大！！
-Complex, but excellent.
 Well structured course!
-Good for understanding!
 i gained a lot. thanks.
 Thanks for this course!
 Interesting and useful.
 It's completely useful.
 Thank you,Learned a lot
 Useful and informative.
-课程引导很容易让人接受，建议有课程要点总结文档
 harder than first class
-nice course,learn a lot
 Thorough and achievable
 project seems too easy.
 very clear and advanced
 Very useful information
-浅显易懂，通过课程对超参优化等有了深入的理解。
 bovvj saras course che
-Let's just continue!!!
 study hard continually
 A mind blowing course.
 It was a great course.
@@ -4813,7 +4616,6 @@ really complete course
 Thanks to teaching me!
 Greate Course!! thx :)
 Thanks, Great course !
-Gracias, gran curso :)
 Very very excellent !!
 Wery usefull and clear
 I love teacher Andrew！
@@ -4821,12 +4623,8 @@ Great! Really liked it
 This is awesome course
 Andrew Ng is the best!
 I'v learned a lot,Thx.
-Feels like progress :)
-excellent - tensorflow
 Super Clear and Useful
-Amazing. Just amazing!
 Andrew Ng is the best!
-comprehensive material
 It's so fun and useful
 excellent as expected!
 Great course. Loved it
@@ -4834,23 +4632,18 @@ thank you Prof Andrew,
 Great Course as usual.
 It was a nice course!
 very nice explanation
-VERY VERY GOOD COURSE
-it's simply amazing !
 Great way of teaching
 Andrew NG the best!!!
 anaother great course
 Great second course!!
-Great course contents
 great course as usual
 Beautifully organized
 Wonderful course!!!!!
 Really helpful for me
 Very good instruction
 Excellent as always..
-Excellent experience.
 It was good learning.
 Thank you, Andrew Ng!
-As always... too good
 Wish it were in java!
 concrete and straight
 Learnt a lot, thanks!
@@ -4862,26 +4655,19 @@ Continued brilliance.
 another great course!
 Very good explanation
 very good ! Thank you
-Very valuable course.
 That was cool as well
 great course, thanks!
-Thank you Andrew Ng !
 Grading is a bit slow
 Absolutely wonderful!
 NIce course I like it
 Really useful course!
 nice tensorflow intro
-Very valuable course!
-Very GOOD!!!!!!!!!!!!
 thanks for the course
 Class_label = "Great"
 Really enlightening!
-adam优化器居然这么容易就懂了，太棒了
 A really good course
 Very useful course!!
 Fantastic as always.
-非常好的课程，让我进一步了解了神经网络。
-An excellente course
 Incredibly practical
 Owe a lot to Dr. Ng!
 thank you very much!
@@ -4890,51 +4676,33 @@ Indrew is incredible
 good course! thanks.
 Amazing and helpful.
 very good，meaningful
-感谢老师的教程 让我对深度学习了解的更深
 Amazing as expected!
 really great course!
 Ng is a good teacher
 Very well structured
-Very helpful for me.
-非常良心的课程，我要把五门课程全部通过～
 Amazing instruction.
-Excellent exercises!
 Fantastic as always!
 Awesome assignments!
-just amazing course
-Simplemente Senial.
 Thank you Mr.Andrew
-WOW, Vet insightful
-I love NG's courses
 As great as always!
 Andrew is the best.
 Very well taught!!!
 Amazing course.....
 Excellent as always
-It feels guuuuuuuud
 Enjoyed this course
 Thank you Andrew Ng
-Valuable content :)
 Very nice intutions
 Very easy to follow
 Great job as always
-un cours magnifique
 Great course again!
-Excellent Course...
-非常棒的课程，吴老师深入浅出，让我们d
 I LOVE THIS COURSE.
-难度和时间都适合已经工作的人自学，点赞
 Another nice course
 Thank you, helpful.
 great explanation!
-Excepcional course
 Really great stuff
 I've learnt a lot!
-MI CAMINO NINJA :D
 Awesome learning !
-again...a good one
 Great as usual (Y)
-week 2 is soo good
 Great content, thx
 Simply exceptional
 Most interesting!!
@@ -4944,9 +4712,7 @@ really impressive!
 Loved this course.
 lee is the best :D
 Really enjoyed it!
-great and detialed
 strongly recommend
-excellent course !
 thank you so much.
 one word: amazing!
 Awesome as always.
@@ -4954,32 +4720,18 @@ very good lectures
 Thanks for The Ng!
 Very Nice Course !
 as always the best
-介绍浅显易懂，弥补了初学者的经验不足
 God of all courses
-感谢吴恩达老师，这个门课我受益匪浅。
 Its Andrew Ng. wow
 Good demonstration
-one word: Awesome!
-Excellent Program!
-课程实践性很强，由浅入深，主线很清晰
-非常好的教程，谢谢吴老师的精彩讲授！
 i like this course
 just incredible :D
-Execellent course!
 I like the course
-Best teacher ever
-Essential Course.
-Excellent content
 Always excellent!
 Great lectures!!!
-Great experience!
 this is very good
-非常好，提供了很多超参调节实践经验
 as always as best
 Great Assignments
 It's very useful.
-非常详细，讲的特别好，还有实验课程
-Awesome course :)
 Thanks, Prof. Ng!
 As good as before
 awesome content !
@@ -4987,161 +4739,80 @@ very nice course.
 Depth and clarity
 Fantastic Course.
 Very Good Course!
-最后程序注释中有少量错误，别的很好
 briefly explained
-有理论讲解、有编程实践，干货满满。
-Amazing, as usual
-吴恩达老师的课讲解的非常棒 ！！！
 Really complete !
 Very well taught.
 fantastic insight
-难易适中，适合学习，感谢吴恩达老师
-Marvelous Course!
 So helpful !!!!!!
 Very meaningful!
 Worth everything
 Great teacher!!!
 Thank you Andrew
-Excelent content
-keep on learning
 Great Andrew Ng!
-Exceptional.....
 Great Course (y)
-Amazing content!
 Was very helpful
 Great Course!!!!
 highly recommend
-very use course.
 In Depth content
 great learning!!
 Great! course!!!
 thank you andrew
-课程非常棒，细节解释的非常详细。
 its very useful!
-must have course
 very very useful
 It's excelent!!!
-THe best course.
-Just EXCELLENT !
-5 Stars Mr. Ng !
-excellent work..
 Really helpful !
 Like this course
-amazing as usual
-上课听不懂，全靠吴老师了，大赞！
 Very usefull !!!
-Excellent Course
 useful，thank you
 very impressive!
 awesome, perfect
-课程简单易懂，循序渐进，非常棒！
-Excellent class.
 It's just great!
-讲解的很详细，吴恩达是个好老师。
-Awesome lecture!
 It is very good!
 still very good!
-very good，thanks
-Best Course!!!!
-just excellent!
-so excellent！！！
 Great as always
-Great work sir!
 Awesome course!
-理论与实践相结合的的典范课程！
-perfect course!
 Simply the best
 Great Work !!!!
-excellent cours
 Simply Awesome.
-Just excellent.
-Great exercise!
-正常时间刷完，调参侠又进一步了
-太多技法，感謝Andrew老師
-Simply amazing!
 It was perfect.
-有时课件中有些小错误，也能理解
 Awesome  course
-Merci Beaucoup!
-宝贵的超参数调试经验，谢谢分享
 Amazing Course!
-Awesome course.
-终于学懂了！多谢Andrew！
-very wonderful!
-Great material.
 could be useful
-对提高模型的正确率有很大的帮助
 Great teaching.
-介绍了很多新的知识，非常有帮助
 Very practical.
 really helpful~
-Great tutorial!
 very practical!
-Very good MOOC!
 He's the best.
-Just Wonderful
-Simply amazing
 great hands on
-Thank You! Sir
-Great lecture!
 Good learning!
+I learnt a lot
 simply awsoeme
-Awesome Andrew
 so good course
 Coursera is #1
 Very Helpful !
-very good！！！！！
 Simply Awesome
-wonderful！！！！！
-Super awesome!
 Thank you alot
-Exceptional !!
 Very practical
 It‘s great’ ！！
-Indispensible!
 Simply superb.
 Thx, Andrew!!!
-很有用，让我很容易就入门了。
 Just Fantastic
 It helps a lot
-Excellent work
 A good curse!!
 Always Great!!
-Useful course.
 great course o
-amazinggggggg
 The best ever
 Gtreat Course
 Just Amazing!
-ek no. course
-Fantastic !!!
-难度不大，入门刚刚好，赞！
-Super! Thanks
-quite helpful
-Thank Dr. Ng!
-希望可以由更多的TF的练习
-learnt a lot!
-Best lecture.
-benifit a lot
-讲了深度学习优化方法，很赞
 owsome course
 thanks Andrew
-非常不错。真的很不错。。。
 The best one!
 Super helpful
-good and best
 Thanks Andrew
-excellent !!!
 Good course !
-So far great!
-very nice A++
-I respect you
-Thank you ^^
-super useful
+Really good!
 Learn a lot!
-it' good! :)
 Great Work!!
-just amazing
 Recommend!!!
 very useful!
 Means a lot.
@@ -5149,161 +4820,41 @@ Geate Course
 Pretty Good！
 Thank You!!!
 Very Useful!
-Nice course.
 very amusing
-Just AWESOME
-Best course!
-Andrew Ng <3
 Good part 2!
 Very useful！
 Many Thanks!
-非常喜欢Andrew的课
 Loved it. :*
 Great Course
 Learn a lot.
+Great work!
 Enjoyed it!
-super cours
+Nice Course
 best always
-Awesome....
-喜欢NG老师，棒棒棒！
 *Thumbs up*
-Tuning in !
-good one...
-masterpiece
-思路清晰，学到很多知识
 Enjoyed it.
-awesome!!!!
 simply best
-通俗易懂，很好的课程。
-Thank you:)
 it's great,
-Like it. :)
-good lesson
-老师讲的很细，受益很多
 so great:)
-Conceptual
-fantastic!
-thnaku sir
-Super good
-条理清晰，收益匪浅！
-EXcellent!
-Very well!
 Thumbs Up!
 Pure Gold!
-Oustanding
 thanks all
-thanksssss
 greathelp!
-很有用，讲解也很到位
 thats good
 Pure Gold.
-吴恩达老师讲的很好。
-tremendous
-wonderful！
-Excelente!
-impressive
-recommend！
 Love it!!!
-brilliant!
-理解更深了一层，很好
 Pure Gold
-Très bien
-Andrew <3
-Nice job!
 So great！
-Good work
-Best**inf
-学到很对实践方面的
 Love it !
-深入浅出，十分受益
-good good
-Ng rocks!
 Great sir
 top class
-吴恩达男神男神男神
-Ng出品，必属精品
-Nice! :-)
 Good info
-内容比较基础，不错
-非常直观的讲解！
-Super!!!
-学习到了很多知识
 Wondeful
-感谢Angrew
-perfect！
 Spot on!
-Asesome!
-很不错，通俗易懂
-Best yet
 exciting
-Best! :D
 Perfect！
-吴大大棒棒的~~
-UFFFFFF
 Great.!
-gogogo!
 Thanks.
-Good~~!
-Ok 收获良多
-学到很多 谢谢
-Super !
-Nice :)
-一如既往的优秀
 Prefect
-thx~Ng!
-COOL!!!
-Useful.
-改善神经网络，
-老师讲的非常好
 awsome!
-非常棒的课程。
-课程内容不错！
-THAMKS
-Lovely
-great！
-非常好的课程
-素晴らしい！
-课程很清晰~
-课程太好了！
-Super！
-超棒的课程！
-Greet!
-good！
-best.
-Woah.
-bravo
-Класс
-学到了很多
-Good！
-Good!
-挺不错的。
-Nice！
-表白吴伯伯
-Itisa
-Sweet
-12/10
-无可挑剔
-很实用哦
-mice
-深入浅出
-超级棒！
-很好~~
-dope
-mast
-收获良多
-感谢NG
-很不错！
-比较简单
-bon
-非常好
-Ok.
-ok!
-ths
-不错的
-很棒
-^^
-很好
-最高
-超棒
-牛！
-贵
+cool!

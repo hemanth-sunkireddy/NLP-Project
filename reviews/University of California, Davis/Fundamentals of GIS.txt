@@ -3,7 +3,6 @@ not very well organized.
 The assigmentes after every lesson  was step-by-step conducted, but que final lesson was "do yourself", with diferents topic of the class.They reprove me, but I have no explanation because the class finish at 31 and today 31 they say I have to switch the course. I fell really cehated and unsatisfy and I will not finish the specialization anymore.Thos was the worst Cousera course that I did.
 not at all replying to the issues in discussion forums one of my friend posted a threat regarding peer  5 ago the mentor is not even replying this is ridiculous
 Crippleware if you don't
-is bad
 Needs to be more concise.Nick seems very passionate and trying to reach a broad audience, but overly explaining topics is creating "lecture fatigue" for me. For instance, every video starts with "welcome back... this is why people like this... [meat of the video]... this is what we just talked about.... see you next time". I really just need the [meat of the video] part. These videos are 5-10 minutes long each. They are very short and therefore I do not need an introduction/closeout for each individual one. The Module Overview and Module Recap videos are sufficient to serve that purpose.Overall, I learned the basics and will probably take the next GIS course because I like the Coursera framework, but I think this particular course could be much more condensed.
 This course gets difficult in Week 4 as the Assignment is tough if you do not fully understand how to use GIS. Discussion forums sometimes help but only if someone else is kind enough to reply. If you don't understand how to do things on your own, do not take this course. There is no way to message or ask the instructor questions.
 Very hard, little direction for the final project. Please update final project with better, more in-depth instructions.
@@ -19,11 +18,9 @@ the software is outdated and the assignment instruction is not clear at all!
 Needs to be updated to cover the use of ArcGIS pro.
 Good information. A little simple at times
 Peer review is unreliable.
-Helpful for beginners.
 As an introductory course, I found Fundamentals of GIS to serve me incredibly well. The material was laid out clearly and the team at UC Davis has put together very easy-to-follow video lectures and practical "lab" activities. The video lectures were well edited and the instructor's affable and approachable nature emanates from the screen. I found the video content engaging and helpful.The lab activities are self-directed using a PDF written up by the course instructors. The instructional step-by-step PDFs acted as excellent tutorials for using the primary software covered in this course, ArcGIS. Though I appreciated the use of forum posts to review material at the conclusion of every section, I didn't find many meaningful discussions occurring in them. I would've appreciated seeing some early forums assignments such as "Share some examples of GIS material use in your favorite region."  Overall, I enjoyed the course and gained knowledge I didn't have previously. I have a basic understanding on the use of ArcGIS to complete basic projects as well as a broader sense of GIS in the world and its uses.  Thank you UC Davis!
 Nick Santos is a great teacher. I found that the first half of the course was extremely well explained. I found it very easy to follow, and was thankful for the slow yet engaging pace of learning. However, I felt that the course got a bit "rushed" towards the end. Particularly in week 4, there were a few lectures that I did not completely understand. A few things were also a bit unclear in the final assignment, which was stressful considering it was graded. I think this has given me a good range of skills for starting off with GIS. Thank you!
 A good introduction to GIS focusing on the fundamental principles with a good practical element included. There is a lot to take in over four weeks so it does require plenty of time to absorb all the required learning and complete the assignment.  Plenty of information and resources are provided and the lectures are clear and easily to follow. The only criticism I would have is that there is probably too much emphasis on Arc GIS, it would have been nice to learn some more about open source platforms like QGIS.
-Le cours est assez intéressant et permet de commencer à se familiariser aux Systèmes d'Information Géographique. En plus grâce à ce cours, il est possible d'obtenir une licence originale de l'un des meilleurs logiciels SIG gratuitement pour une durée d'un an. Il n'y a pas de plus meilleur avantage que cela! Même si le cours est en anglais, ce n'est pas une barrière pour les francophones, alors allez-y et lancez-vous!
 Great intro to GIS. Covers many basic elements of ArcGIS - enough to get you started understanding data and making maps. The only reason I give it 4 stars is that it is taught in ArcMap, which ESRI is phasing out (almost all customers are switching to ArcGIS Pro, but they are not providing student licenses yet). Nick is a great teacher.
 I found this course very entertaining. I learned the basics by listening and practicing. The best part of it is the opportunity to apply concepts on real maps. Tip: don't forget to download Demo's material to follow what Nick explains during the videos.
 i specifically loved the practical assignments
@@ -60,7 +57,6 @@ The course is awesome. I learned a lot and it helped me in many ways. The only t
 Very well instructed.  A few of the instructors were hard to understand, but the transcript help in this area.  Overall the course was easy to follow and the coursework was challenging for a first timer.
 some parts are hard to follow sometimes and can be monotunioos some times but over a great cour to get into gis with plenty of exrecises and avilable file as the one being worked on in the lectures
 The first week was a little slow, but I'm glad I stuck it out. This was very helpful and informative. The labs are invaluable practice that accompany the videos well. Thanks Nick!
-Un cours très intéressant qui part des fonctionnalités d'ArcGIS à la production d'une carte complète. Toutefois à ce niveau, on apprend pas encore à produire ses propres données.
 Thiscoursewasverygoodandfrutfulltome.ihavelearntalotinFundermentalofGISandhopetocontinuetolearnmoreandevenjointheGISgroup.thankyouverymuchDvisforyourtimeandguidence.NelsonEnyagu
 It was an Excellent Course I learned a lot and it was a great opportunity to learn GIS basics. Thank you so much   Nick Santos (our instructor) and the UC Davis Extension Team
 Great overview, though (by necessity) sometimes a bit skimpy on how important certain steps are. I'm glad I was able to review and re-review the lectures as needed!
@@ -85,7 +81,6 @@ Course was so good.I can get a basic of gis from this course.But the reviewer wa
 It's quite operational and helpful while using the tool and the explanations were also very workable.
 Good teaching methods. Convenient for starting to get to know GIS software and sharing your map data.
 I learned many skills as it was a fun and informative course that helps me in my work environment
-Excelente metodología, muy bien el relator, solo no me gusto la forma de calificar la tarea final
 Very good introduction to the ArcGIS environment and with great resources and relevant exercises.
 This class was very beneficial and well-organized. Thank you for all of the valuable information!
 This is the best course; The teacher explains very well. It`s too easy to understand his lessons.
@@ -95,7 +90,6 @@ Awesome organisation for WEB-based learning that helps keeps one focussed and on
 I really enjoyed the course and its agenda and way of learning and learned a lot
 Great hands-on exercises to boost understanding and develop required skills...
 It gave good knowledge of the basics needed in GIS,different terms,tools etc.
-Cómo estudiante no pude cordinarme al curso, por el contenido que manejaban
 Great introduction course, final exercise could've been more challenging.
 Very informative, detailed and well-organized course. Thank you NICK!!!
 I really like the link between theory and practicals. Really hands-on.
@@ -108,11 +102,9 @@ very good course for those who want to learn arcgis
 This course is very useful for the beginners in Gis
 It was a very valuable and well thought out course
 Well constructed, excellent course. Learned a lot.
-muito bom, vídeos fáceis e exemplos eficientes
 For a beginner like me the course helped a lot
 The Course is exceptionalI enjoyed very much
 more assignments and help materials required
-ممتاز جدا ولقد استفدت الكثير من هذه الدوره
 Great Course . Learnt about new courses .
 Great introduction to GIS using ArcGIS
 Good way to start learning about GIS
@@ -156,7 +148,6 @@ Great and systematic introduction into GIS.  For a beginner it still was a chall
 Very nice experience with Fundamental of GIS course in Coursera. I joined this course because of the Corona Pandemic because there is no way to leave home. But thanks to My university and the Coursera team I learned many new things in this time period. Thank You so much for giving these opportunities.
 This course has given me a foundation to work with GIS, and the program license alone is worth more than the cost of the course. The instructor, Nick Santos, clearly loves his work, and that makes the lectures more fun to watch.
 The best course on the Basics of GIS if anyone wants to start working with GIS. The instructor Nick Santos fully explained the course very well and defined every essential tool thoroughly. I recommend this course to everyone.
-Fundamentals of GIS, es un curso que te brinda todas las herramientas para aprender a navegar, analizar y sintetizar tus diferentes actividades que puedes tener dentro del análisis SIG, un curso espectacular 100% recomendado.
 I am brand new to GIS and found this course to be excellent for a novice. Nick explains everything with exceptional detail and the examples are easy to follow. The course work is appropriate and is a great learning tool.
 Nice course! Thanks a lot to the UCDavis team, Coursera and Nick Santos. The assignments guides are awesome. I suggest just to add a sort of index of tools and concepts. Thanks!
 I found the assignments very usefull to practice all the concepts learned in the lessons, and I really liked the last one were we had to demostrate all we've learned
@@ -164,7 +155,6 @@ Great teacher. The only way you can learn this stuff is by doing the work, so do
 This is an excellent course. I have learned a lot from this course. Nick Santos is a great instructor. Thanks coursera for providing this opportunity.
 the best course i have ever taken in my entire life. this course provided with the best knowledge and skill i need to progress my career
 Very interesting course, excellent presentation slides, explanation and appropriate practice assignments. Nicely delivered by Mr. Nick
-One of the best courses ever made about GIS. Excellent instructor, excellent technique, excellent book and exercises recommendation.
 It was an amazing journey. I prefer this course to everyone who wants to improve their skill regarding ArcGIS.
 My main downside is the Extra readings section. I don't have the book nor do I have the ability to obtain it!
 The course added a lot of relevant information that I believed was advanced. Thank you very much!
@@ -172,7 +162,6 @@ I have learnt a great deal from this course. Very well put together. I'm excited
 It's a great beginning for someone that don't have idea about GIS I totally recommend.
 Coursera gave a opportunity to learned and enrich myself with a prudent community.
 This is excellent  and informative course to get GIS knowledge in details .
-es un curso bueno para aprender las bases de arcGIS. lo recomiendo
 Very good. The course is well structured and easy to understand.
 This course was really helpful with my profession
 Very informative. Good overview of the basics.
@@ -183,7 +172,6 @@ Great intro to GIS and ESRI products.
 Wonderful class! Very informative!
 Great Courses, Awesome Teacher.
 Its very helpful.. Thanks a lot
-great...
 This is a beginners course and at the start, I had very little experience with ArcGIS. This course gives you key information to get started with ArcGIS, like how to use the spatial joint, how to manipulate the attribute table and share data etc. The course information is very clear, keeps it relevant and you learn it in a very systematic order. In each week what you learn you get hands-on experiences with the practical assessment. I have done many courses at university face to face and this course is comparable to some of those courses. This course gave me the skills and confidence to make beautiful maps in ArcGIS. The only part of this course I would change is the final peer review assessment instead of submitting it and get a mark. They should have a 4-step process, first, the student should submit the map and map document like normal. Second, the peer reviewer should get a document/form that goes through step by step what check and leaves feedback if done incorrectly. Third, Then the document/ form gets returned the student who goes through it and makes the changes or if they feel the changes are unfair comment why. Then the student should Submit the document/form with comments on the changes, with the final map and map document for marking. This is a bit more work but when each student while peer-reviewing and making changes they are learning what the did wrong. This makes it more of a learning process because few students in the discussion were confused where they went wrong.
 In general, the course allowed me to receive "knowledge and not just "information":
 a. The course has valuable content, is efficient and effective, is versatile and easy for the student to manage.
@@ -206,7 +194,6 @@ The course was really good. I learned a lot of things related GIS. The most impo
 Great course, great presentations, great lecturer. All the contents are pretty clear, very effective and detailed explanations and very high level in general, considering it's an introduction course.It looks like they they care so much about it  and there's a lot of hard work underneath.I took some other courses of GIS in the past and I can say this is one of the highest quality.Congratulations Nick Santos and all the UC Davis team involved that make it possible!Can't wait to take the next one.Juan Esteller, Granada, Spain
 It was really good course I have learned a lot. The lecturer is really wonderful Professor. The thing that I did not understand WHY I didn't get my certificate until now! I already submitted it before the deadline and also manage to review my colleagues work. I went for a holiday and come back yesterday to the website it says I didn't submit the assignment and didn't review any work!!!!!!! WHAT!!!!!!!! HOW COME!!!!!!! I have to re-subscribe and submit again! I tried to upload the PDFbut it doesn't work.
 Really good course for those who have never worked with GIS and maps before. Covers al the basics, but isn't boring for those with some experience in the field. I really enjoyed learning a bit about all of the different sides of GIS. The final project was a bit too easy. I was a bit disappointed by the cartography aspect. As a designer I always find the end products of Arcgis to look a it stale. I didn't particularly find that the way in which symbology was implemented qualifies as good design.
-Me ha parecido un curso excelente, los temas abordados, la enseñanza virtual ha sido de calidad, el material proporcionado durante todo el curso para realizar practicas de lo aprendido, el sistema de evaluación entre participantes me ha parecido muy novedoso.En este corto tiempo, he aprendido muchísimo acerca de GIS y de las funciones básicas del software ArcGIS.Felicidades al equipo que ha trabajado para hacer de este curso una experiencia única.Muchas gracias Coursera por esta oportunidad.
 This course was an easy and exciting glimpse into the world of GIS. I'm grateful for the instructor, Nick's, ability to take a complicated subject and break it down into simplified terms for someone as brand new to GIS as I am (as well as many others, I'm sure!). The layout, time/effort requirement, and quality of the course are commendable and I would highly recommend this course and Coursera to friends, family, and colleagues. Thanks so much, Nick, UC Davis, ESRI, and Coursera!
 Like a lot of people, I started using GIS at work and was kind of thrown into it and fumbled my way through for a while. Going into this course I had a basic understanding of how to make maps and import data etc but I didn't really understand what it all meant. This course was extremely helpful for gaining insight and understanding into the basic why's and how's of this program. I highly recommend it if you use GIS at work but never received any real formal training.
 This was a fantastic class.  The instructor and those that constructed the lectures, exercises, quizzes and projects managed to put so much into very efficient, but complete packages that are really well organized. I was able to watch some on my phone, some on my tablet and many on my PC. Instruction was very clear and valuable. The exercises were great.  The project at the end was challenging and interesting. I look forward to the next class in this specialization.
@@ -228,7 +215,6 @@ Great course! The instructor is very knowledgeable and enthusiastic and makes th
 Very helpful course in getting my hands on GIS as someone who has never touched GIS before. Nick's videos are always very clear and concise. The practice projects with step-by-step instructions were very helpful, and I appreciate how the peer-reviewed project really allowed me to make sure I could apply the skills from this course. Looking forward to the other courses in this specialization.
 I have been browsing the internet so hard for a good course about GIS until I suddenly came across Coursera. I have never been so amazed with how everything was well-organized and well-thought. Thank you so much to the team, especially to Nick Santos for putting up such great effort for such great course. I am looking forward to taking the next few courses to complete the specialization.
 Everything was perfectly explained by Mr. Nick and I feel really confident about ArcGIS after finishing this course and I feel the assignments were perfect for my understanding of the topic in hand at the end of each module. The peer review really helped me understand the other ways through which I could do my final assignments and showed me my faults through other pupils assignments
-Excelente curso, con un dictado claro y bastante preciso de los conceptos y herramientas de análisis de los sistemas de información georeferenciados (GIS) en el software ArcGis, invito a la comunidad latinoamericana a iniciar el curso no requiere de un profundo dominio del idioma ingles para aprender y desarrollar los trabajos, basta con un conocimiento a nivel intermedio del ingles.
 This course is outstanding in every way. All the learning material, including the video lectures, are top-notch. Instructor Nick Santos has terrific presentation skills and his knowledge of the material is beyond reproach.  Developing GIS skills while using industry-standard software is a wonderful opportunity, and as a participant, I just couldn't be more pleased with this course.
 This course was great! Nick provides very thorough descriptions and explanations of features and concepts that do not require any prior knowledge of GIS before starting this programme. I am now comfortable playing around with many features within ArcGIS thanks to practical skills put into practice through the assignments. I look forward to continuing with this specialisation.
 I really enjoyed this course. I thought that the teacher was very helpful and thorough for an introduction course. This is my first time doing an online course so I don't have much to compare it to, but it definitely exceeded my expectations. Nick Santos or maybe Professor Santos is a very enthusiastic teacher and really encourages the student to excel and succeed. Thank you!
@@ -292,7 +278,6 @@ This course was perfect for just getting into GIS. I have taken a few entry leve
 Excellent course. The lessons were clear. The progression system is on point. The assignments were well designed and really got me motivated to continue. Highly recommend it to anyone. Definitely taking on the second course of the series. Thanks to the team behind this.
 Fundamentals of GIS was a very comprehensive course for those interested in learning the foundations to Geographic Information Systems. The course is well paced and the real-world assignments are particularly good for demonstrating the different areas GIS works with.
 I enjoyed taking this course. It was easy to navigate from the beginning. The instructors' (Nick Santos) explanations were very clear and easy to understand.  The assignments were interesting and fun at the same time. The time spent on the course was well worth it!
-Es un curso que te permite avanzar a tu propio ritmo, lo cual se agradece mucho, además te ofrece los recursos necesarios para tu aprendizaje y las explicaciones son buenas. siempre y cuando leas atentamente las indicaciones no tendrás ninguna clase de problema.
 The concepts were very clearly and concisely explained; the practice assignments (1-3) were very helpful in developing experience working with ArcMap; and Dr. Santos is a great lecturer. I would recommend this course to anyone who wants an introduction to GIS.
 Highly recommended! The content is a fascinating introduction to using ArcMap and real-world data to create basic maps. Individual skills are taught in a stepwise fashion and culminate in an enjoyable final assignment. Nick is a terrific teacher - well done!
 I had previous experience with ArcGIS because I had to learn on my own, but this course taught me a lot more tools than I thought I would get from a "fundamentals" course. The teacher is very detailed and thorough, yet very easy to understand. Great course.
@@ -319,17 +304,14 @@ I am familiar with GIS, but am completely self taught. This course taught me man
 This course is really useful to learn the basics in interpreting maps, also, the tools are given, the resources and the way the classes are taught are incredible that you are looking forward to continuing learning even more about GIS.
 This course is awesome, prior to joining this course I had no idea what GIS actually is. Thanks to Sir Nick Santos for illustrating every thing meaningfully. Learners interested in learning GIS must take this course as a kick starter.
 Thank u Coursera for providing me an opportunity to learn through the top-quality platform. The course is well structured. The instructor is an amazing teacher with great abilities. Thank you, UC Davis, Coursera, and Sir Nick Santos.
-Que curso sensacional. Confesso que as minhas expectativas foram preenchidas. Parabéns a equipe do Coursera e ao Professor Nick Santos pelo repasse de conhecimento. Nunca irei esquecer e pretendo continuar ainda mais no mundo do GIS.
 Really it's a nice course for beginner and helps to enrich idea about these topics both theoretically and practically. the heartiest thanks to the course coordinator and UCDAVIS as well as Coursera team to creating this opportunity.
 Past 4 weeks has been the most amazing learning process for me and I have thoroughly enjoyed this course. I just wait to complete the entire specialization. This course has just opened so many new vistas for me. Thank you so much!!
 The course was very good and exciting, it is cover all the basic of GIS software and produce an introduction to GIS analysis.I recommended everyone who want to learn GIS to enroll to the course and enjoy the efficient learning way.
 Amazing class to get started on ArcGIS. I am not a coder or anything related to it and although it was challenging at times, I feel like the professor, content and exercises do a lot for the student to get a hold of the software.
 Great overview of basics of GIS. Took it as a refresher after a time away from the program. Found it helpful in getting rapidly back upto speed. Very competent instructor and good environment for interacting with fellow students.
 As a fundamental course it was great! you learn many tiny tools which are really helpful and more importantly, Nick is awesome! He teaches very carefully and basic. Thank you Nick I did all your Specialization and I learnt a lot.
-Un curso excelente. El inglés no es mi idioma nativo y me pareció que las explicaciones fueron muy concretas y fáciles de entender. La pasión que le pone Nick a sus clases es lo mejor, seguiré con los demás cursos del programa.
 This is a very comprehensive introductory course suitable for learning about GIS, how to create and layout maps, as well as share them online. The coursework is user friendly and the lectures are interesting and easy to follow.
 Overall this course provided an excellent introduction to the topic and enables the learner to begin using the most prevalent GIS software tool effectively at a basic level.  Looking forward to the next course in the sequence.
-Gran curso, permite introducirse al mundo de plataformas GIS sin tener conocimiento alguno. Además, entrega las herramientas técnicas para utilización de nivel básico del software ArcGIS el cual es estándar en la industrial.
 This was a very informative and streamlined intro to GIS.I could see the pace being too much for someone totally unfamiliar with GIS, but it's also going to touch on all the basics you should expect from some longer courses.
 This is extraordinary Course for all of us seeking GIS training. It is clear, understandable even for foreigners with limited knowledge of English. I like exercises which are well developed and lead us through the software.
 Good background course and introduction to using ARCMap. Would have been nice to have materials to follow along with the lectures, but the assignments provided a second follow along at doing what was done in the lectures.
@@ -366,7 +348,6 @@ Excellent content, and the assignments were great as well. Even better is that n
 Cheers!
 Course was very good prepared. The strucutre of lessons was comprehensive and balanced. The assignments were interesting and fun to do. I want to thank to the lecturer, Nick Santos, for his work.
 This is the best course in GIS I have ever done, especially considering that it touches the core GIS software-ArcGIS. I give credits to Coursera,Esri ,UC Davis and finally thanks to Nick Santos.
-Muy buen curso, me sirvió mucho, aprendí demasiado sobre las cosas básicas y el profesor es muy bueno !! Super recomendado si no saben nada de GIS y están empezando a comprender las herramientas
 This course helps to understand the basics of ArcGIS desktop and a web GIS career. Though it does not discuss all these features, a peer can certainly kickstart a GIS career with this course.
 To know the core point of GIS, you should enrol immediately.  The best course for Beginners. The lectures are very practicable and easy to learn. Thanks the instructor to make it easy for us.
 Excellent fundamental course.  Easy to follow although Nick does talk a little fast at times, you can always pause and go back.  Really fun and interactive way to get started in GIS.  Cheers!
@@ -426,7 +407,6 @@ Thorough and easy to understand course. I was able to learn all of the basic of 
 Very useful course. It gives a very good initial basis about GIS and ArcGIS. Really worth it as part of he GIS specialization. Very well organized and structure.
 I started with absolutely zero GIS knowledge and now I am using the software to analyze my data and create maps! Thank you for this amazing educational resource!
 It would be helpful if the instructor didn't talk with his hands.  The lectures and materials are well done.  There are a few typos here and there.  Good course.
-Le cours est parfait, bien explique même les étudiants qui parle pas l'anglais peuvent apprendre facilement. j'ai hâte de continuer a suivre les autres modules.
 This was an outstanding base of knowledge that I have already recommended to many coworkers to explore so they are able increase their base of knowledge in GIS.
 this was a go course for me, i have enjoyed it and i really thank youi thank my Lecture, classmates and other who has been helping us to understant things well
 It's a well designed course for the beginners. I would like to thank course instructor Nicholas Santos for his effort and making the course easy to understand.
@@ -438,7 +418,6 @@ Great Course! I am filling very empowered with a lot of very useful knowledge an
 i did not completed this course on time because of slow internet speed in my locality. I will be obliged if they give me more time to complete this course.
 I am very excited with this course or fundamentals of GIS and Nick was such an excellent lecturer and thank you coursera for providing this online course.
 A great introduction to GIS.  This was a completely new are area of study for me and the clear layout of  course materials and guidance were a great help.
-Excelente introducción a la interfaz y funciones básicas de ArcGIS, con este curso se aprenden los lineamientos para crear mapas básicos, muy interesante.
 Gives a fundamental step by step introduction to GIS. I really liked how the content built on top of the other. I really enjoyed the assignments as well.
 Learned a lot quickly.  I have a degree in GIS, but that was over 10 years ago, this course got me back up to speed and I hope to continue learning more.
 I learned  a lot from this course. The explanation from Nick Santos is very nice. And I can get a free license for ArcGIS for 1 year. Thankyou very much
@@ -449,7 +428,6 @@ This course if great. It gives me the concept of GIS. I did pass a good fruitful
 The more I leran about GIS the more I am becoming confident to employ this in my daily life. Special thanks to the instructor by guiding step by step.
 Very Good for Beginners, Everything is explained in a very understandable way, the access to the program and the additional data makes it whole round.
 Essential for anyone interested in GIS and wants to get the basics. I really learnt a lot in a short space of time at my own pace. Brilliant convenor.
-Este curso es un locura, práctico, sencillo, útil, didáctico. Felicitaciones a Nick, es un excelente profesor y a su equipo por tan increíble labor.
 Fundamentals of GIS, very helpful and a good stepping stone towards mastering GIS software to make meaningful analysis and communication using maps.
 Excellent course with step by step instruction for beginner. However the final assignment is challenging enough to summarize whatever I have learnt.
 Nick does a great job at using lab examples, providing data that makes it easy to follow along. Looking forward to the rest of this specialization.
@@ -472,8 +450,6 @@ Very well structured course for Beginners at GIS. This is a perfect start and a 
 Before taking this course I never had any knowledge about GIS and this course tought me alot, very intresting, well explained. I recommend
 Great Course, Relatively easy to understand and follow. I love the way the labs are structured. I plan to continue with the other courses.
 I HAVE ALWAYS BEEN INTERESTED IN GIS AND COURSERA PROVIDED A GREAT PLATFORM TO MAKE IT MORE INTERESTING AND LETTING ME GAIN PROFICIENCY...
-الجلسة الجميلة جداً ومفيدة جدًا ، شكرًا جزيلًا ، لكن إذا كانت ترجمة مقاطع الفيديو الخاصة بالكورس تدعم اللغة العربية كان سيوصبح افضل بكثير
-Excelente curso. Direto ao assunto. Aprendi as funções e ferramentas básicas para análises espaciais e apliquei no trabalho de conclusão.
 Very good introduction to GIS (using ArcGIS) - covers a wide range of the basics and gives you the confidence to move on to other courses
 Very good course to start with ArcGIS basics and to understand a bit about the basic theory aspects under Geographic Information Systems.
 Very good and elaborative approach. Trainer is very good and course is very well prepared. Efforts put by trainer areHighly  Appreciated
@@ -553,7 +529,6 @@ It's been a great way to learn about GIS software, and the teacher is great, you
 Fundamentals of GIS was a great course! I loved the tutorial assignments and the final project wasn't too challenging.
 This course gives an introduction to ARCmap in order to apply for basic works. I am very happy to achieve this course.
 A course totally accessible to newcomers. Very clear explanations from the instructor and detailed support documents.
-Un curso que a pesar de ser los fundamentos de GIS, aprenderás mucho, es muy completo y didáctico, 100% recomendado.
 Very thorough and covers essentially everything you need to start exploring and utilizing GIS in your work or study.
 This course is of great interest . Also, our instructor taught it very well. Usage of ArcGIS is of great importance.
 Thank you for a great course!  Lots to learn in GIS, this course really got me excited about learning this software.
@@ -569,7 +544,6 @@ Great course material and pace, it's well designed to introduce the basics first
 Really like how everyone has put this course together. A great way to start learning this amazing software. Kudos!
 Really clear instruction at the appropriate level, useful and clearly written assignments. Would highly recommend.
 Excellent overview; well structured assignments; and appropriate level of challenge in the final graded exercise.
-muy buen curso toca diferentes temas basicos sobre los ssitemas de informacion geografica que son indispensables
 Very much essential course for those who are trying to learn GIS as a academic as well as professional purpose .
 Nice to follow. Good explanations from the teacher Nick. A good introduction to ArcGIS and geospatial software.
 Great course, especially the assignments are absolutely awesome as they walk you through every step of the day.
@@ -618,12 +592,10 @@ Very helpful way to get a basic understanding of GIS and to kick start the speci
 Very Nice course. The prof. explains the concepts very well. I am feeling very happy with this course.
 Very good discussion of the basic terms and concepts of GIS as well on its the real life applications.
 The course was very productive. Now I am familiar with ArcMap software and thanks for the license too.
-Es una buena opción para comenzar con el software de Gis para aquellos que no tienen mucha experiencia
 Excellent detail, well presented, easy to follow instructions throughout, guidance provided if needed.
 The lectures were very easy to follow and easy to understand even for ArcGIS beginners like me. Kudos!
 I am happy because of coursera because it gave me opportunity to learn worldwide to refine my skills.
 Very good introductory course. I'm excited to start with the following courser of the specialization.
-Este curso es una excelente opción para poder empezar tu formación profesional en el área de los GIS.
 Excellent ! Very well structured, many important tools to star analyzing geographic information data.
 This is a great concept and I am proud and privileged to learn from Coursera and UC Davis. Thank you.
 The course was very well designed and focused on in-depth understanding of basic concepts of ArcGIS.
@@ -646,7 +618,6 @@ Very useful and well presented. Thank you Nick and Coursera team.Warm Regards,Ba
 Great course. Instructions are clear really good if you need to learn the Fundamentals about GIS
 Brilliant introduction to GIS, I have already learnt a lot, especially like the videos and Nicks
 Love this class! Very efficient and useful introduction to GIS. Great skill to learn on your own
-Excelente curso, exigente y motivador para los que empezamos aprender y entender lo que es GIS.
 the course content was excellently conveyed. Nick Santos is a great teacher. Much appreciation.
 I enjoyed learning the course. The instructor is knowledgeable and  professional. Two thumbs up
 Great introduction to ArcGIS. The lectures are easy to follow and the assignments are relevant.
@@ -656,7 +627,6 @@ Nick Santos makes what could be a dry and tricky subject both very accessible an
 Excellent course.  This course will be appropriate and effective for beginners who learn GIS.
 i learned so many thing in this course.Thanks to Nick and to everyone who made this possible.
 The course contains and the instructor were all up to the expectation. Thank you to you all.
-Significó un gran aporte a mis conocimientos. La parte práctica realmente fue de gran ayuda.
 Great course for those who want to learn the basics of GIS. It is also very well explained!!
 An excellent introduction to GIS with a great balance between lecture and hands-on learning.
 Wonderful teacher. Easy to follow along. Course is extremely flexible to go at your own pace
@@ -679,7 +649,6 @@ Great overview. I used as a refresher course, but might be too much for a real b
 Great in-depth and interactive introduction to GIS and how to use the basics of ArcGIS!
 Excellent course! The assignments are really well done and lectures are really helpful.
 Very good course, neat information, great case studies. Would suit a complete beginner.
-Es un curso muy chevere para poder comenzar a usar arcgis Y ENTENDER SU FUNCIONAMIENTO
 Very informative course with easy-to-follow lectures and helpful hands-on assignments.
 great course. really nice learning step by step very useful for one who want to start
 A wonderful course as an introduction to the GIS World. Well planned, well explained.
@@ -690,7 +659,6 @@ A good course on GIS for an absolute beginner. First step to enter the world of 
 its a good start for those interested in GIS and a free one year software for arcmap
 Excellent course. Explanations and assignments were very clear, complete and useful.
 It is very interesting course, everything understandable. Nick is excellent teacher.
-Muy completo y además brinda las herramientas necesarias para poderlo llevar acabo.
 Very informative. A great overview of mapping tools, GIS data, and ArcGIS software.
 Class was very good. I loved how conversational and informative the instructor was.
 Great course to start using GIS, full of useful inputs on how to thinks about data.
@@ -704,7 +672,6 @@ A very good starting point with great teaching style. The assignments were helpf
 If you are a beginner, don't think twice. Just enroll in the course and start it.
 Easy to follow. Highly recommend to beginner who has no prior knowledge about GIS
 Good intraduction course. Recomending it to those who want to start in GIS field.
-Curso bastante bueno, bien explicado el material y los ejercicios, lo recomiendo!
 Great introduction to GIS. Engaging and full of useful information and exercises.
 Awesome course that give a good, understandable and practical introduction to GIS
 I strongly recommend this course. It's a powerfull leader toward GIS's Universe.
@@ -764,11 +731,9 @@ Great introductory module. Wonderful resources available for learning
 This is a great course.Well planned.Videos and assignments are great.
 Excellent course to learn the basics of GIS and ArcGIS for beginners.
 Excellent base for learning about GIS basics and a key industry tool.
-Excelente! Muy organizado y con conocimientos profundos del programa.
 Excellent course. Well taught with good video and clear instructions.
 This was a great introductory class to GIS. It was exactly what I nee
 Good intro to the subject with projects that result in finished maps.
-me encantó la manera como explican y las tareas fueron de gran ayuda
 To be honest, I have learned a lot. Thank you Coursera, Nick Santos.
 A great course to persons that want learn abour fundamentals of GIS!
 the teacher is very patient , i have learned a lot from this course!
@@ -808,7 +773,6 @@ I liked the way Mr.Nick has taught. I found it really helpful.
 Awesome course, really got me started for understanding ArcGIS
 Great course to learn the basics and good introduction of GIS.
 It is the truly the best online course for getting to know GIS
-Muy buen contenido, las explicaciones muy detalladas y claras.
 Perfect for someone who is starting to learn GIS from scratch.
 it is a good course that benefits students to learn GIS basics
 I learned a lot in a very fun way. This course is really good.
@@ -826,14 +790,12 @@ Very well structured, good examples and excelent instructor.
 Very explanatory and wonderful guided course. It's worth it.
 Gives you a good foundation of ArcGIS and spatial databases
 You are a marvelous teacher. It was a great learning for me
-É realmente um curso muito interessante. Eu aprendi muito.
 Great course, very well organized and professionally done.
 Very Good and helpful course and  very talented instructor
 Absolutly Love It, Thank you UC DAVIS Team and Nick SAntos
 Great gis course for beginners, comperhensive and specific
 It is a great course for all those who want to learn GIS.
 Good overview, I learned a lot in a short amount of time.
-Very informative and made me understand GIS a lot better.
 Great introduction to GIS - fun and easy to follow along.
 Excellent and easy to follow! Great for beginners in GIS.
 Excellent Course in establishing the fundamentals of GIS
@@ -884,7 +846,6 @@ It was a great course to get familiar with GIS.
 Great instructor nd teaches us alot gud thinks.
 Instructions are clear and easy to follow along
 Knowledgeable introductory course to learn GIS!
-课程由基本的概念讲起，深入浅出，配套的练习材料也是非常的具体。非常棒的课程，非常好的学习体验！
 excellent course i have learned too many things
 Excellent course. Thanks all for the oportunity
 Very good course to introduce you to GIS world
@@ -911,7 +872,6 @@ Organised, Resourceful and Relevant course
 Excellent course. I fell in love with GIS.
 it was a fantastic journey. thank you all
 Highly recommend. This is a great course!
-Muy buen curso. Explicado de forma fácil.
 This course is a perfect beginning of GIS
 Great skills that all people should learn
 This was a great hands-on course for GIS!
@@ -919,7 +879,6 @@ good course. looking forward to course 2.
 Excellent introductory course on ArcGIS.
 Excellent course for learning the basics
 Well explained , well guided Assignments
-Excelente! El profesor explica muy bien!
 Easy to follow. Offers good information.
 Increased my knowledge about GIS world.
 Learnt the basics. Thank you very much.
@@ -947,8 +906,6 @@ It Is the best, I enjoy learning it.
 Great content and fantastic delivery
 I enjoyed the course. i learnt a lot
 best of its kind for new gis learner
-an extreme spatial science.i love it
-Muy completo, y muy bien explicado.
 very helpful and excellent approach
 Great class, proud to add to my CV!
 Good description by Nick. Excellent
@@ -961,10 +918,8 @@ It was so helpful. Thanks so much.
 It was a nice learning. Thank you,
 Very helpful introduction into GIS
 The course was very helpful for me
-Excellent course, I learned a lot.
 on of the best i have ever learned
 useful, very great course material
-Muy bueno, resumido, claro y útil!
 Very good and well designed course
 Very informative! Love the format!
 Great cours , i will keep going !
@@ -988,7 +943,6 @@ Clear, well structured, great!!
 I enjoyed the creation of maps.
 great course to learn about GIS
 Very useful for the beginners.
-لقد تعلمت الكثير في هذه الجلسة
 Easy to follow and understand.
 It was interesting and useful.
 Excellent introduction to GIS.
@@ -1009,74 +963,41 @@ Its very nice course for gis
 Great, I could apply most of
 Excellent overview of ArcGIS
 Great course for starters..
-Best course i ever enrolle.
 I learned alot.  Thank you.
 its the best course i taken
 Nick Santos is a dreamboat.
 THANK YOU SO MUCH MR DAVIc
-Helpful to GIS beginner ;)
 Very useful and productive
 Great things to begin GIS!
 great examples and teacher
-graet course for essential
 Awesome course instructor
 The course is very useful
-just love this course....
 Good Course, thanks a lot
 excellent and interesting
 cool course, thanks a lot
 really well put together.
-Excelent begginer course.
 Well paced and explained
 too good and informative
-Great fundamental class!
 fantastic ,very helpfull
 its excellant nice work
 Its very awesome course
-Good fundamental course
 Very Fantastic Course.
 Thanks for instructor
 Great introduction!!!
-Best GIS course ever！
 Veeery useful course!
 Perfect!Thanks a lot!
-you nice, keep going
-Super recomendado!!!
 Concise and helpful!
 ys it's good subject
 it's the best course
-Very Very Very GOOD
-Learned quite a bit
-Excellent Material.
-it is a fun course!
 It`s a great course
 Great intro to GIS.
-Excellent coverage!
 Very useful for us
-Un muy buen curso
-Ineffable course!
 It was very good.
-Excellent  course
-Good work   !!!!!
 the best course .
 It was fantastic!
 TRES INTERESSANT
 It is Fantastic.
-Excellent work.
 excellent offer
-Très bon cours
-Excellent Cour
-excellent job
-THX VERY MUCH
-Im Loving it!
-Thanks again
-Btter course
 it,s awesome
-دورة ممتازة
 good intro!
-<3 ArcGIS
-Good job
-Its dood
 LOVE IT
-aaaaa
-GI

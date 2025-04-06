@@ -1,7 +1,6 @@
 This is not a "course" - it should be free content available to anyone interesting in AWS.   It is really a length sales pitch about why one should use AWS.   About the only thing you can actually learn is some basic AWS terminology if that would be new to you.
 "Fundamentals"I stopped this course when they started setting up an EC2 instance because they skipped ahead like 5 steps and the response from the instructors was, "This isn't supposed to be a step-by-step" and then provided a link to Amazon's AWS Help pages. I would say if IAM is a requirement to setup servers in AWS, then setting up IAM should probably be part of the fundamentals course
 Low quality/time spent ratio. Basically tt's a one big advertisement of AWS. And it wouldn't necessarily be a such problem if assessments would be open and examples shown during videos able to do by oneself. Unfortunately you can't submit your tests' answers without upgrading to paid version. Free tier account doesn't allow to do the same things as you can see in videos.
-Extremely less content
 worst curse ever
 Relatively disappointing course. I was expecting more CLI examples and examples in the most recent version of the console. Lots of examples did not work out of the box and I had to muddle through settings of my own to fix them. I have a strong technical background and could find the appropriate settings; what about people who are really not interested in applications at all and just want to make their product cloud-native? Those people can be discouraged if they try to replicate an example on their own in a different tab and it doesn't work. Perhaps most worryingly, the entire specialization seems to not have any coding exercises. I fear that if I were to continue with this specialization, I would not get a full grasp of AWS services.
 You need to let people use the system not just watch. This is less helpful than typical YouTube videos and needs to have some form of actual labs. It seems more like this was used to educate people on a potential cost saving platform vs hosting all services on premises. Not pleased, finished in a day though so didn't cost me a dime. Only makes me dislike large conglomerates like Amazon even more.  Step it up Jeff.
@@ -12,10 +11,7 @@ EXTREMELY POOR. ONLY FANCY thing...but originally no help... Missed too much inf
 Explanations and demos are ok but there is too much watching with minimal to no interaction.
 Very promotional and 'aws-goody-goody type'. Not what i wanted.
 one of the instructor is like a robot.
-no esta en español
-no use
 Short, not very to the point. This course has to be taken by someone who really wants to know and learn about AWS and this course is not very helpful for learning about Cloud computing.This just tells about benefits of AWS and the service it provides.  Also, the content was less and very fundamental.
-Seems like an ad for AWS
 I agree with some other reviewers that this course is more of a promotional ad, and technically explains what we are doing with AWS services, etc. It takes you step by step via AWS account at a somewhat faster pace than I anticipated. It does not thoroughly explain how and why we are doing these steps, services, etc. I was hoping there was a glossary of terms, several terms are unexplained and dismissed, or even assumed we knew. Overall, disappointing course.
 If you're completely new to IT, have never heard of provisioning servers in the cloud, and don't realize that scalability is a thing, this course is for you.If, on the other hand, you're bringing any knowledge to the table, don't expect to get much out of these commercials. They cover a fraction of the interesting points about a small number of AWS services. There are really no hands-on labs. You can't follow along, because the things they are showing won't work by default. Look elsewhere, unless you've never, ever done anything in IT before. That's how "fundamental" this is.
 This course is aimed on the non technical person and gives only basic overview that feels like advertisement. If you are technical person and want to know how to use AWS in details you better look for some other coursesDuring the course I felt that the goal of the course is not to give me fundamentals but more like persuade me that I should buy and use AWS
@@ -82,8 +78,6 @@ Good One for Begineer.
 covered less titles
 COULD BE MORE GREAT
 Just ABCD of AWS.
-ok ! good !
-Huge add
 This course has good content but doesn't give you the example application to work with. I think that's an oversight. It does give you a decent overview of AWS though so it was still quite useful for me.
 The course was informative and straight to the point for those with AWS background, however it was lacking of at least couple labs scenarios for EC2 and S3 (very simple and short to implement)
 A little short and simple but good introduction. Very clear explanations of the "why" behind each service.
@@ -114,7 +108,6 @@ Should have included a bit more of hands-on experiments. Example: Instructors ha
 This course is great if you want to learn AWS services specifically on a beginner level. I missed some comparison to other cloud providers, some practice exercise (not only quizzes) but overall, it is a nice overview.
 It's was a nice journey n getting to know about AWS was pretty fascinating but it would be superb if we could try it same time while learning and get hands on experience on AWS. Overall it was good to learn about AWS
 The videos are well made and all, but they need to update the content, I couldn't make the excercises just like in the videos because the options presented in the videos were not available in the current platform.
-Um curso excelente, com profissionais extremamente qualificados. Só não dou nota máxima, porque a forma como ordenam os videos e abordam os conteúdos pode confundir, já que não está em uma ordem muito didática.
 They don't provide you access to the materials to lab excercises like the web app and expect us to follow along.It somewhat provides insight to what AWS is capable of.Blaine. one of the instructor is hilarious!
 Good introduction to services and tools offered by AWS such as Cloud Computing, AWS Security, Cloud Storage, cloud networking, and Cloud Computing. Simple presentation makes it easy to build your own systems
 Good course for beginners. Teachers kept is fun and engaging. Great notes come with the course. Could have been a bit more difficult as it seemed very easy and on the edge of a sales speech. Still very good!
@@ -126,11 +119,9 @@ Great course for the beginners but needs a bit of hands on part, apart this it h
 I have been constantly following the discussion board. There are no instructors to reply to your inquiries. Nonetheless, this course is very useful first step towards AWS certifications.
 This course is pretty good and gives a pretty neat introduction to AWS. Concise and fun and covers the basics pretty well. I would recommend to any beginner who wants to start with AWS.
 This course gives me a basic and comprehensive introduction of AWS products. Those drawings are my favorite because they are really helpful for my understanding of the AWS structure.
-No pude hacer algunos laboratorios porque ya requerían algo de pre configuraciones que no tenia y no venían explicadas, fuera de eso es bastante bueno para comenzar a entender AWS.
 Nice overview of AWS! Liked the block diagrams - they really helped me understand how the various pieces connect. I'd like to see a flowchart or checklist to help me get started.
 Wonderful course by AWS to start learning of basic fundamental to start actual free tier experience to setup own AWS cloud :) Love to learn more on AWS other courses. Keep it up!
 Very well done, a bit more hands on with labs would make it even better. The instructors made the course enjoyable and interesting. Morgan's lab helped me deploy a live website.
-Interesante curso para conocer los productos de Amazon AWS e iniciarse. Las prácticas no funcionan tal y como te dicen en los vídeos si tienes una cuenta gratuita de Amazon.
 This course was very easy to learn and made a clear path to achieve the desired role. while the instructor Morgan and Blaine did very good effort in teaching the technology
 Great course for any who needs to understand how the AWS works and also get some hands on trainig that can give some basic knowledge of deploying applications on cloud.
 Found the course helpful for those who are new to AWS. For those with more experience, this course was a high level overview and does not go into great in-depth details
@@ -179,8 +170,6 @@ Pretty dope teaching by both the instructors ,Blaine and Morgan. Truly enjoyed i
 Providing Sample application code for download or deploying the application steps would have been beneficial here
 I think it's a good starting point. A little bit too superficial, which is why I give four instead of five stars.
 Good introduction to the platform.Only downside is practical have to done by creating AWS account for  your self
-Cela donne un bon aperçu des possibilités offertes par AWS pour lancer des produits et services dans le cloud
-O curso é bom para um nível introdutório, mas poderia incluir atividades hands-on na seção de exercícios.
 It's good basic overview of AWS, but the fact that you can't follow along with demo app is frustrating.
 Easy to understand since it was fundamental course. But, it will be great if AWS add some hands-on labs
 A very introductory course. I would recommend anyone to take a hands-on project with AWS to learn more.
@@ -207,7 +196,6 @@ Very Good  Course  on AWS for take  a start and move further on AWS Advance leve
 Good for learning fundamental about AWS. After completing you can find what to do next.
 Very good introduction to the AWS fundamentals, could have been a little more hands on.
 Good course to learn basics. Would be great to have some practical exercises in there
-Serìa excelente si lo traducen......creo que lograrian mayor acogda en latinoamerica
 The course is good for beginners,but still miss a lot of hand-on experience required
 The fundamental knowledge of AWS services. I get the starting point for next level.
 This course is very good for knowledge . It help you to know about AWS fundamental.
@@ -268,7 +256,6 @@ Best course for a beginner like me. Much helpful. Thanks
 explanation is very good and super lab is extremely good
 More of an overview of services, nothing much in detail.
 this course is very important to me for my future roles.
-Curso útil para comenzar en AWS con videos explicativos
 It lacks virtual labs to practice what we see in videos
 It gives basic idea of how AWS works in real enviroment
 Nice course This is the best course who is new to AWS.
@@ -282,7 +269,6 @@ Very nice course provides all required information
 Good Course but could add intros on more services
 Simple course to learn the basics of AWS services
 Short and crisp videos. Easy to follow and learn.
-Está bien, es un buen curso introductorio a AWS.
 Lots of information but needs more demo content.
 An insightful introduction to AWS core services.
 Provides a basic high level understanding of AWS
@@ -291,7 +277,6 @@ Didn't like the over advertising of the service
 I would reinforce the last topics of the course
 It was a nice experience learning this course
 Meets my expectations for this online course.
-gives all detail about amazon cloud services.
 Please add more lab contents in assignments.
 Need labs for put the hands in rock and roll
 This course perfectly reaches its standards
@@ -304,7 +289,6 @@ really good course and teachers are great
 Good to start your journey on the basics.
 Overview is good. It can go more in depth
 It was very helpful to get new concepts.
-La parte de redes estaba poco explicada
 Liked The Course for a beginner like Me
 great explanations learn some new stuff
 I am not able to get my certificate 😏
@@ -331,19 +315,16 @@ It was amazing and learnt so much
 Demo-Code hat gefehlt. Sonst top.
 Nice Course with good instructors
 Its very good introductory course
-Genial curso para empezar en AWS
 Teaching is very understandable.
 Course Content is Good.Thank you
 Must take course for beginners.
 helpful but not much materials
 Very nice introduction to AWS
 Good course for AWS Beginners
-Please make a detail course.
 Good course for AWS starter
 Good for absolute beginners
 perfect course for everyone
 Very good beginners course
-Could be more descriptive.
 Fantastic and Minimalistic
 great course to start with
 Concepts explanation Great
@@ -359,10 +340,7 @@ Good Insight of AWS...
 Nice Course Materials
 Good and Satisfactory
 very precise learning
-Simple Intro to AWS.
 great instructors !
-Overall Stastified
-nice experience...
 Must read course.
 awesome course..!
 it was Amazing <3
@@ -371,14 +349,9 @@ Nicely Presented
 Nice Explanation
 Great Thank you
 found helpfull
-excellent.....
-decent start
 Really easy.
-good! job~!
 Good one...
 satisfied.
-good aws
-N.A.
 This course helped me to gain the core fundamentals of the aws and how the things work in cloud , apart from these the course was enriched with the ec2 , rds , s3 , autoscalling and much more , the content delivery was so good and nurishing,,,,,.once again thanks AWS and COURSERA..
 Good content and good detail for an overview course. There is enough information in theory and in practical configuration examples to provide a user with a real starting point.
 Very good information about AWS services. however, it looks like a promotional program somehow. I think aws should add some lessons about comparing with other competitive services for a broader view.
@@ -455,8 +428,6 @@ A very good course with well explanation and demonstration in basic of understan
 I like this course very much.  This course provides me the details about AWS Services and Configurations.  Also the lab can illustrate how to create and configure the AWS instance or components.
 Very useful training. Covers all basic concepts with enough detail to actually start using the different tools. References to additional reading materials very useful. Pace was just right.
 so looking forward today's generation , AWS is the best platform to learn  for developers and other IT department because it provide several services which we can easily use and compute .
-Un curso muy bueno en donde se abarcan muchos temas los cuales se explican de forma detallada. A pesar de estar en Ingles y yo hablar español no se me dificulto el tema de la traducción.
-Eu não tinha quaisquer conceitos sobre a plataforma AWS e o curso foi muito claro em mostrar toda a capacidade e praticidade de criar um ambiente na nuvem para as mais diversas soluções.
 This is the right course for anyone who wants to get their fundamentals strong in Cloud Computing and AWS. It provides a good foundation for anyone who wants to learn AWS from scratch.
 the course seems to be very good and useful. the mentors explained the content very well and they explained in such a way which can be easily understand.thank you for lecture and guide
 A grest course to get a hands-on on the basic services that AWS has to offer. The efforts taken to make the course easily understandable and interesting is something to be appreciated.
@@ -479,7 +450,6 @@ Really a great course to get a fundamental overview of all the services that are
 One of a good course. I was learnt lots of things about AWS services. As an introduction this course is good. As well as lectures were representing attractively and clearly.
 Nice course to start with AWS Fundamentals. Good explanation of the AWS Services and hands-on explanation video. Instructors make the course quite interesting and engaging.
 A great course which starts with the fundamentals, the beginner stuff and all the basics and really rockets you by the end to being able to understand how to get AWS going.
-Es un excelente inicio para empezar con amazon AWS el material esta en inglés pero te puedes apoyar con bing traslator si no eres muy diestro con el inglés, hay subtitulos
 excelent course for starting about aws knowledge,. A global information it is provided for aws  cloud computing, networking , storage , monitoring , scalling and pricing.
 Extremely useful course to understand the basics of modern cloud computing. Trainers are extremely good in explaining the concepts making every single bit crystal clear
 It was a very nice course and especially the instructors were great at explaining each and every concept. Hope to learn from the same instructors in other courses too.
@@ -491,11 +461,9 @@ Very Innovative Course Helped me alot in learning the different server based AWS
 Some questions in the quiz cannot be answered by referring to the videos and notes alone. Need to be found elsewhere. Everything else was good other than that.
 This course gives very precise and pragmatic description of the offerings AWS has. Also, you will get to learn the database, server concepts during the course.
 This is an amazing course for anybody to learn AWS basics and cloud terminologies. It is really an easy course for someone who is looking to get AWS certified.
-É um curso rápido e que abrange as principais funcionalidades do AWS de maneira teórica e prática. Pra quem não sabe nada sobre AWS é um ótimo pontapé inicial.
 I gained literacy in AWS from this class. It was a short amount of time each week, and I am able to follow conversations about AWS at work and meetups better.
 A simple, concise and clear introduction to AWS. Instructor made the contents  enjoyable,  a worthy time investment, but you will a deeper dive to master AWS
 One of the best courses that I did on coursera . Instructors have explained everything too beautifully , its very easy to catch everything. A MUST DO COURSE!
-Gracias Coursera por hacer fácil mis sueños, por tener cursos tan la vanguardia que van con la tendencia mundial. A que seguir preparándose  para el futuro.
 An interactive session,one can look forward to without getting bored as the instructors are having a manipulating power and will get you ample of knowledge.
 Highly competent instructors with calm and cool demeanour while delivering content, kept me engaged throughout. To the point material, and liked the quizes.
 Really good course, would recommend to anyone starting off with aws. Loved how the instructors went to great lengths just to explain how each module works.
@@ -508,7 +476,6 @@ Great course to start off learning from the cloud basics to the basics of most p
 The best part is you can complete this course while working as full time IT or anything else, just take 10-20 min a day and you will be able to easily.
 Amazing course, for the beginners out there including me. I personally recommend it for the students out there and for the folks starting out the AWS.
 Great course for everyone who is looking forward to work in aws platform. It is for beginners and gives idea about every necessary component of AWS.
-Muy buen curso para aprender lo fundamental de AWS, la forma en que los instructores llevan el curso es muy tranquila y los ejemplos son muy simples
 Excellent course with logical and intuitive structure and simple to follow lectures to understand the complex cloud concepts and AWS implementation.
 This is the best course. Teachers are teaching the besst way they can , best efforts , yes I would love to to see AWS courses on Coursera in Future.
 This course help me a lot to understand AWS components easily. And i also take next course of this series to get more knowledge about AWS.Thanks!!
@@ -520,21 +487,17 @@ Great labs and wonderful explanation of the topics and concepts. It really helps
 An excellent course which captures the attention of a person and easy learning. A special thanks to Mr. Blaine for being an excellent teacher.
 I'm satisfied taking this course and instructors are good at explanation and this course is easy and I prefer everyone to have a look into it.
 A course perfectly designed for new-comers who want to understand the basics of AWS and also a stepping stone to become a professional in AWS
-Te enseña lo basico de todo, lo encontre muy practico ya que no entendia bien los servicios que amazon ofrecia y ahora me han quedado claros.
 It was amazing and loved the practical demonstration and explanation in the videos and improved my interest over cloud computing .Thank you
 The session was awesome and very interesting because of the teaching skills of Blaine and Morgan. I'm very thankful to you guys keep it up.
-c'est bien expliqué mais c'est en anglais. alors il faut bien prendre son temps pour traduire quand on a un nouveau d'anglais débutant  :)
 Instructors were very helpful and each of them clearly taught about the topics covered, which I understood very well. Thank you very much.
 Love you Blaine and Morgan. Thank you for this course. I'd recommend it to everyone who wishes to get started with Cloud Computing or AWS.
 Concepts are explained very easily.....hands on step by step explanation steps are neat n clear. Thank you Team for the wonderful course.
 The way instructors explained is really awesome, they just made it very friendly and easy to dive into. Thanks a lot to the instructors.
 It was a wonderful experience learning about the basics of AWS.Brian and Morgan know what they are doing and they are certainly the best
-Me gusto el curso, la dinámica del dictado fue excelente y cubrir mis dudas con respecto a los servicios de amazon web services gracias
 I enjoyed very much learning AWS Fundamental: Going Cloud-Native. This Course in very informative for beginners to start in AWS Cloud.
 Trainers are soo good ,they teach all the things very well. I learned a lot about AWS fundamentals and service and about clouds too .
 Excellent course. It was indeed a great learning experience. Highly recommended for those who do not have any prior knowledge of AWS.
 The trainers know how to make interesting videos and how to present the material. And they're also funny. More hands-on video please.
-Ótimo curso para quem está iniciando com AWS. É possível ter uma boa visão macro de disversos produtos, e como eles funcionam juntos.
 Thanks for Sharing Your Valuable Knowledge of the course. Now I have a Good Knowledge regarding AWS which will help me in my career.
 This course is the best for the learner.and the instructors are so good and their teaching is so good .i loved this course.Thank you
 The course content is very good . Evaluation process also very good, so that one can learn carefully and give exam on weekly basis.
@@ -552,7 +515,6 @@ It's really a good course and it's material is really useful. As a student of co
 Excellent Course to Understand Amazon Cloud Service in Particular, and overall cloud technology in General. All the very best!
 This course provides a great overview of AWS, its services and tools to a complete beginner in an easy to understand language.
 The best course I have enrolled for until now..Thank you so much for all your valuable guidance throughout this entire course.
-Se aprende muchísimo. Los instructores explican muy bien. Son divertidos y amigables para enseñar sin intimidar al estudiante.
 Great quick high level overview of AWS. Provides a intro to many services that you'll need to run an application in the cloud.
 This is very good course, also teachers are great. Lab exercise are just right. They could have given more deep lab exercise.
 As a beginner to AWS this course helped me to understand about AWS and gave a strong foundation for future AWS learning path.
@@ -568,7 +530,6 @@ This is an amazing course which introduce you to the AWS world, even if you have
 Nice and perfect course to understand about AWS and their service.Nice Practical approach and explanation by Instructors.
 everything is good it really helped me in getting knowledge about how the data process in background for storage in cloud
 This course is good for beginners to get an overview of AWS fundamentals.The material is well constructed and presented.
-Es un curso con las herramienta necesarias para entender de manera general los diferentes componentes de la nube de AWS.
 Excellent course to get started with AWS and learn the essential AWS services which are been used in most organizations.
 I really like this course, the content and the aproach of the trainers. Made it very entertaining and easy to follow up.
 Great fundamentals course for AWS newbies - definitely not too intense and has the right level of detail to get started.
@@ -578,7 +539,6 @@ Well prepared, presenters well spoken, all material in the quizs was covered in 
 Amazing content and i am satisfied with the way the instructors taught the concepts (oh and our lizard friend too XD )
 i learn how to add the content in bucket and how the bucket and how to sychronization in bucket . how to make instance
 The way all the instructors teach the course is outstanding. I learned a lot. Thanks coursera and amazon web services.
-muy interesante modulo el cual explica de raíz lo principales fundamentos a la hora de operar con aws los mejores. =)
 Course  content are good and instructors are really professional in their assignments. Thanks Coursera and AWS team!!
 Great going so far. Learned various services which are offered by AWS. Also learned how to configure those services.
 Kick start for the beginner level in aws .And the instructors were the best at their skills. a worth valuable course
@@ -657,14 +617,12 @@ Was pretty decent, maybe provide a .zip with the application in the demo so we c
 It's amazing.A very good approach to undestand the AWS Stack! Thank you by this course, Amazon! <3
 The best learning process i was enjoyed the entire process and learning  course.Thank you so much
 It's been a great experience while taking the baby steps into the cloud platform using Coursera.
-Muy buen curso, aunque seria bueno contar con laboratorios donde uno pueda aplicar lo aprendido.
 wonderful course to understand how AWS works and what are the different services provided by AWS
 The best Intro Level course to AWS I have ever seen. I highly recommend it. Thank You Coursera !
 I liked this course, is a good introduction to AWS and understing the basic services they have.
 Very helpful course if anyone wants to know the basics of the services that are provided by AWS
 Great Course by AWS training team, especially Blain, Morgan and Lizard friend are just amazing!
 Good introduction to the basic offerings of AWS and the structure of a simple AWS application..
-Un curso muy completo sobre los servicios principales de AWS, explicado claramente y muy ameno.
 Very informative curse...  Congratulations to the teachers! I hope AWS keep going with courses.
 Great instructors teaching about a great idea that changed the way corporates work! Impressive!
 Amazing learning experience, everything explained in a very detailed and easy way!! Thank You!!
@@ -732,8 +690,6 @@ This was a great course. Good balance of new material and exercises and quizzes.
 The Course is Awesome and the Instructors were also very knowledgeable and good.
 Very helpful for me to have a general idea about those often used service in AWS
 Extremely useful course to understand basics of AWS and its different components
-Muy buen curso para tener un primer acercamiento a los servicios que ofrece AWS
-Bien explicado los conceptos, una buena base para entender AWS y sus beneficios
 I like this course ,all trainers are very good in making things understandable.
 this course really helps me in gaining confidence and knowledge about AWS cloud
 This is very attractive course.This is one of the course in i am not feel bore.
@@ -821,9 +777,7 @@ Great course to get started with the basics of AWS Cloud Computing.
 I loved that course so much. These guys master the art of teaching.
 For basic information about AWS it is the right place to go through
 high level content (fundamentals) in the right format and duration.
-Excelente para iniciarse en el camino de las certificaciones de AWS
 One of the best produced courses I have taken on Coursera thus far.
-Un curso muy bueno en el comienzo de este mundo tecnológico en AWS
 The course content was wonderfull, learnt so much about the cloud.
 It's easy to understand because the people were teaching was  nice
 Excited that future is bright looking forward in starting a career
@@ -873,7 +827,6 @@ Very nice to self learn by using this AWS fundamental course.
 The best course AWS fundamentals going cloud -net  thank you
 Great Instructors as well as course Contents for Beginners.
 It is an amazing course. I really love this course so much.
-Se ha hecho muy ameno, muy buen material y buenos docentes.
 Knowledgeable course by AWS on Coursera.Thank you Coursera.
 Overall basic AWS concepts covered in the training session.
 Good for beginners, Blaine and Morgan did an excellent job.
@@ -895,8 +848,6 @@ It was a good course overall and very fruitful I must say
 Very good and basic information on how to start with AWS.
 Great course, great trainers! A good introduction to AWS.
 I learn new things in this course .very nicely explain .
-Muy bueno y completo para tener una vision global de AWS
-NEW LEARNERS DEFINITELY FIND THIS COURSE VERY EFFECTIVE.
 thank you all aws trainer your big role change my career
 Course nicely designed got lots of information about AWS
 Helps to have clarity on the different component of AWS.
@@ -930,7 +881,6 @@ Very Explanation on each topic.Need more lab session
 this course is very very good for beginners like me.
 It was an excellent course for the beginner like me,
 Very Good Course. Very informative and to the point.
-Excellent content, structure and presentation style.
 Great to get you started on the fundamentals of AWS.
 One of the best course instructor I've ever seen.;)
 Excellent course.!! I learned and Enjoy  a lot..!!!
@@ -956,7 +906,6 @@ Great course for Overview of services for freshers
 Great information and easy to understand lessons.
 Easy to make, and a lots of information to learn.
 Great way of teaching. Really enjoyed the course.
-Excelente curso,  muy buena introducción al cloud
 Excellent Experience while taking this course ...
 It was really good. Easy to learn and understand.
 Basic knowledge of Cloud computing and know how’s
@@ -972,7 +921,6 @@ Clean and Clear Explanation. Thank You AWS Team.
 This is amazing course to learn aws fundamentals
 exception high level services provided by amazon
 It was a great experience to learn this course !
-Curso muy completo acerca de fundamentos de AWS.
 Great introduction to AWS concepts and features.
 The teachers made AWS very simple and accessible
 Amazing Course for beginners to start with AWS.
@@ -1019,14 +967,12 @@ excellent course on AWS offered by coursera
 Nice Introduction, looking forward to more!
 Very Good course to just start with basics.
 Great beginner's course on AWS fundamentals
-Muy bueno ,claro y en un lenguaje cotidiano
 Excellent course with excellent instructors
 It's a unique and advanced learning course.
 Best Course to start with AWS for beginners
 It is really good ,we can enjoy the course.
 learned a lot about aws through this course
 Excelent training, thank you for your effor
-Excellent course to learn AWS fundamentals.
 Nice overview of cloud/AWS and its services
 Excellent course, especially for students.
 It is very useful and presented very well.
@@ -1067,7 +1013,6 @@ A great course to get a foothold on AWS.
 Very good course to start learning AWS.
 Right course for beginners to start AWS
 Great Course with top notch instructors
-Un pequeño paso dentro del mundo de AWS
 Blaine is the best!!! loved his videos!
 Basics about AWS and CloudGreat content
 Great introductory course. Recommended!
@@ -1117,7 +1062,6 @@ One of the best course from coursera
 Best course to learn AWS from basics
 Very interesting and well presented.
 the course was very much informative
-Excellent course, clear and concise.
 the course is well done, i loved it.
 We can learn a lot from this course.
 Excellent Course to start with AWS !
@@ -1146,7 +1090,6 @@ Very nice and comprehensive course
 Short and sufficient for beginners
 Awesome for the beginners  in AWS.
 Thanks so much, it's very helpful!
-I understand AWS much better now.
 great entry to learning about AWS
 I got a very good overview of AWS
 Good Course! Highly Recommend it!
@@ -1173,43 +1116,33 @@ A great course for beginners!!!
 The most fun course on coursera
 this course is best for beginer
 I enjoyed throughout the course
-Awesome Content, Lectures, Labs
-Excelente Curso, e instructores
 This course was very beneficial
 The course was very well taught
 Great course for the beginners!
-Fun et ludique ;) super cool =)
 Extremely well explained course
 Very good course to start with.
 Very good course and presenters
 The AWS Fundamentals was great!
 Awesome course for AWS starters
 Great class to learn about AWS
-Useful course .MUST TRY COURSE
 this was a very helpful course
 Great content and instruction!
 Great and very usefull course!
 Very good introduction to AWS.
-VERY GOOD COURSE FOR BEGINNERS
-Excellent course . I love it.
 Funny. Informative. On-point.
-Excellent Course to explore!!
 Its very good and informative
 its quite intresting to learn
 Great content and experience.
 A very helpful yet fun course
 Concepts were well explained.
-very use for for AWS beginner
 best online course ever i saw
 Nicely fundamentals explained
 Awesome to Learn basic of AWS
-Excellent course in coursera
 Course was really enjoyable!
 Great Course for starters <3
 Good course.I learned a lot.
 amazing course..thank you :)
 Good content for new learner
-Best Course for AWS beginner
 Great and easy to understand
 Nice explanation. Thank you.
 Great Learning Experience!!
@@ -1225,19 +1158,14 @@ Best course for new learner
 It was a wonderful course!
 A good introduction to AWS
 Very nice and interesting.
-very helpful for begginer.
 i like the way of teaching
 good to learn fundamentals
 Very good AWS basic course
 IT WAS A GREAT EXPERIENCE.
 very helpful course indeed
-Engaging and easy to learn
 I Love this course course.
-Great fundamentals course.
 bhot acha course banaya ae
-Very helpful for beginners
 Like to our lizard friend!
-awesome guys! keep it up!
 Beginner friendly course!
 awesome and useful course
 Great Course. Keep Going!
@@ -1248,7 +1176,6 @@ This course so effective.
 Very Good on fundamentals
 Compact and useful stuffs
 The course was very nice.
-all good  go for it buddy
 Highly recommanded course
 It's very useful course .
 good and concise material
@@ -1261,16 +1188,12 @@ oh yeh !  it was awesome
 I had a great experience
 I highly recommended it.
 easy introductory course
-very good for beginners.
 This is AWSome Course .
 Thanks Brain and Morgan
 Extremely interesting .
-Very Good for beginners
 It is very good course.
 Thank u for take course
 I just love this course
-Amazing Course Indeed!!
-VERY NICE TO LEARN HERE
 Very good fundamentals.
 it was really good help
 Good quality, worth it.
@@ -1284,7 +1207,6 @@ good. much appreciated
 Very nice presentation
 Great overview of AWS!
 Worldwide Class Couse
-Amazing Experience!!!
 very enhancing cource
 overall it's so good!
 Great overview course
@@ -1293,9 +1215,7 @@ satisfied with course
 It is a nice training
 It was good to learn
 Loved this course :)
-Amazing. Keep Going!
 5 stars for Blaine!!
-I love alibaba Cloud
 A good introduction.
 its very good cource
 Good overview of AWS
@@ -1306,21 +1226,13 @@ Very NIce I Loved It
 Got a gud knowledge
 Amazing and useful!
 It as very valuable
-beautiful insructor
-GOOD FOR  BEGINNERS
 Great for an intro!
-NICE EXPLANATION!!!
 its an great course
 Great Explanation !
 Great course. Thank
 Introductory course
-curso muy completo
 great to have this
-very good ........
 Highly resourceful
-nice courses on it
-Extremely Helpful!
-Amazing Experince.
 Good Explanation !
 Nice one thank you
 Lizard is so cute.
@@ -1328,68 +1240,39 @@ Recommended course
 love the teaching
 Good intro to AWS
 very good starts.
-Excellent session
 Great performance
 Need more to know
 Very good, thanks
-GREAT Experience!
 Blaine is amazing
 Great and useful.
 A good overview!
 Great Lecturers!
-I LOVED IT!!!!!!
-NICE EXPLANATION
 Its very helpful
-simply excellent
-Enjoyable Course
 Thanks very much
 its really good.
 Very best course
 Very experienced
 Very effective!!
 Awesome contents
-nuv keka ra rey
 It  was great .
 useful and easy
 Simply awesome.
 This is helpful
 Worth learning.
+Awesome content
 Very productive
-Well understood
 Great teachers
 Gain Knowledge
-good for study
-Excellent⭐⭐⭐⭐⭐
 Realy Nice One
-رائع ومفيد جدا
-Y’all are fun
 nice teachers
-Very concise.
 It is Great..
 Very interest
 awsome course
 Good to work
-Best Course!
+Good Content
 its all good
-WOOOOOOOOOO
-excellent .
-best Course
-Best course
 Awesome co
 Goodcourse
 Good One!!
-Radhika K
-All Good
-EXCLLENT
-Superrr
 Thanks!
-Nice❤️
-I LIKE
-suberb
-joss
-Awsm
-NYC
-GR8
 OSM
-:(
-gb

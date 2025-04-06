@@ -13,8 +13,6 @@ Slow, boring and totally useless
 boring and uninformative
 Didntlikethiscourseatall
 not good as other
-not quite useful
-Useless I guess
 I just felt this course was a bit confusing in the sense that I never really got the chance to apply what I have learned all in this course. For example, for transfer learning, it's much better to have a programming assignment to understand and test as to for what kind of problems is this gonna be necessary and where can I go wrong instead of just a set of questions.This seriously shouldn't have been a 2 weeks course, Instead, this should have been a 4 weeks course to better understand the intricacies in the learning algorithms and it's diversifications.I was disappointed.
 I found the course rather confusing than helpful. One of the key issues with video-only courses is lack of interaction of the user with the material. In previous Andrew's ML courses, this issue was cunningly tackled with "wake-up" multiple choice mini-quizzes. Such techniques would help the course a lot.The questions in the exam were poorly phrased and full of typos; some had numerical issues (percentage of errors in the dev set did not sum up).  Some of the answers seemed to contradict with the material as I remembered it from the course: f.e., the question on whether to get more foggy images to improve the model performance should have been answered with "augmentation is fine as long as it looks fine to the human eye". This contradicts to Andrew's remarks in the course video "Addressing data mismatch" video -> Artificial data synthesis. Are you sure we would not introduce a bias by adding artificial fog to frontal camera images?
 The 3rd course is more art than science. There is a lot of breadth, but we cover each topic in passing. Therefore, from a student perspective, I find that the concepts are not cemented and it is entirely possible that I forget them once I move on to the next course. The second issue I find with the course is that there are no programming assignments. Programming assignments. Programming assignments are key to understanding such complex topics and getting the idea cemented. It would have been much better, if we could cover each topic such as data-mismatch, comparison to human level performance, etc via assignments.
@@ -55,7 +53,6 @@ I have been working in industry for 5 years now and this are not really the prob
 Not applicable enough. I think you need more tooling around DL before these meta lectures makes sense.
 Had the feeling of a "filler" course although it was interesting to hear about the various challenges
 A lot of very common-place suggestions that could just as easily be conveyed in a third of the time.
-Demasiado contenido teórico sin aplicaciones prácticas reales que permitan consolidar lo aprendido
 Too theoretical. It would be good to have some practical (programming) assignments here as well.
 Not much to learn in this course, basic recommendations can be condensed in one or two lectures
 A lot of the content seemed redundant both within the lectures and with the previous courses
@@ -75,8 +72,6 @@ Too little materials.
 Very theoritic
 Much too slow
 Too short
-no praxis
-no funny
 (09/2019)Overall the courses in the specialization are great and provide great introduction to these topics, as well as practical experience. Many topics are explained clearly, with valuable field practitioners insight, and you are given quizzes and code-exercises that help deepen the understanding of how to implement the concepts in the videos. I would recommend to take them after the initial Andrew Ng ML course by Stanford, unless you have prior background in this topic.There are a few shortbacks:1 - the video editing is poor and sloppy. Its not too bad, but it’s sometimes can be a bit annoying.2 - most of the exercises are too easy, and are almost copy-paste. I need to go over them and create variations of them in-order to strengthen my practical skills. Some exercises are quite challenging though (especially in course 4 and 5), and I need to go over them just to really nail them down, as things scale up quickly. Course 3 has no exercises as its more theoretical. Some exercises have bugs - so make sure to look at the discussion board for tips (the final exercise has a huge bug that was super annoying).3 - there are no summary readings - you have to (re)watch the videos in order to check something, which is annoying. This is partially solved because the exercises themselves usually hold a lot of (textual) summary, with equations.4 - the 3rd course was a bit less interesting in my opinion, but I did learn some stuff from it. So in the end it’s worth it. Not sure I would have taken it as a stand-alone course, though.5 - Slide graphics and Andrew handwriting could be improved. 6 - the online Coursera Jupyter notebook environment was a bit slow, and sometimes get stuck. Again overall - highly recommended
 I'm glad I spent some time on the "Flight simulator" assignments in this course. It's the first time in the specialization when I actually found the quiz questions challenging, and that's a welcome change. However, I didn't learn too much from the lectures. They were too repetitive, either repeating themselves or the material from the previous course. One or two videos could also do with better editing work: I could hear Andrew making a soundcheck, and there's a 30sec segment that's played twice in a row. Overall, it's probably worth doing this course, given that it requires very little time, and the assignments are useful.
 This is a 2-week follow-up on the previous two courses in this specialization.While it's a decent course that goes over a few interesting topics, I have a hard time giving it more than three stars. Reasons for that are below:(1) Especially the first week felt very slow and repetitive. Most of the material could have been summarized a much smaller timeframe. (2) The course went over some interesting topics in a very high-level way, but skipped a lot of the details that would have been very interesting to people looking to learn deep learning in depth (like the target audience of this course!). (3) While I think the approach of having some themed case studies for the test is neat, a lot of the answers left me thinking "well, the correct answer would also depend on X which isn't specified". Good concept to test knowledge in a "discussion/oral exam" session, but IMHO bad for hard "wrong or right" multiple choice tests.(4) Some videos had "black screen" times at the end, errors, cut-offs and repetitions were not cut out, and overall I think this had the least amount of "polishing" of the courses in this specialization so far.I'd have preferred if the content of this course were a bit more steamlined and merged it into the other courses of this specialization.
@@ -209,7 +204,6 @@ It would have been really nice to have some project work on this one instead of 
 Could have been more in depth or could have been added to another course as one extra week
 The course content was great and it is more theoretical. Kindly add hands-on or projects.
 Helpful guidance but I didn't get enough material to help *me* generalize what I learned.
-Some material is trivial. Some quiz questions are ambiguous, or have nonsensical answers.
 There's no programming exercises. Pehaps one for hyper parameter tuning would be nice.
 I was expecting more on tensorflow as well as technical work on error corrections.
 I wish there was a programming assignment in this course instead of only quizzes.
@@ -224,14 +218,11 @@ Seemed lots of similar information which was covered in previous courses
 It would be better if we could try coding and experimenting these ideas.
 I fear this material won't challenge many learners. Feels like review.
 No practise sessions, just theory unlike others in this specialization
-No details about some implementations how to implement this techniques
 It was awesome but not one of the best courses in the specialization!
 Good insights, but not much material and no programming assignments.
 It was rather disappointing because it didn't meet my expectations.
 Covers interesting concepts at length. Videos could be shortened.
-Dommage qu'il n'y ait pas de TP dans ce cours (seulement 2 quizz)
 I wished there were exercises besides the quizzes in this course
-some quiz questions are poorly formed, a little disappointing.
 I thini the course needs more quizzess and a program exercise
 Very short, not many practical examples. Lots of repetitions.
 Video lectures tend to be repetitious, and can be confusing.
@@ -244,7 +235,6 @@ It would be better if you include programming exercises.
 It was hard to keep interested - lost focus many times
 lacking in the usual engaging programming assignments
 Was expecting more scenarios for real data experience
-个人感觉课程的内容比较难于理解，希望老师在设计ppt方面能给出一些完整直观的解释，有的时候书写会不是很清晰
 The course is OK, but it lacks programming exercises
 Learned new things but the course was boring.......
 Wordy and too abstract without hands on experience.
@@ -263,7 +253,6 @@ Should not be a separate course. Too general.
 Some useful insights but not much depth here.
 sometimes, it really hard to hear the voice
 Not much coding. Some lectures were rushed.
-感觉前几个课程还行，到这章有点水了。。。（我不是说这部分知识不重要，但是也太少了吧）
 Kinda boring, but still pretty practical.
 Would have liked to have some exercises.
 Not enough hands-on (coding) assignments
@@ -281,23 +270,16 @@ A lot of video badly edited.
 Informative but too short
 not that useful i thought
 I missed the coding parts
-understood little bit
-可能是偏向实际应用，对我理论方向的帮助很少
-讲道理这么课内容有点少，而且有点空....
 Very Theoretical !!
 I very simple class
 Its informational
-就两周的课， 我不知道算是凑数吗
 Not that good.
 to theoritcal
 too much bugs
-No Homework!
 Bit tedious
-Bit boring.
 A bit short
 Too short.
 Knowledge
-ich
 This course would be immensely helpful for those who have not started on their first machine learning project. However, the insights shared are quite commonsensical and intuitive for those who have already had some minimal experience in machine learning. This course also does not feel as substantial as the other courses in the specialization, though the tips provided are definitely valuable.
 In my opinion this course is an important part of the specialization. But a number of issues made it fall short of a five star rating.First the positives: Of the three courses I've taken so far, the quizzes showed great creativity, which made learning fun. Well done.
  Unapologetically this course does not require students to write a single line of code. Instead it necessarily addresses issues that coders and their managers need to consider. It's not 'fluff,' but real decision points for machine learning applications. So I found this course of value for the specialization. Here's what keeps it from five stars.I think that there ought to be mini-quizzes at the end of every lecture so as to reinforce learning, rather than once at the end of 10 to 12 videos.This course is probably the right place in the specialization to include a section on the shortfalls of machine learning. So far the specialization takes the perspective of happy technicians solving the world's problems through machine learning. I think it appropriate to spend some time on how machine learning caused such a grading problem during COVID-19 (in the UK and for the International Baccalaureate), how thousands in state employment can skew results by data input and the like. Finally, as a small but jarring note - can't somebody re-edit some of the videos? Having audio repeated, hearing "test test," and microphone problems are shortcomings not expected from a course that endeavours to teach professionals. Overall four stars.
@@ -323,7 +305,6 @@ I find this course very relevant for practitioners. Perhaps from a team/organiza
 Hi, This course though very useful had become a bit monotonous and at times a bit difficult to understand. There could have been better presentation giving more examples. The Quiz had really tough questions , in some cases the language is not clear. I request the course mentors to look into the same. Nevertheless, it has definitely been very useful as it highlights the practical problems faced and ways to resolve them
 This Course offers simple, useful and general tips for starting a typical deep learning project. The most valuable part is on how to split datasets and how to identify possible data distribution mismatch. The tips and case studies do not always work in real application. But that is perhaps because the course is intending to be simple. This course does not require any math backgrounds and can be completed in 4 hours.
 Although I see other learners saying that this is the worse of all the Deep Learning specialization courses because there are no programming assignments, I believe it was a very useful course full of practical knowledge for properly structuring ML projects. I agree, however, that video quality is worse that the other courses and there are some editing issues (some video segments repeat, blank sections, etc.)
-This course is hard to complete because the lessons are very large and difficult to understand. However, I recommend this course for anyone than want to apply deep learning in real enterprise world.Este curso es dificil de completar ya que las lecciones son muy largas y costosas de entender. Sin embargo, recomiendo el curso para todo aquel que quiera aplicar deep learning en el mundo empresarial.
 I liked this course a lot, since it introduces transfer learning and multi-task learning and so moves you toward more powerful and realistic AI applications than the previous courses in the specialization. However, I missed the programming assignments that aided understanding so much in the previous courses. The quiz by itself was not as effective at illustrating the key concepts.
 I wouldn't really consider this a "course," but the stuff he taught was great. However, Andrew could go much deeper into these topics. Some real data examples that he has come across would be even more helpful. Seeing how he codes his approaches in python would also be a very useful (and quick) batch of lectures. If he needed to extend it another week that would be understandable.
 Excellent course just like the previous two. Short programming exercises would have been nice to have. Some of the answers in the quiz were too similar and this might be quite confusing for non-native English speakers and therefore can reflect more knowledge in English language rather than knowledge in related machine learning topics. I am looking forward for the next 2 courses.
@@ -480,7 +461,6 @@ Good content. The tips and tricks a experienced AI practitioner has was shared. 
 In the first quiz, the comments about why an answer is correct are too simple. On the contrary, in the second quiz, the comments are really good and give us better feedback.
 I feel more Examples should be given regarding the variable and bais tuning, also Error analysis videos should be a bit in-depth. Everything else is as good as it can get :)
 The simulations were very good to build a good intuition about setting up a machine learning project.But I regret that we didn't have coding exercises. 4 stars for this one.
-Me gustó el curso, pero creo que algunas lecciones fueron un poco más largas de lo necesario. Debo agregar que me gustaron mucho los simuladores, creo que me ayudaron mucho
 Helps clearly in understanding practical aspects of deep learning. An additional week, highlighting the aspects of productionizing a deep learning project would have helped
 Since I myself am working on a few projects, the concepts here are somewhat useful in error reduction. Especially when the models are used to automate medical applications
 A unique course to understand the process of establishing a ML project. But lacks tools information and a more structured definition of the process. A bit too theoretical.
@@ -510,7 +490,6 @@ Nice to see a course on machine learning about the 'other stuff' around machine 
 Some of the lectures feel quite lengthy and repeat stuff. It seems to be easily possible to condense into one week which could be added to the previous course.
 a lot of topics are covered in machine learning course, but this has an upgrade to input from previous course due to changes has happened in AI in last years.
 Valuable tips to apply in machine learning projects. I'd like to have some programming assignment that gives opportunity to practice some of those techniques.
-Es muy bueno el curso lo recomiendo si se desea tener un conocimiento general sobre los aspectos a considerar en las etapas del desarrollo de proyectos de ML.
 Advanced course, as always well done :DAnyway, something for me strange is that there are only quitz but not exercices in Python/Tensor Flow... This is a pity
 I loved the lessons, they are very practical. The only thing that I think could be improved are some of the quizz questions are worded in a bit ambiguous way.
 It's an useful course to give me how to analyze error and give me 
@@ -576,7 +555,6 @@ This course helped me understand the basic ideas behind deep learning and how to
 No programming exercises in this course....Programming exercises helps to fix what we've learn. Overall, very good course though
 Nice "flight simulator" approach, taking students to advanced strategic decision-making directly, bypassing years of experience.
 I wish there were more simulations (quizs) since this course aims at improving project structuring. 2 quizs are just not enough!
-me agrado, pero no tanto como lo demás cursos de la serie, lo debieron poner entre los otros capitulos.. :) igual estuvo genial
 Rather less coding in this course. However, if you are about to embark in ML project, the advice you will get here is valuable.
 More examples other than speech recognition and self driving car would have been useful. Multitask learning was not very clear.
 This course is mainly about the concepts. But it makes me know why and when I can use pre-trained models and transfer learning.
@@ -659,7 +637,6 @@ Great teacher and great content. thought content could have been more! but overa
 It's nice to get some insight into projects. It would be great to have even bigger case studies.
 It would be a better course if you give more problem assignments. Rest everything was very good.
 The videos are so long, there is a lot of repetition. it would be better to do it in three weeks
-我觉得应加上一些demo使我们更加深刻体会到这些技巧的作用，至少感受一下。此外，强烈建议恢复总结单元，可以不是ppt但至少也要是个文章，总觉得现在的课程有点赶。没很好的方法复习学过的内容！！！
 Good experince of working on ML/DL projects is given in this course. Quiz 1 is little confusing
 A lot of useful information, but perhaps some areas should have been explored in greater depth.
 This course was a lot more interesting then I thought it would be.  Very useful knowledge here.
@@ -728,7 +705,6 @@ Great course for a coding professional to improve on their fine tuning skills
 Greate knowledge, but I had a hard time motivating myself through this theroy
 Good background theory for people starting in the field to get familiar with.
 Good learning , teaches us how to diagnose and plan machone learning project.
-El curso es muy bueno, le dá concenjos para emepzar a mirar redes neuronales
 As always loved the course, simulations were great and challenging to answer
 I would have loved more programming assignments and opportunity to practice.
 I see the point, but takes too long to make it. But part of a great series.
@@ -814,7 +790,6 @@ Good Course to learn production pipelines for practical use
 Hope we had programming assignment for this course as well!
 Very good course, It should be last course in specilization
 Thanks I learn a lot of real world application and problem
-강의 후반부 (2주차) 에 강의 속도가 인위적으로 조정된거 같습니다. 속도가 빨라 이질감이 느껴졌습니다.
 Curated content, quite exclusive indeed. Respect to Dr. Ng
 Needs programming exercises to help firm up the new ideas.
 Completely new of what it is out there. Well done Andrew!!
@@ -829,22 +804,18 @@ Providing further references would benefit this section
 You can know well a lot of strategy in machine learning
 Good teaching of practical approaches and nice quizzes
 the content is good, but the videos are not well made.
-内容架构很好，讲得也很实用，但觉得课时有些短，许多重要且有趣的问题都未能得到展开详述。期待后续的扩充课程~~
 excerice should be given for this one proper user case
 Good class, but 2 previous are much better and useful.
 the answer of the assignment is a little bit arguable.
 Content is good. Presentation could have been better.
 machine learning project are highly iterative as you.
-I miss notebooks for practice, besides questionnaires
 If  there is some coding practice, it would be better
 Very well explained but needs more reading material.
-It is an unique lecture providing empirical advises.
 Great set of guidelines. Mostly theoretical, though.
 Concrete reminders of important and practical points
 Very useful materials for leading a ML research team
 interesting insights about real world implementation
 would like to have more excercise related to coding
-Would've liked to have some programming assignments
 Introduced a lot on engineering project experiences
 Very interesting topics were shown in this course.
 Very useful knowledge that is not commonly taught.
@@ -884,7 +855,6 @@ It was actually very nice and intuitive
 will be better if more exercises,thanks
 Very nice organized content and quiz..
 Less information on some of the topics
-额，不是具体的编程内容，讲的是一些项目处理的经验，对现阶段的我来说用处不大~
 Please add some programming practices!
 the course is beneficial for my study
 I wish there were practical exercises
@@ -893,11 +863,9 @@ Quite intresting and well explained
 Should have some practical coding.
 Great course, but a bit redundant.
 There are a couple of video issues
-Some videos have edition mistakes
 Need programming practice!!!!!!!!
 Videos are a little "unfinished."
 should have a real tuning example
-Some minor inaccuracies in videos
 this is a very practical course.
 Great course! Best instructor!!
 Could have been shorter videos.
@@ -913,8 +881,6 @@ A good knowledge extension...
 Good but not very challenging
 Interesting concepts. Thanks
 Good Work, maybe more speed.
-Would have liked some coding
-Some errors in video editing
 Bit fluffy but good content.
 No programming assignment :(
 more exercise will be better
@@ -927,17 +893,11 @@ No programming assignments
 Not as good as the others!
 Great course but too basic
 Not what I was expecting.
-理论讲解很深入，但是缺乏编程练习，难以记住核心思想
 Difficult but interesting
-Amazing Case Studies...
 A bit boring but useful
 gooooood thanks Prof.Ng
 Good and very useful :)
-希望老师能够提供编程作业，使得知识理解更加深刻
-还是缺少数学的部分，对于大学生来说缺乏挑战性
-内容は良いが、日本語訳がほぼないので苦労した
 Not that useful for me
-could be more concise.
 Maybe a bit too easy?
 Good but theoritical
 loved this course...
@@ -945,33 +905,15 @@ there is high level.
 Good, but so short!
 practical but slow
 Lots of good tips.
-no coding no happy
-Needs More Content
-很多经验之谈,值得时不时回来看看.
-如果可以有编程练习那么效果就更好了
-Important course.
 Awesome content.
 it's good cource
-somewhat general
 why no homework?
 AWESOME COURSE.
 very good quizz
-日本語がないので、つらかった。
-No Exercises :(
 No assignments?
 great insights
-a little empty
-A bit boring!
-typos in quiz
-希望本课能增加一些编程作业
-more trials
-좋은 강의 였습니다.
 The best !
 Great! :)
-内容稍稍有点重复。
-helpeful
-so well
-没有中文字幕
 Cool.
 Going beyond the technical details, this part of the course goes into the high level view on how to direct your efforts in a ML project. Really enjoyable and useful. Thanks for making this available!
 I learned so many things in this module. I learned that how to do error analysys and different kind of the learning techniques. Thanks  Professor Andrew Ng to provide such a valuable and updated stuff.
@@ -985,7 +927,6 @@ I recommend this course. This will be a bit of theoretical which is good. It wil
 To set the context, I have a PhD in Computer Engineering from the University of Texas at Austin. I am a working professional (13+ years), but just getting into the field of ML and AI.  Apologies for flashing this preamble for every course that I review on coursera.This course is the third in the deeplearning.ai series offered by Dr. Andrew Ng.  This is a relatively short course as compared to the other courses in this series.  However, there are quite a few videos to watch and learn from.  This course is really a series of practical advice, strategies and analysis techniques that are an indispensable part of the ML/DL toolbox of a practitioner.  The techniques are presented through a series of examples and Dr. Ng helps beat the "practical theory" into the student very well.  I was at first disappointed that there were no programming proects.  However, the "flight simulator" quizzes were quite challenging and made me think -- thereby, more than made up for the absense of projects. This course is a critical part of the entire series and it is best understood when taken as a part of the sequence.Thanks Dr. Ng and teaching assistants.  This is a fantastic course.  Thanks, coursera.
 After doing this course I was able to optimize the performance of my model. Prof Ng does a fantastic work explaining the intricacies involved in rather simpler words and with very lucid examples. The exercises are very well made and let you deploy the concepts learnt. Overall it's an amazing course and a must do for those who have some foundation of deep learning and want to delve deeper in.
 A lot of concrete examples, including those in the lectures and in the tests. Gained some thoughts on how to manage a ML project. Thanks Andrew and deeplearning.ai for providing such a great course.
-more practice!
 this was definitely a useful course, as it addressed the 'art' of machine learning.For me, the mathematics and writing code is easy - that's the science; however, it is equally important to have heuristics for deciding what sort of learning algorithm(s) to try, and how to start, and how to iterate.That being said, some of the terminology is peculiar - satisficing, for example, is that even a real word?.In the software requirements engineering field, we'd call that performance requirements ( for run-time speed), or perhaps non-functional requirements( memory usage), depending on the metric.Also, in the second week, there was a discussion of error priorities for the autonomous vehicle example and quiz where a safety-critical requirement was not taken into consideration at all.Spoiler Alert: If I am building the AI and control systems for a vehicle ( autonomous or otherwise), , that has to work in all weather conditions, no matter how hard it might be to get the necessary training data.  Qualifying the answer with 'all other things being equal' never applies to safety-critical systems.
 I really liked to learn about the actual problems faced in a project and the ways to tackle them more or less systematically. I also understood the challenges and open questions in case of dead ends. The two quizzes really can help me answer a typical deep learning job interview. I definitely feel prepared for a job in deep learning industry. Finally, the interviews with Andrej ( I have read his blogs but never got to see a video/picture) and Russ were thrilling and keeps me motivating to not approach deep learning as a subject solved but an evolving research area. It also tells me to revisit some of the concepts like autoencoders, RBMs which are normally not dealt in normal deep learning class. Once again, I want to thank Prof Andrew for his simple, elegant and thought provoking lectures which are not only specific but also fulfilling. It is extremely interesting to do his course just like watching a favorite movie/ series. Thank you Coursera team !
 Failure on a beginner level quizzes it's very irritating, more specially to me. I don't regret seen myself have to re-do some quizzes for every week, probably that's because English is not my first language, or how can I put it...my mother's tongue. I believe it's an indication of our weaknesses and if we face them we can grow to prosper, not that I am trying to be a life philosopher. Questions on this course are made in such a way to test if you really understood what the instructor has taught you. I love Andrew's ways of teaching, I just wish he was my electronics lecturer. I feel like I could have understood some of fuzzy concepts that I battled with very easily.  The concept were given in such a structured way and I was very excited in many of these teaching and insights regarding machine learning approaches as a machine learning engineer.
@@ -1152,7 +1093,6 @@ Extremely useful, practical techniques for deep learning projects. I feel much m
 Its really nice to get the valuable insight of managing an AI project, this course not only thought us about deep learning, but also how to manage them efficient and take smart decision. I like the concept of Transfer learning as it can same a lot of efforts and time to build an system for complex. Thank you very much.
 I am very lucky to be able to learn from Andrew the DOs and DON'Ts of how to develop a successful practical deep neural network for real applications. It would take a machine learning developer many years of working experience to acquire any one of the topics that Andrew articulated in this course. Thank you so much!!!
 I've decided to take this course after seeing its feedback from other people and the comment which got me was the following: "This course is could be summarized as a machine learning master giving useful advice". I think it perfectly describes the course's content. This course is definitely worth investing time into.
-Excelente curso, muy recomendado para quienes tienen una idea de Deep Learning pero con frecuencia se encuentran en situación que no saben cómo afrontar o cuál camino intentar primero. El conjunto de habilidades impartidas aquí no te harán un mejor programador, pero te ahorraran muchas horas de esfuerzo innecesario.
 Amazing tips shared for structuring machine learning projects, which were ignored in most of the other ML books. Building a model is one thing, but tuning it to make it work better in the real world is more important which this course focuses. Thanks Prof. Andrew Ng for the consistent support of spreading knowledge!
 Although, this course of specialization was simple with no assignment still the case studies were quite informative. I would suggest to include a case study related to google machine learning for navigation and voice recognition. We youth can easily relate to this case study. Overall this course was a full package.
 This is a very helpful class. I have been working on machine learning projects for years. This course provides methods to systematically trouble shoot problems in a machine learning project. Despite all the samples are using neural networks, the methodology can be applied to improve other machine learning projects.
@@ -1241,9 +1181,7 @@ This is the most useful and unique course among all other materials of deep lear
 At first, I was worried because the course doesn't have any programming assignments, but just after finishing the first quiz, I realized that this might be the greatest course I've ever taken in my life (till the moment). The quizzes were very knowledgeable & helpful.
 Professor Andrew Ng was astounding in the way he explained the concepts, also, like the famous machine learning course, all of the courses in this specializations were great in terms of quizzes and assignments that help have a complete grasp of the subject. Thank you.
 I enjoy Andrew's approach to managing AI projects. He hits on very real issues we encounter when young, enthusiastic scientists want to solve problems with ML, but get lost in the numbers and multitude of possible next steps to take top improve the quality of a model.
-Es un curso extraordinario, entrega muchos detalles que hacen ganar destrezas a la hora de entrenar nuestros modelos y el profesor Andrew Ng muestra mucho información sobre su experiencia. Creo que hace un gran trabajo y me siento afortunado de haber pddido hacerlo.
 This course is a little bit hard for me, because I never heard these concept before. But through this course, I got a lot of new ideas to start my own machine learning project, and use these knowledge in practice. Thanks for the nice course and I will keep learning!
-Esta fase del curso es de gran importancia para saber como encarar un proyecto de deep learning con sus mejores prácticas. El proceso iterativo de desarrollo es bien explicado y te permite construir la base de cualquier tarea de deep learning que vayas a emprender.
 Though we learn different machine learning models to train, we might miss the logical key practices and struggle  and waste lot of time while training to achieve better results. This course teaches those important practices to efficiently implement the ML projects.
 Very helpful course. This course is very helpful that I got to know the things beyond the technical details of the neural network. About selecting test and dev set distribution, transfer learning, error analysis , end to end deep learning etc. Thank you Coursera...
 I have learnt algorithms theory of machine learning and how to use them into data mining. However, I’m not good at ML strategy, so I can’t build a very well model. Through this course, I know many methods to improve models which I build before. Thank you very much!
@@ -1270,7 +1208,6 @@ Short course but i think this is the most important course out of the 3 as it is
 Knowing the algorithms alone doesn't help much in developing ML applications. We should be able to tackle any problem and drive our project towards the intended goal.This course provides some handy tips and tactics for the same.Well taught as usual. Cheers!!!
 This course is very useful. The 'Simulator' is very cool. After finishing the homework, I have a better understanding on how do deal with a real project. I'm trying to solve a problem in my work, I think this skills mentioned in the course will help me a lot.
 This course was directed towards giving more of a general perspective on an ML project. Although it was a brief one, it gives enough insight to continue and develop on the concepts taught. The best part as always is the inspiring and motivational guest talk.
-Un curso corto con mucha información, pero muy muy instrucivo de cómo abordar los proyectos de deep learning o redes neuronales, se te enseña desde el análisis del error hasta la transferencia de conocimiento, lo cual es bastante interesante.Muchas gracias!!
 It's really nice to have Andrew share his practical knowledge and experience. Paying careful attention to data distributions and doing ErrorAnalysis to learn where to focus your efforts are valuable insights. Thanks for making us all better DL practitioners.
 This course gives you a good understanding of how to approach deep learning projects and machine learning problems in general. After this course you should feel more comfortable understanding how to structure your projects and better optimize your time use.
 Andrew provided lots of information in a two-week period due to this the course feels more dense than the previous two. The quiz has also been more challenging. Overall though, it is still top notch teaching from the best. Looking forward to Course 4 and 5.
@@ -1296,7 +1233,6 @@ A really must have course for anyone who wants to enter the field of machine lea
 This course provides very specific information about best industry practices. When I started it I was ready to underestimate its value, but by the end I realized Andrew Ng provides many insights that one can get only through years of experience.
 I think this course is one of the best course which teaches you how can you proceed your machine learning project in various situations and what measures to take while building a ML project. Hats off and thank you Andrew sir. Thank you coursera.
 Very helpful to get an understanding of how to structure a machine learning project. Furthermore it is a great guide to get a first intuition on where to spend time or fix errors in a machine learning project and where to go on fast. Great work!
-Ce cours donne des clés sur comment améliorer son réseau de neurones et en particulier éviter de perdre son temps à chercher dans la mauvaise direction. Je n'ai pas encore mis en oeuvre cela, mais je pense que cela sera très utile le temps venu.
 Amazing Courses for Deep Learning Specialization, help in making you good with basics needed, and apply the concepts in real-world applications. Thanks to Andrew Ng for the way he explains every topic so deeply and easily understandable manner.
 It's an amazing course for people without ML experience overall. But if you have some experience (deep learning or not), you'll find a lot of basic tricks that you probably already used or figured out intuitively as you worked on some projects.
 Knowing just theories won't guarantee one's success in a specific field like deep learning, theory, and experience are both what it takes to be so. This course conveyed not only theory but also many years of great experience from professor Ng.
@@ -1441,7 +1377,6 @@ This course gives me an overview sight of the whole process of machine learning 
 A lot of good thoughts on working with models.  I think just getting your hands dirty with some models would help as well.  :-)  Would be interesting to set up a model to do some difficult tuning exercises.
 This course gives you an experience, which otherwise you'd take tens of years to garner. The simplicity with which Andrew explains the challenges is commendable as well. Thank you for teaching this course.
 It is a really good course to build your intuitions and decision making capability for your machine learning projects, I really like the way Sir Andrew Ng relates all the concepts with real world examples.
-Un curso que no se encuentra en ningún sitio. Necesario para estructurar proyectos (en todos sitios te enseñan a hacer modelos pero en pocos te enseñan a estructurarlo bien y a saber cómo y en qué mejorar)
 Some glitches in the videos, but the content is great. Andrew is an awesome teacher and these are really unique tips coming from his vast experience, it is hard to find similar content elsewhere on the web
 The discussions on practical guides about designing deep learning systems, dealing with data, bias variance trade-off, and how to organize projects to optimize time usage are much needed for practitioners.
 Practical advice for new students when tackling a real-world ML project and how to approach to optimize a model's performance. The quizzes provide good examples of use-case scenarios and decisions to take.
@@ -1497,10 +1432,8 @@ I made detail notes for courses in this specialization. The supplemental notes i
 This course is extremerly useful for being successful and efficient in a machine learning project. I'll highly recommend this course to take if you want to speed up your ML project and research.
 This is a very unique course! Nowhere else is practical ML covered in so much detail. Many of the questions I struggled when doing ML are addressed in this course in a very clear manner. Thanks!
 Please include more of programming. Until this course I have a decent idea of strategies for deep learning but still I am not sure if I can actually apply them that well to build a decent model.
-Ce cours permet de donner un retour d'expérience sur des projets de Deep Learning réels, et nous confronte à la réalité des difficultés quotidiennes que les acteurs de ce domaine ont a résoudre.
 It's great to learn the theory, and it's a great expansion to the earlier courses. It's slightly less fun not being able to do the coding course work. As ever phenomenal lectures from Andrew Ng.
 Amazing course contents and case studies to get a solid understanding of key Deep learning concepts and applications in real world scenarios...very helpful for freshers in Deep Learning like me.
-Ótimo curso para aprender os princípios básicos de estrategias com o intuito de solucionar problemas quando trabalhos diretamente no processo de engenharia de modelos de aprendizado de máquina.
 Learning how to better deploy and analyze Machine Learning issues has helped me a lot in understanding the issues and finding solutions for my thesis project, in machine vision for agriculture.
 I like the "flight simulator".  Excellent scenario-based training.  I also like one of Ruslan's advice - code the backprop of CNN from scratch to really understand deep learning.  Keep it up :)
 This is the most down-to-early and hand-to-hand course of the whole series so far. For real world projects tuning, this course may save you months of efforts and tons of cost. Highly recommend!
@@ -1533,7 +1466,6 @@ it was a really helpful course to learn and it helped me to boost my knowledge i
 Great discussion on the practicalities of organizing your DL projects and what to do if you start running into problems.  I really liked the "case study" quizzes for learning.  Good stuff!
 This is a course on how teams should approach machine learning project in practise. It provides a lot of great intuition and also a feel for what working with machine learning can be like.
 Though it did not have any coding assignment, I can not emphasize enough on how important this course is! Very insightful and the real world examples made them really interesting to solve.
-En curso que recomiendo, lo que mayor destaco es lo simple que Andrew expone y su apertura para contar las mejores practicas a la hora en de llevar a delante un proyecto de deep learnign.
 some of the questions were really hard and sounded counter intuitive to what was taught , eitherway the forums provided guidance and i gained trully important knowledge for my project UwU
 definitely a great course!!! the assignments a way tougher which broadened my knowledge in deep learning. I would highly recommend this course who have completed the previous two courses.
 This course demystified the dev/test sets and gave me the strategies on how to select and troubleshoot the dev & test sets, how to do error analysis and how to chose appropriate actions.
@@ -1610,7 +1542,6 @@ Truly a great course by the instructor and his team. These real-life problems ar
 Very nice subject about how to structure and focus on the project and the objective and don't let the misleading data to diverge from that. I really enjoyed every detail of it.
 More general topics. Easier than the previous two courses. Without practical experience in the field, it's difficult to claim right now how much I'll benefit from it in future.
 This course gave me a chance to learn how a ML process is carried out from the beginning ,and focusing on the intution rather than the maths is also necessary for ML engineer.
-नमस्ते अण्ड्रु जी, आपका बहुत बहुत धन्यवाद। आप एक महान व्यक्ति है हमारे लिए। आपके द्वारा कृत ये पाठ्यक्रम से मैंने बहुत दुर्लभ जानकारी और विचार सीखें। जीवनभर आपका आभारी रहुंगा।
 An essential part is covered in this specialization,i.e Error Analysis and Model's different kinds of learning techniques with very practical case studies are so much helpful.
 This course is a most for everyone who want to work in this field. Great content! Helps you to take the shortest (and correct) way... Thanks a lot Mr Ng for this great course!
 Good coverage of the mindset required to start and to critically evaluate other projects. Both assignments were extremely useful since they actually portrayed real situations.
@@ -1663,7 +1594,6 @@ This course gives practical aspects of problems faced in machine learning projec
 The most fun and intuitive course in the deep learning specialization. Amazing literature by prof Andrew  NG. Would suggest every practitioner to go through this course
 One of the best courses of DL specialization. The knowledge shared is invaluable and it is tough to get such good insights elsewhere. Thanks to Prof Andrew Ng and Team.
 Great course on how to tackle various issues while handling real data. I thank Coursera and Deeplearning.ai for providing such a course that everyone could make use of.
-Muy bueno el material, Yo tengo experiencia con esto y veo que tocan puntos de mucho nivel e interez que pueden facilitar la creacion de vario contenidos y desarrollos
 This course really helped me understand the concepts I learnt in the previous courses and get a real feeling for how it would be to do a real project in Deep Learning.
 By taking this course I can get deeper understanding about how to doing error analysis properly. I think it's very important process in developing deep learning model.
 Hard to find a good course explaining details on produtizing and rationale on strategic planning of systems using Deep Learning. A great course that I would recommend!
@@ -1681,7 +1611,6 @@ A course full of tips and knowledge required to build a real world machine learn
 This is a great set of videos that Prof. Andrew Ng transmits his years of experience running deep learning projects through highly valuable insights! Thanks Prof. Ng!
 I've gained so much confidence after taking this course. I learnt the thought process behind developing a deep learning project and I loved it. Andrew Ng is the best.
 Very practical advices that are typically not offered in academic textbooks. It's invaluable to have Andrew--a leading practitioner--sharing his experience like this.
-这门课程不写代码，但是一样精彩，刚好作为后面难度大的 CNN 和 RNN 做一个铺垫。只是我自己在学这门课程的时候刚好赶上学校的课程要写 CNN 的作业，有点急不可耐想跳过去呀，加速播放等。但是静下心来认真学完，还是感觉收获很大，一如既往的精彩。小孩子手骨那块笑尿了，感觉老师像一个天真的小男孩....  留在党外作用真的更大 :)
 Again, it is very good. However, this course is a little bit complicated and abstract in terms of the data obtaining, so may be more assisting details needed. Thanks!
 Wonderful course but I think it could be improved adding practical programming assignment in order to test the useful techniques that Andrew teached on this course :)
 Highly useful for experienced machine learning folks. Given the fact that the discussed issues defined are real-life problems, Data Scientists face in live projects.
@@ -1711,12 +1640,10 @@ A very nice course which provides overview of carrying out machine learning proj
 Great class covering the practical elements of ML not often taught elsewhere. This might be one of the more valuable classes in the 5-class deep learning sequence.
 very effective and practical training, demonstrates methodologies I can use right away and how to be more efficient than an entire team alone! who can ask for more
 I would like to think you for well organized ML deep learning courses. The contents were extremely informative and incredibly useful for my real world development.
-Excelente curso, reune todo lo necesario para entender los problemas de las redes neuronales y como redirigir el enfoque, según el problema y la solución deseada.
 Great and a unique course. Much of theoretical material in the other courses is available on the internet, but its difficult to find such things in organized way.
 I gives better approach to deal with project. And performs better. More specially thanks for having test like that. It give best experience while performing test.
 This course looks easy but this is one of the courses which challenges your subtle understanding of organizing ML projects. I really enjoyed the quiz assignments.
 This is an amazing course full of insights from professionals. Which gives you a great insight into how professionals should interact in data science development.
-앤드류 응 교수님의 오랜 연구경험에서 나오는 기계학습 노하우를 배울 수 있는 강좌입니다. 여러 번의 시행착오와 고민을 통해서 익힐 수 있는 내용을 짧은 강의로 가르쳐 주시니 시간 절약이 많이 됩니다. 다른 강좌에서 잘 알려주지 않는 팁이 많으니 실험 경험이 부족한 수강생들께 강력 추천합니다
 Invaluable course covering the considerations that any data scientist or machine learning engineer should take when undertaking serious machine learning projects.
 The Course is informative. Though many times I had the feeling that the course should have been Course 1 instead of 3rd as it gives you an intro to ML strategies.
 Important insights on error analysis. Getting to know Transfer Learning, Multi-Task Learning and End-to-End concepts will be very useful when working on projects.
@@ -1880,7 +1807,6 @@ Very good intuitive insights into designing the best suited DL solution as well 
 It is very helpful to have a big picture of where the project goes, and how to make a good use of time to make a bigger impact on the project.
 The material in this course is very important. It is not found in books or easily found on the Internet. Very valuable and highly recommended.
 A well organized and structured course for anyone who wants to optimize the performance of their model and do the error analysis efficiently.
-Очень интересный курс. Много узнал о стратегиях развития проектов с использованием нейронной сети. Спасибо отличному преподавателю Andrew Ng.
 great content and fantastic way to practically learn various aspects of a real-time ML project. Appreciate the great instructor & lectures!!!
 Despite working on ML projects for two years now, found a lot of insights in this course.Thank you all for making these incredible materials.
 Very good class. There was a lot of practical knowledge in terms of fitting models and setting up a workflow that are hard to find elsewhere.
@@ -1911,7 +1837,6 @@ A very unique course covering the subtle problems one starts facing when one wor
 It is good course to understand real world problems.There is too much theoretical knowledge and exposure but sometimes it is boring also.
 Even though I'm quite experienced with training models, I find this course is very useful and can give me valuable directions. Thank you.
 This course is more focused on experience and advices that can make the difference in terms of efficiency when implementing ML projects.
-Lo que aprendí en este curso es realmente importante, porque aprendí cómo analizar los resultados y buenas herramientas para mejorarlos.
 Very valuable the practical considerations in implementation of NN or ML systems. I haven't seen anything like these discussed anywhere.
 Excellent Course. Gives Deeper Insight to the Structuring of Large Scale ML Projects. Learned Transfer Learning and Multi-Task Learning.
 Highly recommend this to anyone who works on personal projects or is a manager guiding a data science team on a machine learning project
@@ -1923,7 +1848,6 @@ An amazing course to provide you with valuable knowledge on how to go about impl
 Very interesting. Case studies are very useful for self evaluation. Awesome content by Prof. Andrew Ng and his team. Thank you so much.
 I really enjoyed Andrew Xg's knowledge and advice in this class.  I especially enjoyed the problems at the end of each week's lectures.
 Very practical advice from Prof. Ng. Many of these are the kind of things that nobody tells you about and you have to discover yourself
-感谢吴恩达老师带来的课程,这门课不仅仅使我对深度学习更加感兴趣.还让我想到了很多能够用其完成的一些事情. 课程虽然结束了, 但是有关于深度学习的学习才刚刚开始, 最后再次感谢吴恩达老师, 以及提供这个平台的coursera课程,让我在中国可以听到来自全世界的课程,谢谢!
 Professor Ng is a great one! I learned a lot from this course and for sure I will use the knowledge in my future projects!Great course!
 Coulda have used a wider variety of examples and real life use cases to explain situations that may arise in the course of the project.
 Nice to see some easy to look for tips and places when we typically get stuck and stare at a blank wall in ML/DL problems. Thanks a lot
@@ -1966,7 +1890,6 @@ Although you won't write code. This course teaches multiple and necessary techni
 Andrew Ng has really put down all his wisdom in this course. Great course for doing machine and depp learning in RealWorld projects.
 I think this course is very valuable also for managers who don't work on ML projects as a daily routine, but lead such developments.
 i love how the quizzes were structured , they were fun and challenging at the same time they made really take in what was explained
-Excelente manera de explicar todos los casos que se pueden presentar en un proyecto de Aprendizaje Automático y como solucionarlos.
 It was very good. The instructor shared experience of building industry level machine learning systems which was interesting useful
 I wish there was a programming assignment to practice what we learnt during the lectures.Thank you very much for this great course.
 Very interesting ways to think about any ML project. We are now able to interpret the results and have a real analysis methodology.
@@ -2087,7 +2010,6 @@ The speed of a couple of video's (e.g. End-to-end deep learning) seems to be acc
 Very good complement to the first two courses on deep learning, a lot of useful tipps on machine learning understanding.
 Highly recommended. Gives deeper insights into how a real-time project would be like and how to deal with the situation.
 It helped me a lot to understand the subtleties related to data structuring before even worrying about the architecture.
-Muy bueno, pero podrían profundizar un poco más en los comentarios que hacen en cada pregunta después de ser calificada.
 One of my best experiences every with DeepLearning. The quiz questions helped a lot to understand real world challenges.
 Professor Ng gave a very good explanation on how to approach ML projects step-by-step. The quizzes are also really good.
 Lot's of practical advice. Revising the questions / answers in the quizes could potentially further improve the quality.
@@ -2194,7 +2116,6 @@ This course gives a very insightful perspective when looking to machine learning
 The course does a good job in explaining the real life problems that we will face while solving deep learning pr
 Great practical advice on how to approach machine learning projects - helps with defining tangible project goals
 I cannot say how much I appreciate Andrew sharing his approach with us. It has helped me immensely in my career.
-Importante este curso para poder entender los retos que se puedan presentar en la vida real en proyectos de AI.
 Great and very helpful course and again i wanna give another hats off to my most favorite Instructor Andrew Ng.
 It is a great course for those who want to learn how to analyse and save time doing error analysis on DL models
 Very interesting course with lots of helpful advices from Andrew Ng how to structure and organize a DL project.
@@ -2248,7 +2169,6 @@ this course is very useful and gives a very good understanding of how to approac
 This is a very good course explaining all the hacks for completing a machine learning project at a super pace
 Lots of good advises and guidance for analyzing the performance of  neural network effective and efficiently.
 very helpful in project level. tells you what decision to make and which direction to go by looking at result
-Un curso imprescindible para aprender a realizar proyectos con Redes Neuronales de manera rápida y eficiente.
 This course teaches a data-driven approach to manage an applied ML project, using really accessible concepts.
 I gain good knowledge from this course. Explanation is very well and clear to understand. Thank you so much.
 Another course completed. It was defo good, but wouldve enjoyed more had there been a programming assignment
@@ -2274,7 +2194,6 @@ Very rare and good insights into the real problems faced and the right thinking 
 I think that this course will give me help about solve problems when i work with machine learning projects.
 This course teaches how to run a ML project with very practical and intimate examples I can easily imagine.
 Useful course to understand how to act when some issues appear at the moment of working with your project.
-Ce cours était excellent car il se focalisait d'avantage sur l'aspect concret du travail de deep learning.
 Very good courseVery important insight, practical both for academia and for industry. Thank you so much!!!
 Very helpful insights from the business view of how things are running in real life data science projects.
 A great introduction to structuring projects, with a good emphasis on the proper structuring of data sets.
@@ -2291,7 +2210,6 @@ The way NG Sir explains the content is simply amazing.  I can't wait to complete
 Very powerful course, to learn fundamentals which helps you a lot in describing and building your project
 Nice course for inspiring and making us understand how to go with projects. Thank you to the instructors.
 I learned a lot of interesting and valuable insights, and all the information in the course seems useful.
-Interesante lo de las distrubuciones de datos y la cuestión de está de revisar los datos de la neural net
 Content of this course is very different and new. Very clean and detailed information has been presented.
 Best ML course I have taken - very unique compared to other ML courses online. Very practical and useful!
 Great class.  They say experience is the best teach, but some one else's experience is sure a lot easier.
@@ -2395,7 +2313,6 @@ Fantastic course, I love the way Andrew construct the story and context to apply
 Very instructive guidelines for structuring ML projets and Andreew Ng is excellent in teaching it
 Very different from what is available on the internet and exactly what I was looking for! Cheers!
 Excellent! Very through and detailed course presented in a very a insightful and interesting way.
-Excelente curso para você entender como funciona questões práticas dos projetos de Deep Learning.
 Very informative especially in planning strategies in the development of machine learning models.
 There is no project in this course, but I've learned some strategy, which is really helpful, too.
 This course really is wonderful in the sense that it gives a proper direction to the ML projects.
@@ -2430,7 +2347,6 @@ Invaluable insights from the point of view of a  ML practitioner. Easy to unders
 Some videos contain black screens, but the course is very good. Looking forward to the last two.
 This course is invaluable. very successful to share years of experiences. Thank you very much :)
 Very theoretical but important.  could have added some practical exercises on confusion matrix.
-Casos de estudio muy interesantes para ganar algo de perspectiva en proyectos de deep learning.
 Best course! Even an expert in Machine learning and Deep learning need this problem iterations.
 Very insightful, covers a lot of topics and gives a good intuition on how to start a ML project
 The course material is very useful, and will definitely help me with the project I'm working on
@@ -2488,7 +2404,6 @@ Very well structured course. I liked the Machine Learning flight simulator. Amaz
 Learnt a lot about ML project planning! Felt more confident to start on one from the get-go.
 May be after a long time I could understand exactly how to struct machine learning projects.
 I learn how I can solve frequent problems in this course. And this course was very helpful.
-Excelente, la guía para saber como afrontar los problemas en los proyectos es de gran ayuda
 Great course!!!Got better intuitions on how to structure our ml project for better results.
 This course was really helpful to learn some of the more practical aspects of deep learning
 Great insight for ML projects. But a bit more video editing of the lecture might be needed.
@@ -2547,7 +2462,6 @@ deterministic key-points to analyze when handling machine learning projects.  Ex
 This course give a good idea on the problems a company or team may face on a ML project.
 great course, it gives great intuitions about how to structure machine  learning problem
 Excellent Insight into some very useful topics while building some practical ML systems.
-Como siempre, Andrew es muy claro en la explicaciones. El contenido del curso excelente.
 Nice study cases, with real life scenarios helped me understand the flow of ml projects.
 Thank you! I feel excited that I can pass to next courses about cnn and sequential data.
 An invaluable guide on practical issues to consider when shaping deep learning projects.
@@ -2636,7 +2550,6 @@ Excellent course with very practical tips on project management for Machine Lear
 Good course about topics that aren't often covered in other online learning classes.
 Now i learnt how to structure my data for reaching human level accuracy and above :)
 Fantastically delivered lectures and learning-full quiz's to give a deep intuition..
-Un curso con ejemplos prácticos y buenas herramientas para aplicar en los proyectos
 This simple 2 week course was a much-needed break for perspective-building purposes
 This is an important course that can help a team save a feel months in a DL project
 I have learned so many things I will be able to use in my real projects. Excellent!
@@ -2650,7 +2563,6 @@ Superb explanation by Prof. Andrew, high quality concepts explained with such ea
 This is a very impressive course with practical tricks for applied Machine Learning
 Very practical advice in structuring ML Projects, definitely can be put to good use
 Excellent course, cover all related with how to evaluate a machine learning project
-muy buen curso para planear tu proyecto al no contar con una gran cantidad de datos
 Pretty interesting, with some basic tricks offer you a way to improve your projects
 this course gave me lots of ideas about how to do successful deep learning project.
 Learned a lot about the practical processes involved in a Machine Learning Project.
@@ -2729,7 +2641,6 @@ Every ML enthusiast should take this course. Thanks to Andrew Sir and Coursera.
 Excellent Course. Gave me a good understanding of the structure of ML projects.
 This course was really helpful on how to structure my machine learning projects
 Very good insights which will help if you want to lead a ML/AI project/product.
-Train/Dev/Test의 결과를 어떤식으로 해석해야하고, 프로젝트를 어떤 방향으로 이끌어 나가야할지 정말 자세히 알 수 있었습니다. 최고~
 Very interesting course for people who already work with machine/deep learning.
 Really useful tips not seen elsewhere.  The explanations were simple and clear.
 Great Course! Probably should not be a mandatory course in this specialisation.
@@ -2765,7 +2676,6 @@ This course is about the real life decision need to make. Nice assignment too.
 Practical strategies to be used for improving the performance of the ML model.
 Very helpful course, something which is usually not taught in typical courses.
 Really helpful. Gives a good overview of how ML projects should be structured.
-虽然我还没有接触过大型的算法项目，但是提前了解这些一流的技巧，在以后应该会有大的帮助！！看过一个上过这个课的一个公司里的项目负责人都说这一课的帮助很大！！！
 Assignments would have been made this course more challenging and interesting.
 An amazing course! well taught and with great explanationsThank you very much
 It's a nice course, I learned a lot of important tips to apply in ML projects
@@ -2791,7 +2701,6 @@ Very practical content. Essential to strategically target a data opportunity.
 Very practical course for people with some knowledge of AI and Deep Learning.
 Very good insight. The best out of first three courses in the specialization.
 Learnt a lot of things I didn't know even after completing cs231n and cs224d.
-Extraordinario curso de deeplearning, vamos por la especializacion, gracias.
 Thanks, Andrew for creating this course. I learned so much during the course
 this course s very helpful for administer machine learning project structure
 Nice to see different ways to re-structure the way I work with ML algorithms
@@ -2846,7 +2755,6 @@ It's very exciting to have such practical advice, it's awesome. Thank you.
 Continues the high quality of courses in the Deep Learning specialization.
 Excellent introduction to the process of creating and evaluating projects.
 I personally found the material very useful for my work. Thank you Andrew!
-Muy interesante, ayuda bastante si estás trabajando en un proyecto de ML.
 It was really good to learn proper methodology of deep learning projects.
 Always feeling excited with the knowledge provided in this specialization
 really , i gain a lot of information and strategies to handle my projects
@@ -2890,7 +2798,6 @@ A great course on how to go about developing the neural nets in reality!
 Provide valuable practical tips in real-world ML projects, super useful!
 a lot of great tricks and tips of helping deploy and analyze ML systems.
 Imprescindible course for who  thinks to start any kind of ML/DL project
-清楚了了解到了和完成ML Project相关的一些问题，并理解了transfer learning和multiple task learning
 Very practical course that you cannot learn from any university program!
 The quizzes (flight simulators) were exceptionally useful and relevant.
 one best thing I ever learned till now of the real-world implementation
@@ -2941,7 +2848,6 @@ I learned things that might have taken months or even years to learn.
 Really good addition to the previous two courses in specialization!!!
 Amazing learning experience. Assignment-Quiz were nice & interesting.
 This is really awesome!!!learnt more new things thanks to coursera!!!
-非常棒的课程，老师讲的例子很有用，让我理解的更加深刻。通过这一系列课程也可以加强我的深度学习基本功。另外，希望我的研究生入学考试复试顺利。
 Nice and representative case studies, though seldom a bit subjective.
 the best empirical knowledge that is accessible by new practitioners.
 Great Course this is the only place where I have found this material!
@@ -2973,10 +2879,8 @@ This course is by far one of the most valuable lessons I've ever had
 Nice course. Really useful practical knowledge. Thank you, Andrew Ng
 The most interesting of all. Practice questions are very insightful.
 Excersise is quite good and efficient to apply all knowledge learned
-Conocimiento muy útil para estructurar proyectos de machine learning
 excellent overview of best practices when organizing your ML project
 Great course! Andrew has unique ways to explain complex definitions.
-感谢老师的讲解，这种工程中总结的知识和心得对入门的人来说非常宝贵且难以获得，让我这样的初学者可以少走很多弯路，再次真诚地感谢老师的付出！
 Practical approach examples are really good for thought formulation.
 Not easy to master completely, it needs more thinking and reviewing!
 this course is a little harder than previous , but it really help me
@@ -3037,7 +2941,6 @@ Very informative for a non-AI professional ... I am a tax lawyer.
 Excellent course that helps in understanding nuances of ML design
 It good course to understand the basic models in machine learning
 Great practical experience, which we wouldn't have got otherwise.
-Excellent. Les quizz sont particulièrement réussis dans ce cours.
 I hope there are some programming assignments for me to practice.
 This course have a lot of theory. I wish we can do more projects.
 A lot of practical insights - the flight simulators were helpful.
@@ -3084,7 +2987,6 @@ it is useful for me to finish a machine learning project better
 Great short course, packed with practical tips for ML projects.
 It is really great..Lots of Insights shared in short duration..
 awesome i now have knowledge on how to proceed with ml projects
-Siempre es bueno tener la posibilidad de aprender de Andrew Ng
 As always, great, challenging material and easy to understand.
 Dr. Ng is one of my role model... very inspiring and educating
 Great Explanation !!!! It is helpful for every new researcher.
@@ -3105,7 +3007,6 @@ Fantastic content and concise easy-to-understand presentation!
 good insight to make decisions on how to prioritise ML problem
 Excellent course, full of really useful advice and techniques.
 Learned a lot, the instructor has a great presentation style.
-Really give you a better understanding over different models.
 Very helpful exercises; truly put your learnings to the test.
 One of the best course to get some insight of the real world.
 It´s an excellent course about Machine Learning for Beginners
@@ -3197,7 +3098,6 @@ Very insightful class with clear and intuitive explanation
 You won't find the materials of this course anywhere else.
 Gives great intuition on making progress on an AI project.
 Thanks again for this amazing course Prof Andrew and staff
-这门课从很多角度为我们介绍了实际情况中训练机器学习模型可能遇到的问题和解决方法，是一个很有实战意义的课程，收益颇丰！
 One of the best courses I have ever taken. very practical.
 Very helpful tips on how to start and optimize ML projects
 Mainly because it was new material that I haven't reviewed
@@ -3239,7 +3139,6 @@ Great course, lots of practical information and insights
 Thank you, this helped develop problem solving mindset.
 Excellent and practical course. Provide very good tips.
 Great practical insights on structuring AI, DS projects
-Muy bueno y util si te estas iniciando en Deep Learning
 I have gain tons of knowledge by spending grams of time
 very insightful and relatable to industrial environment
 You need to take this course to get the bigger picture!
@@ -3250,7 +3149,6 @@ Undoubtedly the most practical course....Thanks a lot..
 Thank's a lot for numerous useful tricks and methodics!
 I thought I learnt about engineering theory on projects
 Amazing courses thank you Andrew and all coursera team.
-single value metric+dev set let us focus on our target.
 This is the course of the program that MAKES YOU THINK.
 The best practical machine learning course I ever done!
 Useful practices for building machine learning project.
@@ -3321,14 +3219,12 @@ nice experience sharing.. helped a lot in my project
 Great course. It helped me a lot, Thank you Coursera
 Thanks very much, Iam happy to learn helpful skills.
 Very usefull for stucuring machine learning projects
-지금까지 들은 세 강의중에 최고의 강의였습니다. 실무에 많은 적용을 할 수 있을 것 같습니다.
 Great material, for me it was too verbose in places.
 Great insights on real-life problems faces with NNs.
 Great way to get a glimpse of a researcher's work :)
 Very interesting, useful and helpful course. Thanks!
 Excellent information, most useful during a project.
 Brilliant course as all Andrew NG courses use to be.
-Andrew Ng老师通过这门课系统化的传授了，在项目中会遇到的实际问题，让大家少走弯路，节省宝贵的时间
 very helpful for constructing a deep learning system
 Amazing insights, some which can save months of work
 Useful suggestions for MLers who are doing projects.
@@ -3355,9 +3251,6 @@ It's make me ready for a real deep learning project
 Must watch for anyone doing or planning on doing ML
 Very insightful and I like the pilot project a lot.
 waiting for the next class, hope it can begin soon.
-非常适合甲方\导师\研发团队头目\产品经理, 
-即时战略类课程, 
-讲述如何评估模型如何挑选改进方向,
 very qualitative information is provided thank you
 Really helpful to better structure the ML projects
 Great course with practical machine learning tips!
@@ -3378,7 +3271,6 @@ This is one of the best courses I have ever taken!
 Pearls of wisdom in this course. Excellent course!
 great info, can apple to other ML project as well.
 The simulations were very useful, good job Andrew.
-Muy agradecido por los Tip que dan en este curso.
 very easy to understand the intuitive explanation
 The course is extremely well guided and narrated.
 Very useful and valuable tips from a true expert!
@@ -3391,13 +3283,11 @@ Super!!! Excellent... Need your slides Mr. Ng!!!!
 great course but should have include more content
 Years of ML experience condensed in few lectures.
 Very helpful and educative course. Thanks Andrew!
-非常有用的一些经验，如何在各种复杂的情况下准确清晰的判断下一步应该做什么，非常有用的skills！
 Good insight to managing larger learning projects
 The course helps to prioritize "what to do next".
 This is the most useful course I have taken on ML
 Great to see real world problems and limitations.
 Helpful for my PhD research! Valuable experience!
-老师讲的非常清晰易懂。对实际项目很有帮助，以后真正做项目后估计要经常来查看视频，用来指导我的实践！
 I learned a lot from this course, thank you a lot
 Adequate Knowledge on End to End Deep Learning!!!
 Delivers exactly what it is supposed to deliver.
@@ -3431,7 +3321,6 @@ Clearly and improve my mind in Machine Learning
 Thers are a lot of useful skill in this course.
 I never knew I could learn so much from a MOOC.
 A "must" in order to become a real ML scientist
-전체적으로 Training/Dev/Test를  명확하게 이해할 수 있어서 좋았습니다.
 I find this one most helpful among all, really.
 Thank you for your efforts , really nice job :D
 I have  not seen these materials anywhere else.
@@ -3465,7 +3354,6 @@ Nice course, but I missed the python practice.
 Very useful tools and recommendations. Thanks!
 Good for researcher to review basic knowledge.
 This course will help you avoid many mistakes.
-UN MUY BUEN CURSO APRENDI MUCHAS ESTRATEGIAS.
 great case study approach to machine learning
 Excellent practical advise by Prof. Andrew Ng
 It's a great but short (2 weeks only) course!
@@ -3474,12 +3362,10 @@ Very valuable and practical insights. Thanks!
 This course so essential and I learned a lot.
 Great course content, could be longer though.
 Very good lesson on more strategic approaches
-Very pragmatic course for all data scientists
 Very good course on structuring the projects.
 Great Course. Better if have coding exercise.
 Amazing course! Thank you very much Coursera!
 now, i have more general knowledge about this
-Unique gold course for real projects in ML/DL
 very useful, recommend to every practitioner!
 important practical knowledge for application
 Many helpful experience. It really helped me.
@@ -3493,7 +3379,6 @@ Shorter course, but very useful nonetheless.
 Good course for machine learning experience.
 Nice Course- Great Learning . Thanks a lot !
 More amazing work from Andrew Ng, well done!
-Excelente, gran idea simuladores de vuelo.!!
 very unique topic has been discussed in it .
 I got so much out of this higher level view!
 I liked the scenario quizes and the content!
@@ -3509,15 +3394,12 @@ Great course and a lot of useful materials.
 Great courses! Great man! Thank you Andrew!
 Thank you. Especially for the case studies!
 Helpful and easy to understand information.
-Merci pour ce cours .C'est très instructif.
 The experience of the project is excellent.
-머신러닝 프로젝트의 시작과 문제해결에 대한 전반적 이해를 얻을 수 있었습니다.
 This was a very fun and interesting course!
 Excellent course.. I want to redo do this .
 One can really say it's a wonderful course!
 Great tips for managing real world projects
 very useful tips for real world development
-这节课程主要是思维模式的培养，需要多次观看该视频，后续工作中，时不时过来看一下很有必要
 Everything taught in this course is useful.
 This is another excellent course by Andrew!
 Interesting lectures. Engineering approach.
@@ -3554,7 +3436,6 @@ Very useful for deep learning engineering
 It's very helpfull.. thank you very much.
 It is hard but I learnt A LOT! Thank you!
 Easy to finish, simulator quiz were good.
-Very awesome!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Great man , Great specialization course .
 Very practical advices from the trenches.
 Very insight and great course. Very nice!
@@ -3585,7 +3466,6 @@ Excellent insight on setting up projects
 It's pretty theoretical but good to know
 very informative for practical scenarios
 thanks for providing the amazing courses
-Invaluable recommendations from experts.
 Few issues with video recording process.
 The most important course in the series.
 thanks andrew! this class help me a lot！
@@ -3594,7 +3474,6 @@ Great course. Waiting for next 2 courses
 Easy to understand egs & clear concepts
 A very good and comprehensive   courses
 It was very good and easy to understand
-很少见的系统讲解深度学习系统的构建以及优化方法，相信在实际运用中会有很大的作用
 Great course with useful information!!!
 Help to get a order to prepare projects
 Good course for structuring ml projects
@@ -3619,10 +3498,8 @@ amazing insight into the technology....
 Wonderful and very valuable insights...
 I like the study cases in this course.
 Very Important and exclusive material.
-Excelente, gracias profe Andrew NG!!!!
 Always pleasure to listen to Andrew NG
 Great insights and clear explanations.
-Excellent course content and lectures.
 Loved these flight simulation quizzes!
 Very useful for industrial production.
 It gives many practical aspects of DL.
@@ -3631,13 +3508,11 @@ Very meaningful course. Thanks a lot!!
 Informative but extremely theoretical.
 This course is very practical oriented
 excellent source provided by Andrew Ng
-这堂课讲了不少一般人很可能会忽视的细节，这是非常重要的，可以让我少走很多弯路
 This is a very straightforward course.
 Useful information not found elsewhere
 Very well organised and great content!
 Excellent course i really recommend it
 Very interesting practical information
-一如既往的好，希望后面两个Deeplearning的尽快退出来，都等不急了。
 Very special course of deep learning.
 Thank you for the informative course.
 Excellent Course!!, Great Instructor.
@@ -3655,7 +3530,6 @@ thanks again for another great course
 Also a really well thought out course
 A very nice project course in ML!!!!!
 Thanks for sharing the deep insights!
-Nice course, excellent course design.
 Awesome. The course was very helpful.
 Most essential theoretical concepts!!
 Very useful. Thank you, Prof. Andrew.
@@ -3663,7 +3537,6 @@ Looking forward for the next course!!
 Loved the flight simulator exercises.
 It was a new challenge. I enjoyed it
 I have nothing to say except AMAZING
-Nice Course learns a lot............
 Excellent Concepts on Basics  for DL
 Very insightful Thank you Andrew Sir
 Cool need undestand more some things
@@ -3680,31 +3553,24 @@ Really great Course, learn a lot. :)
 Lots of practical tips. Very useful.
 Nice ideas on managing a ML project.
 Very useful course. 100% recommended
-非常有帮助，不过这门课主要是针对工程实践方面的指导。但依然有很多启发！！
 Very helpful to my current projects.
 Superb Course. Highly recommended :)
 excellent course and ideas presented
-valuable experience for development.
 Very useful to me as a practitioner.
 Very good content, Thank you Andrew.
 Transfer learning from Andrew Ng :-)
 very useful class, thank you Andrew!
 thank you, it's super useful course
-Exceptional!! Detailed techniques!!
 Great big picture and decision tips
 great practical insight is provided
 Andrew Ng thank you for this course
 Excellent course, thank you Andrew!
-Patient, detailed, amaizing course!
 Good brief overview of the material
-这门课提供了很多关于开发深度学习应用的有用策略，对今后的工作十分有帮助
 Excellent course for error analysis
-Excellent course for ML enthusiasts
 loved the exercices of this module.
 Really great and in-depth lectures.
 It helps me to rethink my research!
 Nice course for structuring project
-excellent!!many practical experices
 A lot of tip from every day praxis.
 One of the most useful certificate!
 Very useful for practical projects!
@@ -3731,7 +3597,6 @@ The case studies are very helpful.
 Very practical knowledge, thanks !
 Many concepts very well explained.
 very good, and I have learnt a lot
-Andrew Ng just rocks, enough said!
 Highly recommended, great course!
 Excellent and very very difficult
 Thanks for such a valuable course
@@ -3743,11 +3608,9 @@ It helps to improve my knowledge.
 Just One Thing to say --> Awesome
 Best course of the specialisation
 A lot of knowledge in a few weeks
-valuable experience for practice!
 Amazing Course, Thank you Andrew!
 I am really enjoying this course.
 Thanks a lot  coursera！Well done.
-Excellent and practical course !!
 Very brief yet insightful course!
 A good course but good get better
 Andrew Ng delivers great content!
@@ -3761,7 +3624,6 @@ a very practically useful course.
 very useful for practical problem
 Lots of useful tips and examples!
 Very nice and useful information
-Muy útil para planear proyectos.
 This content is really good from
 Short, Informational and Precise
 Very nice short practical course
@@ -3772,14 +3634,12 @@ very helpful to me, one DNN noob
 May Add few programming exercise
 Great insights into ML Projects.
 Great course, valuable overview.
-Excellent project simulators !!!
 a lot of important tips to learn
 I will come back to learn again.
 The Quizzes are really helpful !
 Good intuition about ml projects
 Best explanation found till now.
 Unique insight, rarely available
-课程很好，但是服务器太差了吧，隔三差五打不开网站，图片加载不出来
 Concise and extremely practical.
 Great practical tips! Thank you!
 Useful course to get you started
@@ -3797,8 +3657,6 @@ this course is very interesting
 Great Course. Highly recomended
 Great Operational Level course.
 Andrew NG impressive. As always
-在网易学过一遍，已经第二遍学了，实在讲的太好了，深入浅出！！！
-非常棒，这个课程提供了很多吴恩达的长期经验，是书本上学不来的！
 no projects in this course. Bad
 helpful strategies and advices!
 effective learning thanks alot
@@ -3809,7 +3667,6 @@ I have learned more.Thank you!
 helpful a lot to my ML career.
 Fascinating strategic insights
 Amazing course on case studies
-感谢老师！干货满满，机器学习策略的讲解使我有了更系统的认识。
 Great Tutorial. Thanks, Andrew
 Great course, would recommend.
 Great Course and great quizzes
@@ -3822,8 +3679,6 @@ Proper guidance in short time
 Short, but very meaningful :)
 It's an Excellent Experience!
 Pretty good with case studies
-Best Course I have ever taken
-第一次学习，感觉受益匪浅，以后遇到问题还会回头再复习一遍。
 That was awesome thank you :)
 it was pretty good experience
 Notverydifficultandveryuseful
@@ -3841,16 +3696,12 @@ Thanks for the great course!
 Loved the simulation medhod.
 this course is very helpful.
 Mind-blowing course content.
-Averyuniqueandhelpfulcourse.
-Excellent simulator quizzes!
 Excellent course, thank you!
 Quite inspiring and helpful.
 Efficient and  effective  :)
 Short but very useful course
-Good Course in deep learning
 A good summary of experience
 Good, practical information.
-Excellent practical learning
 Thanks Andrew and his group.
 Great course, very helpfull!
 I learnt a lot from this....
@@ -3859,7 +3710,6 @@ That was Awesome !!!!!!!!!!
 Good practical information.
 great course for ML design!
 I love the quizz, Thank you
-enjoyable, educative course
 nothing less than brilliant
 Instructive course! Thanks!
 very good, thanks Andrew Ng
@@ -3868,7 +3718,6 @@ Nice content, well arranged
 Concise and very helpful!!!
 This course is very useful.
 very insightful information
-once again excellent course
 Very useful. Thanks Andrew!
 Fantastic course, as always
 The material is invaluable.
@@ -3883,16 +3732,13 @@ information one. I like it
 There were the best qiuzes
 Best course in the series.
 Greate lessons and teacher
-keep learning is very nice
 Exceptionally insightful!!
 Thank you for your lecture
-Intuitive course. Helpful.
 really awesome course !!!!
 Tricks during development!
 Helped me in my interview!
 A Very Excellent Course!!!
 It's a very helpful course
-empirical lessons, useful.
 Great practical knowledge!
 I need how to set up  data
 Very nice error analysis !
@@ -3909,13 +3755,10 @@ Its very very nice course
 Very interessting course.
 Great practical insights!
 awesome practical advice!
-这门课经验很多，等后面集中实践的时候值得再回来看看
 Once again great content.
 Andrew I love you so much
 Exceeded my expectations!
 Very great class, thanks!
-Awesome skill-set learnt!
-Amazing simulator course!
 A very meaningful course!
 Learned a lot. Thank you!
 no coding to test theory.
@@ -3934,27 +3777,21 @@ Quiz is extremely useful
 a very practical course!
 Great practical resource
 Something really useful!
-Best ever course on DL..
 Really a wonderful class
-帮助理解神经网络的基本概念，适合深度学习入门学习
 Great practical insights
 Many useful suggestions!
 Very useful and helpful!
 Lot of practical advice.
-most important ML course
 Very good for strategy !
 Congratsm grat inshigths
 Great course, as always!
 very nice , I learned it
 very practical knowledge
 Just wish it was longer!
-Very useful strategties
 I really liked this one
 Wonderfull case studies
 Very valuable insights!
 Very challenging course
-Awesome course content.
-nice intuition provided
 Very useful in practice
 Great course.Thank you.
 One of it's kind course
@@ -3967,15 +3804,10 @@ The class is very nice!
 nice class by Andrew Wu
 Nice Structured course.
 Definitely recommended!
-讲了很多深度学习在应用时的实践经验，非常实用！
-Excellent course on ML.
 Awesome course! Thanks!
 Really practical course
 Great practical course.
-Great practical content
-This course in unique!
 It's a valuable course
-THE BEST!!!!!!!!!!!!!!
 Andrew Sir is the best
 Very practical course,
 Good Learning material
@@ -3984,30 +3816,20 @@ Short and crisp course
 Andrew is a great prof
 Great and useful tips!
 Perfect lessons,thanks
-Best and very engaging
-非常有用，解决了困扰我很久的数据集分布的问题
 EXPLAINED IT PERFECTLY
 Practical and concise.
 Great insight. Thanks!
-Very excellent course.
-Simulators are amazing
 An outstanding course!
 A very valuable course
-GREAT practical tips !
 Thank You sir Andrew.
 It was really helpful
 Greatly useful course
 Very intuitive course
 Good course for DL NN
-Amazing unique course
 useful info not found
 astonishing of course
-Muy bien estructurado
 Very excited exercise
-Very important course
 Cool as it should be.
-Its quite informative
-most important course
 Thank you for Andrew.
 Andrew Ng is awesome!
 Thank you! Andrew Ng!
@@ -4020,28 +3842,19 @@ really worth studying
 Extraordinary course.
 good experience share
 Really nice Insights.
-了解了很多方法论，指导遇到问题思考的方向。
-Great course content!
 Excellent and useful!
 Practical and useful.
 Great practical tips!
 Approach true cases !
-上完这门课收获很大，吴恩达老师的讲的非常赞
-Excellent one again !
 Very nice and thanku
 thats what i need is
 Lot of good coceptts
 case study is great!
-很好的课程，清楚明了，结构清晰，深入浅出
 Really interesting !
-A practical course!!
 Very nice content :)
 Andrew Ng is magical
-well done Andrew Ng!
 very powerful course
-老师讲的非常清楚，非常棒，学起来非常舒服
 Awesome, as always!!
-Improve iPad support
 Love the assignments
 良心之作，thanks, Andrew.
 Great course!Thanks!
@@ -4050,32 +3863,19 @@ It's great teaching
 It's a great course
 thank you Andrew Ng
 Really very helpful
-I liked interviews!
-Critical to success
 it's good. but hard
-As usual TOP NOTCH.
 Practical insights!
 Totally outstanding
-非常有用的的一门课，尤其是调参，那一节
 Very helpful stuff!
 Easy understandable
 Good. Learned a lot
 Andrew is the best!
-从实际项目的角度讲解机器学习，很实用。
 Excellent insights!
 Professor Andrew <3
-Very Good and Deep.
-Very good insights!
-学习到了很多之前不了解的知识，支持支持
 Very good lectures!
 Best of all three!!
-讲解了如何应用深度学习技术，感觉非常好
-awesome strategies
 Amazing course!!!!
-Fantastic content!
-excellent delivery
 I could learn more
-Nice case studies!
 it was very useful
 Excellent learning
 short but valuable
@@ -4085,8 +3885,6 @@ Worthwhile to take
 this is perfection
 Well explained !!!
 Nothing but great!
-Extremely helpful!
-非常實用性的內功，錯誤分析太有用的。
 Wonderful insights
 thanks professor!!
 Excellent insights
@@ -4098,26 +3896,19 @@ Andrew is awesome
 Amazing.Thanks <3
 Very useful tips.
 very good courses
-Fabulous material
 This is very good
 Awesome as always
-对机器学习项目的开发很有指导意义。
 a good experience
 It's great for me
 as good as before
 Incredibly useful
 Very useful tips!
 very practical :)
-brilliant course!
-超实用的机器学习迭代优化方法，赞。
 Good Knowledge :)
-Очень рекомендую.
 Loved it to core.
-GOOD WORK.......
 wonderful class!
 Very Helpful!!!!
 Great, as usual.
-Excellent...!!!!
 amazing insights
 Great Courses!!!
 Always excellent
@@ -4126,147 +3917,63 @@ Thanks Andrew :)
 learning so much
 very good thanks
 Great insights !
-Quite difficult.
 Very practical !
-Excelente Course
 As usual awesome
 Lots of insights
 Great materials!
 It's just great.
-对机器学习超参方面有了更深的认识
 Very practical .
 Nice but short.
-Splendid course
 Awesome Materis
-feel great.! :)
-super wie immer
 good case study
-Exceptional (y)
 Very Educative.
 Just fantastic!
-这节课并没有编程作业，比较轻松
 Really loved it
 Amazing it was.
-Must Do course!
-Gran contenido.
 It was great :)
 I love this one
 without Chinese
+Awesome course.
 Pretty helpful!
 Very Thoughful!
 Exciting so far
-很好的DL课程，内容非常使用。
 Learning a lot.
 course is good
 Enjoyed a lot!
-Cours détaillé
-Resourceful !!
-i love cookies
-good good good
-n内容简介实用，介绍比较清晰
 It‘s great’ ！！
 Really enjoyed
-要是有一些编程的练习就更好了
 Good insight !
-Good as always
 It's so great!
 Good as usual!
 Thanks a lot !
 very practical
-讲的简单明了，谢谢吴恩达老师
 NG is the best
-100% Awesome!
 Great course.
-good insights
-案例有代表性，问题贴合实际
-项目中遇到的问题有思路解决
-very awesome.
-nice courses！
-Best course .
-benefit a lot
-对新手还是比较友好，易上手
 thanks a lot！
 Useful class!
-SO SO GOOD!!!
-对于神经网络了解越来越深入
-nice lectures
-super useful.
 I want more!!
 Thanks a Lot
 very precise
-x学习到了迁移学习的知识
-Solid course
 Many thanks!
 Good insight
-nice course！
 awsome class
-给出了一个完整的开发策略
-perfect job!
-Big picture.
 Perfect!!!!!
 It's useful
+great stuff
 Pure class.
 Cool stuff.
-谢谢，老师和工作努力。
-经验之谈，可以少走弯路
-Well done!!
-Excellent.!
 so helpful!
-Very Gooda!
 thank you ~
 pretty cool
 nice class.
-Muy fácil.
-excellent！
-非常宝贵的实战经验！
 thumb up ！
-so good!!!
-Best ever!
-Nice work!
-我要打6星，太有用了
-深入浅出，通俗易懂。
-模拟训练真是太棒了！
-内容很好，操作性很强
-practical
 thankyou.
-战略不抓，参数白调
-inspirant
 Nice Work
 God of AI
-Thanks Ng
-excelletn
-enjoyable
-Practical
-Tank you.
-sooo good
-Terrific!
 awsome :)
-Help ful
 Liked it
-amazing！
-非常棒，受益良多
 sick bro
-非常好的策略学习
 Nice it
-没有编程练习。
-非常好，才选择
-非常棒的课程！
-有用的实战策略
-谢谢吴老师！
-go on.
-bumper
-Unique
 Great！
-primo
-ggood
-说的超级赞
-必看课程啊
-求中文字幕
 thaks
 cool
-👍🏼
-Spr
-ood
-很实战
-好！
-f

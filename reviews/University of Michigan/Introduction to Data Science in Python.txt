@@ -72,7 +72,6 @@ Not really an introduction course. The lectures are moving very fast, without re
 Waste of time. If you know python, you'll probably learn nothing new here. If you don't, the professor goes into WAY too high a level, and quickly, for you to actually learn anything. Moreover, he barely touches on why any of this is important, does not go over scikitlearn or numpy, both very important in data science / machine learning.
 The courses/videos do not cover most of the topics which are needed for assignments. Have to Google or read lot materials in order to pass. Furthermore the videos are extremely boring as well. This course is not main for the learners who just started to learn Python, as this will demotivated the passion of a person to learn Python.
 1. Very difficult to follow and I had to redo this course multiple times to understand the concepts.2. Feels like the tutor is just reading off a screen and not explaining a topic from his standpoint.3. The assignments and course topics are disjointed at times.4. Examples provided are rather complex and needs to be simplified.
-Un curso poco práctico, los vídeos son demasiado largos, dando vueltas sobre los mismos conceptos básicos y los ejercicios son bastante complicados en relación al temario (se espera que se busque por internet en páginas como Stack Overflow). No se trata nada de algoritmos, es casi todo limpieza de datos y cambios de formatos.
 The pace is too fast! I can not keep up with the course content :(I had studied "Python for everybody" specialization and "Python3 programming" specialization before. I thought I am now ready for this course but ....I am going to study some introductory books or find other tutorials first and then come back to this course.
 A large disconnect between material and assignments. Video lectures not very good and much to short. Assignments had a lot of very annoying data cleaning etc as opposed to better understanding of data frames and pandas, while this is indubitably important in real data analysis it seemed a bit early to  bring it in.
 Teaching material is poorly organized, and more of information covered in the assignment are not covered in the teaching material. It truly "self study" course. Just skip the video and dive into google. Even assignment question need lot clarification as well. Auto grading is a nightmare.
@@ -85,7 +84,6 @@ Grader is buggy
 Generally course is bad. I spent more time in Stackoverflow than here to find answers
 I can read books and surf pandas docs by my own, what is the sence.
 Just a waste of time
-As atividades do curso são bem confusas, devem melhorar muito ainda. Não adianta dificultar para ter que passar várias horas no fórum para entender a pergunta e ver dicas. Enquanto não consertarem os exercícios não recomendo.
 Worst Course ever.The assignments are way tougher than taught in the lecture.Complete and utter waste of money.Please improve the contents of the course and provide detailed list of various functions.
 this course is horrible. The lecturer go through things so fast without emphasis, let alone highlighting the rationale behind of each things. Totally confused, worst class I have ever took in Coursera
 Awful. The examples are boring, pace is slow, and instruction is little more than "go to StackExchange." Most course 'discussion' involves the clunky, bug-riddled auto-grader. Don't waste your time.
@@ -148,7 +146,6 @@ the instruction is very poor: when one decides to learn online, it´s expected t
 Too much research left for the participant. As one of them, I found no difference between going to Stack Overflow or the official documentation websites to figure out myself how some packages worked, as this was basically the same instruction provided by the instructors. I have decided not to continue further training given by University of Michigan, as there were other specialization that made a far better work increasing the course difficulty. Highly recommended to tag this course as of "Advanced" (difficulty).
 While i can appreciate the value in getting resourceful at finding information online, this course was essentially 99% google and stack overflow with 1% referencing materials learned in the course.   I spent many hours googling exhaustively for answers and reading through the forum where there were numerous bugs noted by the staff contributors.  The information required for the assignments could and should have been presented better to achieve the same effect without the hours of independent research.
 This course is heavily dependent on your ability to google methods and techniques because the lectures do not come close to preparing you for the assignments. The videos simply show you what happens when you type certain code into the interpreter and do not go into detail of how it works because they figure stackoverflow already does it. This is probably a course more for someone who already knows the material and needs a refresher vs someone who is trying to learn it all for the first time. Good luck
-mal explicado, el profesor no explica los temas, solo los enuncia y tienes que buscar todo el material fuera de la plataforma, lo cual ocasiona que sea un curso muy complicado y que te tome muchísimo mas tiempo del que debería. Yo no siento que sea un curso, lo veo mas como una oportunidad para certificar si ya conoces todos los temas. Como consejo para los que quieren hacerlo, solamente lean las libretas y busquen los temas por internet, el profesor no les servirá de nada. dejo 1 estrella ( MUY MALO)
 One of the worst course ever designed. The course name states its an INTRODUCTION to one of the most important field but the assignments were so tough(fine...) and "teaching still worse". No proper materials, background, techniques provided, I felt Dr. Chuck would have done this far better. We are expected to know the A-Z of Bible/Geeta for an INTRO course and At last we are made to read documentation and Stack overflow and tell me what's the purpose of this course then???
 I've taken a few courses on Coursera and Ive found this one to the be the most frustrating. The assignments absolutely do not match up to the material taught during the week, the questions asked during the lectures presumes we have a lot of base knowledge or wants us to look up the answers but does not give us nearly enough of the language to do so. I absolutely feel defeated after trying to do the assignments and find the forums and "community" to be less than helpful.
 While this was one of the better courses I've done on Coursera, the start date of the course was changed without any indication of when it would begin.  We've also been waiting months for the next course in the specialisation to begin, again without any communication.  This was a good course, but I would recommend people wait until all the rest of the courses are available before starting this course and beginning the specialisation.
@@ -156,7 +153,6 @@ Unfortunately, I won't complete the specialization because of this course and I 
 Assignment 3 was absolutely ridiculous in the sense that the implementation of pandas functions depended on data cleaning in the first step for which there was no help . No response from peers or moderators on my queries. Had high hopes when I joined the course. I feel cheated now. Because of some issues with the data cleaning step, all my following answers were incorrect and I couldn't pass the course in time.
 This course is really complicated for a person who is trying to get into the field of Data Science. Don't take this course if you haven't got fluent skills on English as well, because some parts of the explanations are really hard to understand. Take a similar course for a beginner level and then come into this course if you are willing to take this course. Giving out one star because of these reasons.
 If you are just beginner in python and want to know better about Data Science dont enroll for this course.The lectures are as if the professor is just reading some notes.The annoying background of people moving is a complete disturbance.The assignments and course do not have anything in common.As a whole it would waste your time if you want to learn from the course it is more like self preparation.
-Это уже 7й или 8й курс из тех, что я прошла на coursera, и он самый бесполезный. Лекции бесполезны - лектор объясняет непонятно. Для того, чтобы сделать практические работы, нужно самостоятельно изучить документацию по pandas. Я стала ее читать, и поняла, что лектор не только не добавил от себя никаких объясений, он даже умудрился сделать материал еще менее доступным, чем он изложен в документации.
 There is a huge difficulty gap between the lecture videos and the assignments. The videos are very brief and they do not give you all the tools required to do the assignments which are a lot more complicated for users who have no experience with Panda. Learners are required to search the internet and stackoverflow which defeats the purpose of an online course education as I can do it by myself.
 Did not liked it at all, week one quiz is based on some demonstration which should not be a demonstration but actual study of a subject. If quiz is tends to ask practical things they should be practical during first week of the course, I did not came here to watch a video and paste the result in a quiz to pass further, I came for the practical experience provided by the experts in a field.
 please provide the complete 5 unit details .  I could see only this unit is open for past many months. I paid for all 5 unit money already and not in a position revert back and get the money.  Could you please help me out to understand when this courses will be available if not in near future , why are they taken money before the course is not ready to us. Quite disappointing experience.
@@ -232,14 +228,12 @@ unclear and poorly thought out
 Very Difficult and Quite fast
 Too fast. Need to be deeper.
 I want to drop the class
-Very bad for a beginner
 very tough to catch up.
 Error in Assignment 3
 starting to like this
 Very rushed through.
 too comprehensive
 It's boring.
-Impractical
 I have to say, the quality of this course is significantly inferior than the previous "Programming to everybody" . Firstly, it has something to do with the language that the lecturer uses to explain the concepts in Python. The language he uses is unnecessarily complicated. The sentences are very long and the words he uses are vague . If you want to explain a relatively complex concept, you need to use simpler and more comprehensible words. You cannot use a complex concept to explain another complex concept. The second thing is about the structure of the course, the insufficient engagement. The lecture is full of contents but only with very less interaction exercises. This will make students lost in the half way. I have to say this is not a pleasant experience even if I'm already very familiar to some other programming languages such as R and C++.
 There are several inherent problems with this course and how it is structured. I would like to preface this review by stating that I am likely below the level of python mastery required to complete the course; I came in with a simple background of some time spent learning from introductory texts, but I've never worked with the language professionally and I have been out of practice for a couple years. The course is labeled 'intermediate', though how 'intermediate' is unclear since there is only one elementary course recommended to get you "up to speed" enough to take the class. I used my free week as a test to see if my background was enough to be able to hang with this; it was not. However, even for someone with more depth of understanding than me, this course is poorly designed to teach. Each lecture is between 2 and 10 minutes long, and they do a very poor job of explaining concepts. The notes provided in the supplied notebooks lack any sort of meaningful documentation, and so it becomes trivial to get lost as the lectures go on at lightning speed and you have no comments or notations at all in-text to explain how one thing they did is different from the next. Furthermore, the difficulty and complexity of concepts spikes up rapidly. Using the in-lecture questions as a barometer, the complexity jump is like going from addition to calculus in the blink of an eye. The first in-lecture question during one of the early videos requests you make a very simple change to a supplied piece of code to add three numbers instead of two. Two in-lecture questions later you're asked to create a list of all possible combinations of a number and letter system for a hypothetical internet company based loosely on concepts you learned 15 minutes ago and never before had a chance to break down or practice in any real detail.After quiz 1 is where I threw in the towel. Looking at the future assignments, as well as the discussion board, things seemed like they would only get worse, not better. Assignments are highly complex and rely on an understanding of python well beyond what this course, and the one before it, will give you. Users with years of programming experience were having to rely on google, text books, and stack exchange to solve the assignments. This course is too light on details and too focused on speed. You'll essentially be teaching yourself what you're supposed to do. As my first attempt going through a MOOC, this was a letdown. Part of this is on me, as I do not have the requisite background to fully engage and succeed here. Part of it is on the structure of the course, which truthfully seems to focus on speed and ease for the creators rather than in depth of understanding for the students. If you're considering this track, I recommend instead picking up some textbooks and going through this yourself. You'll lose the certifiable, but you'll have a less frustrating time.
 The course covers good grounds if you are new to pandas. However the content is pretty much a read-through of documentation and assignments are designed poorly:1) There are loads of knowledge required to finish the assignment that are not addressed in the course. You will need to find those out yourself online, which in itself isn't a problem but you are also paying coursera for the time when you pretty much do self-learning2) Due to how assignments are graded, you have to provide EXACT answers as the instructors wanted to see, meanwhile you don't get all information needed on what should be the right answer as certain parameters of the assignment are not clearly defined. The forum is disorganised and you end up spending a lot of time browsing through historical posts, some of which remain unanswered after months3) Too much time spent on data cleaning. Granted that in real world projects data cleaning is at least 80% of the time but this is a learning course. You don't get to spend a lot of time to practice contents covered in video but struggling with the random complexities introduced by the raw data + specific results being expected. This leads to a frustrating experience.Suggestion to the course instructor: re-design the assignments to make sure students spend more time on key points covered by video. Have one assignment focused on data cleaning, but not all of them. Also review forum questions and understand where people get frustrated, and improve your instructions in the assignments.Suggestion to fellow students: it is probably best to enroll the course, note the content/ resources, quit (so you don't need to pay) then learn yourself on google/ stackoverflow. This will be pretty much the same experience.
@@ -298,7 +292,6 @@ This is not an organized course by any means. The lectures do not cover much and
 While the material is undoubtedly useful, te structure of the assessments is not very helpful. For example, in week 3 we are asked to create data frames from input files: these are presented in descending order of complexity for cleanup. Furthermore, the points for most of the questions are 6.66, despite what are very different demands fore each part. In the final week, the dictionary of state names is counterproductive in answering part one (some state names are region names) and one can either get 100% or one fails the course (as one question is worth 50% of the grade.) Some of the autograder feedback is so terse as to be downright infuriating. Add to that frequent issues with the notebook crashing and much of this coursework was an exercise in unnecessary frustration rather than increasing enlightenment.
 Primary instructor is very good and very clear. Although I feel that in the MOOC format he could have spent more time going through the mechanisms going on underneath (even if you don’t need it to complete the problem sets). However  the lectures from the assistant are poor - he seems to speak without explaining anything.Major issue is the problem sets themselves. Some of the questions are really poorly written (and I think in some cases wrong). For example in week 4 I spent longer trying to debug a question (that I got right) than I spent on the whole week put together; the answer being something that wasn’t explicitly asked for in the question.If you’ take the course read the forums... there are dozens of posts from students (and teaching assistants) complaingin about the questions.
 Unfortunately, the course delivery style was not right for me. The profesor background is good, but the teaching style is too much talking (difficult to remember), and that doesn't helps to understand Pandas or Numpy concepts. There were very few visual aids. The course uses Jupyter notebooks with code examples, it would really help to add some written explanation to them, because the explanation in the video goes too fast. It would be great to have more practice to construct gradually the knowledge at least at the beginning. Most of the learning was on my own reading books, python docs which does not focus on conceptual explanation, and using stackoverflow as it was recommended during the course. This course is for somebody that does not expect much guidance or explanation.
-il manque beaucoup de théorie, je me suis retrouvée à perdre énormément de temps à chercher sur internet pour pouvoir répondre aux Assignement. Au point, on l'on se demande à quoi sert le cours (version video) à la base, car si on nous avait donné les Assignement seuls sans le cours ça aurait été pareil ! c'est à dire que : durant le cours je n'ai absolument rien appris ! De plus, le fait que le cours soit fait dans dans l'open space et qu'on voit les gens travailler, boire de l'eau .... ça déconcentre énormément.Néanmoins, comme que suite aux recherches que j'ai fait j'ai appris beaucoup de chose et ça été grâce aux assignements qui même les questions étaient assez vagues (exemple total ou top ?? ça prêtait à confusion )C'est pour ça que je donne une note de 2/5.merci
 Completed the first course but probably won't continue.
 U of M auto-grader uses an old version of Python (3.6) and an ancient version of Pandas (0.20.2), so after you code everything up in 3.7.7, you have to go back and try to get it to work in 3.6 and old Pandas.  This just comes down to how you want to spend your time in life: learning and solving problems or messing around with an old auto-grader.This is a total waste of time and effort.  There is no reason to spend time doing this just to appease the auto-grader.
 I was considering the Data Science Masters program, too, but I want to learn, not fight old versions of Python and Pandas.  Good to know now, I guess!  What a shame.  This series could have been great!
@@ -456,9 +449,7 @@ The lessons were too fast and dense
 Very fast paced and poorly taught.
 Theory is not related to exercises
 Good materials, annoying grading.
-Should have been more detailed
 Better reading a pandas book.
-it's not very good
 Not much of a use.
 Less interesting
 hard assignments
@@ -606,7 +597,6 @@ The Course content is good but the instructor is not so good because while he is
 The course itself is not so bad. But tasks are frustrating! Solving them gives some value but they are mixed with tons of meaningless problems. Some tasks are not clear and autograder gives little information. But I need to say that I learnt more about Python and Pandas library.
 I personally feel that this course should had been divided into a 8 week course instead of 4 and material  should be added on that ,eg: the problems asked in the exerciseThe exercises are way too difficult and require the use of many functions not taught in the video lectures
 Classes moved very fast, especially in the video materials. Functions were introduced briefly without time to digest. While I ultimately did learn the topics through my own research, I feel the class would have been much more beneficial with slower, more indepth explanations.
-Los ejercicios son muy dificiles y hay que hacer mucho reaserch en los foros para lograr llegar al resultado. Las pruebas son diagramadas de tal forma que a veces es dificil llegar por errores pavos al minimo resultado esperable para aprobar los assignments (ej run_ttest)
 Content was well paced and well presented but the auto grading submissions took a long time to get used to and were very stressful. The recommended time to complete the assessments was also very optimistic, most assessments took me easily double the time suggested.
 A bit surprised by the low  volume of teaching material, and the energy required for completing each assignment.  But a posteriori, it forced me to really engage in the learning. I will probably remember more this way, than if I had listened to dozens of video...
 I found some assignment questions quite unclear. This, together with the grader sometimes marking answers as correct even though they were wrong, forced me to spend many hours trying to find the underlying problem to incorrectly answered questions down the line.
@@ -768,7 +758,6 @@ I would love to get corrections of the assignments once it's passed to see if my
 The instructor doeesn't explain in detail each topic so we have lot of difficulties in the assignments.
 A lot of great information, but the information is sped through so quickly it gets kind of frustrating.
 It's nice all the weeks were great but the last assignments wasn't really clear and hard to understand
-los examenes no estan siendo correctamente diseñados o estructurados para llegar a la misma respuesta.
 Very fast paced, you definitely need to have a solid background in Python and the different libraries.
 many functions were not included, so I have to look up many other materials to finish the assignments.
 Instruction was often unclear and difficult to follow. Be prepared to do lots of learning on your own
@@ -803,12 +792,10 @@ Technical issues in the assignments makes the course harder than it needs to be.
 The course assignments were very tough for me, much harder than I anticipated...
 a decent introduction into the world of python dataframes via the pandas library
 You have to make a lot of research on pandas documentation to do the assigments
-Typical school concept. Lessons level 1, quizzes level 3, assignments level 50.
 Bit faster than expected, should have disclaimer to learn pandas basics first.
 Auto grader needs to give more feedback. Too many things to learn by yourself
 There should have been more quizzing assignments rather than the coding ones
 in starting course is good but at the end it will become boring and lengthy
-Os exercícios estão em nível absurdamente complicados emm relação as aulas!
 It's really informative, but there is too little instruction in my opinion.
 In my point of view, the lectures and the assignments are not well matched.
 Tutotial videos of jupyter are very fast and need much time to understand.
@@ -853,9 +840,7 @@ Kinda fast paced and needs more explanation !
 The instructor taught this course very fast.
 More programming details should be included.
 can be made a bit detailed course on Python
-less talking more usefull guiding is needed
 Lecture explanation could have been better
-Good materials but video doesn't help much
 Compare to Machine Learning from Stanford
 More elaborate lectures would help more!
 The assignment is a little bit hard....
@@ -863,7 +848,6 @@ more practice video need to be added
 why not have expect output for check
 Totally not for absolute beginners .
 Homework is too hard for beginners.
-Should be little more descriptive.
 Please change your teacher. Thanks
 Explanation could have been better
 Good course but not for beginners
@@ -872,26 +856,16 @@ The assignments were too vague.
 The instructor is a bit fast.
 overall good introductory!!!
 The instructor went too fast
-But seems like its too fast
 awesome course and platform
 IT was more than self study
 assignments are very hard.
 Assignment too difficult
 Lectures are too fast!
 High learning curve.
-难度跨度有点大，应该有更多辅助性教学手段
-Hard for beginners.
-Foi um bom curso!
-not so good!!!!1
 to boring course
-asfsdgdfgdxgghj
-作业描述不清楚，有歧义！！！
 less hands on
 Nice one   :)
-very brief
 very fast
-太难了8
-HARD
 Not nearly enough reference content in lectures. It needs to be made clear students coming from the Python for Everybody course (other Umich course) has a book which I was used to referencing for all of my questions (the class was pretty well self contained and did not require much looking up of concepts). I tried to learn this class the same way I did for the previous one and that totally did not work - I spent wayyyy too much time on my first pandas assignment thinking all of the answers were in lecture/notes. The lecture and notes were very very scant and not well explanative about data structures that are very complicated. Please either write a book or make it more clear how students should learn. Yes, the teacher tells us about stackover flow but I didn't know he was implying for us to use those resources. He should say something like "we don't offer a book with this course so use online resources" and not tip toe around the topic because people paid money to learn so take responsibility and make these changes please. I passed but it was very frustrating at first.
 My background: Industrial Engineer with a decent programming background (including Python), but rusty with statistics.My review: The instructors clearly know what they are talking about and explains useful concepts.  However, the videos are very short, and some concepts feels rushed. The assignments are pretty challenging, which is a nice thing. The last one in particular is very nice and don't feel fabricated - you actually test an interesting hypothesis based on some data you have to extract and manipulate. To be able to finish the assigments, I had to use Google a lot. It kinda felt like cheating, but the course is pretty clear that you should look in the documentations and ask questions on Stack Overflow.Suggestions:Include more exercises to practice what was taught in the videos.Include a solution for each assignment - some questions I got it right, but I am sure my answer was not the most efficient or "pandorable" one. It would be nice to have a benchmark to compare after we pass the assignemnts.
 It was informative but i felt the assignment part needed more clarification. I faced the problem that even though my solutions were right the autograder gave me lesser marks. I figured out that we must not print to the console. If that was clearly mentioned life would be easier.
@@ -974,7 +948,6 @@ Was a great overview of the Pandas and Numpy frameworks.I loved the course as it
 I really like the lectures. They are fast paced, full of useful information. I also like the design and intentions of the assignments. They really help enhance the learning. I love the required reading too. It really expands your vision from a course to a much bigger world.My gripe is mostly on the lack of attention to details for the assignment questions. There is a lot of ambiguity there. Forums and tips helped, but I would rather they spec out the questions in the first place. I hate to guess what the auto-grader want.All in all, it's a very good course!
 Loved the lectures and structure. Great course. The assignments were very educational, but I was a bit frustrated with the autograding at times. It felt like, what was preventing me from advancing had nothing to do with the actual course material, but the technical set-up instead. I don't know if it's possible, but having the auto-grader tell you what went wrong (which criteria your submission didn't live up to) would be a huge help and help students like me avoid too much frustration. Just a thought. Still a great course - keep up the good work :)
 I found this course very useful and interesting. Assignments are very helpful to test your skills and how one can apply the content learned during lectures in actual problems. There is a lot of functionality and details in the Pandas library but, this course is designed very well to enable the students to get a good understanding of Pandas. Although, I faced some problems regarding the assignment grader. Moreover, the course videos end abruptly and it gets difficult to understand what the Professor was explaining towards the end of the lecture.
-Com certeza o curso melhorou o meu conhecimento em python. Antes mesmo de terminá-lo já aplicava os conhecimentos no meu trabalho. Contudo, terminei trabalhando muito mais tempo nas provas do que o tempo estipulado pela equipe de instrutores. Cheguei a pensar que estava fazendo tudo errado, mas vi nos fóruns que outros também tiveram a mesma dificuldade. Estou muito satisfeito, não quero provas mais fáceis, apenas uma noção mais adequada do tempo que será gasto (levando em conta que estrangeiros podem demorar mais para entender o enunciado).
 The videos were little fast paced. The explanation were good. It would be better if more detailed explanation on pandas has been given. Some more functions of pandas must be given because in assignment part the questions were little tricky and the question of that type has not discussed. You have to learn more from other resources. However overall course was good, it gives a good explanation on how to use python to manipulate data in table and many more. Before opting this course the individual should have a good grasp on basics of python.
 A lot of the harder questions were unclear or not covered by the course. Many were passed onto "look this up yourself", which is fine, but sometimes a different approach resulted in a slightly different answer marked as wrong. The group_by stuff was especially tricky, as it was unlike its SQL counterpart and could have used a better example, eg with a function to split into quarters or group columns. Other than that, very interesting overall and very neat datasets. I would encourage having students check out kaggle.com for extra credit.
 Small criticism - either requirements.txt should be published (version dependencies) or the course should be updated for to reflect modern versions of pandas, or perhaps both. Autograder has a tendency not to be able to process subtle differences in dataframe shapes from time to time and this is discussed at length in the forums but nothing much is done to rectify. Possibly related to obsolete versions and dependencies. Questions could be slightly better formed. All in all, a great course, which has kept me busy for a couple of weeks!
@@ -1023,7 +996,6 @@ This course was illuminating and rich in information. However, I noticed a huge 
 This is a great course for those with some Python background, as the professor clearly states at the first lecture. This was not my case but since we were a team of friends we could solve all the homeworks. If you have not taken an introductory course in Python, neither you have a group of friends to work with, then I suggest you not to take this course. Otherwise, It is a great opportunity to explore advanced Python data analysis techniques.
 Overall I thought this course was good quality.   The videos and lecture material were informative.   My only constructive suggestion is that that code is shown too briefly and moves on to new functions too quickly to absorb.    The instructor participation in the forum was essential for being able to complete the assignments.   But overall I thought this was effective in getting me to learn some Python independently and I would recommend it.
 This is a pretty good course to start immersion in data science. Lectures are very compact and without extra water. Links to books and additional resources are provided. You can get support from teachers in the comments on lectures and assignments.At the same time, the course requires updating in accordance with the latest version of pandas. During the course, I was faced with the need to rewrite my code to satisfy the old version of pandas.
-J'ai appris énormément avec ce cours et je remercie les professeurs et tout le staff ainsi que tous ceux qui ont participé dans le forum et qui étaient d'une aide précieuse. Cependant je trouve que plusieurs questions sont mal posés et une grand partie de mon temps je l'ai passé à essayer de comprendre ce qui est demandé. J'espère que les questions seront mieux posés et que l'effort sera consacré à l'apprentissage de nouvelles techniques.
 Tough course for a "Introduction to..." course title. Good support resources saved the day. Learnt from doing the assignments and following the tips from the teaching staff. Very practical assignments. Gave a flavor of what data science work involves. Challenging and engaging. The course videos are very well produced. Prof. Brooks is motivating and energizing. The course also gave a human dimension to the work of data science.  Thank you.
 I enjoyed the course, overall. The assignments were challenging and required some help via stack overflow, but they were do-able and not impossible. The notebooks are great for experimenting and self-learning, but the lectures didn't go into enough depth, for my liking. In addition, the speed of the lectures was too fast on many occasions. I'd recommend having some programming background and/or familiarity with Python before taking this.
 The course has indeed taken place over much of what can be considered introductory in data science. However, there is nothing introductory about python, which may bother a more novice student, and the second week of the curos is much more challenging than the others. I believe it is possible to build this same course in 5 weeks to teach more about python and reduce the difficulty of the second week without compromising depth and quality.
@@ -1091,9 +1063,6 @@ The class material was very good and the assignment improved the understanding.T
 I found the assignments a bit challenging since I was a newcomer to the concept of exploratory data analysis. I would like the background of the lectures to be taken off and get them replaced with a white one in order to avoid any possible distractions. This was one thing I observed with my focus span after having taken multiple courses on Coursera. Thank you.
 I really like this approach of the specialization. Data wrangling with pandas is essential. Also referencing some controversial discussions reagarding the limits and problems we are facing as data scientists is appreciated.However one star less as as there is no feedback on the submissions. So I really don't know what was good and how can I improve my codings.
 Great course for data preparation for ML which is sometimes neglected in other courses. Great instructor. Useful assignments. Assignments require research on your own which is good. I would recommend to maybe make the course longer and cover more topics (in-depth string processing etc.), because it felt a bit short. Thanks Dr. Brooks for putting this together.
-Bon cours. L'indication de difficulté "intermédiaire" correspond aux prérequis pour réussir les exercices avec Python (ne pas être un total novice).  Le plus frustrant est l'auto-grader qui n'est pas assez clair quand aux parties des exercices qu'il faudrait corriger, ou bien qui n'aime pas certains codes pour ariver au même résultat. Hâte de voir la suite !
-Fue uno de los cursos más retadores, pero más satisfactorios que he tenido la oportunidad de tomar en una plataforma en línea. Sí, requiere mucha investigación por parte del usuario y algunos de sus incisos requieren mayor dedicación que un curso introductorio, pero las recompensas se vuelven sumamente fortuitas al final. ¡Saludos y éxitos desde El Salvador!
-O curso apresenta de maneira objetiva os conceitos das estruturas de dados com Python, utilizando aulas bem estruturadas, excelentes exemplos e tarefas desafiadoras. Poderia ter um material de apoio um pouco mais elaborado, como alguns resumos dos comandos apresentados em cada aula, para facilitar a execução das tarefas e organização das ideias apresentadas.
 Excellent introduction to the subject with comprehensive example code and solid assignments. I personally avoided most of the optional writing prompts as the anonymous feedback received from other students on the first such assignment was not constructive. I would recommend the optional readings and outside information though, it is quite thought provoking.
 Some topics are very difficult since many of the concepts are outside of what was thought in the lectures so one has to do a lot of research outside of the website. This takes up a lot of time and is way more than the estimated time for each part of the course. I did find excellent help available on the forum. Overall, a very challenging yet fun course.
 This was a good course in the sense that I learned a lot. I would have expected more detailed explanations from the  teacher, because I did not know anything about Pandas. But at the same time, that forced me to research in order to be able to make the assignments. I don´t know if the fast covering of the subjects by the teacher has that in mind or not
@@ -1166,7 +1135,6 @@ The course was really great. Thank you! Sometimes precisely what the questions w
 I think the course is great, a little bit too much learning on your own. The autograder is not really that clear, it would be nice to have an expected output to see if what we are doing is accurate or not, sometimes we dont have the time to wait for the staff to reply back on the DF
 Very challenging course yet very informative. I am looking forward to the rest of the courses in this series.  A word of warning: if you are not familiar with statistics, parts will be very difficult.  If you are not familiar with Python the whole course may be very very difficult.
 The course is well structured, but the videos are not really easy to use. The camera is on the instructor most of the time rather than the code page.However the Notebooks and the assignments are excellent and you should spend most of the time on those to really learn the material.
-É um curso mais voltado para pessoas autodidatas pois os vídeos são pouco explicativos, curtos e com um conteúdo geral. A fortaleza do curso está nos exercícios que são desafiadores  que obrigam ao aluno a ir a entender e aprender por sua conta para aprofundar nos tópicos tocados.
 The video is simple, but the assignment is hard, I spend a lot time in discuss to understand what it want and external document reading,  how to use pandas or python and hypothesis. in the time pressure.
 BTW, I think the value of assignment is 90%, and video is 10% in this class.
 the knowledge touch here is really good. however, the speed is a little bit quick. I paused and go back and forth usually. the last introduction of assignment 4 is not clear. I took quite a long time to figure what to use to calculate the price ratio and what to use to run ttest.
@@ -1268,7 +1236,6 @@ This course provides a brief overview of what data science has to offer. Profess
 The interactive python notebooks and the programming assignments are excellent. The course loses a star for the incredibly fast pacing of the lectures, and the off topic data science assignments.Still highly recommended.
 The staffs are very good at making difficult key points clear and this is a very good course for data science starters. But the auto grader is not good, sometimes I have to debug not for my code but for the auto grader.
 Good base material on data science.  Not the best python course.  Directions were lax during the programming and I stumbled around until I found the formulas they were looking for. Not the best direction on assignments.
-No me pareció que fuera un curso introductorio, por el nivel de las tareas y por la explicación básica que daban de cada tema. Sin embargo, el curso me ayudó a desarrollar habilidad en manipulación de datos con Pandas.
 Everything was pretty good and the assignments were challenging enough to help increase the skills of the students opting for this course, but a bit more video lectures could be added to the fourth week of the course.
 The course content and explanation is superb, Assignments shall have access to course auditing  students also though they shall not be graded, anyways thanks to Prof. Christopher Brooks to deliver such great lectures.
 This an excellent course for people who want to refine his skilfulness using Python for data analysis with Pandas, and specially his capability of self learning from internet.It is a kind of Learn by yourself course.
@@ -1363,7 +1330,6 @@ Concepts explained are basic , and questions requires in-depth knowledge which m
 Learned so much in such a short time! I can't believe it. 4 weeks ago, I had no idea what pandas was. Now, I'm merging multiple data sets and cleaning them. Such a great feeling.
 Very good class, although it seems better to have good Python skills already. I am a business school student with just basics in Python, and I found the assignments a bit hard !
 Everything was fine videos and all but assingment should be made easier and next to next questions should get tougher some question were too difficult and matching to the videos
-Sirve como introducción semi completa a Python basico, uso de las funcionalidades más comunes de Pandas. Quizás dar más enfasis a otra librería como Numpy lo haría más completo.
 Strengths: The assignments were interesting and challenging.  The teaching assistant and discussion forums were helpful.Cons: The auto-grader costs several hours to get to work.
 The content and assignment topics were good, however the questions were at times misleading or did not specify all conditions required for a correct answer. Perseverance is key.
 a must to do course for anyone who is entering the world of data science although i faced a bit of difficulty in assignments ,the instruction in assignments should be more clear
@@ -1383,9 +1349,6 @@ Some issues when validating the assignements automatically but the forums are ve
 The submission tasks are too time consuming. In the other hand,forces the student to search about answers by themselves and use the techniques taught on it's full extension.
 I like the course very much. It was fun to learn and to do the exercises. There were some rough edges in the assignments but I'm sure these will be straightened out in time.
 The last 2 assignments were very tough. Out of the scope of this course.But whatever the content was very nice and understanding & helped me a lot in boosting my knowledge.
-es muy rapido explicando los conceptos que muchas veces pueden ser muy densos sobre todo cuando no tienes demasiada experiencia con esto, pero es muy bueno. aprendi mucho.
-Muy buen curso. Sin embargo, hay bastantes problemas con el corrector automático que causan muchos quebraderos de cabeza innecesarios. Pero salvo eso, es muy recomendable.
-A partir de la semana 1 faltan los subtitulos en español, que para alguna cosa más técnica pueden ayudar a comprender ciertos aspectos más complejos a los hispanohablantes
 Video lectures are easy to understand, but assignments are pretty hard as per knowledge obtained in these lectures, but that is okay because there is no spoon feeding you.
 to accomplish the assignment, far more knowledge than teacher had taught. actually it is not good for true beginner. I really need to ask others for biggggggggggggg help.
 Instructions should be clearer in the assignment page. Otherwise over-reliance on discussion forums may tend to steer some candidates away from completing the assignments
@@ -1411,7 +1374,6 @@ This was a great course. But I would advice programming newbies to really be com
 The data could be made available. That available in the links have been updated and the code does not apply to the dimension of dataframe mentioned in the notebook.
 Nice and very much informative session on Data science using python where we learns a lot and also completed assignments which is really a tough level assignments.
 it's a nice course, more project based than theoretical, challenging assignments and good instructors. it spurs you to do a lot of research and individual learning
-Es un buen curso. Me parecío demasiado rápido el teórico y demasiado escueto. No me gustó que en los assignments hubiera que buscar tanto dato en fuentes externas.
 if anyone want to learn data science through practical approach then with no second thought enrol to this course .thanks to cousera for providing me financial aid.
 Most of the work is on your shoulders, I think it needs more practice session on pandas. Wes McKinney's book are strongly recommended for help  through the course.
 It took a lot of self-study, practice and much more hard work than expected at start of course. But at the same time it increased my knowledge manifold. Worth it!
@@ -1483,7 +1445,6 @@ The help in the forum was good, the assignments were fun although I always had s
 The assignments were challenging and cool. Lot of self-study needed to crack them. The lecture videos could have been a bit more interesting.
 The assignments were very interesting  and the teaching also was very good. The main help was the provision of notes in the jupyter notebook
 assignments quite challenging , way more time needed than the est. times given by coursera. happy I could finish it. on to the next course !
-Curso interesante para iniciarse en la librería pandas. A veces vas algo perdido pero dedicandole esfuerzo y atención aprendes muchas cosas.
 Could have been more challenging and worked with more interested bigger datasets but was a great way to get up to speed on pandas abilities.
 The course is really nice, hands-on all the time. Some questions of the assignments could be improved to avoid ambiguity/subjectivity tough.
 Not beginner friendly, great assignments which require "stackoverflow" skill. you actually learn from assignment. Videos are not that great
@@ -1558,7 +1519,6 @@ Takes some more time than it is said in the course. I  didn't have any experienc
 it was really good and challenging and of course it made me feel like i'm solving a problem for a job or a life experience
 A very good course for any aspiring data scientist to improve their data wrangling and pre-processing skills using Python.
 The Video content is not satisfactory. The content must be improved. It does cover only the edge. This should be enriched.
-Curso muito bom e esclarecedor, apenas as atividades a serem desenvolvidas que são um pouco mal apresentadas ao estudante.
 Good course - requires a lot of self-learning, but that's not a huge problem.  I think we could use a little more support.
 The course assignments were very helpful in understanding the concepts better while encouraging the students to self-learn
 The assignment is useful, however, the grading does not give much information on the submission except the points awarded.
@@ -1594,7 +1554,6 @@ Course is very interesting and video lectures ar worth understandable as well .n
 It needs more examples of how things are done, so that all new key concepts are grasped before leaving for the next.
 Good info and subject matter. Be prepared to spend a fair mount of time coming up with ways to practice on your own.
 Assignements could be explained better (Maybe i'm not english native speaker), but i learnded a lot withnthis course
-Buen curso, las actividades son mas difíciles de lo enseñado en clase pero sirven para mejorar el conocimiento base
 Great course, the exercises are a little bit confusing, but you need to read the forum to get the right directions.
 Great course really, and a great Tutor. I just I feel emphasizing more about certain subjects would've been better.
 I would give 5 stars if the developers update to the latest version of pandas. It was a bit annoying to use 0.19.2
@@ -1609,7 +1568,6 @@ great lecture, try to deliver lots of information in 4 courses. would be helpful
 More time consuming than advertised.  Good overview.  Lighter on the stats, and heavier on the coding in python.
 It is indeed a great course for those who already have some programming skills. The instructors are really good.
 The explanation of the code written and methods could have been much more elaborate for understanding it better.
-Un cours intéressant avec des exercices (assignements) plutôt complexes parce que peu guidés. Un vrai challenge.
 Tasks sometimes a bit tacit to understand what exactly should we return and in what format, but course is great!
 The course outline is good, though there can be some more details about submitting the answers to the questions
 This course is good, but the assignments are really tough for those who do not have any programming background.
@@ -1677,7 +1635,6 @@ A very good course for a person who is not familiar with Python and would like t
 From module three it is a bit difficult to understand but with a little extra work can be achieved
 Very good course with some challenging assignments that put to test many of my python capabilities
 Assignments are really hardIt required very descent coding. Problems given are not for beginners.
-Sales con buena idea de pandas y de como tratar datasets, limpieza, union, obtener datos, etc...
 This course is really helpful me to start data science as a career. Thank you course instructor.
 Great experience to learn Data science in Python. Looking forward to explore more on this topic.
 assignment is too hard, and no guide for it. It takes too much time search relavant information.
@@ -1697,7 +1654,6 @@ The course is good. But is very fast-paced. You do need to have a good experienc
 The final assignment is very tough and needs more tutorial help and more descriptive questions
 Grate material. Some of the videos are not correctly cut, making them a bit confusing at times
 requires too much self-learning,could be overwhelming to those who lack concrete python basics
-这门课程还算比较可以的。自学内容适中，主要教你如何用pandas模块。学完这门课程，基本可以达到熟练使用pandas模块。非常有帮助。个人觉得，作业还是有一定的难度，从一个中国人的角度看。
 Very nice course. The only problem that I found was the lack of exercises between assignments.
 Good introductory course, but I must admit that the assignments are not explained well enough.
 it was really a good course, But there should be detailed explanations as it is for beginners
@@ -1720,7 +1676,6 @@ An excellent course except in the last Week in the last video. The material is n
 a very good introductory course for learning pandas and basic data manipulation with python
 Lectures are shor but effective. The assignments and projects helps more in self learning.
 Very useful course who are interested in Data Science. This is gonna be a very good start.
-Muy buen curso! Se torna difícil si no tienes bases de programación! En general muy bueno!
 It is very well structured, but it could be better. The lecture went in a very fast phase.
 Good introduction to Python and Pandas. Well-crafted exercises to build skills with Pandas
 This course is very challanging. But when you got the certificate you also imporve a lot.
@@ -1775,7 +1730,6 @@ Great course, it would be nice to have more interaction and feedback from TA's.
 course was good but teaching material was not enough to complete the assignment
 Assignments needs slight polishing. Otherwise course delivers what it promises.
 It is a good course but it would be better if they involve some more excersise
-通过这个课程，学习了pandas和jupyter noterbook，都是非常好用的工具。作业很有挑战性，但是遇到问题都是自己解决，助教提供的帮助比较有限。
 It's a nice course. But it's quite difficult for me to finish the assignment.
 It will be excellet if we can get more resources for learning. Thanks a lot .
 since i'm a new bee to python i am expecting little bit slow  of explanations
@@ -1862,8 +1816,6 @@ If you could also provide written material, that would be great.
 Good Experience and learning. Overall gained a good confidence!!
 There were some gaps that were tough to bridge, but I got there.
 The course is good in general but the grading system is a pain.
-Falto poner o darle incapie más a fondo a la libreria de pandas
-bastante bueno aunque mucho tema fue buscado independientemente
 Very vigorous course. A little hard but will learn quite a bit.
 It was great but I lack suggested solutions after assignments.
 great course. I would add more classes about the distributions
@@ -1890,7 +1842,6 @@ Very good introduction.  Assignments were really difficult.
 Was quite condensed and not explained fully in some places.
 Assignment 3 is very ill-planned rest of the Course is good
 Great content, just some parts need a bit more explanation.
-Последнее задание, требует подгонки данных? Очень странно..
 This course is best to start in Data Science for beginners.
 Very effective course to start with Data Science in Pyhton.
 It has its problems, but it's a great start to Data Science
@@ -1959,7 +1910,6 @@ Some directions were confusing but learned a lot
 I found this course very useful and challenging
 Need to have more guidance for the assignments!
 some of the automatic revision has some issues.
-Auto grader needs better debugging capabilities
 very good course and the lecturer is very good.
 The last week module was not very much cleared
 The course is very good so as the instructor .
@@ -1993,7 +1943,6 @@ It was nice platform to learn data science
 It's more self-learning. can practice more
 try to explain more in the course material
 write python code in easiest possible way.
-Poderia ter mais exercícios para praticar.
 Assignments gives more practical knowledge
 amazing course and great deal of knowledge
 good course, helps in enhancing knowledge
@@ -2021,12 +1970,10 @@ The skills I learned are quite useful.
 The online platform has trouble saving
 Thanks for the giving good stuff to me
 Challenging and worthwhile for a MOOC.
-Some assignments questions are tough.
 Some interesting usage of the python.
 Too much bug but the forum is helpful
 the grading system should be improved
 The instructor should lower the speed
-wonderful app to develop your skills
 amazing experience and a good course
 a bit hard for new learner, but good
 I have learnt a lot from this course
@@ -2036,7 +1983,6 @@ A little hard but very informative.
 please enhance lecture delivery way
 Nice course , and very informative.
 Very self-directed and challenging.
-作业难度太大；在课程讲授和作业之间缺乏必要的平衡。需要大量的课外自学。
 A great course, Highly recommended!
 The test is too hard for beginners!
 Great course but could be improved.
@@ -2044,21 +1990,18 @@ Very difficult course for beginners
 The test descriptions are ambiguous
 good solid intro to python munging.
 autograder is not fun to work with
-作业确实难，但课程也很棒，如果课程能再多一点实例讲的更细一定会更好！
 ITS WAS A GOOD EXPERIENCE FOR ME..
 Good way of starting Data Science.
 Could have been more interactive.
 That was tough but it was worthy
 The week4 could have been better
 accent is not easy to understand
-DIFFICULT FÖR ME BUT REALLY GOOD
 Good course with great practice.
 The ipynb service is not stable.
 my overall experience was good.
 expected much more but its good
 Assignments are little tough :)
 too difficult for first learner
-not enough practical exercises
 i loved it... very informative
 Too fast, not enough examples.
 I earned a lot in this course.
@@ -2085,8 +2028,6 @@ the assignments were hard
 Good introduction course!
 Nice introductory course.
 Good Learning opportunity
-VERY WELL BALANCED COURSE
-some tasks were ambiguous
 Efficient and Worthful!!
 Overall very good course
 Good Learning experience
@@ -2094,48 +2035,30 @@ best course of beginners
 Learn a lot with Pandas.
 It's a little difficult
 Good overview of python
-excellent for beginners
-可以学习到很多东西，但是作业稍微有些过于超纲。
 this is a great course
 to heavy coding for me
-fabulous experience""
 Great Explanation..!!
-Pizdec, no ya shmogla
 Good and Interactive!
 Great for entry level
 The coursse was good
 Good difficult  labs
 It is good for learn
-videos are too brief
 Its great as intro!
 Difficult but loved
 The content is good
-'Cortito y al pie'
 Excellent teachers
 pace was too high
 very useful and I
 Good instructor
-Excelente Curso
 Thank You sir..
-Quite Difficult
 Was pretty good
-i enjoyed a lot
 Nice teaching.
-讲课很不错，作业难度有点太高
 bit confusing
 right course.
-it fantastic
-感觉讲的一般，主要看自学
 best I think
-hard. good.
 Gud Enough
-good workk
 got basics
 abithard
-too hard
-pogger!
-godd
-di.
 I thought this was course was good, and was fairly challenging for an online-only course. I thought the lectures could have been a little longer to ensure proper coverage of materials and functions.
 Excellent
 material. Admittedly I can see why there are so many negative reviews about the
@@ -2240,7 +2163,6 @@ This is one of the best courses on coursera by offering, the instructor Christop
 This is an excellent start to Python, showing the basics of lists, dictionaries, tuples, Pandas Series and DataFrames, and numpy. The lectures are concise and hit the right elements to get a quick grasp of Python. The assignments are sometimes with real-life data, which makes the course particularly engaging. During the assignments, the hands-on approach really helps a student grasp the details and delicacies of the different Python and Pandas objects. As an improvement, I would say that some of the text within the assignments could be expanded to nip any possible confusion in the bud.
 As a python newbie, I found this course challenging yet so much fun to learn. Dr. Brooks presented the lectures in a very organized way and made them easy to follow. If you have experience in R, you probably would pick up Pandas real quick. Students are expected to devote a lot of time into the assignments and try to find the answer on your own. But with all the great tips and clarifications from our diligent mentor Sophie Greene, it's definitely achievable.Will take the other courses in this specialization and definitely recommend it to anyone who's interested in data analysis.
 "Introduction to Data Science in Python" is very good introductory course for Python DataFrames/Series and related data interpretation methods. I got to learn to read in excel/cvs/text files and clean them and extract meaningful data. The final assignment was very informative into how applied DataScience work. Overall its an intermediate level course with ample coding to do and experiment. It is a very hands on course which is most essential to understand fundamental concepts clearly. I am happy I took the course. Looking forward for the next course on visualization.
-Es un muy buen curso. Lo que lamento que es que el Autograder es Todo o Nada y es imposible tener menos de 100 puntos. El codigo puede tener cosas buenas o no tan buenas, pero no todo esta mal.No logre aprobarlo en la ultima Q6  pero en general es muy buen curso. Quizas por el tiempo que uno dispone , puede ser poco para profundizar mejor el estudio. Yo trabajo en area TI de Retail y en estos dias de fin de año es dificil..Muchas gracias a todos. Quienes preparan el material y a los instructores.Un abrazo para todos...menos para el implacable AutoGrader..AtteRicardo
 This is an excellent Pandas bootcamp but be prepared that you have to invest more time into the Labs than in other Coursera courses.  You should know some Python. I found the Python-Specialization from UMI a good basis. Some prior knowledge on working with data can be helpful.After some introductory videos you have to find your own way for solving the Labs. I found this very realistic. Later nobody will ask you how many Python functions you know by heart but you will get tasks and you have to find a way to solve them with Google, Stackoverflow etc.
 this is a challenging course if you are just coming out of the Python Intro specialization.  Much self learning is required, however that is how most programming happens, so I think overall this is a very good course to partake it.  I don't know if perhaps the questions could be worded more clearly, as much time was spent trying to understand them, and I had to resort to the discussion forums to clarify their intent.  In any event, that might be also reflective of difficult demands in the business world, so I still give this course a 5 star grade.
 This is an excellent course. The professor builds concepts very naturally, lectures well, and gives good examples. Most of all, the exercises are really designed to test comprehension and the final week's assignment is an example of a real world question using real world data that must be cleaned and interpreted to test a simple hypothesis and derive an answer. This course has made me feel like I have the tools I need to take on my own datasets. Even the optional reading/listening assignments in this course are interesting and thought provoking.
@@ -2326,7 +2248,6 @@ After studying the course of Andrew on Machine Learning, I want to study a cours
 Great overview of Pandas and ETL using Pandas and Python.Assignments and final project were challenging and realistic in terms of how you might use Pandas and Python in real world situations.The auto-grading of projects can be annoying with error messages that aren't clear or accurate. If you aren't clear why an answer isn't accepted, then don't hesitate to search the forum.
 It's been a phenomenal course. Highly recommended for new comers. Instructor teaching style was marvelous . Professionalism was there. Moreover course demand reasonable analytic and programming skills to do it properly quickly with proper understanding.  Learnt alot of new ways of data manupulation which i have not done before. Thank You Coursera Team for making it possible
 Excellent course with rich mixture of course material from useful video lectures, quizzes, links to published papers and supporting websites, book references, discussion forum and of course the interactive online assignments. I appreciated the course submission process and the ability to check and re-submit assignments. Cant wait to start the next course in the series.
-Tiene cierto grado de dificultad el curso sobre todo para principiantes como fue en mi caso pero con la ayuda de los foros, repasando los videos y haciendo labor de investigación por cuenta propia y sobretodo con ayuda de Dios pude aprobar el curso y me siento muy contento y orgulloso por el logro obtenido pues el esfuerzo, tiempo y dinero invertido fue considerable.
 This was a great course to learn Pandas and to feel capable of manipulating data in a Pandas Dataframe.  The class was laid out very well with quality instruction and good examples in the jupyter notebook.  The homeworks are where I learned the most as I really had to understand the material to complete them.  I'm looking forward to the next class in the certificate.
 Requires a tremendous amount of self-study and trial and error if you're starting from ground zero in terms of pandas knowledge, but the reward is a level of comfort and facility with pandas dataframe manipulation. Definitely a learning by doing experience. Cleaning datasets and manipulating dataframes turns out to be pretty fun once you start getting the hang of it.
 The course is challenging for a newcomer to Python. The instructors rely on the student's self-learning to fill in the gaps needed to solve the course assignments. It's been a great way, albeit a little stressful, way to learn. The course also does an excellent job of keeping the student grounded as to implement a high ethical standard when practicing data science.
@@ -2375,7 +2296,6 @@ This is a very well organized course with a great introduction to data science. 
 Excellent course with learns you the basics of python for data science. Prof. Brooks has a very clear way of explaining things. Some experience with programming in for example R or Matlab comes in handy, especially for the assignments, so I would opt for a more introductory course to Python if you don't have that experience.
 Many of the questions in the  Assignments were written in a confusing manner thus requiring a LOT of time to figure out what the request was.  However, the WHOLE course and the learning was absolutely outstanding.  Thank you for putting this course together and the Forum information that helped to figure out the Assignments.
 This is an excellent starting point for people broadly familiar with data analysis and programming but unfamiliar with pandas/python. The only minor complaint I would have is that sometimes the questions for assignments are a little vague. Overall, for me, this course was perfectly paced and the lectures are staggered well.
-Excelente curso para reforzar los conocimientos en Python y poder analizar distintas bases de datos. He descubierto nuevos enfoques para el tratamiento de la data , y sobre todo, contar con distintas formas de escribir el código para ser más eficiente. El profesor que nos acompañó durante el curso es muy claro y didáctico.
 This course is an overwiew of the data science tools in Python 3, very good place to start for beginners. I did not have any prior python lang experience before i started this course, but now i feel much comfortable importing, manipulating data and draw conclusions about it. Thanks for making it happen TA's and Mr. Brooks!
 Very comprehensive introduction to Pandas. However, assignments could have been more clear and there are certain questions on the coding assignments that are problematic. For example, one question on Assignment 3 is (according to the discussion forums) subject to a bug that causes the autograder to incorrectly dock points.
 Wonderful, wonderful course!
@@ -2387,7 +2307,6 @@ What a fantastic course to get you into data science.  Real world examples, rele
 I got the opportunity of learning Python Basics through Dr Chunk's Python for Every Body, Now through this course I got the hands on experience of working with Data in Python using NumPy and Pandas, ya Its awsome journey overall. Thanks Coursera and University of Michigan for bringing us such a great Learning opportunity.
 Really handy and useful materials. However, if we can share our codes online after receiving the certificate will be really helpful. Cause although I finished the course, I still find some of my code is repetitive and not pandorable, and I would like to learn from other talents. Thanks Coursera and University of Michigan.
 The project that is the end assignment is a very interesting exercise with real life application of information that is readly available to the public for real-world decisions.Aside from that, it is a great course that scratchs the surface of what Pandas can do and open wide open all the possibilities it can give you :D
-Un curso con un gran enfoque para comprender las bases de la data science y empezar a desarrollar la forma de pensar de un científico de los datos, aportando no sólo las herramientas técnicas necesarias sino también éticas y morales para ser profesionales integrales en nombre de las ciencias, la conciencia y la virtud.
 During the course duration, many times I felt that there are lot of ambiguities in the assignments and they really tested my nerves and patience. Often due to version change, I got errors in my assignment but like everyone says "All's well that end's well". Happy to receive the certificate from University of Michigan.
 I loved this course module and resources. More specifically Christopher Brooks's references helped me a lot to strengthen my Python panda knowledge and statistics knowledge. To me, assignment 3 and 4 was challenging but while I started to solved it I learned something extra form python documentation and StackOverflow.
 excellent course! learned a great deal of things. before-hand knowledge and basic python and basic stats helped. Perfect course for a beginner wanting to learn data science. The assignments were slightly more difficult than what i expected but the discussion forums helped a lot when i was stuck. Highly recommend it.
@@ -2485,7 +2404,6 @@ Good course for those people who are new to Data Science or looking to switch yo
 It is good, but definitely not for beginners. The assignments require quite a bit of prior knowledge on programming and statistics. To be fair, this is mentioned by the professor on numerous occasions as well. It took me about 15h to complete the course.
 The course is well planned .Before starting this course you should have basic understanding of Python , numpy and Panda.After completing this you will know techniques for data cleanup , reading and updaing a dataframe and many more  other ideas. Thanks.
 This is a great class. I didi not know Python very well, so I had to look up a bunch of stuff and I struggled on the lab assignments. But I was able to complete everything!  I learned a great deal about data frames. Looking forward to the second course.
-O conteudo do curso é bem detalhado, o bloco de notas do Jupyter ajuda bastante o entendimento das video-aulas, e os assignments são bastante desafiadores fazendo com que os alunos tenham que ir atras de novos conhecimentos online e aprendam ainda mais.
 This Course is wonderful for someone who has just started their learning path towards being a data scientist. It has all the basic exercises to be done to gain the kick starter knowledge on the numpy, pandas library for data wrangling and data analysis.
 Really useful. The approach of 'learn by yourself by solving this assignment + active discussion forums frequently visitied by the teaching staff where you can get a solution for any issue that shows up' is a good one for learning a programming language
 I really enjoyed the experience. The videos are precise and give examples for the materials discussed. However it feels a bit sparse on the overall length. On the other hand the exercises test the knowledge acquired through the course and self learning.
@@ -2495,7 +2413,6 @@ It was an awesome course and learned a lot from it, although you have to search 
 This was a very good and most importantly intense hands on course. I could develop good amount of skills in data analysis even though I was not aware of anything in the field. I recommend it to all who wish to start learning data science from scratch.
 The Lectures are good but the assignments are tedious and you will have to browse the net and documents for the answers. The difficulty level of assignments is excellent and it prepares you for the future roles and codes in your data science journey.
 This course is a great introduction to the Data Science World and provides essential knowledge in the field. Moreover, Professor Chris Brooks explains all the topics in an understandable way, which makes the course contents clear and easy to follow.
-Gran curso introductorio, desarrollas buenas bases, durante las tareas necesitas investigar mas herramientas por tu cuenta eso sin duda te prepara para la vida real, donde muchas veces no sabes como se hace algo y necesitas investigar como lograrlo.
 A course for all who want to start pandas. Nice and useful jupyter notebooks. Useful assignments on real data. Forum helped me to get over obstacles. After completing that course one should feel some steps closer to be a professional data scientist.
 This is a fantastic introductory data science course on Python! I was wondered by the course structure, in-browser code editing and submitting. The first course which granted me an understanding of data cleansing, pandas and python for data science.
 The course is very helpful, especially for a people not using python before. It provides solid python knowledge related with data science. The lesson is compact and clear. The assignment is not easy, I spent much more time than the hours suggested.
@@ -2589,7 +2506,6 @@ Excellent course for a detailed introduction to pandas. The assignments were gre
 It was bit fast, but overall the quality of assignments was really good!Took me  a while to solve the assignments but the questions  were of good quality and skill.Thank you University of Michigan!Thank you Coursera!!
 The videos are pithy and the exercises are challenging for beginners. This class is an introductory course, but not from scratch. If you haven't dabbled with Pandas before you may find this class extremely fast paced.
 good starting pointing to get familiar with pandas dataframe through the assignments and project. I had to read other resources and watch other videos online to complete the assignments, but I think that is the point.
-Debes tener al menos un nivel de conocimiento del tema, los ejercicios son retantes para los que apenas estan empezando. Por lo que, sugiero en cada ejercicio leer o complementar las clases con documentacion externa.
 Very Beneficial course and full of skill in that era .Every Student must learn that course.Thanks to the coursera platform for such type of educational activities .Thanks to the Instructor and University of Michigan.
 The Course was to introduce the attendee to Data Science in Python and did a great job. I was introduced to most of the basics and I am happy with what I was gone through from Day 1 to till date.Thanks for everything
 Recommend this course to people new to Python and want to learn basic data science techniques quickly. Very inspiring lectures given by professor and very helpful instructions given by mentors and teaching assistant.
@@ -2648,7 +2564,6 @@ This is great course! I liked balance between theory and practice. And also task
 It's very useful specially for new learner because it only dives into the part of python that data science need. I strongly recommend to anyone even if you don't have experience in programming before.
 To be an introductory course I struggled a lot, is a very practical course, and the assignements encourage you to learn more. This is the best technical course I have taken.  Lo recomiendo ampliamente
 This course is extremely challenging for me I was practicing data wrangling with R which is not a lot different in concepts but it gets very tricky especially with indexing.Thanks for the Experience!
-Um curso intenso e bastante prazeroso. Gostei de todas as etapas, os videos funcionam bem e estão construidos numa base introdutória, mas o desafio é pesquisar e pesquisar. Muito interessante mesmo!
 Great course, make sure you are comfortable in Python before diving in.  Covers basic DataFrame work including cleaning, generating new data from existing data, and how to execute merge/join/update.
 Awesome course! I haven't done any course like this. Explanations were very clear and deep, which is very helpful to learn the content. Thanks a lot to the professor and the University of Michigan.
 It is a great course to get started in the field of data science. It just require basic knowledge of python. This course teaches you basics of numpy and pandas and how to apply them in data science
@@ -2685,7 +2600,6 @@ I really enjoyed the course. I learned a lot! It would be nice to give "sample r
 Very challenging course. And I thought I knew Python. I learned much, much more about Pandas, idioms, lambdas, regex, etc. I will be able to be more productive at work with all this. Thanks.
 I found it pretty challenging as it encourages us to find ways to solve the assignments by our own. I really enjoyed the moment when I finally passed the last assignment Hahaha. Nice course
 I have learnt alot from this course. I have previously taken a few courses but I always got stuck at some point. Course outline is good and Assignments were a great help in moving forward.
-très bien, prévoir l’organisation avec du temps pour les épreuves de certification (3 ième semaine surtout peut prendre une dizaine d’heures de travail et recherche selon le niveau python)
 Great course! Strongly recommended to everyone who is interested in learning practical details of data manipulation. I really learned a lot through the course and Stack Overflow questions.
 This is amazing. I like a course which challenges me to do what they have taught and this  course knocks that boundary off the field. In love with this course. Really challenging, love it.
 Assignments are tough, But there won't be much learning if the assignements were easy. The discussion forum helped me a lot, and teaching staffs were always available to answer my queries.
@@ -2710,7 +2624,6 @@ This course is a great approach for both beginners and advance programmers who w
 excellent material with a good flow in tutorial. great use of technology for teaching. Also, the involving exercises really test one's understanding. A wholesome experience over all!
 As the course name suggests, it's a great start to get a good knowledge of Python for DataScience which is required if you are interested in participating in Data Science Hackathons
 The course requires knowledge of python as well as a programming aptitude. The assignments encourage you to go deep into the pandas library and improve upon the learning experience.
-Es muy bueno el nivel, ni muy básico ni muy avanzado, y el profesor es muy claro y se ayuda de ejemplos de gran utilidad para facilitar el entendimiento. Los exámenes son retadores.
 I like the course very much, it will be useful for career prospective. I have taken courses in different sites, but this is especially to good in practice , assignments and grading.
 This course has allowed me to improve my data analysis skills and I have already been able to use many of the lessons learned to create more insightful and efficient reports at work
 Everyone should take this course.Real Challenge is in the assignment.I have done some other courses but it helps me to think better about the problems faced in the assignment.Thanks
@@ -2776,7 +2689,6 @@ Great course.I would like to thank all people involved. I applied the techniques
 This is a nice course, even though lecture seems easy, bu programming assignment is very interesting, challenging and inspiring. The discussion forums is very helpful.
 Excellent course - I grabbed to increase my confidence in applying Python for data analysis. It definitely improved my coding skills. Will do next course on plotting!!
 Excellent overview of the topic. Lectures are well delivered, if a bit terse. Assignments are well designed, and the mentors in the discussion forums are very helpful.
-El contenido del curso es muy completo y claro, además las tareas son muy enriquecedoras de realizar y nos motivan a investigar y practicar por nuestra propia cuenta.
 I really enjoyed learning. The course really enhanced my knowledge in Data Science . The assignment are pretty hard and  good . At last the course is really worth it.
 I feel this course really helps me build a solid foundation of Python coding. It covers a wide range of coding details and encourages students to learn by themselves!
 Amazing first course on Pandas. I can confidently say i feel more confident with Pandas, and basic Python for data science programming after taking this first course.
@@ -2859,7 +2771,6 @@ Challenging, and some of the questions were poorly/wrongly worded. But the exerc
 it's a really good course .it's not like a traditional course in university in China.You should put all your efford to finish it.And it full of challenge
 Very informative and useful. Will teach you functions you did not know about. Simplifying certain tasks that you may have done "the long way" previously
 A very great course for people who are good with some programming language other than python.This course will teach how to do data analysis using Python
-Este curso no tiene desperdicios, en realidad vale cada peso y tiempo invertido. muchas de las cosas aprendidas en este curso lo aplicare en mi trabajo.
 Is challenging and you learn about a bunch of different aspects of pandas. Never forget to take notes about what you are learning and review them later.
 Great course if you know some programming in other languajes. I would recommend have a previous Python course if you do not have any programming basis.
 Nice starter course to getting aware of Data Science using. It has enough scope for self learning which keeps student challenged throughout the course.
@@ -2901,7 +2812,6 @@ This Course is really amazing and covers broad concepts but it is a little bit o
 Good solid course to learn the foundation of python. The level is not too basic so you can really learn if you are at the beginning of your path
 The Assignments are really tough and need a lot of self study. However, If you are a person who learns by doing projects this course is the one.
 Though I felt it's too fast for me at the beginning. I caught up with the speed and the explanation is really good with assignments in between.
-El curso muestra de manera progresiva el uso de la librería pandas y pone a prueba las habilidades de cada persona para enfrentarse a problemas
 Fast and intuitive course introducing Python and Data Science. It is filled with exercises and notebooks that helps you assimilate the content.
 Great module with very practical assignments. I found it a bit challenging, but that's what makes you dig deeper and develop your logical flow.
 Briskly paced course for those new to Python and/or Pandas. Good weekly exercises that ended with a real life data analysis exercise in week 4.
@@ -2923,7 +2833,6 @@ I really enjoyed this course. I found the instructor very good and the assignmen
 i have leant a lot from this course and i revised my python also and get sum knowledge of pandas and many in this course thank you coursera
 it's really great! I've learned alot~ (btw: it realy have some difficult to pass the assignment, if u don't looking to the forum for help )
 This is a very challenging course for newbies in python. But forces you to learn a lot in a very short amount of time. Highly recommend it!
-Лучший курс в котором можно почерпнуть основы Numpy и Pandas для анализа данных и использования в разработке связанной с машинным обучением
 Cover lot of details quickly, but the assignments is tough and it ensures that you understand the concepts covered in the class and beyond.
 Very dense, well taught, examples and assignments help in the learning process, I've done many, many Coursera courses, this one in the Top5
 Awesome Introductory Course to Data Science. This will help me in my field of study and help me branch out to other fields as well. 10/10.
@@ -2969,8 +2878,6 @@ Excelent course for quickly start using python for data analysis. After only the
 A clear and well structured introduction to Data Science in Python. The instructors are clear and knowledgeable on the topic. Thanks
 The lectures were good and the the programming assignments were very challenging.Thank you very much for a well organised course. :)
 The assignment has real-world data. It enhanced my knowledge of cleaning, merging, manipulating, and test for significance in data.
-Excelente curso, inicia con lo básico pero a medida que se avanza en el se sube bastante el nivel. Muy agradecido con lo aprendido.
-Otimo Curso,para quem está iniciando seus estudos em ciencia de dados e o melhor tiveram a colaboração de legendar o mesmo em PT-BR
 Amazing course! The course was built so nicely and made sure that the learner used every tool available to improve their knowledge.
 Excellent course content. Specially i would like to thank University of Michigan and the Instructor for framing the course so well.
 Some of the assignments could have been more explicit about the expected output. But, otherwise very hands on with some messy data.
@@ -3051,7 +2958,6 @@ Overall a very introductory and informative course, simple but a lot of very pow
 Great Course! Will never forget this experience of self learning when I'll be working professionally.Thank You Coursera
 Simple but yet a powerful course to introduce data science. Everything taught from scratch by such an amazing professor
 Great crash course, strong community.  Amenable to self study, as the community is very helpful for when you get stuck.
-有很多编程作业都是干货，能学到很多知识。比中国的编程课受用多了，在中国要学完python入门课要花一学期大概是四个月的时间，而在Coursera上只需要四周，这是我第一次使用Coursera，我想我会继续使用的，感谢！最后，希望通过课程~
 Took me ages to complete the assignments given my limited programming skills! But totally enjoyed solving the problems.
 A great course for the basics of data science. There were a few tricky questions as well. Overall, a great experience.
 My first time with online learning and I found the instructional videos were very informative and professionally done.
@@ -3073,7 +2979,6 @@ I am pretty impressed by this course particularly I get to a lot about this subj
 It was a great experience taking this course, I learned a lot and the process of learning is perfect for self-study.
 One of the best possible introductions to Data Science! You'll end the course knowing how to really manipulate data!
 It is a very interesting course. Even being an introductive one, it has a high level and a lot of material to learn.
-Es un excelente curso para empezar a manejar las librerias y herramientas que ofrece Python. Lo recomiendo muchisimo
 This was an amazing course. Enjoyed studying with this course and the assignments were fruitful and challenging too.
 Great course, challenging - but not too hard.Good introduction to Data Science. Basic knowledge of Python is needed.
 This was a great and somehow challenging course , I've learned a lot from the subjects.Thanks to Michigan university
@@ -3125,7 +3030,6 @@ This course is very practical. It is a very good intro course to Pandas, numpy, 
 Best course to learn Pandas library and some basics of Python required for Data Sciences and Machine Learning.
 It's a really complete course that challenge you to improve in the knowledge of python when working with data
 Excelent course for data analysis, a great introduction for already knows a little bit of phyton programming.
-Excelente curso para iniciar en el mundo del data science, aborda temas básicos y las evaluaciones exigentes.
 Sometimes, between assignment and course lil' bit different but overall it's was fun way to learn new skill..
 If you have confidence in your logic ability, you can come here to try it, and you will have very good gains!
 This is a great course and has challenging projects that help any learner develop their Python Pandas skills.
@@ -3139,7 +3043,6 @@ It was an interesting course to me.I learn a lot from the course.It was not a ve
 This course is simple approach to one of the most sought after skills in the world. Would highly recommend!!
 This course is quite systematic  and helpful, though all assignments are not easy, but did help me to learn.
 everything was great except for assignment no 4. was very unclear, however blog and TA's are very helpful :)
-Curso muy completo e interesante, totalmente recomendable para iniciarse en el mundo de la ciencia de datos.
 Great course. Thanks very much learned a lot, especially with regards to how useful dataframes actually are!
 Much more practice-based than similar courses on Coursera - expect to spend a lot of time on Stack Overflow!
 it creates my base and provide me an overview of Data Science.Great assignments to play with real time data.
@@ -3148,9 +3051,7 @@ This is a great course to learn about Data Science techniques. The profesors exp
 Wonderful Instructor. Course assignment is strong enough to learn this things. Thanks for this great course.
 Extremelly intese and helpful, you can definutely master Pandas in a week if you practice 4-5 hours per day
 I've learned a lot in this course, starting by leveling my Python, to a lot of Pandas and Numpy, thank you.
-O curso é ótimo. Só recomendaria que tivesse mais teoria para resolvermos as assinações de forma eficiente.
 Really Nice Course....Very thoughtfully Curated contents making it easy to understand for beginners like me
-Tiene el nivel esperado, enseña muchos conceptos necesarios para la interpretación y manipulación de datos.
 Great introduction to data science in python, easy to understand although I don't have experience in Python
 Useful course to get familiar with Python. Assginments are tough but that's the only way to learn for real.
 This course helps me a lot! Thanks for all staffs. Hope the grader system coud give more specific feedback.
@@ -3200,8 +3101,6 @@ Excellent way to learn basics of Data Science using Python. I am very well satis
 It's a very good course to ramp you up in python pandas and in how to deal with data frames and series
 One of the best course present online, especially for someone very new new to python and data science.
 The course helps you understand the importance of data science and its application to the real world.
-c'est un cours excellent. J'ai pu parcourir la Data Science et savoir sa terminologie. Merci beaucoup
-Excelente curso. Las pruebas son muy difíciles, pero con el material disponible es más de suficiente.
 Overall, it was an amazing course. Include all challenges that you can see in real world experiences.
 Helpfull course, I learned a lot of skills for insiance, pandas ,numpy and dealing with large dataset
 The automated grading system for Jupyter notebooks isn't great, but the content itself is outstanding
@@ -3256,7 +3155,6 @@ Had been a good experience developing the first capabilities to data manipulatin
 Very nice course to learn pandas library.Assessment (especially last one) need better description
 I love so much this course. The material teaches clearly and easies to understand by the lecture.
 Brief and well-structured material as expected from university class. Self-exploration is a must.
-c'est un cours enrichissant il y'a beaucoup de chose à savoir mais bon en générale il est géniale
 Great course with amazing learning tools and a great variety of resources to take advantage from.
 Very good course with lots of hands on experience. Jupyter Notebooks are very good learning tool.
 Very nice introduction, I wish homework were more clear and the autograder was much more smarter.
@@ -3392,7 +3290,6 @@ I love this course. It's phenomenal. The assignments are great and lessons are c
 Very demanding and tough course, but I learned a lot and it was never too difficult.
 Great experience. Learnt a lot. Thank you Mr. Christopher Brooks for great teaching.
 Excellent course for the beginners. Could be challenging even for experienced users.
-Demasiadas largas las tareas, dicen una hora y media y facilmente estas todo un dia.
 Lectures were good intro into the material, but the forums had the most needed info.
 The course was wonderful. Really helped in understanding what Data Science is about.
 very good, but some difficult to finish the assignment if have no coding experience.
@@ -3407,7 +3304,6 @@ Very interesting course, with good assignments. It's a nice introduction to Pyth
 Great course. It provide a good platform to understand Python with Pandas in depth.
 This is an excellent course which should be taken when you want to practice Pandas!
 Excellent course and lot to learn, one of the best data analysis toolkit available.
-Excelente curso, retador y con un aprendizaje basado en proyectos. Muy satisfecho.
 Its a very GREAT course, specially for beginners aspiring to become data scientist
 interesting course, good challenges in assignments, brief videos and much practice
 Great introductory course for those who are a novice in the the field of big Data!
@@ -3415,7 +3311,6 @@ I really liked the Assignments given. They are a good way to learn and understan
 A very classy course. One thing you will face is the pace of the course is so fast
 It is a good course. Just add some study material with it for reference in future.
 Well structured course providing a good insight to Data Science concepts in Python
-Excelente curso! ensina bastante as ferramentas e seus testes exigem bastante :) !
 Great class, not overwhelming, right pace to learn when you are working a day job.
 I like the feelings of figuring  out solutions to each assignments in the course.
 Excellent course!teacher's explanation were good and assignments are challenging.
@@ -3431,7 +3326,6 @@ Professor has everything covered, and I really learned a lot through this course
 Nice course, you've to work hard to pass the course and definitely you learn more
 I like the course material and the instructor. He is concise, pleasant and clear.
 At the end of the course, I feel the confidence it has given me in handling data.
-Um ótimo curso para quem quer iniciar um aprendizado em Python e em Data Sciente.
 Because assignment 2 show 404 not found so this course always upset all students
 Excellent course !!! Assignments are fun and great to learn and test new skills.
 The pandas tutorials were really cool and the assignments were indeed inspiring.
@@ -3497,19 +3391,16 @@ Challenging and fun course. I can see how powerful this methodology can be.
 Thanks a lot for your work. It's a great course for data sciense in python!
 Very nice introduction to pandas for those who already know how to program.
 Excellent! A little harder for new students in python but very interesting!
-Las asignaciones estuvieron un poco difíciles pero pude aprender bastante.
 Aewsome and challenging course if you want to break in data science world.
 Excellent content and well presented. Assignment 4 could have been simpler
 This course is good and elaborative and the exercises are also challenging
 Loved the content and assignments. Learned so much! Keep up the good work.
-Me fue muy útil en la hora de conocer este nuevo lenguaje de programación.
 Those projects were so cool and a challenge. I've really enjoy that part!!
 Perfect solution for those who want to dive into data science with Python.
 This course was really worth paying!!!Thank you for providing this course!
 Great course.  Although I already knew python but I learned an awful lot.
 This course was very helpful to educate an individual about Data Science.
 It is a very good introductory course to data science field using Python.
-Well designed.. just now i started and i am getting proper undustanding..
 I was surprised by how much knowledge I got out of a 4 week online course
 One of the best courses on Data Science and Python, Keep up the good work
 Excellent intro course with a raising complexity of homework assignments!
@@ -3557,7 +3448,6 @@ it was hard as i hoped it would begood help in the forum(thanks Yusuf)
 Awesome course for someone who wants to brush up Python with Ds skills
 Excellent course!! Covers the basic concept of Statistics with Python.
 A great course! Assignments can be tricky to solve, but are rewarding.
-El curso esta muy bien explicado. Es entretenido y realmente muy util.
 Exceptional course to get a complete introduction to pandas in python!
 It was terrific, complete hands-on experience with real case problems.
 very nice explanations provided in the videos really liked the course.
@@ -3578,13 +3468,9 @@ By far the best course to develop programming skills in data science.
 Highly recommended course. Need to have prior programming experience.
 A comprehensive and informative course. It was really useful  for me.
 Great course for getting to grips with basic python for data science.
-非常具有实用价值，老师讲解也非常深入浅出，尤其是每周的最后测试，难度适中，既能帮助进一步巩固知识，同时也具有一定趣味性和实用性，很棒的课程
 very nice couse ...course material is good enough to learn new things
-Es un curso muy completo, solo faltan algunos subtitulos en español.
-Muy practico, enseñan de buena manera y los videos son muy conscisos
 An excellent introduction to pandas using carefully crafted prompts.
 I have learned a lot and thanks for the excellent lessons of python.
-Un muy buen curso. Muchas gracias por dejarme ser partícipe de esto.
 Excellent, everything easy to understand materials and video classes
 this course is excellent and it is very helpful for my other courses
 Excellent!!! Maybe add some statistics or math in the qualification.
@@ -3657,7 +3543,6 @@ Very good course for all Technical and Executive Data Scientists
 A very Helpful course for beginners to learn while learning ML.
 Great course, goes through all the basics and its very complete
 Excellent course! Very helpful to grow in my career. Thank you.
-Aprendí muchas cosas que me había tocado utilizar sin saberlas.
 The course content is very good and provide excellent knowledge
 the course very interesting very helpful and excellent content.
 it's a very helpful tutorial for starting data science learning
@@ -3692,7 +3577,6 @@ I loved the amount of hands-on practice, really helped a lot.
 Very good course!  I learned a lot in both Python and Pandas!
 Great course and challenging if you are still learning Pandas
 The course was very helpful. Learned a lot from the problems.
-Я научился работать с массивом данным с инструментами Python.
 Excellent introduction to data science with python. Thank you
 amazing experience.Learned so much in short time...well done
 Thanks, I learned too much and felt my skills have improved.
@@ -3707,7 +3591,6 @@ An intro to pandas. The assignment is very good to practice.
 Great introduction to Data Science! Thanks Professor Brooks!
 Challenging but definitely a good grounding to data science
 I have done several online courses this is by far the best.
-Curso muito bom. Dá uma base muito boa para entrar no ramo.
 A top level course to understand the basics of Data Science
 More detailed explanation should be provided in the course.
 Course structure keeps me linked to real time data analysis
@@ -3721,7 +3604,6 @@ Contents included in lectures do no match assignments well.
 I thank so much professor Brooks and the team of the cours.
 Excellent course and very good and challenging assignments
 Good course with nice material! Not too easy but feasible!
-Excelente curso, muy demandante pero se aprende demasiado.
 First ever cours which actually tests the knowledge gained
 An excellent course to enter to the world of data science!
 I think the tests are too hard or maybe I am just too dumb
@@ -3763,7 +3645,6 @@ The pace is fast but its interesting for the new comers!
 Thanking You Sir it was a very good course and I'm happy
 This course really helped me learn the basics of pandas.
 Finest one.! Best one for the starters of data science.!
-课程内容和assignment都很实用，老师讲授的也很清晰，如果auto grader能指出错误的地方就更好了~
 Easy to study. It's very useful for me. Thanks, Teacher.
 Very thorough overall, the assignments are very helpful.
 Amazing class to get a first effective insight of python
@@ -3820,10 +3701,8 @@ Love the little exercises during the lecture videos!
 Very informative, challenging, and enjoyable course.
 Amazing Course, would definitely recommend to people
 Course offers great content and good learning curve.
-python의 기초를 배우는데 아주 좋은 기회였습니다. 퇴근후에 수업듣는 것이 기다려졌습니다.
 Excellent Learning platform for beginners in python.
 Very good course, I found it challenging but doable.
-An excellent course, my code is more pandorable now.
 Assignments and projects weren't easy for beginners.
 Challenging course, definitely a very good learning!
 Good assignments and very logical teaching approach.
@@ -3838,7 +3717,6 @@ Great course to learn how to manipulate dataframes.
 Awesome content! Teaching methodology is great too!
 Excellent course with very challenging assignments!
 Very good course, forces to do a lot of self study.
-Useful and concise lectures, interesting exercises!
 EXCELLENT COURSE, VERY TECHNICAL. 100% RECOMMENDED
 Excellent course! I've learned interesting things!
 That's perfect journey! Especially in Assignments!
@@ -3847,7 +3725,6 @@ This course is really helpful for learning purpose
 Perfect place for beginners to learn data science.
 Excellent course. Like to join the next in series.
 The course is very good , it really helped me alot
-Excellent course. It provides hands-on experience.
 Amazing Course. Set my foundation in data science.
 Great course! real example to use pandas and numpy
 really interesting course and professors are great
@@ -3906,13 +3783,11 @@ Awesome course, not very easy, but very useful.
 Good. I learned lots of things from this course
 the course is really precise and explained well
 Advanced Python! It was hard, but I enjoyed it!
-Excelente curso. Adquirí muchos conocimientos.
 A great starting point for Pandas with Python.
 Course and Study materials are really helpful.
 Good Explanation  with detail Course Structure
 This is the best platform to learn new things.
 excellent course. Amazing learning experience.
-Amazing course to deep dive into Data Science.
 Very great level, and very complex, but useful
 Very helpful in learning basics of dataScience
 The course will be a good start for beginners.
@@ -3945,7 +3820,6 @@ Beautifully constructed for better learning.
 Learned so much about Pandas and it was fun!
 Excellent course on Pandas and data analysis
 Outstanding Intro to Pandas and data science
-Solid contents, best explanation, excellent!
 an eye opener to the data science world... !
 Excellent videos with detailed explanations.
 thank you very much for this powerful course
@@ -3967,8 +3841,6 @@ Good course to the point, short and simple.
 I'm amazed with what I've learned so far...
 A must watch course for beginners of python
 Very good Course for Learning Data Science.
-Excellent course for a beginner like me !!!
-Excellent introductory data science course.
 Very Good!! learned a lot from this course.
 I really like the course,and I like python.
 This coursed kicked me hard, but I learned!
@@ -3995,12 +3867,9 @@ Excellent course, material and instructor.
 Very helpful for learning. Suprisingly so.
 Very good introduction to pandas and numpy
 Simply AWESOME.Great Opportunity to learn.
-It covers pandas at quite sufficient level
-Excellent rendition and accessible content
 very useful and good examples for practice
 Wow, this course was intense but worth it!
 very good very interesting put max effort
-IT WAS VERY GUD BUT ITS NOT FOR BEGINERS.
 i realy like this course it help me a lot
 Thank you for this excellent opportunity.
 Wonderful course to get started off with!
@@ -4011,7 +3880,6 @@ Very nice course, and very nice teachers.
 very comprehensive and resourceful course
 Excellent course, good material for study
 Great course and mentors are very helpful
-Excelente curso de introducción! Gracias!
 Good and detailed material, well prepared
 Great course with challenging assignments
 this is a very great course for beginners
@@ -4054,7 +3922,6 @@ Very intuitive and highly interactive.
 Nice course with very good assignments
 simply the best intro to data science!
 Challenging and well worth the effort.
-Excellent course, i recommend it 100%
 Easy to understand and funny exercise
 one of the best course for beginners!
 Particularly good for learning Pandas
@@ -4083,7 +3950,6 @@ I can  learn a lot from this course!
 A great introduction to the subject.
 Great course and not easy to pass :)
 It was a great learning , Thank you
-A good course to begin data science
 Assignments took more than expected
 Great course for being data science
 I learn new topics from this course
@@ -4091,9 +3957,7 @@ great course to improve your basics
 It was a great learning experience!
 Very nice course and great learning
 challenging but I have learnt a lot
-Muy buen curso, sumamente práctico.
 Great course, but really challenge.
-Assignments are excellent practice.
 good balance of theory and practice
 Good introduction to Pandas library
 Great course. Challenging homework.
@@ -4105,19 +3969,15 @@ Good Course and well understanding
 thanks a lot for this great course
 The course was pretty informative.
 very good tutorial and assignment!
-Excellent material and assignments
 Very good introduction for Pandas.
 Very good course, thank all stuff.
 Very educational. I learned a lot!
 This Course is really fantastic...
 Great content and i love that....!
-Great Course, excellent exercises.
-Nice course to learn data science.
 Not easy course, but very useful.
 The perfect course to start with.
 very good course for data science
 Great Lectures and instructor !!!
-Excellent Course for Data Science
 heavy and useful course.thank you
 Really good to learn Python intro
 Nice Introduction to Data Science
@@ -4133,21 +3993,17 @@ quite interesting and challenging
 good teaching and good materials
 Thanks, such a great course !!!!
 Learned Pandas, thanks very much
-Excellent course and assignments
 Difficult course but interesting
-PRETTY GOOD 'PANDAS' ELABORATION
 lots of learning from the course
 this course is very useful to me
 It is highly informative course.
 great support also in the forums
-Excelente! Muy fácil de entender
 great course for learning pandas
 Very good teaching, very helpful
 Tough, but useful and worthwhile
 good course loved the teaching..
 Best Course for Data Scientist .
 Pretty good course for beginner.
-Data wrangling power up up up!!!
 very fast paced, but very useful
 Best specialization in Coursera.
 great stuff, modern and playfull
@@ -4166,7 +4022,6 @@ Great course! Very informative!
 Super Happy to learn new things
 Very good course, learnt a lot!
 Good class challenging but fun!
-Excelente. Va un poco más allá.
 Very helpful for data analysis.
 great course guys check it out
 excellent start to this course
@@ -4178,8 +4033,6 @@ I learne alot from this course
 Great course for any beginner.
 Very satisfied of this course!
 This is really a great course.
-Perfecto un curso muy completo
-Muy bien armado y muy claro!!!
 Very useful and entertaining !
 very excitedthanks instructors
 excellent to python beginners!
@@ -4198,29 +4051,23 @@ Amazing learning experience!!
 Its great course for beginner
 excellent and is useful to me
 Very good practice for pandas
-Best course for data science.
 Solid introduction to pandas.
 Assignment was very well set.
 Thanks professor learned alot
 Excellent, but so fast for me
 Great. I highly recommend it.
 Hard but worth of pursuing...
-Excellent basics Learnt a lot
 Very impressive, I like this.
 Great introduction to Pandas.
 Very informative and helpful!
-Better course for  Beginners.
 Excelent Course and Teachers
 the assignments are too hard
-Excelente curso muy completo
-Amazing Course For Beginners
 It was an awesome experience
 good teachers and background
 Challenging and interesting.
 Great Learning Experience!!!
 This is a great intro course
 good content and good course
-作业还是蛮有难度的，如果对pandas数据处理不熟练的话
 Really awesome introduction!
 Good introduction to pandas.
 Great course to get started.
@@ -4240,11 +4087,9 @@ Great Course. Knowledgeable
 It was very good, loved it.
 Amazing CourseThanks a lot!
 This is a very good course.
-Excellent Course curriculum
 Good introductory course...
 the homework is interesting
 very good course in pandas
-Best DA course I've taken.
 The course is very great!!
 nice platform for learning
 this is a very good course
@@ -4259,7 +4104,6 @@ It was a very good course.
 Hard course, but good ROI.
 Great course and material.
 Very helpful and demanding
-Excellent Introduction !!!
 It was very much helpful.
 It's really good course ,
 love this amazing course.
@@ -4269,7 +4113,6 @@ Great Informative Course!
 good,nice chance to learn
 It was a great experiance
 A very good introduction!
-Best Practical experience
 Happy to learn in coursra
 This course was amazing!!
 Very rich and challenging
@@ -4282,7 +4125,6 @@ Overall a great over view
 learn a lot about pandas.
 it is harder than I think
 Fully recommended course.
-Nice course about pandas.
 Very Useful and practical
 It's a very nice course.
 Assignments are too good
@@ -4295,30 +4137,21 @@ Very interesting and fun
 It's nice course for me
 Good Step-wise Learning
 Very Interesting course
-Intimidating but doable
 it's a great experience
-Best course in segment.
 I enjoyed it very much!
 very basic and  helpful
 Course was informative.
 Amazing course as usual
 good for our generation
-希望作業題目能有多國語言,英文題意有時很難體會
 Lots of great learning.
 This is good tutorial .
 Very well put together.
 great!!! learned a lot!
-Exceptional lectures..!
-Nice course, Love it :)
-Excellent Introduction!
 Good hands on projects.
-Muy buena experiencia.
 good and useful course
 Great course to learn.
 learnt a lot of things
-Excellent instructors.
 Lecturer was very fast
-Best Best Best Ever :)
 Good course for noobie
 This is a great course
 No words. Smashing one
@@ -4326,11 +4159,8 @@ Great hands on course!
 Very attentive staff!
 I was great!!! Thanks
 Tough and nice course
-Excellent Assignments
-Must for data science
 Amazing,easy to learn
 Really great course !
-A little difficult...
 very practical course
 very difficult for me
 I enjoy it! Thank you
@@ -4345,9 +4175,6 @@ Awesome introduction.
 it was realy amazing
 GOOD HELPFULL COURSE
 well designed course
-qwertyuisdfghjkghjkl
-Very helpful indeed!
-Excellent assigments
 really good tutorial
 Well designed course
 It's amazing for me.
@@ -4361,44 +4188,30 @@ It's really awesome
 Good starter course
 informative course.
 useful, inspiration
-impressive, helpful
 That's really good.
 Awesome Material :)
 Great pandas intro!
-A pretty fun intro.
 it's a great course
 Really useful stuff
 Great Intro course.
 I totally loved it
-Simplemente Genial
-excellent platform
 very much helpfull
 Thank you Coursera
-enjoyed learning!!
 It was quite good.
 A great course !!!
 Awesome Course!!!!
 It's hard but fun!
-useful exercise!!!
-Excellence course.
-Best Course ever!!
 Pretty good course
 Very Good learning
 Great intro course
 Challenging course
 Very good Course !
 So far, it is very
-magnificent course
 Very good lecture.
-Best intro course
 Thank You SO Much
 hand's on  course
 Very much helpful
-OMG!!! AMAZING!!!
-excellent course.
-GOooooooooooooood
 A little bie hard
-pandas is amazing
 very challenging!
 Truly insightful.
 Amazing Course!!!
@@ -4409,88 +4222,40 @@ Good one! Enjoyed
 its very useful.
 Nice teaching...
 Awesome content!
-useful resources
-Very Challenging
 one of the best!
-i really like it
 Really Great!!!
 Course was hard
 Very Meaningful
-very satisfying
 Very Beneficial
 it's a good one
-Nice Experience
-Hands on indeed
-quite practical
-Awesome work :)
-very good ....
 very efficient
-Thanks Shubham
-Exllent course
 very difficult
+Thank You! Sir
 just go for it
 Really awseome
 Good to learn.
 i'm lovin this
 It's great !!!
-Very engaging.
-Really good!!!
-Great turorial
-Nice course!!!
 Awesome curse
 Very helpful.
 Really superb
-amazing class
-Amazing good.
-Muy muy bueno
 A lot of fun!
 pretty good !
 It's awesome!
-Super useful!
 the best ever
-Excelent!!!!
 GOOD COURSE.
 Good starter
 Thank You (:
 GOOD COURSE!
 Tnx Coursera
-it like it .
+it's awesome
 Great one!!!
-Great fun :)
-那个notebook很赞
-GOOD course
 very happy.
-awesome !!!
-Excellente!
-Well done !
 Top course!
-Good COurse
 It was fun
 learn alot
-Marvelous！
-All good!!
 Hard to do
-nice class
-super....
-awesome..
-pat baliw
-Muy Bueno
+Thank you
 Worth it!
-老师讲得太棒了！
-You rock
 usefull
-Weldone
-cool ex
-作业难度有点高
 enough
-Nice))
-ggood!
-学习曲线略陡
-Top d+
-hjjh
-knl
-Nil
-tnx
-:-)
-rob
-어

@@ -27,10 +27,7 @@ Very very basic. Had expected more depth
 Very shallow course content.
 GCP advertisement only...
 The lab is outdated
-GCP commercial
 Just Good
-too man
-weak
 There is valuable information in the course and some good exercises, but they are hidden among many information which is not so useful. In overall it is an entry class to use the technology, but many customers already know this sort of things because they tested our products or the features we comment here are similar to features of other vendors' products. Their reaction when they are presented the technology for the first time is: "Thank you. My questions and issues are quite specific and not reflected here".
 Superficial. Little learning occurred. Basically a product presentation.
 Just from the lessons the quizes questions were hardly solvable. Of course with the review video, where the answers were publicated, reaching the 100% was challangless. The Labs were correct, but there were some bugst and errors, when the labs steps say something but with these steps the environment throw errors. Again there were videos where the presenter shows the steps, which were more or less the same as the labs steps, but with these plus steps the environment worked without errors.In the labs steps there were fill out type questions, but I wasn't able to fill them out. It would be great if these questions will be implemented into the quizes.
@@ -63,7 +60,6 @@ Mostly useless blahblah with only few pieces of information
 Sells too much Google and do not explain important things.
 Not a great course for learning. Didnt focus on concepts
 you should let the students program.
-many labs doesn't work
 I love the content Lak and the team generates and this is a great "sneak peek", but actually my experience in production is that details matter - a lot! This is why e.g. a 30 minute tutorial on deploying a deep learning model on a VM/CMLE, with pipelines in dataflow would actually take a few days to figure out. For the courses from GCP to be really effective, a section with gotchas is needed: how does that work in real scenarios, like VPNs, security, package management, dataflow packages conflicts, limitations of language choice (e.g streaming and python)Also, it wouldn't hurt to make the code cleaner. The repositories are a mess and the spagetti shell scripts, honestly, aren't the best idea.
 Very Basic course.. But helpful to get started with GCP
 Very basic introduction to Google Cloud Platform. Advantages: You get a fast overview of the main products in Storage, Querying and Machine Learning as well as hands-on experience. Qwiklabs chat works really good for unblockling your practice account (it might happen if by mistake you select options that have a cost). Technical help is not provided, though. Disadvantages: If you are new to this topic, it may be quite advanced for you. The labs fail to work and you have to do it over and over again. Sometimes lab script does not match the task.
@@ -80,7 +76,6 @@ The Labs and Course Assignments can be better. Fundamentals of GCP was a good co
 last lab was a bit disappointing. suspect something to do with a GCP outage. But rest is a very good up-to-speed on GCP and the various tech available there. Looking forward to using for some of my next projects.
 There are some steps missing in the labs, while the video on DataFlow didn't provide an introduction into why MapReduce is applicable to certain problems. Besides that, the tutor is speaking too fast.
 I got familiar with a lot of options, and had hands on experience with Qwiklabs. But it would be more interesting if the we actually had to do something ourselves instead of following instructions.
-Las explicaciones de cada paso a veces son ambiguas y obliga en gran medida a hacer nuevamente los laboratorios. El contenido del curso es poco para todo lo que puede hacerse como Data Engineer.
 This felt like half marketing, half using GCP for machine learning. Prebuilt solutions are useful for many cases but I only really needed info on the storage and data processing to get started.
 -Some labs did not match with the videos.-It would be profitable create a lab since zero, I mean create a table, fill the table, create our own queries, reports, etc.Maybe work with real cases.
 Awesome instructor. An advanced course on this topic (4-5 weeks ) would  have been better. To join this  course is basically paying for someone to comment on the tutorials  available for free.
@@ -95,7 +90,6 @@ It's very fundamental, more excersices from scratch will be less easier AND yiel
 Lab experience was not that good.Would highly recommend to give a dedicated cloud console account  with no time and resource restrictions for more hands-on experience.
 I find the course material (videos) don't actually cover the questions asked in the module review. Besides that, the labs are incredibly slow - and seem a bit buggy.
 I enjoyed the course and the way labs are done is excellent. 3 of the labs were just spinning up and running the same notebook, I think this was a lost opportunity.
-El curso deja muchas cosas en el aire y no toma profundidad en nada. En cierto modo, parece un evento promocional más que un curso de capacitación.
 Good as an intro but it will not be sufficient if you want to apply what you learn at work. Looking forward to getting more hand-on projects.
 This was a walk through class. Expected more detail on how to use these tools. Overall this felt more like a sales pitch than a learning tool
 Some good content here, but also some filler, particularly the "lab reviews" and "module reviews" were just rehashing earlier material.
@@ -106,7 +100,6 @@ If the purpose of the course is to introduce to products then it does a good job
 Too high level. As standalone course, it's just sales pitch for Google Cloud. Hope other courses in series will be better
 It's  quite an introduction to the Google tools in AI and Machine learning .  However, some of the labs are quite long
 It is very clear and simple for everyone, but I would have expected more hands on and explained step by step exercises
-Algunos ejercicios de laboratorio tardaban demasiado tiempo en ejecutarse sobrepasando con creces el tiempo estimado.
 THIS course more like  a promotional way of thier products .but i expected the technicality part of the GCP platform
 Week 1 was full of very insightful knowledge while week 2 felt like someone dictating the GCP documentation at me.
 Contents were really amazing but please please update GCP labs or instructions. Then the true value will hold.
@@ -130,7 +123,6 @@ A little toaster science. Went through exercises, but didn't absorb materials.
 There was an unnecessary amount of technicalities that were poorly explained.
 Module review should contains more question, so that student can study more.
 Lab is a bit scratchy and i was facing trouble in submitting the assignments
-花了2天过了一遍, 无脑跟着流程走就行了, 本来期待介绍怎么用cloud ml, 结果居然是用datalab(notebook)来讲的...
 Need some advanced topics and general aspect not only google products
 too wordy, simplify as point forms for instruction how to do the lab
 The environment is not very stable and performance is not very great
@@ -155,18 +147,12 @@ I think there should be a few more labs
 Labs have a lot of errors with grading
 good for providing a broad overview.
 Some lectures are not clear enough
-faltan los subtitulos en español.
 Too many unnecessary short videos
 The videos were poorly edited.
-very interresting, cheers
-Very beginner friendly.
 Some labs are buggy.
 Good introductory.
-Very fundamental.
-no challenging!
 Intermediate
 Good Course! The instructors are great and explain the concepts well. The new course 1 is definitely better than the older version. However there is a long way to go to make these courses such that even a newbie can go thru them without a programming background.  Please add courses that provide optional training to cover the background needed in e.g. SQL or Networking or Python programming. It would be very helpful if the instructors didn't copy scripts/templates and walked thru them step by step or at least have optional video to explain what they are doing  in these You guys need to direct people to follow these courses in a sequence - e.g. first do Data Analyst courses, then GCP Architect courses 1 to 5 to get basic understanding of the platform and then do Data Engineering courses. More labs and lab time are needed to help build confidence. Challenges and solving problems by ourselves without having to worry about time limit on lab time would definitely make students more use to the platform.
-El contenido es adecuado y por ser un curso de introducción es bastante completo. Lo único que ha chafado el curso ha sido tener que hacer los labs varias veces a fin de conseguir la nota. No he terminado de resolver por qué he tenido tantos problemas, la cuestión es que en los foros hay mucha más gente que ha tenido problemas semejantes. Al final esto entorpece el aprendizaje, si llevas un buen ritmo tener que hacer las cosas 3 y 4 veces parece un poco exagerado. De todos modos, me llevo una buena experiencia ya que los problemas finalmente se han resuelto. Tengo que añadir que los problemas mencionados anteriormente creo que son más problemas de Quiklabs. La nota ya no me subía en su plataforma (aunque hiciese paso por paso la práctica), y por tanto, esa nota es la que se reflejaba en Coursera.
 This was a good overview of the services Google Cloud Platform offers. There were a few bugs with the quizzes, but overall it was put together well and had a lot of information for a short course. I think it is a good introductory-level course for a person who has some background in Data Science and cloud computing, but not much experience with Google Cloud Platform. The tutorials and exercises are quick walk-throughs that can be completed in 10-15 minutes each. They give you a feel for how the Google Cloud APIs work and what some of the capabilities are, but don't go into much depth. This is an ideal course for a person who is considering using Google Cloud Platform but isn't sure what the advantages and capabilities are.
 Good contents. However, the scoring system is not working well, and I could never finish the course even though I got full mark at least 5 times in the machine learning application lab.  Besides, after one week, I was charged 42 euros and feel so sad about this experience.  I would like to mark 5 stars in the content, but the scoring system didn't work well with Firefox, and even had a trouble with Chrome, and I was charged 42 euros even though I finished all the contents within one week.  So, sadly, I can only put one star as an overall evaluation of this course.Edit: After some interactions with the support team, I was able to see this course completed.  So, I put 4/5 stars.
 Some times, there are differences in the way the instructors setup programmatic parameters vs. quiklabs.  Also, scoring is best only if exactly follow up what the instructors say, for example folder names, though that is not necessary as long as consistency is maintained.  This is important especially the student fails in an attempt and the system does not reset all the parameters, for example the system does not reset all the previous folder names, unnecessarily, and painfully in terms of time.  All these makes it less robust for shorter knowledge based executions. Thanks for the course. Resolutions:  Invest your time in the script part to resolve the issues; they are great!
@@ -201,7 +187,6 @@ A good introduction to GCP. The course covers tools you need to do big data and 
 It's a short but good course. Good instructions and delivery. Good introduction to Big Data and ML on GCP. Would have liked more assignments as a formal requirement to complete the course. The codelabs are disconnected from the course. Glad to know other courses in the specialization are under development.
 The course was very very nice, with practical examples and good explanations, though the beginning  can be improved for someone that did not work much with many services from GCP. Other than that, it is easy to go through, to get your skills from hands on examples and start new endeavors using GCP.
 It was a good course for learning all the many Google Cloud Platform products and capabilities.  As an introductory course, it doesn't provide enough depth to become proficient in a skill.  It's exposures you to the highlight workflows, processes, and use cases of the various products and tools.
-Me parece muy bueno el curso, pero por el momento hay algunos cambios en la plataforma practica, son detalles pero al momento de seguir las instrucciones, cambian algunos menús, se entiende que es por la constante actualizaciones de la plataforma web de GCP. (esto hace perder un poco de tiempo).
 The courses themselves are very good. My only complaint is the scoring did not always reflect the completion of the course so I spent a lot of extra time trying to get the score to reflect my work. I had in fact completed the course and when I finally ended the course, it was reflected correct.
 Excellent course, but did have a few technical issues.  The only 2 questions in one section quiz had nothing to do with the section just completed.  Even so, the class was very much worth my time.  The lectures were very well presented and the labs did a good job of emphasizing the content.
 This course is very interesting and helpful, but the labs need some improvements as they can be quite confusing sometimes and I had a lot of technical issues. Another point for improvement is the support (from Google) for mobility as a lot of the labs were not working fine with IPad IOS
@@ -213,7 +198,6 @@ Nice introduction course and good presenter. The course provides a good overview
 Excellent introduction to GCP capabilities! I am a data scientist and clearly see the sheer power and efficiency GCP can bring to organisations, especially ML APIs. It'd be great if all three steps in data science track be added as single specialisation.
 Unusually short one but intensive. Focused on Google products. Has opened my eyes toward GCP offerings and how they can be used within ML area. As outcome you will have GCP account on hand plus bunch of ideas how to use it during 12 month of free trial.
 The overall information and understanding of the GCP are delivered comprehensively. But, the exercises for practical work were not very involving for the students, as most of the time majority of steps were pre-completed or written by the instructors.
-C'est un excellent cours qui permet d'avoir une idée global de l'architecture de GCP et de l'utilité des services offerts par Google. Les vidéos sont bien faits, les concepts bien explicités, les shémas sont complets et très facile à comprendre.
 Was a very fantastic experience and the course manager was really good in delivering the course at a step by step and sometimes he will even repeat steps he has already covered in previous videos and for me this was really good for beginners
 would be better if it can be a bit more structured; i'd prefer the GCP core infrastructure course as it's more structured and always mention the big pictures when describing part of the details. But overall it's good learning experience.
 I think this course must be transformed and stop using codelabs in favor of quiklabs, which would be better for all students, as there would not be billing constraints on the people's accounts.Overall, this was a great course. Thank you.
@@ -233,7 +217,6 @@ slow on easy parts (beginning)too fast on ml, not that hard but not much informa
 I thought it was great! Interactive, informative. The only thing that was not straight forward was getting the Google Cloud Datalab to work. Other than that it was awesome. If that was fixed, I would say it is 5 stars.
 I enjoyed every training so far it was easy to follow and straight to the detail, I'm more confident about GCP and Machine Learning and will love to do more practice and experiments on my own. Thanks for the journey:)
 Good high-level introduction to GCP big data tools. Labs and lectures are very good. It would be nice if the labs encouraged more experimentation. This is somewhat repressed by the temporary nature of lab GCP account.
-O curso é ótimo, porém o último laboratório possui muitos erros processuais, mesmo executando passo-a-passo o sistema não finalizava com sucesso, mas aprendi os principais conceitos e produtos oferecidos pela Google.
 Great content by the Google Team to learn the various products and concepts applied in GCP. I would have preferred some more challenging labs with hands-on practice rather than just copying pasting provided code.
 Some of the labs contain repetitive elements, would have been better to combine them I feel as the split make the labs tedious (though for the first couple of labs, repetition helps to get used to the tooling)
 Good presentation at a high level. Suitable for people with experience, since it doesn't go into details. I think that people new to the concepts will have to do a lot of reading, or take things at face value.
@@ -246,13 +229,11 @@ Excellent overview of big data and machine learning using GCP, but would have be
 This is a very well written Introductory course on GCP products. The review tests are very good. It makes the understanding of a concept more clearly. Thank you Google for making this content.
 A nice overview of some of GCP's offerings. Struggled to strike a balance between diving into details though, e.g. the labs were more detailed than an exec looking for an overview might need
 Very interesting course, but there still is a bug in it that causes you do to a topic multiple times and you need to use your projectID as your bucketname or you cannot complete the course.
-Muy buen curso introductorio en donde se utilizan todas las app google que tienen relacion con ML. dando tambien la opcion de ver otros usus de las mismas para otro tipo de ptoyectos.
 It was really a great course, I learned a lot and special thanks to instructor for helping in every possible aspects especially in labs part. Overall it was really a great experience.
 Course was well prepared with introduction video, reading resources, and especially the lab which helped me easier to understand the concept of data engineer and ML in Google Cloud.
 labs were very well organized, although could have encouraged the student to do more troubleshooting.  content was at the right level and instructors were very clear and informative
 Nice introductory course. The only problem I find is that exercises are really easy to solve so learning is basically based on theory found in videos. It should be more practical.
 Very good overview of the data tools on GCP. Not coming from data science it really pushed me to understand and see why a particular tool was used instead of another. Thank you!!
-Eu gostei bastante do curso, mas acho que são muitas ferramentas faladas durante o curso mas entendo que esse é o objetivo. Dar uma introdução sobre variados serviços da Google.
 Some latter sections felt as if they were not shot in sequence, thus disrupting the flow. This fact notwithstanding, 
 the program is an overall a good overview of the platform.
 In the second lab there is a minor error on a script. Solution is in the forum. And I felt that the third lab could be easier of understanding if it's used a simpler dataset.
@@ -282,7 +263,6 @@ This course covers basics of GCP. Good place to begin. The lectures are insightf
 Excellent!!! I would have loved it more if there was a bit more explanation on the labs, and where possible codes are shown in both in java and python.
 I really love the lab where I can play in the real environment. But, the Table of Contents is bit of too many first level items and lead to confusion.
 The quality of the course is good. However, course slides are not available to download, and no tutor is answering questions in the discussion forums.
-Excelente curso, acredito que para ajudar no aprendizado, no final, deveria gerar uma apostilar com todas as atividades que realizamos na plataforma.
 The Cloud Datalab labs were buggy, had to do two of them twice to get the completion to actually register. Was using Google Chrome on Mac High Sierra
 Really interesting with nice examples. I would like to mention that it is not 5 starts because I found some repeated lessons / videos in the content.
 Very good introduction to the GCP tools applied to cutting edge data engineering and machine learning. Videos are well done and tutorials fun to do.
@@ -312,7 +292,6 @@ A few of the instructions are outdated.  Otherwise, generally a good overview to
 This course should not be paid or include other courses as well for value of the course, overall satisfied.qwiklabs are excellent.
 High level, fast paced presentation of some of GCP's components. Take it only if you want an overview of GCP and what it can do.
 Very Nice Learning experience, to clear GCP fundamentals concept also labs are very good to interact with GCP tools and service.
-tuve dificultad para realizar algunos laboratorios ya que los pasos eran diferentes a los mostrados en los videos de validación.
 As the name of the course suggests an excellent introduction to the Big Data and Machine Learning Fundamentals of GCP. Thankyou
 there was something new concept for me ,question in not easy to solve. i learn something  new thanku very much for this course.
 Great examples, excellent overview of GCP products and how they relate. Only thing thats missing is a lab with Google Cloud ML
@@ -334,7 +313,6 @@ Nice overview of the Google Cloud Platform services. It would be great if the la
 Excellent course to begin learning fundamentals of machine learning in the cloud. The labs make it more interesting.
 Course material is excellent. But I've been spoiled by the EDX interface experience. I wish this course were on EDX.
 Had some issues with 2 labs. Labs steps are not given completely and due to that I couldn't complete it completely.
-Excelente repaso a las capacidades en GCP. Lástima que no se pongan las diapositivas usadas a disposicón del alumno
 I good introduction for those with little to no background in this area, a little slow at times but overall decent
 Overall the course was good. But some topics need slow explanation to understand and need more fundamentals of GCP
 There a lot of good information here, but, it's necessary to improvement the assessment and the exercices in lab.
@@ -349,11 +327,9 @@ That was good. Beginning was a bit confusing that where I am going, but I really
 Great course, but I didn't get to finish training the model in the automl lab.   I'll try again, one more time
 This course was very informative with the instructors making it all the more simple to understand and practice
 Too much for a week though Lak was exceptional.  Tensor flow looked little rushed. Overall , very interesting.
-Buen curso, falta algo de opciones extras de aprendizaje para poder usar mejor los tiempos libres de cada Lab
 Excellent course. Should have covered some more details about ML concepts in addition to the google products
 It was very good but it should include some more learning material other than what google uses  as ml model.
 great course. Some of the labs were a bit repetitive and had to wait 5 min or so each time to spin up the VM
-Curso muy practico que da las bases para poder emprezar a utilizar el entorno de GCP. google cloud platform.
 Well, course greateI've looked at Landscape of Google Clould ML productsWanted  more deep Tensor Flow cases
 For a start, it is good.It would be better it goes bit deeper into the custom model and has a Lab for same
 I loved the course. It helped to understand the very basics of machine learning and BIG data fundamentals.
@@ -383,7 +359,6 @@ There was a lot of repetition in the labs, but repetition can be useful in reinf
 Little more overview on the techniques before jumping onto Google cloud, would be more helpful.
 Very good insights & hands on of big data & machine learning products on Google Cloud Platform
 Overall is a great experience learning GCP fundamentals. Its just that few labs are outdated..
-Pas mal. Permet d'avoir un bon aperçu des  possibilités de GCP, notamment BigQuery et Dataflow
 Great course so far, but does not always explain the "why" as much as the "what" to do in GCP.
 Some labs were confusing and instructions were ambiguous at times. But overall this was great.
 Great content but not fully satisfied with the Hands On. Not able to clearly follow the labs.
@@ -396,7 +371,6 @@ course, pedagogy, content is fine. Some times the Labs dont work and it wastes a
 I liked the breadth of the course, talked a lot about different services offered on the gcp.
 Some of lab instruction was skipped, but I thought that in the case we need some creativity
 Overall the course is good, but lost a lot of time with incorrect instructions for qwiklabs
-Me hubiera gustado ver mas temas relacionadoscon data engineer y menos de machine learning
 A few labs were not with up-to-date ui from GCP, had to fin the proper locations fir them.
 The course was informative, but some of the labs had bugs in them or errors in the coding.
 I expected some intro on unsupervised learning as well in this course. so giving rating 4.
@@ -428,7 +402,6 @@ This is fundamental course on Google Cloud Platform with just skimming through G
 Great overview of the Big Data, Analytics and Machine Learning offerings from GCP.
 In my opinion the course is dense enough to be done in two weeks, not in only one.
 the first two parts have very commercial angle, later they become more interesting
-Excelente curso para tener una vision general de las capacidades de BigQuery y ML
 it cleared my basics regarding GCP and its use in creating learning applications.
 Ungit option was not present and synching after the completion is not being done.
 Very good intro to GCP and use cases of products , its features and applications.
@@ -476,7 +449,6 @@ quite interesting but more towards marketing of google products
 Very neat introduction into various options in the GC Platform.
 Additional explanation to console script will be very helpful.
 Good intro to ML Model generation using Big Query and Auto ML.
-Instruções do dois laboratórios da semana 2 tem de ser revisto
 Good overview on the Google Cloud Platform and its ecosystems.
 Great intro to Google Cloud Platform products and technology!
 A very good overview of the AI capabilities of GCP platform!
@@ -506,7 +478,6 @@ Not enough time in final Lab to train the model. Thx!
 I really do not like Indian accent the presenter had.
 I sturggled wIth some of the labs running correctly.
 Good course contents with ample amount of lab work.
-对熟悉google cloude的操作还是满有帮助的，可惜上海这边连不上google，测试基本无法做。
 Good introduction to your way to Cloud Technology.
 Its good for beginners who wants to dive into GCP.
 Good introductory course to GCP Big Data platform
@@ -516,14 +487,10 @@ some instructions in the lab are not up to date.
 CONTENT WAS EASY TO UNDERSTAND AND PRACTICAL!!!!
 The project in the last lab should be reviseted
 It would be good if there are some more quizzes
-Ótimo curso, precisa só da legenda em português
 Exceptional course with complete hands-on labs.
 All the classes are designed  very  informative
-Buen curso para tener un entendimiento inicial
-Some lab links broken ( or my network was bad)
 Pretty good, just one lab didn't work so well.
 Great course, but goes a little fast sometimes
-Useful fundamentals for data related projects.
 OK. More labs on BigQuery would be appreciated
 Great course for understanding basics of GCP.
 Lost a lot of credits doing the add. demo lol
@@ -531,7 +498,6 @@ Good overview but sometimes too shallow labs.
 I would love to have more practical use cases
 Every detailed introduction You need to knew
 There could be more videos  from instructors
-solid into level course for data engineering
 Very much informative and rich in knowledge!
 Very useful content with nice explanations.
 Very good introduction to the GCP ecosystem
@@ -570,15 +536,12 @@ The course was a great overview.
 could give more challenging labs
 Time mentioned is not sufficient
 Very easy but nice introduction.
-Buen curso de introducción a GCP
 A very good introductory course.
 Good high level overview of GCP.
 A good high level introduction.
 great for quick overview of GCP
-Faltan traducciones al español
 Good overview of Fundamentals
 A great overall view of GCP!!
-tienen problemas con los acls
 Good overview of GCP products
 Good intro to GCP DE services
 the course is very helpful
@@ -592,16 +555,13 @@ very nice explanation.
 Really good training.
 gain knowledge on GCP
 the best certificate
-Very good overview!
 Simple and precise
 pretty informative
 its good with lab
 it's very helpful
 Too advertising.
 Good Articulate
-needs updates
-Good letures
-Enjoyed
+good overview.
 Overall a good curated course to help understand the GCP offerings and high level architecture of how their offerings fit in the current landscape. Easy to follow along as this was fundamental course.
 This course really helped me in understanding exactly 'How the Big data and Machine learning can be used in Cloud' and 'The ease to use it'. Thank you for summing all the fundamentals in this course.
 Even when no one else believes in you Google does. I'm old, 57, no one believes I can understand IT and Data science. That doesn't matter, Google has given lots of opportunities to learn. I have done the Google IT Support Professional Certificate, I'm studying Digital Marketing through Google Garage and now I've passed my first exam in the Data Engineering with Google Cloud Platform.
@@ -637,18 +597,15 @@ The best part of this course was we got to do lot of hands-on lab activity with 
 The course is well established and maintained. The only issue is that, its an introductory course to GCP and its various features, nothing else. There are hands on labs but its not that productive, you will just get to understand the google cloud framework and how it is done. Its more of a product advertisement than a skillful course. Its great for beginners to understand what is GCP and understand its various features!
 Dr.Lakshmanan does a great job covering the wide range of products Google has in the Cloud space, with real hands-on working examples. The lab on ML with TensorFlow was particularly exciting ! This course helped me get a clear understanding of the space each tool occupies and when to use them. The introductory hands-on labs got me started and now I feel confident I can build upon them on my own. Thank you Dr.Lakshmanan.
 Enjoyed learning so many features and functionalities of the Google Cloud Platform.It is really refreshing  to learn something new and also to know that there are so many resources which can just be stitched together to build anything needed... all without having to search/ scramble for software to be installed on local systems.Looking forward for the rest of the courses and to immerse in the Google's product offering.
-Excelente curso para introducirse y entender mejor los conceptos del Big Data y del Machine Learning.  Un curso exigente, si realmente quiere entender y aprender estos conceptos, un poco intenso para solo 2 semanas pero al final quedas muy satisfecho con todo el aprendizaje no solo de estos conceptos, sino de todos los productos que ofrece Google en la nube como "nuevo" paradigma de uso y despliegue de software.
 The training videos are well designed and instructor explained the concepts from scratch, simple and straight forward with different examples/case studies. I learnt about different solutions used under GCP. I'm happy with the time and effort (and $$ ofcourse) I've put and would like to thank Coursera for providing such learning opportunity through their channel. Looking forward to get on more on the same subject
 Very well organized, I feel as of I am already a Google Cloud Data Engineer. This course is a must, not just for DevOps Engineers or Data Engineers, it's a course every data professional needs to take. Having a Google Expert train the class, is just remarkable. The value of the class and the labs alone will "spark" your interest and skill set, especially the TensorFlow and Machine Learning modules.
 The course provides an high-level overview on what are core GCP offerring from Data Science perspective. What i like about the course is the trainer provides guide and use case for each GCP service. With the knowledge learned the course, a beginner like me has more confidence in dealing with real issue in the future.I definitely recommended anyone who has interest in learning ML take the course.
-Aprendí muchas cosas nuevas sobre la utilización de los recursos en la nube de Google que no conocía, como el uso de almacenamiento y procesamiento de inmensas cantidades de datos, tanto en tiempo real como en bases de datos relacionales y no relacionales. Es muy interesante y útil. La inteligencia y aprendizaje automático de las aplicaciones de Google son muy innovadoras y útiles.
 An amazing and succinct overview of a complex subject. It brings in a great deal of awareness. The ready code helped hand-hold me in areas I do not know - such as python, tensorflow, spark, etc. Yet, it helped understand the key data infrastructure on GCP, which formed a fantastic perspective and interest to continue forward. Excellent handling by Lak, who taught so well.
 some of the labs layout was different  from the instructions given. Over all the course was very informative and thought provoking. Examples  provided were very relevant and understanding. The trainers were good. This course really improved my understanding regarding benefits of cloud and the practical implementation of ML models and data science aspects on google cloud.
 It's been a wonderful journey with Google, exploring GCP with it's experts' mentorship. This course enabled me to get an hands-on experience with Google Cloud Platform with it's key features and products. This course also explains how Google manages it's customers expectations by providing insights as well as data driven statistics through it's GCP products and services.
 Got a good high level overview of core GCP services especially for big data and ETL which I am most interested in. Apart from the theories, I've learn a lot from the lab exercises where I can interact with GCP's UI and cloud shell. The ETL part was just cut short but looking forward to more detailed lectures about it in the succeeding series of the specialization course.
 Really before going to the course Google cloud platform big data and machine learning I didn't know even the meaning of the course also,but after completing this course I have felt that it's very easy to understand in coursera about this subject and it also helped me to understand how GCP integrates so many services to one easy to manage platform
 I have experience with Hortonworks Hadoop distribution. I am impressed that google does all the background and lets engineer concentrate on the actual data science of the job and provides tools that really help in the best possible way. I would like to see more of such features added to a tool rather that coming up with a new product every time.
-Excelente o treinamento, deu uma base ótima para iniciar as principais tecnologias de Big Data e Machine Learning e também como escolher a melhor tecnologia para solução dos problemas do dia a dia. Parabéns pelo conteúdo, pelos instrutores pelo material de altíssima qualidade.Muito agradecido e orgulhoso de concluir esse treinamentoPaulo Pilat
 This course really helped me in understanding exactly 'How the Big data 
 and Machine learning can be used in Cloud' and 'The ease to use it'.
 
@@ -661,7 +618,6 @@ The course is excellent to learn quickly the capability of GCP in Big Data proce
 I have been exposed to new knowledge on google cloud platform, its products, infrastructures and many others. have acquired new skills and this is just the best place to be challenged, exposed but also grow your hand-on experience to be a good competitor in the job market but also help companies deliver on less cost but more productivity
 Course is very well structured. The lab review videos after the lab sessions could be kept optional or could be made available as a help if needed. Had some issues with Qwiklabs score not getting updated, but these were resolved after raising a ticket. Would definitely recommend this for someone to get a overview of various GCP products.
 I have no background in engineering or application GCP. After going through this course I was able to match the use case with the Google Products available. The instructor is very articulate and very good at explaining the technical process as well as the scenarios in which the transformational technologies may be applied. This is fun!
-Curso muito bom, conteúdo excelente. Labs muito bem planejados.Tive alguns problemas na execução de videos, com o erro: The media playback was aborted due to a corruption problem or because the media used features your browser did not support.Que se repetiram muitas vezes atrasando um pouco meu progresso, porém, realizei com sucesso
 Amazing introduction to Cloud Computing and Google Cloud Platform. The flow and delivery of the course content is very clear and consistent. This course made me appreciate Google's Cloud Computing capabilities especially from a Data Science perspective.I recommend this course to anyone interested in Big Data in the cloud - GCP!
 I really appreciated this course, and more than that I would say that the presenter of this course Dr. Lak is one of the best lecturers, I have ever meet in Coursera. I will follow the specialisation  because I really want to learn more and more from the great explanations and labs of Dr. Lak. Thanks for all.Best Regards,Woiyl.
 The course was excellent - great instructor, helpful videos, and useful labs. The course did a great job of covering a lot of material at a high enough level that it wasn't overwhelming, but detailed enough that I came away with fluency in what Google Cloud's products are for and what makes each one different.
@@ -688,7 +644,6 @@ Overall experience very good and content of the course is organized in scopeful 
 Great quick tour through a variety of services and solutions available with Google Cloud Platform. I would only challenge the price structure, as this course is an excellent marketing tool for Google besides being informative and therefore, it could even go for free.
 This course has been excellent. It is very difficult to provide any weaknesses. It is a great course to understand the foundations of GCP and all the amazing services it provides. I cannot wait to keep learning more GCP services and getting into more advanced topics
 The Course content are nicely explained in a short time, I appreciate the effort. Google's developer codelabs examples are awesome. I am a Data Engineer by my profession but after seeing these example code, I found I have to rethink the way I am organising my codes.
-Curso muito bom, mesmo! Aprendi varias habilidades e irei utilizá-las para vários projetos. O GCP está mostrando que não é necessário ter várias habilidades, apenas conceitos básicos e os aprendidos nesse curso são suficientes para se trabalhar com Big Data e ML.
 Some frustrations with things taking forever during the labs, but the course itself is fantastic. Great presenters and excellent information. Feels a bit like a full-on sales pitch, but then again, if you have the product you need to sell it. Thank you so much.
 good content, vidoes, labs etc.But, the course outline is hard to follow. all of the steps are listed in a flat list although the course contains 5 sections. A better organization in the left side menue of the course outline in the course homepage would be nice
 Great introductory course. I enjoy the hands-on labs. Wish we could've done more SQL in the labs. Everything was just copy and paste. But, I understand why. it's not a SQL course. It was nice to go through the process of these tasks while on the live platform.
@@ -715,10 +670,8 @@ Very good overview of key areas of GCP including compute engine (VMs), SQL,  bas
 A very good overview of the Google Cloud Platform. The course provides a big picture of the platform and shows how some of the central services can be used in combination to solve different data engineering and machine learning tasks.
 Great course to start with cloud services and to learn about new topics like Machine Learning and Big Data.They covered lots of topics in the course so only brief introduction was given ,but that good to know all the different topics.
 I am highly passionate about Machine Learning and AI. This fundamental course on Big Data & Machine Learning is awesome. The Labs are very useful and practicing them on live Google Cloud Platform is a great experience. Thanks Google.
-Es un curso enfocado en resaltar los beneficios de trabajar con GCP y cuán emocionante es poder lograr cosas en este ambiente de una manera sencilla. Completamente recomendable para quienes esten comenzando en este fascinante mundo.
 This is a great intro to almost any novice with little or basic exposure to Cloud Computing. Serious power of Cloud computing unleashed by Google and this course is the right pathway to learn how to take advantage of that power.
 It is was an immense pleasure is learning this course. Content was easily understandable and the instructors was clear in their delivery. The lab hands-on was extremely useful in practicing and exploring Google Cloud Platform.
-Es un curso bastante completo, el uso de las herramientas se simplifica con las explicaciones en los laboratorios, altamente recomendado para las personas que quieren comenzar con el uso de herramientas de computo en la nube.
 This is a great course, this gets us introduced to the GCP products and basics of Machine Learning. The topics we learn in this course can be considered as building blocks for exploring machine learning and cloud experience.
 Introduces the need for cloud computing infrastructure in the field on machine learning and big data. It teaches you how to use the different products of the Google Cloud Platform for Big Data Analytics and Machine Learning.
 Great overview of the variety of GCP solutions with a practical edge. Instructors presented the materials in their own interesting ways; especially Evan Jones who was very relatable. Looking forward to learn more and apply.
@@ -732,7 +685,6 @@ I got exactly what I expected: a very good overall picture of GCP products for m
 Great training, complete with great explanations to understand where to use ML or pure statistical methods and with tools to undersand how real projects work. Obviously is introductory, but it is a great starting point.
 i am really thankful of coursera for providing such a training facilities for student like me. its a great learning with lab experience. along with video training. looking forward for more courses. really thanking you.
 Excellent. It really helped understanding the basics of ML and how GCP made it more easy , fast and reliable. All topics are explained with good explanation and content. Exercises provided very good hands on experience
-Je recommande fortement ce cours. Il fournit des concepts utiles pour le Machine Learning et motive à approfondir les connaissances et l'expertise dans le Cloud Computing. Il offre des Use Case originaux et inspirants.
 A great introduction course for data scientists to use Google Cloud Platform. You don't have to be familiar with GCP, because this course will cover the foundations, with focus on data processing and machine learning.
 I learnt information about Google Cloud queries, SQL, Data flow, Vision API and how it functions with Machine Learning at the back end. I enjoyed the course and will try to look forward to the other related programs.
 Good introduction for all GCP technologies related to big data and machine learning. The qwiklab exercises really helps in making student understand how the technologies work by doing direct hands-on lab activities.
@@ -745,7 +697,6 @@ This course is well defined and great material to cover the fundamentals of GCP 
 Great course with a detailed description of each step and insights about many GCP solutions. May be tasks could be more difficult for people familiar with similar concepts, but these are perfect for a beginner.
 The course content was good, but the content was a bit easy. It would have been good to do a bit more advanced SQL in BigQuery or prompt the students to create a resultset using sql defined by the assignment.
 Nice introduction to both Big Data and Machine Learning, no waste of time all gain. I liked the concise explanations and the possibility to test your new acquired knowledge using the labs. Highly recommended.
-Gostei. Dá uma boa noção dos produtos do GCP. Para quem já conhece as tecnologias associadas é o suficiente para começar a usar. Para quem não conhece também é uma ótima oportunidade para conhecer e praticar.
 For Data professionals, this is a very good place to start learning and using Google Cloud. Nice and clear delivery of the content by the instructor. The course materials and the lab content are good as well.
 my journey to this course was awesome specially thanks to lab support and team  they provided the all alternative solutions of your query and supported 100% whenever I stuck anywhere thanks to team google.
 Se aprende muchas habilidades de GCP como Processing big data at scale for analytics and machine learningFundamentals of building new machine learning modelsCreating streaming data pipelines and dashboards
@@ -753,7 +704,6 @@ it's suitable for beginners, just as a fundamentals!But if you are experienced w
 This course provides a great overview of the services available on GCP. The labs provided are especially useful providing an actual google account and access to the console to play around and practice.
 Excellent course for students that are just getting into Google Cloud Platform and Machine Learning in general. Covers all the fundamental aspects with good detail. A very complete introductory course.
 It is a fun journey to explore the Big Data and ML resource in GCP.  And even cooler is you don't need work for a big company or own lots of resource to get your hands dirty to support your learning!
-Gran introducción al GCP, muestran grandes  temas de interés que de verdad permiten tener nociones básicas de lo que es la plataformas y la infinitas posibilidades de que se pueden realizar en ella
 We have learn't quite a lot of things which is  necessary to be a data engineer and how to use GCP as your primary platform to over come the key challenges faced during data engineering life cycle
 This course gives you a pretty good fundamental idea on what you are diving into. Google cloud platform has bucket of data engineering features. This course sets you on the starting line for them.
 Excellent course to get first hand understanding of Google cloud compute, storage, network features and data engineering & ML on GCP options. Suitable for both developers and awareness audience !
@@ -781,8 +731,6 @@ Amazing course, the instructor explanation are very clear and easy to understand
 The course was very insightful and will really help in future cloud applications. The parts with Speech API in the Course and the Labs need to be updated, otherwise, it's perfect.
 Wonderfully curated with the most important factor in online learning - Hands-On Training ! Kudos to qwiklabs for figuring this out for everyone out there with curiosity to learn.
 Excellent course material, very informative videos and well guided labs for hands on experience.  Good starting point to understand data engineering part in Google cloud platform
-Curso muito bom. acredito que poderia ficar ainda melhor com labs mais práticos onde não tenha código pronto. ou no final do módulo ter um hands on para avaliar todo o aprendido.
-o curso e bom porém alguns pontos no qwiklabs ainda esta fora do contexto desta versao. Parece que estamos fazendo qwiklabs na versão afrente do que esta descrito nos exercicios
 SUPERB COURSE and STUDY material. great lab. very much impressive course content and teaching,thanks a lot google for giving me opportunity of learning GCP. thanks a lot again.
 I would like to thank Coursera for such a down to earth and easily understandable content. I wish that you transform education the same way and make life better for mankind !!!
 This course is really helpful to bring my knowledge and good understanding about the fundamentals of Google Cloud Platform fundamentals, products and its basic architecture.
@@ -794,18 +742,13 @@ Great articulation of the topic and well paced for working professionals. The la
 It's an amazing course!!I really enjoyed all the parts of  those videos ,the explaination and benefits of GCP explained by Lak were amazing!Surely recommend this course!!
 Its very well organized training program with correct pace. I learned with a quick lab to have some hands-on exposure. I like it and recommended to my teammates as well.
 Very informative! I'm excited to be taking this journey and looking forward to applying data pipeline building and machine learning models within my own organization.
-Excellent cours. Très bon équilibre entre labs, démos et leçons.Il serait peut-être judicieux de suivre la même arborescence entre le panneau latéral et les vidéos.
 Thanks a lot for this well explained course. Its help me a lot learning the foundamentals of ML, and help me a lot knowing the solutions and product that CGP offers
 Its best Way to travel cloud world ......... Amazing experience, easy to understand and deployment tool provided by google.  google proved his words "No operation"
-Excelente curso. Me gustaría que estuvieran las presentaciones disponibles en formato pdf, no obstante, Google tiene la documentación disponible en su sitio web.
 This Course is a very well paced one and highly focused on the fundamentals of Big Data/ML with GCP. I definitely recommend it to folks who are new to ML and GCP
-Excelente curso para entender el potencial de las herramientas que tiene Google Cloud Platform, muy recomendado para iniciarse en Big Data y Machine Learning.
 Very good initiation for not only data engineers but also data scientists. Lab exercises cover different topics and are very good start to do your own things.
-Es bueno como material introductorio para conocer la plataforma de Google Cloud, y saber con que herramientas cuentan, y que se puede hacer con su plataforma
 Amazing course, I have learned a lot about some products of GCP, even thought there are some problems with 2 labs but the overall content is useful to learn
 Love the way the instructor approached everything from first principles, and reviewed every answer.  Talking through literally everything he did was great.
 Good introduction to Google Cloud Platform. The program is fast paced so you have to be on your toes. Good thing is it is not as scary as it might look :)
-Una buena visión general de las herramientas que Google proporciona para el tratamiento de Big Data y Machine Learning, apoyada en interesantes ejemplos.
 Great course. Gives in-depth explanations of basic and advanced concepts. Will be revisiting this course as a reference in the future. Thank you so much!
 This is an excellent course. Gives you and brief introduction to Storage, BigQuery, Pub/Sub,  AutoML and a lot of fun stuff, ready to use and implement!
 It is a great course for introducing Google Cloud and the related data tools for people with some level of knowledge of public cloud and the data space.
@@ -824,7 +767,6 @@ A comprehensive overview of the Big Data and Machine Learning services on GCP. I
 Good course. Make the lab reviews optional and as references in case the student gets stuck.Also deduplicate content against Doug's GCP fundamentals.
 Solid course that introduces the ML capabilities of BigQuery. Also showcases the various options for using ML in GCP. A great overview of ML in GCP.
 Thanks for this wonderful course that helped me explore the Google Cloud Platform's offerings to use it for Big Data analytics and machine learning.
-Ótimo curso! Intuitivo, com exemplos que com os ajustes certos podem ser aplicados a situações reais, me ajudou bastante. Muito mais que o esperado!
 Well structured and easy to complete even with busy schedules. Good instructor and materials accompanied with intuitive quizzes and labs. Well done!
 This course is incredibly helpful and gives you a basic understanding of gcp analytics capabilities , what to use and when to use one over another.
 I enjoyed this lab, but for users that are using an ipad should use the Dropbox or some other repository for the files that are needed to be saved.
@@ -834,7 +776,6 @@ Learning was good, the course module enabled to have a real time hands on experi
 this course helped to get well versed with the services and use cases helped me to practice these services on my own. Amazing learning experience
 Great overview over GCP capabilities with a strong business oriented approach. Relevant topics and challenges are covered ! I really enjoyed it !
 Great overview of environment, universe of options, possible use cases, accompanied by hand's on feeling and getting familiar with the frontend.
-Très bon cours pour démarrer avec les fondamentaux du Big Data sur la GCP. Simple à comprendre et mise en pratique avec des Qwiklabs de qualité.
 Amazing course to start with GCP and learn the fundamentals and navigate through bigquery, dataproc, dataflow, and many other ML related tools.
 Interesting course provides quick overview of the google cloud platform. The timed labs are a good to get your hands dirty. Highly recommended.
 Really an amazing concept to increase Efficiency and decrease Time for  deliverables.Google Cloud Platform is amazing .Love working on it....
@@ -842,7 +783,6 @@ It's a great course for beginners. The basics of cloud engineering gives a real 
 I liked how we were taken step by step through the process... I wish they taught everything this way ... with some extra credits to practice
 Excellent introduction to GCP.  Covers all the important components.  Interactive Labs are well thought out and keep the course interesting.
 Slides were really well put together. I liked that they changed dynamically to show in greater detail what the instructor was talking about.
-Sin duda un extraordinario curso para iniciar en la nube de GCP, Totalmente recomendado, los instructores tienen amplia experiencia en GCP.
 This course is the best starting point for tech personnel (both new and existing software developer) who wish to migrate to AI development.
 This is an Excellent course to step in into Google Cloud Data Engineer role. Looking forward to rest of the courses in this Specialization.
 I really enjoyed learning about the history, present and how it holds together. Labs were really good resource to see everything in action.
@@ -857,11 +797,9 @@ one of the essential for starting google cloud data engineer exam. lak and all i
 It is a great way to gain fundamental knowledge about the GCP Data offering and which services can be utilized over different scenarios.
 Excellent! Very well explained with good examples and labs are great with step by step instructions for beginners to learn and practice.
 It's a good course for recomended for begining Data Engineer to learn and understand how to use BigData and ML on Google Cloud Platform
-Un Excelente curso, que nos ayuda a comprender los conceptos básicos y con muchas ganas de seguir aprendiendo de esta gran plataforma.
 Great information mixed with practical examples to give a high level view of GCP and it's products as they relate to Data Engineering.
 It s really a very well explained courses about the basics of cloud platforms, difference between them and machine learning concepts..
 I found this course very informative. It helps you to learn fundamentals quickly. Thanks to Google team to make this course available.
-Claro y conciso. Practicas bien llevadas. Ha cubierto todos los aspectos que quería ver en este curso introductorio. Muy recomendable.
 I have acquired very good knowledge on big data and running tensorflow models in the cloud. A very big thanks to Coursera and Google.
 Though it is the fundamental course or the introduction  course, it helps me to understand what cloud platform could do for analytics
 Try to add some real life examples and how google cloud platform and big data products like pub-sub and dataflow are useful for them
@@ -872,7 +810,6 @@ The Videos of the last Chapter didn't load in the browser, I had to download the
 Great intro and hands on training.  Just enough to help me understand how these pieces fit together.  Cant wait for the next class.
 This Course is great! Helps in understanding basics of big data and ML. Shows how easy it is to process data using google services.
 It was an great experience for completing this course.The course instructors are quite amazing and they are giving great exposure.
-Buena introducción. Ahora tengo un panorama más amplio sobre como aplicar soluciones de machine learning en la industria. Gracias.
 Really appreciated the fact I learnt a lot about Big Data and how to leverage on Machine Learning to make sense of large data sets
 It was a great course on the fundamentals of GCP and I learned a lot that Google offers that I didn't know previous to this course
 This course includes introduction to all gcp services and lab includes usage of most of services makes this course a perfect one.
@@ -880,15 +817,12 @@ Very interesting course. The subjects are challenging, but the instructor explai
 Very nice tutorial to learn about GCP and ML fundamental and practical lab session to help us understand each components in GCP.
 Detailed Explanation and Step by Step walk through. I have come across these products in silos, this helped me connect the dots.
 Very Good Class, Lays down the foundation to move data processing to GCP. The class gets to the point and the labs are practical
-Já estou usando o que aprendi no meu dia-a-dia, com certeza recomendo para quem tiver interesse em utilizar a plataforma (GCP).
 This course was very good to have basic understanding on Google Cloud and Big Data functions in GCP. Thanks Coursera and Google
 Excellent introduction, good for me who is more an architect and a passionate developer with no prior academic knowledge on ML
 Truly amazing course, 5 stars to everything content, understandability, reference materials. All the instructors are awesome!!
-Muy bueno, falta incluir algunos pasos con mayor detalle (especificación del lugar donde esta el recurso que se debe utilizar)
 The course is very well structured with a brief overview of all GCP analtyic products.The self paced labs are nicely designed.
 Excelent way to know how Google Cloud works, and the best part of the course is that all the laboratories are in google cloud!
 Great course for getting the basics on GCP and its applications.  Would be nice if the examples in module 4 were more related.
-Abre horizontes. Muito esclarecedor sobre as capacidades da plataforma. Um incentivo ao mergulho profundo no mundo dos dados.
 Very interesting course. I strongly recommend if you are interested in learning more about data engineering pipelines in GCP.
 I mean it was okay for a fundamentals course, I was hoping more detailed approach, maybe the further lessons will have those/
 This is very informative course of Google Cloud Platform. Its a very well curated course and its a heaven for data engineers.
@@ -896,7 +830,6 @@ Overall, very detailed course with lot of information around Data Science and ho
 Great introduction to GCP. The lab experience was really good and I found the GCP interface very intuitive and easy to use.
 Its a great course to get the basic understanding of GCP and machine learning concepts. The course is very well organized.
 Gained an overview of GCP services such as Cloud Storage, BigQuery, etc and using ML APIs such as AutoML, Vision API, etc.
-Traz de forma simples e objetiva as informações necessárias para aprendermos sobre o poder das ferramentas rpesente no GCP
 Explained the complexity of data modelling extremely lucidly with practical use cases & through quite elaborate lab work.
 It was a very interesting course. It made me very enthusiastic to learn more of cloud computing, AI and data engineering.
 Excellent course to get an idea of how to take advantage of what GCP has to offer regarding Big Data and Machine Learning
@@ -909,7 +842,6 @@ The content was thoughtfully crafted and the lab exercises along with them were 
 For a fundamentals course really a great course with easy-to-understand content. The labs are the most enjoyable part!
 best course about cloud i think, make me feel like a smart user using the google cloud platform. thanks coursera :DDD
 I set a goal to finish this course in under a week. Although, I did achieve this goal, I didn't see any confirmation.
-Bueno el curso es de un muy buen material actualizado y excelentes laboratorios para la practica que es fundamental.
 Excellent introduction to using Google Cloud packages including App Engine, Bigtable, Datastore, SQL and TensorFLow.
 Very thorough course, eases into complex topics, and the labs provide great, hands-on practice with powerful tools.
 It is a very good platform to learn and practice all the required GCP modules. Thank you for such a wonderful labs.
@@ -932,7 +864,6 @@ Great start for data engineering course, beautiful layout of fundamentals with a
 Very informative and well put together. The labs are very convenient and gives a hands- on experience required.
 This course is a good introduction to the GCP and the data science tools that google provide to the developers.
 Great introduction to the tools Google has to offer in their Cloud Platform for Big Data and Machine Learning.
-Excelente curso con ejercicios guiados que permiten afianzar el aprendizaje para aplicarse a problemas reales.
 Very good, it gives an overview of the GCP tools. To start is very timely and consistent in level-requirement.
 A comprehensive introduction to the Google Cloud data suite. A great toe in the water, inspired to learn more.
 Very good intro to GCP and machine learning stack. Well prepared lab exercises to illustrate all the features.
@@ -946,13 +877,11 @@ Amazing course, I think the best part of the course are the labs, that allow us 
 Excellent course I liked many and now try the services!! thank you very much and waiting for the new course.
 Very straightforward overview of GCP as an independent course or intro towards Data Engineering certificate.
 Excelling course to know about machine learning. I am able to know how ML works in GCP from zero knowledge.
-O curso foi muito bom, talvez por ser sobre *fundamentos* a parte de machine learning ficou muito supercial
 It's a good course to know about the GCP Platform and Machine Learning Fundamentals with hands-on examples.
 This course is very systematic to learn the basics of services available in GCP and concepts of ML as well.
 Excellent course indeed!. It delivers foundational concepts and a very comprehensive perspective about GCP.
 It was a good course. It was much more efficient and just as understandable to run the videos at 1.5 speed.
 For me was a perfect blend between theory and hands-on experience to get in into GCP and BIgData concepts.
-Je recommande vivement ce cour il très bien conçu et les labs permettent de mettre en pratique les acquis.
 Fantastic high level overview of elastic, pay as you use technologies in google for working with your data
 Very good mix of high level introduction, but supported by hands on labs to reinforce classroom learning.
 Very good intro to anyone starting in the data team of a company who is using GCP as their cloud provider
@@ -963,7 +892,6 @@ cool, but please review your scoring mechanism and labs content to reduce repeat
 GCP is just awesome. "Any sufficiently advanced technology is indistinguishable from magic" ~ Amy Marash
 Brilliant introduction to Big Data and Machine Learning Fundamentals. Curious to get to the next stage.
 Very interesting. Surprised of the capabilities of GCP - willing to learn more on many of these topics.
-Ótimo curso para iniciar na área de Data Science. Vídeoaulas bem didáticas e com laboratórios práticos.
 Great overview and hands on practices of the topics like Big query, Data proc, AutoML etc. Loved it...
 My first course on Coursera. Fantastic training experience on the stunning GCP platform. Will do more!
 Very interesting as an introduction to ML through GCP fundamentals, no programming experience needed.
@@ -977,13 +905,11 @@ Really nice and challenging course, too bad some labs did not work properly with
 Instructors are just great at teaching and love how easy it is for students to navigate through GCP.
 Good course. Use chrome add-on video-speed-controller to make the slow-speaking tutorials go faster.
 I love it! Techniques and insights of the instructors and Google's resources were invaluable for me!
-Muy buenos para entrar en las herramientas gcp, los laboratorios ayudan mucho, pero son muy simples.
 Great course for getting the fundamentals of the Google Cloud Platform, Machine Learning & Big Data.
 Excellent course to get an overview of the impressive toolset available on GCP for Big Data and ML.
 It was good learning exposure with various GCP tools like Big Query, Auto ML, Custom ML and Pub/Sub
 This course give me more information about google cloud , thanks for u guys who prepare this course
 Content of course is really good, which gives the understanding of GCP, Big data & Machine learning
-Ce cours permet bien d'identifier les solutions Google pour chaque besoin en traitement des données
 Wonderful course !! With hand on lab in real enviroment. gave more confidence.Qwiklabs was great.!!
 Excellent overview of Google data platform capabilities. We'll described with helpful lab material.
 It's a very good start for the usage of Google Cloud Platform and the analysis tools that provides.
@@ -995,7 +921,6 @@ It's a fantastic course for the beginners who willing to start their career in c
 q quick and precise introduction for GCP. a perfect beginning. clear instructions. can't say more.
 Great course, I really learnt a lot and feel more confident in exploring a career in data science
 Very happy to learn from the good teachers.. thanks to Google for bringing new innnovations in ML
-Curso muy completo, salvo que existen interfaces que deben actualizarse en el curso. Recomendado.
 Amazing, this course is very complete, show multiple applications using Big Data and ML on GCP!!!
 Great course on introducing users to fundamental tools to get started with working with Big Data.
 Highly recommended course for starters like me. All topics are covered to a good level of detail!
@@ -1006,19 +931,15 @@ The course contents are reach and helpful, many thanks to Google Cloud and Machi
 Provides a very good overview of the different components in GCP for Big data & machine learning
 Great overview. Looking forward to the next courses with more substance. excellent start though!
 Very nice introductory course, use cases and services well defined, easy step by step tutorials.
-Excelente curso apara entender y compreder el uso apropiado y la implementación de los elementos
 It was really helpful. I got huge Insight into Google Cloud Offerings and Machine learning tools
 Good. As a beginner, this course helped me to get an overall idea on Google's Big Data platform.
-Muy enriquecedor, abarca muchos temas pero son suficiente claridad para entender los conceptos.
 Excellent course to understand the different tools available in GCP . Very good basics about ML
 This course was amazing! One module was harder to understand, but everything else was great :)
 Helpful and reasonably packed course to get started with Big data and Machine Learning in GCP.
 Course details and lab exercise and useful links provided by the instructors are very helpful.
 Really good course who is willing to learn big data and machine learning concepts practically.
-Excelente Curso sobre a plataforma Google Cloud Big Data e os fundamentos de Machine Learning.
 Excellent course content, really very helpful in getting insights of overall Big Data Platform
 This is one of the best resources for learning Google Cloud and prepare for the certification.
-Muy instructivo, aprendí sobre las tipos de herramientas, su estructura y aplicación. Gracias.
 Great course. Everything was so structured and easy to understand. Ver good examples and labs.
 Very good introduction course to learn how to use Google Cloud Platform and some of his tools
 Instructors explain their curriculum in a clear and easy-to-comprehend manner. Love the Labs!
@@ -1026,7 +947,6 @@ Great course to understand tools available at GCP and how they are connected wit
 Very brief but to the point coverage on GCP, tools and solutions. Quite easy to use and work.
 Great course. Some labs shouldn't repeat some steps like SQL-spark, it should be only one lab
 This course provide an overview of Google Cloud Platform. The Lab work is really fascinating.
-Excelentes videos y muy buena información sobre conceptos y sobre los producto que ofrece GCP
 Awesome background on GCP - loved the TensorFlow intro and the ML API examplesThanks!  Girish
 This is a high-level course to learn about GCP. It is a good course to learn how to use GCP.
 I loved it. It is really clear and complete and allows you to try a lot of options hands-on.
@@ -1042,7 +962,6 @@ Needs a little more CLI commands to spin up resources or provision services but 
 Course is excellent with clear and understandable content with lots of hands-on experience.
 Excellent course for beginners  requesting to send updates related to these kind of courses
 Very good introductory course. Looking forward to the rest of the data engineering courses.
-Me ha parecido un curso muy completo y necesario para poder dar mi examen de certificación
 This was good course which introduced me to GCP Cloud and also gave me good hands-on labs.
 Seems like a practical foundation for understanding how to use big data to build ML models
 Enjoyed learning By Practically working on Real World Examples and Case studies using GCP.
@@ -1059,7 +978,6 @@ Awesome course on GCP. Impressed with the instructor's content delivery  and exp
 Excellent introduction to gcloud uses and also tips on source materials to keep learning.
 Comprehensive and clear, practical and a true introduction with very hands-on use cases.
 This is one of the best course I've taken on google cloud platforms. Highly recommended.
-Le cours est bien rendu avec la pratique dans les labs, c'est une très belle expérience.
 Best course I have done online. Very well explained with meaningful, real lab exercises.
 Great Learning Platform - Could complete the course under three days! Thank you Coursera
 Useful Course, It gave me a fundamental knowledge about Machine Learning in Google Cloud
@@ -1108,7 +1026,6 @@ Excellent course to explore GCP Solutions regarding Big Data and Machine Learnin
 Good Course for getting to know GCP. Tip : Make the video streaming speed to 1.25X
 This course has opened my eyes to a new world - can't wait to for the next module.
 I like the hands on lab very much, and looking forward to experience more advanced
-Curso excepcional. Me deu uma nova visão sobre os produtos oferecidos pela Google.
 Good and in-depth knowledge library... looking need more case studies as exercise
 A very good basic training on GCP where we can get a glance of all GCP platforms.
 It's a nice basic course on introducinig Google Cloud Platforms and it's toolset.
@@ -1126,7 +1043,6 @@ Nice overview of all the tools and how they work together in big data solutions.
 Great coursework and introduction to the fundamentals of data engineering on GCP
 Full info on GCP. touching on overall capability with appropriate learning oace.
 Very good gcp has tremendous features and are more related big data technologies
-Muito bom! amplo curso mostrando o poder da GCP com Big data a Machine Learning.
 A lot of great resources and well instructed lab exercise on the subject matter!
 This is a really good course and the labs give a really good hands on experience
 really have about the course content and the instructions given are very helpful
@@ -1141,7 +1057,6 @@ Good introduction to Big Data and ML fundamentals in the Google Cloud Platform.
 Super nice & easy explanation and I learned lots of interesting tools from GCP.
 Excellent Course, Learnt a lot about Google Cloud Platform and it's components.
 Best course to practice bigquery functions and good start up for cloud bigdata
-Bardzo ciekawy kurs. Mogę każdemu polecić. Nie był prosty. Ale trudny też nie.
 Great course to get an idea and understanding of the Google cloud technologies
 It is very helpful to understand the basics and fundamental of ML and Big Data
 Nice course. All concepts well understood. And looking for new more learnings.
@@ -1174,7 +1089,6 @@ A great introduction to the Google Cloud facilitated by a great instrcutor.
 great course if you want to leverage GCP at your work related with big data
 A course very well explained by a teacher capable of transmitting passion!
 it is very useful for students and others because, how to create a google.
-Muy interesante, espero profundizar mas en alguno de los cursos suguientes
 A great course to understand the basics of Big Data and ML on GCP. Thanks!
 One of the best course that I learn on Internet instructor teach very well
 Very nice stuff ,learned incredible things and the training was awesome...
@@ -1198,7 +1112,6 @@ the course is great. but the loading time of google notebook is terrible
 It was well structured and provided all resources and hands on teachings
 Awesome the explanation the lab all the things are explained in Detailed
 Good course.  It does help to understand the fundamentals of GCP and ML.
-Muy buen curso , te da un panorama general de la plataforma Google Cloud
 best course for google cloud platform enthusiasts ans big data learners
 Great course to know how google is doing the things. Google's ideology.
 Really nice introduction. Curious about the next tutorials... Thanks!!!
@@ -1212,7 +1125,6 @@ i have learnt many lot many things thanks you all for this opportunity
 Fantastic explanation and really good guidance through demos and labs!
 Was well paced and had the perfect density of information. Perfection!
 Really good experience with coursera and GCP , It's have amazing stuff
-Muy buen curso introductorio, muy completo y lo mejor los laboratorios
 Course gives a quick introduciton to the Big Data and ML stack on GCP.
 I understood the science behind the Big Data and how it works , Thanks
 the qwicklabs session and explanation by the mentors was exceptional.
@@ -1232,14 +1144,12 @@ Thank you so much for giving an opportunity to learn BigQuery and ML
 Excellent course, great resources, good examples and  practical labs
 the course is helpful. i got to learn about various things about GCP
 great offering Lak, thanks a lot and please keep up this great work.
-Excelente curso para empezar a conocer la plataforma de Google Cloud
 i am now very interested in learning cloud platform and those tools
 Good understanding About GCP Offering Services for  Big Data And Ml
 Great Experience and very informative. Thanks, Google and Coursera.
 A must take course for understanding the basics of Data engineering
 Very well explained content, great material and awesome instructor.
 Excellent course!! This is a must have for every CSE professional.
-Me retiro porque requiero algo mas gerencia que operativo. Gracias
 This course helped me progress in learning the whereabouts of GCP.
 This is an excellent introduction to Big data and ML fundammentals
 A nice general approach to different things that you can do on GCP
@@ -1287,7 +1197,6 @@ Very Descriptive,Practical and Google Data labs are fantastic.
 Really great introduction to ML and Google Cloud fundamentals!
 Informative and high quality material with clear instructions.
 This is a useful, getting-to-know GCP big data and ML course.
-Para comenzar está ,uy bien ya se cual es el camino a seguir.
 Good for the basics and have a view of GCP -- Tool & features
 To be honest, it was more like an insight of what GCP can do.
 Excelent introduction data engineer on google cloud ecosystem
@@ -1299,7 +1208,6 @@ Nice Introduction class for GCP Big Data and ML fundamentals
 Very Nice and Very Good and Thank You For learning materials
 Great Course! Great structure and tutorial! Congratulations!
 Very useful information about a very interesting platform!!!
-Muy buen curso para inicios en los conocimientos en la nube!
 Instruction on hand-on lab is very clear and easy to follow.
 ITs tech me new things that i never heard thank you coursera
 It's start point to who looking for basic knowledges in GCP.
@@ -1307,10 +1215,7 @@ Great course. Many things to learn from this single course.
 Great hands-on overview of tool portfolio and possibilities
 Great introduction to Google Cloud Big Data and ML platform
 Very Detailed and l love the  LABS with built in questions.
-Interesante introducción al mundo de Big Data y ML con GCP.
-Conceitos básicos de ambiente e desenvolvimento na "Nuvem".
 Awesome content and a great instructors. Must taken course.
-Excelente, son los primeros pasos para continuar mejorando.
 Good course to give an overview about Google Cloud products
 Very impressed with this course, it's content and delivery.
 Course is very well designed and all the trainers are good
@@ -1383,7 +1288,6 @@ A very interesting journey into the unknown for me..
 Very good for learner to get the overall idea on GCP
 It was a great experience learning with this course.
 Great course, I want to share with all of my friends
-muy buen curso para iniciar en esta nueva tecnologia
 Excellent course, great learning experience. Thanks!
 Excellent course  to understand basics of GCP and ML
 Great overview of GCP services and how it all works.
@@ -1402,7 +1306,6 @@ Fun learning, very informative, well guided course
 This Courser gives a very Good Basic understanding
 The course was truly enjoying. Knowledge with fun.
 Good course if you want to learn the GCP platform.
-Sehr ergiebige Lerninhalte, alles gut verständlich
 Very good overview of GCP for Data Engineer! Bravo
 Really Awesome and very helpful for the beginners.
 Course is very nice, specially loved the labs !!!!
@@ -1421,7 +1324,6 @@ Very good .. had better insights into the GCP...
 wonderful session I learnt a lot in this session
 Very completed and lots of detailed information.
 very nicely taught and labs are very beneficial.
-Otimo curso para quem deseja iniciar os estudos.
 Excellent! really good explanations and examples
 Great class! I took me two days to finish though
 Excellent Introduction of Google Cloud Platform.
@@ -1432,11 +1334,8 @@ it helped me a lot and i had much to learn more
 Very informative and a good learning experience
 Very simple explanations and good quality labs.
 Very good course going over ML basics with GCP.
-Muy bueno para ir conociendo lo poderoso de GCP
-GCP全般を動かしながら学べるコースです。実務で使えそうなものを深掘りするきっかけを作れます。
 Instructor is awesome, content is very relevant
 Very Useful for Data Analyst and Data Scientist
-Good quality - material, labs.. ref. materials.
 Great material with very thorough explanations!
 Nice comprehensive introduction to Google Cloud
 Great work by both Coursera and Google Courses
@@ -1472,7 +1371,6 @@ great course, thank you for all informations
 Excellent course material and training lab.
 Awesome and enjoyed attending this Course !
 Very nice course, accessible and clear!!!!!
-GREAT LESSON...I HOPE I CAN LEARN MORE!! :)
 Great foundation course with hands-on labs!
 Nice complement to google Cloud Onbord 2019
 Is it possible to code/programme in Python?
@@ -1480,15 +1378,12 @@ Great explanation with instructions of Lab.
 Excellent methodology, content and trainer.
 Great Experience to learn Cloud technology
 Good Course content, faculties and Labs !!
-Me facilitó mucho el aprendizaje ¡gracias!
 this course is excellent also the labs too
 Great course with some good hands-on labs.
 Really helpful and quite up to the mark.!!
 Awesome !!! Very good introductory course.
 Nice Intro course for Big Data enthusiasts
-bastante claro y con excelentes prácticas!
 good course for basic understanding of GCP
-Intéressant, j'ai apprécié les TP Quiklabs
 Was nice, really well prepared and funny !
 Excellent! A lot covered in just one week!
 very Good for beginners, very well trainer
@@ -1502,7 +1397,6 @@ Its a good platform to enhance our skills
 As fundamentals, It is simple and Direct
 Very good high-level introduction to gcp
 Very informative and great experience :)
-nice uses cases and labs are quite good.
 Very nice the time allocation is perfect
 Very good training with a lot of topics.
 Great introductory session into the GCP.
@@ -1526,7 +1420,6 @@ Excellent Course Thoroughly Enjoyed it!
 Great introduction to complex material.
 I loved this course. It is so helpful.
 I wish to attend more course like this
-muy bueno y las practicas son geniales
 Explains the basics in a neat fashion.
 Very good initiative from google!!!!!!
 Good to start cloud learning with GCP!
@@ -1544,7 +1437,6 @@ simple and straightforward, I like it
 Excellent way of explaining concept .
 Pretty cool. It is excellent outline.
 Very nice course! I'm enjoying a lot!
-didatico e super completo em conteudo
 Basic concept of Data products in GCP
 It's good and well structured course.
 Very good! it's impressive! Very Cool
@@ -1554,7 +1446,6 @@ Highly satisfied with the course (y)
 Good explanation and well structured
 Fantastic course. Really enjoyed it.
 Amaizing lecure worth to invest time
-Excelente, dinámico y bien explicado
 Great course, well organized content
 Great Resources. Highly recommended
 It was great to do the Auto ML labs
@@ -1562,7 +1453,6 @@ This is the best place to learn GCP
 It was a nice course! I enjoyed it
 "The first of many!" - Worms, 1995
 very nicely explained each content
-Muy interesantes  las herramientas
 Great course. Loved the code labs.
 Good overview of GCP data products
 excellent course and great speaker
@@ -1578,10 +1468,8 @@ Detailed overview of GCP products
 very well done. chat help is good
 Nice introduction to GCP services
 Good overview of GCP with handson
-Excelente para tener los alcances
 Very well designed and explained.
 good to know the features of GCP.
-Fue una buena introducción a GCP.
 helped to understand from basics
 Nicely organized and informative
 Excellent Course and Instructors
@@ -1589,19 +1477,15 @@ Great practical learning course.
 very usefull stuff to start with
 Very well thought course content
 Great overview of the technology
-Было интересно по большей части.
 It's really good and effective..
 Great course to learn ML on GCP.
 Good introduction with examples.
 great course and easy to follow
-Goodtraining on Big data and ML
 Nice course, great for beginner
 Very fast, but very interesting
 Good course for a data engineer
 Lak is an excellent instructor.
-great Course - keep making more
 so nice i have really loved it
-Great fundamentals course ....
 This is a really great course!
 It was really a great learning
 good lab work and explanation.
@@ -1618,21 +1502,17 @@ i really enjoy google content
 I'm enjoy this course. Thanks
 Good to start on fundamentals
 Great course, I recommend it.
-Excellent content and trianer
 Excellent Source to learn GCP
 Gets you up-to-speed quickly.
 This course is really perfect
-Fundamental Course to use GCP
 Very Informative. Thank You!!
 Great course by Google Cloud
 great week 1 course! Thanks!
 Give me hands-on experience.
 Great first exposure to GCP!
 A Great introductory course.
-very good overview - thanks!
 Amazing fundamentals for GCP
 Awesome Learning experience
-Fue genial. Gracias Google.
 Precise and helpful! Thanks
 Very good and very practice
 Very Well Structured Course
@@ -1651,15 +1531,12 @@ best intro to google cloud
 Great intro to Data on GCP
 Thanks about this training
 really great introduction!
-A nice a fun little intro
 Best Course for learn GCP
-Excellent introduction :)
 Nice Introduction, thanks
 Good flow of every module
 Best course for Engineers
 great course thanks a lot
 Very good tool to upskill
-Good start for a beginner
 Great course. for started
 I think it was very fun!
 Great course very clear!
@@ -1670,17 +1547,11 @@ Great interactive course
 Good course to star with
 very informative course.
 Amazing content and Labs
-So simple course and Lab
 A great intro to GCP ML.
 Execellent work from Cou
-Very skilled instructor!
 Good Introduction Course
 This is pretty exciting.
 course is soooo awesome
-Goodfundamentalscourse.
-Excelente treinamento!!
-Please add more quizzes
-Great course content...
 Well made ! Interesting
 Greatcourseforabeginner
 thanks for your course
@@ -1688,20 +1559,14 @@ Great insight into GCP
 great learning, thanks
 Thorough understanding
 Thank you very much :)
-Muy genial este curso!
-Excellent intro to GPC
 Great Lecture! Thanks!
-All modules are good..
 Really easy to follow
 Great way to teach!!!
-Excellent experiences
 Thank You Very Much..
 Very helpful training
-Un curso maravilloso.
 Really learned a lot!
 Great initial course!
 Thank you coursera..
-Very good, I like :)
 A charming adventure
 Enjoyed the learning
 Simple and powerfull
@@ -1712,72 +1577,38 @@ Good and simplified
 Its a easy learning
 really very helpful
 ExCellent Knowledge
-Solid fundamentals.
 Informative course.
 Great intro to GCP.
 Great stuff really
-Execelente curso !
 Excellent training
 very nice course..
-Very good overview
 thanks for google
 very good cousrse
 Well Explained!!!
-Buenos Conceptos.
-quality jumpstart
-Excellent start!!
 Great Learning...
-excellent project
 Great training !!
-Gut verständlich.
 The great course.
 Basic and good...
 good for lessons
 I liked the labs
-Genial contenido
 the best! thanks
 awesome training
 Very useful labs
+Great tutorials!
 helpful! Thanks.
 Simple and clear
 I like th topics
 Too Good Course
 useful learning
 Nice First Dive
-helpful for me
 I needed it ;)
-Good Content!
-simple & nice
-perfect start
 great explain
 Very nice one
 nice to learn
-amazing start
 Awesome flow.
-good to larne
 Just Perfect!
 fun to learn
-Mantap Djiwa
-I like it !!
-Nice content
-Dope course
-ótimo curso
 Perfectt :)
-Best quiz.
-good LMS,
-me bollox
-es genial
-excelleny
-very good
 Thanks!!
-Good Lab
-gratuiti
 thank u
-V good
 thanku
-dsdf
-yay!
-ccc
-GG
-D
-ㅈ

@@ -27,8 +27,6 @@ Examples could have been improvised and to be straight few of the videos were no
 I take effort to understand the and keep in track with the instructor, but it's a good content
 the course for product management from Darden was so much better
 There could be more content included and tested.
-just an introduction
-Underway
 Overall, the content of the course is good and the examples are thought through. I also enjoyed the dry runs with actors. The one thing that could be improved perhaps is how the topics are being introduced. Sometimes it feels like the teacher is trying to make things look harder than they are, or at least he uses a rather complex way of explaining the concepts.
 Overall very good course - the instructor seems to be very professional, with deep subject knowledge and expertise in domain.At the same time the way the information was delivered is a bit confusing for several reasons:First. The instructor doesn't make a proper intro into agile frameworks and processes and you cannot really understand in which part of the puzzle the design thinking fits in. If I didn't have basic knowledge on agile development methodologies I wouldn't really understand at what step and how should I apply the design thinking.Other confusing thing was the presentation itself. The presentation slides are overwhelmed with the information and texts, many times absolutely unnecessary, so that you have to stop the video to read them, but actually it doesn't give you any important additional information and doesn't bring any additional value. And the whole bunch of information you are trying to read on the slide is overlapping with a lot of information provided by the instructor, so all together it becomes very confusing and difficult to structure in your mind.The last thing - during the presentation the instructor uses the pen to underline/select some information which creates additional confusion and makes the whole presentation process kind of "messy".Overall I would recommend the course, but you better have some basic understanding of the agile processes before to start it.
 My notes, I think, have captured all the essentials from the course. I will need to rearrange them into a handy reference. The exercises helped reinforce the learning and validate the templates. As for the final project, I somehow downloaded the wrong template. After puzzling over the rubric and that template, I searched and found the correct template. Appears that maybe one the papers I peer reviewed might have been on that incorrect template. The instructor lectures as though he was a long-tenured professor, but he actually comes from years of commercial experience. Very impressive. The course seems to be mostly design thinking, and little bit of Agile. That's fine. This course could stand alone as design thinking. If there is no other stand-alone design thinking course from this provider, this course could apply very well across many disciplines. It has some things in common with Google's internal Agile processes.As nice as this course is, I'm still sort of wondering why it's in the UVA curriculum. I guess core and specialties have broadened quite a bit in the last 10 years.The discussion of emotion and reward was very insightful.
@@ -53,14 +51,12 @@ Its a good course but little more examples and description on User stories, Stor
 I thought the course was very informative and a great foundation for the new few courses I plan to take. I only wish there was a better summary after completing each week. Better material to study vs a very long document to review.
 Overal, this course delivers basic and theoretical concepts regarding agile. However, I'd like to see more concrete practices in real world applications. Maybe later courses could touch deeper on the practicality side of agile.
 A very interesting approach, I learned a lot. This course might be a little bit hard for a non-native English speaker (I am confident in my English but sometimes I couldn't figure out what the authors meant by quiz questions).
-Didática do professor é excelente. Material também é muito bom. Único ponto não tão positivo são os vídeos que simulam as situações reais. Achei muito superficiais e não agregaram tanto assim no curso. De resto, excelente.
 I really enjoyed the material and the video lessons. But I am very annoyed with the evaluation method that students use, where they do not really care about analyzing the content and end up harming their study colleagues.
 It is good in general.The instructor is thorough and provides lots of information and useful templates. I feel sometimes there are missing links in the explanation. The work load is fair and the exercises are helpful.
 This is a great course for learners who want to get  a flavor of how design and agile meet. Not so much a course if you would like to create a new product. Really great for people who are already working on software.
 Nice and informative training. The reason I don't give a full score is that I don't think the Peer Review works as intended. It seems to me that most people just give a full score and don't bother to comment at all.
 In general, a good course but I miss more deep information on how to do better personas. Also the examples with the people doing an example in ¨real life¨are not helping at all.
 Learned a lot about personas and how to draft one. I didn't know that before making a product or software, a team goes through this much research on their potential users.
-Un muy buen curso. Útil para identificar las necesidades de nuestros potenciales clientes y aplicar la metodología ágil para validar las propuestas de valor.
 A very good introduction to Agile thinking that gives insight in personas, epic and child stories, storyboards, the value proposition, amongst other things
 The course is full of tips and tricks, and since I already have some experience on both Agile and Design Thinking, it really helped me connecting the dots.
 Course was great! Alex touched most of the Design-Thinking fundamentals. Could have gone little more into details on prototyping and usability testing.
@@ -76,7 +72,6 @@ I liked the practical application, but the skits were so cheesy I just ended up 
 Great course I learned a lot about the topic that I'm using some of the main concepts for the projects at my work.
 This course, really helped us shape up a story from an idea to value proposition with measurable action stories
 The demos appended at the end of the course could be a little bit more integrated in the course.Really nice.
-Los recursos adicionales son muy buenos y la estuctura del curso está bastante enfocada en el objetivo.
 Good Course. Need to keep the simple example for better understanding. Overall I enjoyed the sessions
 I think whole course was well explained but sometimes I had a hard time to get a key point in videos.
 Great course. Only addition I would recommend is some more time on how identifying needs in the org.
@@ -106,16 +101,12 @@ Great course Very well presented. I enjoyed. Thanks
 Interesting, insightful, well explained, practical.
 Could be more elaborative and practical oriented.
 Instructive course as an introduction to Agile
-Great trainer and excellent course content.
-Very nice course, I've learnt a lot!!
 Quite useful but too many words
 Perfectly explained concepts
 great program to learn agile
 This course is Really good
 Very well explained!!
-Sometimes video lags
 helpful content
-excellent.
 Alex Cohen really knows Agile.  That is probably because he has real world experience starting new ventures and using Agile methods to deliver great software products.  Alex is super clear in all of the video sessions.  And a really big plus are all of the extra materials that Alex provides.  His website dedicated to Agile is also fantastic, super clear, and an extremely valuable resource.  In fact, the template provided to complete the course assignment is perfect for using with your own Agile team.Thanks Alex!
 This course provides the basements in terms of concepts but also drives you to build knowledge by exercising. Describing personas and storyboarding were the best topics for me.
 Excellent overview of Agile fundamentals, including explanation of personas, how to create user stories, and how to nest those stories within the design process. Useful to all members of the design teams as a way to rethink how to approach the process and better interface with users and customers.
@@ -209,7 +200,6 @@ The most I like  about this course is that it has a lot of examples and practica
 Great course. It's not too self-contained, however. I understand a lot of the material makes more sense in the context of later courses in the specialization. Cowan is an understanding teacher.
 The Course is a true recommendation. Mister Cowen explains really well and the example company makes the Agile very clear. In my opnion, this course is a real valuable asset for learning Agile.
 It's a great overview of what can be achieved with putting agile into the center of discussion and why is it important, and also how to achieve those goals which are set out in a practical way.
-Está muy bien estructurado y te permite avanzar progresivamente e ir ganando confianza en aplicar esto en el espacio laboral.También da recursos útiles para poner en práctica lo estudiado.
 It was a wonderful exercise for me to have a unique understanding to the specific people having a specific task. I really groomed myself after having this course in my professional life.
 This course really helped me to approach Agile in a whole new way. I have a lot to take away from this course. I would really implement my learning from this course into my daily work.
 Excellent course to immerse me into this new world of Agile. Appreciated the details and consistency of examples to build my understanding. Enjoying this journey to new understanding.
@@ -241,7 +231,6 @@ Very good learning experience. Great content and the instructor had a superb com
 Excellent material, good quizzes, and most important - very good peer review exercises, required some thinking and time to do our own, and review the peers'.
 It is a great course to understand the bases to define the problems, users and align the applicants, users and developers to start working in an agile way.
 Good course. Introduce you to agile methodology, and show how to do first steps in agile development. Also the is excellent, interesting assignment project
-Excelente metodología y didáctica.   Aplicable a diferentes industrias (inclusive salud como en la que estoy). Buen curso introductorio a Design Thinking
 The first few weeks is very dry and difficult to get through. After week one, things definitely picked up and felt more understandable, and far less dry.
 The instructor is structured, articulated and engaging. I found the assignments really helpful to dig deeper and assimilate the materials. Great course!!
 An insightful yet easy to understand course. I believe it would be better if the course provides more example of how problem scenarios and user stories.
@@ -255,7 +244,6 @@ a  must have skill set for anyone working on agile environment. solid and struct
 Great course explaining agile fundamentals and starting to teach design thinking. These methods need practice so final assignment was really big one.
 Extremely relevant course for someone aiming a career in Product Management. Also explained in a very intuitive and simple way. Definitely recommend.
 The professor has done a great job unearthing a very deep understanding of Agile. I would recommend this course to anyone who is serious about Agile.
-Estoy feliz de haber culminado... mi trabajo no tiene nada que ver con desarrollo de software, sin embargo creo que podré aplicar todo lo aprendido!
 This course details the significance of having a well-structured Persona and problem scenario. It pushes you to think and write apt user narratives.
 Awesome for people wanting to learn more about Agile methods and practices. The course's resources are very well done. A knowledgeable instructor.
 Excellent, very insightful course on how to approach Agile. I can see we've missed a few steps in bigger projects, now that I've done this course.
@@ -290,10 +278,8 @@ Nice configuration with clear instructions.  Videos were very well done!  I lear
 Thanks for putting this out there. Not sure how I would get all this insight into software industry best/great practice otherwise.
 Intensive, but incredibly informative and useful course! I recommend it to everyone who want to improve Project Management skills.
 Week 3 was harder than the other weeks, I had no design thinking background and designing a persona took me way more than 3 hours
-Alex Cowan explica la materia de forma muy amena y cercana, el curso es muy interesante, ideal para profundizar en el mundo AGIL
 I'm learning so much. So excited to share this process and these principles in education, in business and my personal pursuits!!
 This was a great class. Learned more than I expected. Who knew there was so much involved in writing a good user story. Thanks!
-Excelente curso, me permitió aprender mas sobre la metodologia agil y la importancia en la generacion de valor para el cliente.
 this was a really informative class.  it helped me to think about things very differently than before.  I highly recommend it.
 Excellent introduction to Agile methods focusing on really understanding the customer through personas and problem statements.
 Thank you for Alex, to teach us. He was a good mentor, I hope I have the time to take the rest of the specialization courses.
@@ -331,7 +317,6 @@ I only have read books on Agile. This course has been very valuable in the month
 It a super good course for getting a better knowledge of Agile. I found it very useful and informative.
 Nice overview of core topics within Agile with a step by step practical approach to really get started.
 I really enjoyed the course and learned valuable new skills which are transferrable to non-IT project.
-Excelente curso, me ayudó bastante a entender los conceptos básicos de Agile y entender  el framework.
 Really enjoy the course. It has perfect balance of theories and real life examples. I like the skids.
 I really enjoyed Alex's delivery. Engaging and informed. It made it very easy to absorb the material.
 For me, who works with requirements and user stories every day, this course is incredible. Thank you.
@@ -339,7 +324,6 @@ Amazing idea to incorporate design thinking into product development. I love how
 really, really nice curse with good material.But the assignment at the end could be more elaborated!
 Excellent course content, I will suggest to every Agile person to must attend this course properly.
 Alex explains things very well, clearly based on his own experience. The content and pace is great.
-Es un excelente curso , me gusto mucho , solo que hay que  dedicarle tiempo pero esta muy padre!!
 Excellent material, great instructor and well-prepared practical assignments. Highly recommended.
 Really enjoyed the pacing, detail of lectures and complexity of assignments. Well crafted course.
 A very good introduction to agile and design thinking. I don't hesitate to recommend this course.
@@ -368,7 +352,6 @@ The content and the material of the course is very good. Provides insight in dep
 I absolutely love it and would like to continue learning with specific cases and workshops.
 It was structured course - easy to follow and understand - very good instructor.. Thank You
 Very practical course and great for people with no background in Agile thinking and doing.
-Es un curso muy claro y el profesor da ejemplos que ayudan a entender fácilmente la teoría
 Very helpful course that will definitely change my way of thinking and creating projects.
 Great course, the explanations were through and practical and the coursework was relevant
 Great course about agile and dsign thinking! course material are great and very detailed.
@@ -463,8 +446,6 @@ Alex your teaching method is awesome, thanks for all!
 Excellent course, keeps you engaged and connected thr
 I learned a great deal of knowledge from this course.
 Good quality course. Excellent explanation by Alex !
-Excellent aproach for an agile project development!
-very nice course but some more content is required
 This is a fantastic introductory course for Agile.
 Great course! I learn so much, Alex is great!  =)
 very useful, this will help me in my job for sure
@@ -505,20 +486,17 @@ Good introduction to Agile Development
 Great introduction to start with Agile
 Simpler explanation of Agile concept
 Very impressive. Thanks for sharing.
-O curso é fantástico! aprendi muito.
 really complete and  awesome course!
 Excellent, great tips and resources!
 Very Good Course with Best Examples
 very easy to follow, good examples.
 it was easy and interesting course
 well organized course and content.
-Useful material. Great instructor.
 Great course and very applicable.
 Nice introduction course to Agile
 I strongly recommend this course
 The work was good to understand.
 Great course ! Very insightful !
-best course i have done till now
 Excellent! Thank you Alex Cowan!
 Great course to start with agile
 Interesting course, eye opening
@@ -539,7 +517,6 @@ Very interesting. Thank you.
 Great tips and clear lessons
 Excellent!! High Recommended
 good explanation and materi
-agile meets Design Thinking
 good course..well developed
 Very practical and helpful.
 I think its very well done
@@ -550,14 +527,11 @@ Amazing tutor and contents
 Very Good Course Overall
 Great learning resource.
 The course is wonderful
-very good course indeed
 Great, thorough course.
-Excellent! Wonderful!!
 I highly recommend it!
 great and easy course
 Course was very good.
 A good place to start
-Great intro to agile.
 It was so practical.
 it was quite useful.
 awesome experience !
@@ -565,17 +539,9 @@ great course for all
 Nice Course i think
 Awesome assignments
 A should do course!
-Great exercises!!
 Very interesting.
 Very articulate!
-Great material!
-Very detailed!
-Outstanding!!!
-I´ts Wonderful
 Great session
 Is so great!
 Good  course
 Its Perfect
-Very GOOD
-gdg
-r

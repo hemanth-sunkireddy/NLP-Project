@@ -112,7 +112,6 @@ A very nice and concise course.
 awesome content but too easy
 Vector  Modelling for NLP
 Explained LSH very Well.
-오타나 설명 부족이 눈에 너무 보였다.
 Course is too easy.
 Well paced and easy to follow.There are some typos here and there (so the course might need some more polish on that end) but, apart from that, it's accessible and puts the focus on understanding the concepts rather on coding contrary to what I have read in another review.You could follow the course even with no prior experience in Python.If you take the course, don't skip the ungraded assignements, they are an integral part of it and provide more detailed explanations of what has been taught in the lecture videos.Thanks to the team and good luck all.
 one of the Best course that i had attented in deeplearnig.ai the last week assignment wasto good to solve which cover up all which we studied in entire course waiting for course 4 of nlp eagerly
@@ -150,7 +149,6 @@ Thank you for your wonderful lecture!
 NLP is an unfamiliar field for me, but detailed suggestions and comments led me understand a lot.I am glad that we have taken the first step in the state on art natural language processing ! ! !
 I love that through this course, I was able to understand how to implement algorithms like PCA from scratch. This course really teaches you the intuitive sense behind some of the popular algorithms used in NLP. Highly recommend it!!
 Good course. Learned a lot. like all other deepLearning.ai courses this teaches through implementation and explanation. learned about Text preprocessing, naive bayes' model, vector space models and using planes to optimize Knn.
-Course toh bohut bhadiya tha lekin woh jo tumhara machar jesa dikhne wala instructor tha usko kuch khilao...zayada din ka mehman nahi hai woh....aur dusra koi bhi ladki instructor nahi thi :(.......overall bohut maza aaya...
 Thanks for teaching me a new type course.Every teachers are extremely awesome in this course.Clear all doubt and problem related to the course.                                                                     THANK YOU,
 Excellent teaching, enjoyed delving into the practical aspects of linear algebra as applied to NLP in good guidance and quality academic resources. Academic passion is felt all along, thank you from my receiving end!
 Very good course! Really gets to the actual calcualtions that you are doing, without skimping on the detail. Challenging at times even, but that only adds to the sense of accomplishment when you finish it!
@@ -226,7 +224,6 @@ Up-to-date content with great teachers. Very complete programming assignments.
 Excellent course. Easy to understand explanations and good application skills
 Requires some backgroung in deep learning. Great introductory course for NLP
 Enjoyable course with adequate pace and interesting labs and assignments !!
-Le cours est parfait, les travaux pratiques sont appliqués et passionnants.
 Very knowledgeable tutor and really informative intensive course material.
 Very nice course with very short length videos and very much informative.
 Gained key concepts on NLP looking forward to next section of the course
@@ -234,7 +231,6 @@ Gentle and patiently-explained introduction to the basics of intro NLP
 Excellent introduction to various fundamental algorithms and concepts.
 Great introduction to modern NLP and preparation for newer techniques!
 Really likes the content. a Nic balance between content and difficulty
-Muy bueno, especialmente para gente que este empezando con este tema.
 Loved how the course was paced. The ungraded labs were very helpful!
 Clear videos and challenging exercises. It was a great experience.
 I really like this course and I think it's really useful for me.
@@ -287,15 +283,11 @@ Great Introduction to NLP
 good intro to NLP, thanks
 Its good to start with .
 Great, Thanks very much!
-nice introductive course
 Great course, loved it!
 Awesome explanation.
 Wondefull Course!!!!
-I love deeplearn.ai!
 Good walk through!
 AWESOME COURSE!!!!
 AMAZING COURSES
-Nice Exercises
-Best for NLP
 hard course
 Cool!!

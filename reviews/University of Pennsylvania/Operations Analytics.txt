@@ -6,15 +6,12 @@ Boring and not useful for real case scenarios
 Boring, rote, and the videos are useless
 Awful class.  Just dreadful.
 Information is cluterous
-Too mych excel
 Week 1 of The Operations Analytics course is incredibly underwhelming. I've noted a very heavy focus on basic concepts such as calculating averages, how to calculate a ratio, how to add colours to an excel graph, which was covered half a dozen separate times IN DETAIL. I honestly couldn't tell if the material had been intentionally under-developed to minimize professor effort or simply due to an inability to recognize the required content for the course. In any case, the fact that basic concepts are routinely repeated without further development or context is an indictment on the quality of the course.The entire first week comes off as very unpolished - it's clear that the speaker is reading off slides rather than drawing from memory and that the speech is almost spontaneous - back to back explanations of the exact same thing as if the speaker forgot what was supposed to come next. It's a recorded lecture... I don't understand how you can watch the Week 1 videos and think that's an acceptable level of quality. Moreover, 10 - 20% of each talk is simply a summary of what's been discussed and will be discussed.  On quiz week 1 there was an actual question where all you had to do was input a value for X then add one number and that's the answer? That's literally not even high school level math... When I see a question like that - something so basic it's a shock - it's incredibly clear that the professor put in the most minimal effort possible. Nearly dropped the entire subscription and ceased every course due to this lack of quality control from this single week. Week 2 is far better in quality. The lack of quality control is rather concerning - how one professor is clearly far less capable than every other presenter...
 Did not meet expectations - the entire material of the course could have been covered in 1 week, with the rest focusing on more complex and larger problems. However, I feel the focus was more on just giving small tasters of what's possible.The course focused largely around calculating averages, standard deviations, and running simulations based on random numbers. All of this was done on small-scale examples, It did not dive into real-world applicable problems. The theoretical material was okay, not too impressive.
 Videos are too long. Length of videos should be reduced to exceed not more than 20min. First if the concept is conveyed in a crisp and clear manner and then practical examples are shown, the interest towards the course can be improvised.
 Too Basic. The material and the course rate isn't at the level of the other courses Wharton has to offer.
-Creo que se han dedicado más a enseñarnos de Excel que en sí la lógica detrás de los problemas.
 Too Much excel sheet teaching rather than concepts.
 the video lectures are too long and really dry
-easy and not engaging
 Interesting introduction course to basic analytic tools
 Hi,I am someone who works in Sales & Operations Planning and thus have experience in the field of Operations. I have taken other courses from Wharton, namely Prof Terwiesch's course on Operations Management and thus have a comparative reference in rating this course.  The course videos were good and I am looking forward to reviewing the case examples once again, but I was hoping for mode in depth discussion on key metrics and analytics in Operations. The course only provided an introduction to everyday concepts of Operations Management. The review quizzes were underwhelming since they only scratched at the surface of the concepts and were not challenging enough, the quiz of week 3 was a prime example where I felt application of algebra was being tested and not the concept of optimization itself.That being said, the videos were excellent and detailed introduction to the concepts and the pace was well suited to make someone comfortable with the topics being discussed.Thank You Coursera and Wharton team for providing this course. I look forward to attending more courses from Coursera and Wharton.
 The content is too simplified, basically only three points introduced : how to do operation analytics, simulation and optimization ( by excel) . The quiz is not challenging at all. No further essay or maths involved.In real world, the content  is taught within 4 hours class time, which is at most content for no more than two first weeks for an undergraduate similar courses.Challenge us please! Brain torture us. No one will complain it is too hard for them to learn coz we are here to learn, and after all, this is Wharton!!But if it is too simplified to learn? Hmmm.....Hope Penn guys can enhance the quality of content later.
@@ -166,14 +163,11 @@ Very good course and very useful!
 The graded content was too easy.
 I think it is a little too easy
 It is needed more assingments
-Excellent but not complete
 Very Good. Learned a lot.
 Crisp and succinct
 Simple and easy to
-Useful use cases.
 Good materials.
 Course is good.
-VERY helpful
 Brief Profile: Sohail ButtI am a man of 58 years old and having an experience of almost 30 years of Business Management of Pharmaceutical & Nutraceutical Industries of Pakistan. Presently I am having my own Consulting Company " AIMMS CONSULTING" and extending my services as Management Consultant to different companies of said sectors.I am of the conviction that learning is never ending and have a habit of learning new ideas about my favorite subject about Operations Analytics.I really appreciate highly the efforts of my respected dynamic & competent Instructors Associate. Prof. Senthil Veeraraghavan, Associate. Prof. Sergei Savin & Professor Noah Gans for Operational Analytics and enjoyed the course material and videos presentation of this course. Mind blowing conceptual approach was adopted especially in the areas of basic conceptual knowledge in depth. Overall it was my superb experience of learning.SUGGESTION:MY PERSONAL HUMBLE REQUEST, Please make also the important components of course material as a part of this Certificate with % AGGREGATE so that it has a much more worth & impact for the courses participated.A separate Transcript must be issued with having Aggregate % Score and important Components of participated course.Hard Copy of this certificate mail to my home address in Pakistan. Please use my credit card,I am ready to pay all expenses in this connection.Thanks & best wishes to all Coursera Team.
 The course is very interesting and practical. They reinforced several knowledge acquired in the university. I would like to have access to more practical exercises of a higher level.What I did not like is the kind of certificate provided by Wharton and Coursera. The certificate is full of warnings like: "this certificate does not confer a University grade, course credit or degree, and it does not verify the identity of the learner".The feeling is that the certificate is not good.
 The awesome effort by the Wharton Business School, Thanks to Wharton Business School & all the concerns & professors, who put their efforts in this course.
@@ -247,7 +241,6 @@ AMAZING COURSE!! It really help to understand and change my view on certain aspe
 Out of the three instructors I found Mr. Sergei & Mr. Noah very great at teaching their part where as the introduction instructor needs some improvement such as instead of reading slides try explain it with practical examples!
 The professors were amazing. it was an amazing experience for me. I learned a lot and it was valuable as well. I am sure that this will help me build a CV for a better career. A must-do course for every Operations enthusiast.
 Many thanks to the professor for his knowledge and practical teaching of digital analysis and decision support in the operational process. Let me apply these skills not only in theory but also in practical work. Thanks again!
-Buen contenido. Me hizo ver las matemáticas desde otra óptica, mucho más utilitaria y aterrizada.También me sirvió para hacer un par de forecast de trabajo. Espero seguir haciendo un uso práctico del contenido.Muchas gracias
 Course was very well explained. Professors were very specific and cared to explain every relevant possibility of a given problem. It makes you much better in simulation, optimization, and decision tree tools, specifically.
 i really enjoyed this course . i have done 3 courses in coursera and this on is the best way in terms of what teachers explained the concepts. optional videos and problem practices are really very helpful to buld concepts
 I loved this course, the professors are great, they explained with detail, the reviews are awesome and the homework challenging. At the end of the course I felt confident that  I can use Excel special tools comfortably.
@@ -311,7 +304,6 @@ This is a very informative and interesting course. I received a lot of useful in
 Very good course which helps you develop thorough understanding through many examples and problem sheets. Perfect pace and balanced content. Would 100% recommend.
 Course is very well designed, learnt some new concepts and methods in optimization. Also learnt how a data is analysed depending upon the trend and probabilities.
 I loved the way these courses were laid out.  I was able to follow them easily thanks to the extremely clear instructions and helpful sample problems.  Thank you.
-Mix entre teoría y práctica excelente. Los ejemplos son cortos pero te muestran claramente el camino para solucionar problemas mucho más grandes, son escalables.
 This course definitely helped with my Analytics overall.  I was able to learn about features in Excel that I was unaware of and that help make decisions easier.
 Very well structured course with the core basics of operations analytics. The concepts of decision tree analysis and optimization have been explained quite well
 This 5-star why I'm giving because by accomplishing assessments test I feel confident now. Because I have got competency now so it will great for my placement.
@@ -330,7 +322,6 @@ Great insights on problems. I've done these models before in my uni studies but 
 It was really an honor to have the course of Operational Analytics under the Wharton University. Thank you for providing such a great opportunity.
 The numerous practical examples were especially helpful in understanding the content. All topics were clearly explained then immediately explored.
 Compared to the first two courses of businesses analytics i.e. consumer analytics and this course, I find this to be more productive and helpful.
-Excelente. Aprendí bastante sobre optimización de modelos, simulaciones y árboles de decisión. Todo esto tiene aplicación práctica en mi trabajo.
 Got an excellent understanding of optimization method using the simplest Solver tool. Very useful for performing analytics using this techinique.
 Thank you for this course! It was very interesting and useful for me. All explorations were clear and it is a good idea to build models in Excel!
 Professors' teaching are really clearly. I learnt lots of new knowledge and I also reviewed many old knowledge. Thanks a lot to the professors.
@@ -412,7 +403,6 @@ Very good course, lots of new things to learn. This course change my perspective
 Very well developed and explained course. Calculations for problems were nicely demonstrated and explained.
 The course content is very systematic and compelling, offers course slide can save you A lot of time indeed
 Good Course and learned new analytical concepts and analytical models which will help for decision making.
-Los casos practicos del curso ayudaron mucho a comprender mejor el planteamiento de los problemas. Gracias
 Because they are the best professors ever, and the course is well on point about what needs to be learned.
 Absolutely loved this course! I learned so many new things that I had no prior knowledge of, great course.
 Excellent course, very easy to understand and with case studies that helps to improve easy your knowledge.
@@ -466,7 +456,6 @@ I like the course. However, the timing does not allow me to finish the course in
 Great lectures and practice worksheets. Easy to grasp yet challenging and applicable.
 excellent course! and great example and wrap-up session. Make the concept very clear~
 Really useful Tool kits such as the optimization tool kit & the Simulation Tool kit!
-Mu gusto mucho el curso, los profesores lo hacen entretenido y fácil de comprender.
 Excellent course. Can apply to many business decisions as well research scenarios.
 This course teach me and give the good example to understand Operations Analytics.
 Amazing course with details on example and case studies covered. Excellent course.
@@ -573,7 +562,6 @@ SUCH A GREAT COURSE, I LIKE IDEA BEHIND THE COURSE
 Excellent application of learned concepts in Excel
 A very well structured course. Thank you Coursera
 Favorite course out of the entire specialization.
-Excelente curso para formar tomadores de decisão.
 Well Explained and easy to grasp the fundamentals
 Very well structured. It has been great learning.
 A very well structured course. I rate it highly.
@@ -593,7 +581,6 @@ Very nice technical course, highly recommended
 In short, it was awesome. Thank you very much!
 Very practical teaching approach to the course
 Amazing course with real-time business cases.
-Excellent course, well paced and quite useful
 Very good content and equally good delivered.
 Very patient instructors and nicely explained
 Really useful course, concise and resourceful
@@ -615,8 +602,6 @@ Attained great skills in decision making.
 Week 4 quiz could have been made tougher.
 good course . provides in depth knowledge
 Good job. Sergey Savin is the best tutor!
-Wonderful course ! Comprehensive lecture!
-VERY INSIGHTFUL, THANKS TO THE PROFESSORS
 Practical course on Operations Analytics!
 Great explanations and practical outlook.
 Very insightful, enriching and practical
@@ -639,16 +624,12 @@ Thank you so much I've learned a lot!
 Very useful with valuable knowledge.
 EXCELLENT TEACHING.. REALLY LOVED IT
 Material was good and easy to follow
-Useful Techniques! Enjoyed so much.
 Best Course in this Specialization!
-excelente curso... 100% recomendado
-Curso básico, que da buenas ideas!
 Excellent refresher course for me!
 Wonderful course, expertly taught!
 Great course, from a great school.
 Was just what I needed to refresh
 Very good lecture! learned a lot!
-Excellent Modelling demonstration
 So usefull!! I loved this course.
 concepts are explained very well
 I got very fundamental knowledge
@@ -660,12 +641,10 @@ Wow...This is an awesome course.
 Excellent roster of Professors!
 Great Examples. Thanks Wharton.
 A valuable learning experience.
-Excellent content, very useful!
 An amazing course in Operations
 Explanation very understndable
 Greatly added to be skill set.
 It had a good set of Faculties
-Excellent course!!!!!!!!!!!!!!
 I highly recommend the course.
 Love it! Very well explained!
 Very hands on, good content a
@@ -675,15 +654,12 @@ Teaching was very intuitive.
 Nice course. But very basic.
 really compact knowledge!!!
 Very concise and insightful
-learned lots of techniques.
 the best course I ever had.
 A good introductory course.
 Very good practical cases!
 This course is at it best.
-Excelent practice problems
 Thank you. This was great!
 Great Class learned a lot!
-Excellent Course materials
 Great course,recommended.
 very gooooood~thx a lot~~
 a very informative course
@@ -699,11 +675,9 @@ I learned a lot from it.
 Good and Simple course.
 Really a great course .
 Very good course work!!
-ONE OF THE BEST COURSE
 It's great! Thank you!
 Very practical course！
 Everything was great!
-Very complete course!
 Really Great Content!
 Great, great learning
 I loved the course !
@@ -714,19 +688,12 @@ Very good courses.
 Iam very thankfull
 NIce way to learn
 Great lessons and
-useful, practical
-quite interesting
 Great professors.
-bahut acha hai!!!
 Very useful tools
 Crisp and concise
-nice expericence
 Nice tool usage!
-Excellent stuff
 Good package.
 clear and ea
 Nicely done
 Good one!
 Loved It!
-可以说是很难了
-rillant

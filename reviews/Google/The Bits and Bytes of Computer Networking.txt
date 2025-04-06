@@ -40,7 +40,6 @@ the quizzes at the end of the lesson are impossible you have to get 100 percent 
 After a second attempt nearly two years later I have wasted over $100 again on this abysmal instructor in lesson two. Please do not contact me again about this course. This was an utter and complete waste of money.
 Accessing the graded assessments was a nightmare, with completely wrong login instructions for the Windows section in Qwiklabs, as many other users have also noted. A very poorly structured course.
 Just raw information. Nothing practical like the previous course. Nothing that I can do with my hands thru Remote Desktop. TO resolve any problem, just tests. School type boring.
-No puedo acabar el curso por error en su prueba "Wireless Channels" ya lo he pasado mas de 10 veces y no me lo califica bien, y nadie me ayuda
 Questions are over the average student like me.Testing quizzes questions  are not been practice before in lectures or any part of the course.
 Instructions are unclear and assessments require 100%. The course feels incomplete. The curriculum feels rushed and poorly prepared.
 Some quizzes are senseless, the course itself is fool of too much information some of it I don't think its useful
@@ -66,18 +65,10 @@ This course is intense and complex
 a total waste of time and energy
 Assignments are difficult
 Obviously not for me.
-very very very bad.
 Hated every minute.
-I,m not interested
-Kaafi bakwaaasss
-NOT LIVE YET?
-Beautoful!
-s
-.
 SUPER dense material, compressed down into bite sized videos make this a very tough course to pass. There was a lot of explanations with very few examples and visual aid. To pass, i did A LOT of research on my own because what was being taught to me didn't make sense or it wasn't sinking in. The concepts they present to you are very poorly explained. While the topic as a whole has gotten me very intrigued, this class could have been constructed and presented better.
 For me, it was difficult to understand and grasp the technical aspects of the content. I wish there were more metaphors or infographics to better explain the heavy technical content.
 I feel this course could have included so much more information, and benefited from more time spent explaining some of this stuff. It was unfortunately a lot of a guy just talking on screen, reading a teleprompter. It had some errors and over-generalizations, plus many of the exams were just simple drag and drop games that didn't really demonstrate our learned knowledge. I did come out of it learning new things, and already had a good solid basis in networking knowledge and maybe that's why I wasn't totally happy? Maybe someone with zero knowledge in networking would have found this more useful.
-Needs hands on set up. eg: setting up vpn
 the only reason why i give it two stars is because, i wish there could be more interactive material as he is explaining lesson(s) there is SO MUCH THEORY that it is very difficult to remeber and to do notes on, making it very difficult to understand as there is no visuals of how it works just tons and tons of theory.explanations are understandable and easy to go with.but i really struggle with this course because i had to do a second research of what i was l learning so i could have an idea of how everything works. how IP addresses travel and so on, that without a visual at first it was super hard to comprehend. specially being a first timer.if you could add some visual tutorials as they are explaining itll be better, to much 255.255.255.........127.0.0............to much going back and fourth abaout everything and no visuals.
 The method of teaching in this course doesn't really lend itself to applied knowledge that can actually be utilized in the workforce. That's not to say that I didn't learn anything, but I agree with many commenters who feel like there should have been more visual aids instead of just someone speaking about terms off of a teleprompter. Also the tests and assignments could be better formatted instead of making you regurgitate acronyms and terms. The special plugins that were part of the assessments always seemed to have problems also.
 I  believe that there was an overload of information presented.  I felt as though it was a continual run on sentence, just way to much and at some points it was just rambling it seemed like.
@@ -123,7 +114,6 @@ I wish it would be more interactive. having topics be shown in a better way to l
 Quizzes are flawed and grade in correctly. Tests are not updated to new lecture videos, and contain some information not covered in video lectures.
 Needs better instruction when working on the labs and there should be a area where students can contact someone for help and not just a form area.
 Extremely basic and only touches the surface, while jumping between key components without giving a good picture on how things work together.
-.الشرح كان مجرد سرد يصعب الفهم منه، لذلك نحتاح في كل درس تمضية وقت طويل للبحث عن طرق اسهل للفهمولكن التدرج في المعلومات كان ناجحا وممتاز
 The labs don't work almost as if it was designed for the students to fail so that we have to continue paying for a subscription
 The course is interesting but seems more like a review/ overview. It would be so much better with more interactive practices
 Complicated material seems to have been condensed for the sake of shorter videos.  Peer review assignments should be removed
@@ -150,8 +140,6 @@ ambiguous answers to the questions
 The quiz is not available....
 was really hard to understand
 No useful tools ,
-not up to date
-bad
 Too much detailed a topic to just have some body narrate the entire course. A few visual displays with audio and activities helps make the course more enjoyable and easy to absorb and understand material
 I can just say that at the beginner level this is really hard material to comprehend, they assume some parts of the network bits that you understand, which as you will notice that is not the case, now for someone who has some network background this might come off more familiar. Very often I would refer to other sources in order to understand the lesson better, which is always welcomed, but here I couldnt understand nothing on the first try. Suffice to say it will give you good knowledge and fundamentals about how network/networks work but be prepared to review same lessons multiple times and to use google on certain occasions to make things easier to understand.
 The first course on IT Fundamentals felt way to easy, but at least had some hands-on labs. This second course had way more challenging information, but zero hands-on. I would like the courses to be balanced more between the two, but all-in-all this was a really good, informative course.
@@ -204,9 +192,7 @@ There are some areas that aren't explained that well, that probably aren't that 
 The course is exciting and gets more technical as it goes thru the concepts of how the computer communicates with the network. I find it hard to understand some things that are new to me and needs to be researched further. I am getting interested with the topics that is why I am moving forward to the next course to see how far I can go.
 Tough course, was a bit frustrating at times that there isn't more literature to be referred to instead of having to skip through a video in order to find a fraction of a sentence that a question is based on. Otherwise an alright course. Did a decent job of breaking down otherwise dense material in an understandable fashion.
 This is just a suggestion but wish if this course was more interactive and practically oriented. There could be limitations but it would certainly be nice for any kind of lab to be incorporated in this module. Networking, I feel can't be theoretically learnt but only with digging the hands in the real world scenarios.
-El nivel de dificultad es bastante elevado comparado con el anterior curso de este programa, además hay algunos vídeos que no tienen subtítulos en ningún idioma, lo que hace que sea más difícil tomar notas. Eso sí, el profesor es muy agradable y hace los vídeos muy amenos. En general, es difícil pero muy interesante.
 The material is very well organized, the instructor explains very well in a clear manner . The course allow to cover a lot of aspects of computer networking, however I am a little dissapointed since there could be more practical exercises.  I was expecting more practical labs instead of those theoretical queries.
-A tradução em muito pontos está ruim e dificultou a minha aprendizagem. Penso que poderiam ter trabalhado com mais exemplos gráficos e interativos. O curso ficou muito fixado em texto. Penso que tive dificuldades com isso. O professor poderia explicar os exemplos diretos de um computador ou de um quadro branco,
 Good course. Lots of information. The trainer has to convey few interesting facts in between. There are no fun facts and the trainer has made this course dry and boring. It requires a lot of interest and dedication to complete this course. I request the trainer to make this course more lively to learn.
 There is a lot of information to digest in this course. I would have liked to have the information more interactive, like with the graded assessment labs, to get a better grasp. Actually interacting with the lessons/video sections is more informative for me than just watching someone talk at me.
 The course has a lot of great information.  It is relatively good, but there needs to be more review other than watching the same videos.  If you miss something on the test, it just tells you to review an entire group of videos rather than what you had trouble with.  Overall decent course.
@@ -342,12 +328,10 @@ I think it needs some supporting materials or reading.
 this one was very technical and made my head hurt lol
 Course was fine - Windows VM lab was TERRIBLY laggy
 some answers on graded assignment were incorrect.
-booooorrrrrrringggggggggggggggggggggggggggggggggg
 The course needs more visuals and less face time.
 This course is very interesting and very good.
 there is no enough explanation for some topics
 More challenging, but would like more labs.
-some exam questions could be more clear
 Great but I liked the labs in module 1
 It needs QAand simulator will be great
 Very raw topic and too much technical
@@ -363,17 +347,10 @@ Solid info, presented poorly.
 Add more infographics please
 I don't have time thank you
 A very good starting point
-it was good but get harder
 This was very difficult
-week 3,4 not understand
-No Qwik link exercises.
 very difficult at times
 that was very helpful
-difficult but doable.
 Pretty boring.
-第六週的英文字幕充滿錯字
-good lessons
-Hard
 Thanks to Google for coming up with such an awesome course. If you're new to networking, you've got to stick to your guns & deal with the course patiently. Just one area of improvement, the course would've been x10 effective had they provided practical & more visual stuff. It's all theory & there's only so much you can remember. But anyway, I've definitely taken away a ton of value from this course. I would recommend it to any beginner just heading out with networking.
 About 40 percent was hard for me because of work and the questions where kinda hard if you don't remember every single thing! But my favorite part was the cloud and IPV6 if I have a chance I would have gotten it done faster in a few weeks, not two months. I did the first course in like 3 days!
 For context: this was not the first time I have been exposed to 75% of the information in this course. It was meant as a refresher, and to fill in gaps in my knowledge. It did succeed at this: I now understand more than I did before.That being said: there are some issues with this course. First and foremost, there was occasional inaccurate information. The particular example that I recall was MAC spoofing being the correct answer to the question "What is a common way to improve WiFi security?" (I am paraphrasing, something to that effect). As I put it in my feedback, this does not prevent anyone with greater than 15 brain cells from getting on your WiFi. It is trivially easy to bypass, and anyone capable of using Google could figure out how to do it in less than 10 minutes.Luckily, this sort misinformation is relatively rare. I ran into it 3-4 times throughout this course, but it is by no means a systemic issue. There were some other minor issues with low level networking terms that could confuse someone with experience who was not merely parroting the answers from the previous videos, but on the whole this was not a persistent issue.In a previous version of this review, I made some negative comments about the lack of labs. This was because I did not have a basis for comparison with the rest of the course. Because I have now been exposed to the some of the other modules, I have learned to lower my standards. By those standards, this course is actually pretty good, and it is easily the best one in this series. I still have minor gripes, but nothing compared to the issues I have with some of the later courses.
@@ -431,7 +408,6 @@ Too much information :) Can you imagine if a Professor comes to a lecture with o
 This was a tough one. I feel that I am just scratching the surface of what a true IT Professional needs to know in the realm of networking. Cabling, Routers, Switches, IP addresses and so much more are all a little bit clearer to me now. I hope that I can take what I learn here and become more equipped for the IT networking world. Can't wait to configure my first network.
 I want to give thanks to the instructor of this course!  His articulation and consistency over the vernacular and nomenclature was very well received.  I feel quite informed.  The only thing I would add is more quikilabs.  Similar to the first course, I believe everyone needs alittle more hands on experience, performing some of the command lines expressed in this course.
 Good course, I was pleased to be able to learn about the way computers and networks work. Sometimes the amount of information delivered felt a bit overwhelming when dozens of new word definitions were added for each video without being revisited later. That being said, I am very satisfied with the lecturer who managed to make such content engaging and exciting.
-Prepárate para un curso muy técnico, no es fácil, sobre todo la segunda semana. Por momentos hay cosas que pueden ser explicadas de formas mas sencillas. Como todo curso vas tener que buscar información para complementar, pero no deja de ser un buen curso. El que da la clase la da bien, mas allá de algún problema con los subtitulos que están un poco atrasados.
 I wish the videos went into more detail and used more diagrams to show what is happening, especially during the subnetting section. I like the videos, but I feel like I'm often forced to do a lot of my own research to figure out how to solve problems. I wonder if that is by design? I know many IT specialists have to research problems before solving them...
 This was a changeling course, it is one that I strongly recommending to take in small bites and try not to get overwhelmed with everything thrown at you.  The one thing that I think would help make this course better is adding some labs as challenges for testing the commands you learned. I.e troubleshooting network configuration, identifying address etc..
 The content was more challenging than the first course. So overall I was happy with that. I think the quizzes are just a little derivative but if you look at them like a study tool, they can be very helpful at analyzing where you need more support. I don't know that the discussion prompts are too helpful, though often people can be a great resource.
@@ -475,7 +451,6 @@ Definitely a crash course, the course isn't too bad. It would be nice, if they i
 This is awesome course. You can learn many networking things like how computer device communicate each other, IPv4, IPv6, DNS, DHCP, Troubleshooting, Cloud Compute, Interview etc. It's really helpful for who want to be a Network Engineer.Thank You google team, coursera team.
 Did not enjoy the guy teaching it at all, otherwise would of been 5 stars. He was annoying and used words that I had to look up sometimes. One example was using the word "antiquated". Why make the learning harder? I hope people do not get as frustrated as I did with the guy.
 Overall, a great course. I know that they will continue to make improvements. There are a few sections in the material that are not as clear as they need to be (for example, in the IPv6 compression exercises). However I still enjoyed the course and felt that I learned a lot.
-Buen curso recomendable, para repaso de los que ya tienen carrera relacionada con sistemas y computación y para el publico en general y que con esto puedan entender un poco la lógica que hay detrás de la tecnología que usamos día a día y puedan dejar de pensar que es magia
 Covers all the basics of networking, but  you may want to practice more on subnetting and router connection to really get a grasps of networking. I think this module should have included networking simulation like GNS3 to complement the theory, that's why I give it 4 star.
 At times I thought the instructor could explain the topics a bit more in depth.  I had to do Google searches to fill in some information I felt I wasn't understanding.  I also thought that the graded plug-in tests could use better instructions for how to take the test.
 There is a ton of information to get through and digest. Being a visual learner, this was a bit hard for me. Concepts were touched on, and then we are on to the next one. Then a quiz comes up and asks you about that brief mention. I just wish there was more meat here.
@@ -582,7 +557,6 @@ Good information. The labs were excellent but the lab environment is buggy (for 
 This course is amazing I learned many new technical things in this course and I refer to all people who interest in networking they should enroll in this course .
 This course was bit more difficult.  I found that a lot of the quiz quesitons focused on some of the smaller details which made it easier to miss those questions.
 This course really was amazing and covered all the basics that I was some what around not getting at first by just reading then up ! This course was so helpful !
-algumas informações não estão contidas no texto principal e nem nos auxiliares, sendo questionados nos exames, então é preciso outras literaturas para conclusão.
 This course is great with lots of important concepts in the Networking process. Adding more practice and command line introduction would be better in the future.
 This is really interesting in the breakdown of networking from the basics to The Cloud to IPv6 Addressing. I learned a lot  from the small easy to digest videos.
 the final test in week 6 featured a plug in that i think had incorrect answers but it let me submit the exam anyway. Otherwise, this was a tough but good course
@@ -608,7 +582,6 @@ Week 4 thoroughly kicked my butt! Outside of that, I would have liked to see mor
 This course was great but the one thing I would say is it could have been split up better. The examples were amazing and overall a pleasant experience.
 i thought this was a very challenging course.  a ton of techie stuff and it would have been nice to have a little bit more hands on during this course.
 Overall pretty good but a bit of a slog at times without enough hands on practice to reinforce knowledge and see how it applies to real life scenarios
-Demasiada información y  muy poca practica. Hay que leer y volver a leer para tratar de armar el rompecabezas. Muy interesantes todos los contenidos.
 good coursefundamentals were explained clearlycould have elaborated on vpn'sbut extremely funinstructor really loved the topic and made a lot of puns
 Very informative course, but I fell a little disgruntled about the didactics. It could have more practical examples of how things work in real life.
 I took me long time to understand but learned a lot from this course hopefully the knowledge will help me in my job. I wish all the best. Thank you.
@@ -626,7 +599,6 @@ There's a lot crammed into this one.  But it is a lot of info condensed to fit t
 I do not like the idea of the GRADED PLUGIN only for use on a desktop. It's inconvenient for those who don't have one. But I enjoy the course.
 I got a better knowledge about basics of computer networking and the course is really very well structured from basics to intermediate level
 A little stressful towards the end with IPv6 Compression but overall, a good course on understanding Computer Networking and Troubleshooting
-Muito e introdução entre apas, mas faltou mais parte prática em cada semana, usando dispositivos de redes reais emulando com Packet Tracer.
 It is really good, great videos to help me loads. Appreciate it and now I am asking to my company to support training using this materials.
 Some questions are quizzing on the exact wording of the definition, which in my opinion is not useful. Otherwise it's a well made course!
 Great course! But I wish I had been shown how to configure DHCP or DNS on my PC's settings as well as a practical on how to set up a VPN.
@@ -648,7 +620,6 @@ Some IP Subnetting points could have been explained a little more.  Was difficul
 That was a good introduction into networkingPretty tough for beginnersI think I need get back to the course for a refreshment ;)
 This is a very good course and very informative.  My only complaint? -- The tests/quizes are very harsh and have no flexibility.
 This was a lot of material and difficult in some ways to digest. I strongly recommend going back and watching the videos again.
-que sea tan tecnico a veces lo hace enredado de entender, pero con dedicacion y muchi cuidado se le puede sacar mucho provecho
 Overall pretty good but kind of skimpy on actually using a computer to fix problems. More like just a bunch of info to learn.
 A more detailed description of how to convert IPv6 to shorthand would be a benefit.  It look me a long time to figure it out.
 Learned a lot of things about networking that I didn't know before. The interactive modules on the quizzes are a bit unclear.
@@ -662,7 +633,6 @@ Wondering How Actually all Internet works in so much Harmony. Then this is the p
 Very Good Course in need but you need to work harder to Pass. Thank Google. Am Proud to be a Google and Coursera Student.
 One of the assessments, subnetting, it wasn't clearly explained in the videos how to do it.  Otherwise, its been awesome!
 This course very helpful as an IT support role and every topic clarify so details that for easily understand each topic.
-Ce cours a été très édifiant pour moi en matière informatique. Je suis très ravi. merci pour ces connaissances acquises.
 It's Really Exciting Course & Maybe exhausting for your mind but it gives you wide range of information about networking
 Great course, a lot of information to learn. I wish it had more practical / interactive assignments between the lessons.
 Really into depth course, I've learned so much about technology and how everything is becoming more and more connected.
@@ -695,7 +665,6 @@ Its  a really interactive course all along, but it would have been really helpfu
 Had little bit of issues with final module assignments.  Very good course and a great overview on networking!
 This course taught me the basics of networking in a very fun and simple way. Thanks for this amazing course!
 Lots of technical knowledge, but really useful and a great way to learn about the ins and outs of computing!
-THE MODELING WAS PERFECTLY EXPLAINED. I ONLY WISH U WOULD PROVIDE MORE PRACTICALS LIKE SETTING UP A DNS, ETC
 I am not getting the certificate even I completed whole course with 89%  gradeplease give me my certificate
 It was informative however I felt some questions were a bit vague in what they actually wanted answer wise.
 I think they need to have more projects or tasks to guide all the learned knowledge concepts on networking.
@@ -721,7 +690,6 @@ It was very hard but I wished this would provided more hands on experiences than
 It was difficult and I found myself struggling when trying to process a lot of information at once.
 It was my first course on Networking and yep i learned a lot .It opened doors for my future choices
 A great course for someone trying to understand "How Internet works?" Keep up the good work team!!!
-El curso muy completo seria bueno colocar mas actividades practicas que reforzarian el conocimiento
 A little more complicated than the 1st one but very good. The practices were my favorite part of it
 This was very challenging. I learned a bit more than when I taking Intro to Networking in college.
 Uses some technical terms liberally without explaining what those, are but overall a great course.
@@ -825,7 +793,6 @@ Sometimes the question in the quiz is not really a important topic...
 Good information. But I wish there was a few more hands on exercises.
 Some of the interactive quizzes were buggy but the teacher was great.
 really amazing journey. Any beginner or anyone can take this course!
-A little bit hard for newer. But presented in understandable manner.
 I realized that Networking is not for me, Thank you for this course.
 This course was much more difficult, but had some great information!
 Some modules in quizzes marked wrong when I actually completed them.
@@ -898,7 +865,6 @@ I learned alot about wifi frequencies and protocols
 it give me a good knowledge of computer networking
 Good course for learning the basics of networking.
 nice course. little bit tough get all the concept.
-Modulos muy muy muy amargos, dificiles de digerir
 concepts are good but hands on practice is needed
 Good course a lot of INFO some broken up too much
 it covered a lot of information, very interesting
@@ -979,7 +945,6 @@ Was great detailed informatoin.
 The course was very insightful.
 It was getting hard. But good.
 learned a lot from this course
-two many questions in one quiz
 Decent basics and terminology.
 Very thorough and informative.
 Tests were rather frustrating.
@@ -994,8 +959,6 @@ can wait for my north course
 Great material for learners.
 Very Nice course. Thank you
 this course needs more labs
-most valuable solid course.
-Excellent Networking Review
 Great Course for Beginners,
 Good materials and trainer.
 Long, but very resourceful
@@ -1007,19 +970,16 @@ A bit confusing at times.
 Thorough yet challenging.
 TASK IN WEEK 3 IS NOT OK
 best learning experaince
-PRETTY LITTLE EXHAUASTED
 this one was a challenge
 It's a very great course
 Just sufficient material
 The pace is a bit high.
-need power point slides
 Good idea and practice
 awesome course path!!!
 the course was amazing
 It is worth taking it.
 Good with the basics!!
 Very good and adaptive
-Very fruitful course..
 Great way of teaching
 `This course was good
 A lot -- but worth it
@@ -1033,22 +993,16 @@ Pretty hard course.
 Interesting course!
 its an nice course.
 Great Great course
-grateful expirence
 Quizzes were tough
-It super  amazing
-Material extenso.
 Very Informative!
 very informative.
 Too many concepts
 very hard course.
 Very informative.
-Fantastic course!
 very challenging.
 very informative
 It's a hard one!
-GOOD EXPERIENCE
 A great course.
-Very Good , Tks
 It was great...
 learned routing
 Its very nice.
@@ -1062,25 +1016,13 @@ Blew my mind!
 A lot of info
 Good lectures
 Need updates
-best course.
 Very hard!!!
 great stuff!
-Great work..
-substantial
-Well Done!
-TOO HARD.
-VERY NICE
-Difficult
 thank you
 cool one
 Good One
-good job
-enjoyed
-is good
 is cool
-Aces!
 Cool
-太难了
 I don't usually submit reviews, but it was very surprising to see so many negative reviews for this course. I want to clarify this for the others who are skeptical about taking this course. Please go ahead and take the course, because this course is THE BEST in Networking for beginners. Yes, the course does involve the instructor talking a lot, but it also has animated slides representing whatever he explains and practical tests to implement whatever knowledge you have gained. It is very important to TAKE NOTES and revise, and not simply watch the videos because nothing is going to get into your head by doing so. It is an entire subject and has been taught in an excellent way, you can't expect yourself to remember everything just by simply watching the videos. I was very scared of Networking until I landed up in this course. I love it now. It just takes some interest, patience, understanding skills and taking notes to complete this course successfully. I did not get an opportunity to study Networking in college, but really needed to learn it as a Computer Science student. I am very grateful to Coursera and Google for offering this amazing course, that taught all the basics that is needed for an undergraduate student to know. Learning the same syllabus in college would have taken an entire semester, but I got done with it in a week during this quarantine period. I wasn't planning on taking the entire specialisation because my aim was to just learn Networking. But now I am very eager to learn the remaining stuff too!I would like to specially thank the instructor Mr. Victor Escobedo, who is the best course instructor I have ever come across on Coursera! The eternal smile on his face, friendly tone and frequent Networking puns make the course all the more interesting and easy. All the other Google employees who made special appearances in this course also seemed so cool, that made me wonder what an amazing experience it would be to work with such people around everyday.Thanks a lot to my instructor Mr. Victor, Google and Coursera!
 This was a very fun course! I really enjoyed the style and pace of the information given. A lot of technical information was given while the course made it easy to take in and comprehend the material!
 A lot of information, but i feel like i fully understand core networking concepts. A lot of this info has helped me comprehend what will be required for me when I take my Network + certification exam.
@@ -1099,7 +1041,6 @@ I really enjoy this module. Everything taught was new for me. I already know wha
 i learned so much even after i took CCNA i had some vague points, but this course made thing clearer to me looking , it even made me interested to complete the whole google it support specialization .
 Kinda tough on this course through some parts. But I made it through. That’s all I needed. Thanks Coursera!
 I learned the basic knowledge behind networks and operations with very easy modules.
-a
 This was definitely much more in-depth than the first course of the Google IT Support cert series, and had a lot of great information and I definitely came out of it more knowledgeable of certain terms and concepts that are important to networking and to building a strong foundation. If improvements to the course were to be implemented, I would suggest adding more visuals to better understand some of the concepts like subnetting, datagram encapsulation steps/routing in relation to the 5-layer model (at which layer X happens etc) . In particular, I had a very difficult time understanding binary - converting decimal to binary and vice versa, which I think is important to understanding CIDR notation and applying it to then understand how to do well on one of the assessments. After rewatching the videos, I ended up having to use some outside resources to get it, which I understand is part of the learning process in general in this field, but I also think those outside resources could be included as they were more clear and concise.I also struggled with the Wireless Channel activity - while I understood the importance of trying to configure channels with as little interference as possible, it wasn't explained how to do so in as fast and efficient manner as possible. I also think this course could benefit from adding in more practical applications/real-life scenarios, like explaining and providing examples of when to use ping vs traceroute vs nslookup, examples of common problems or things to look for in the output to help resolve the problem. Lastly, I felt that the Mock Interview video was extremely helpful and useful so kudos for including that! Overall a great course, and thank you for providing this resource to people like me with no traditional background or academic foundation for this type of field.
 I was surprised to see so many negative reviews of this class, so that's why I'm writing this positive one. In my opinion, the course is excellent, and so are the instructors. Even their jokes are ok.  I did watch each  video at least twice, and I took lots of notes and reviewed them.  The text of the instructor's talk was below each video, so it was easy to cut and paste pertinent talking points, or to shorten them.  I think it would be difficult to learn the material only by watching the videos.  I also read the Supplemental Materials, and sometimes watched YouTube videos on the topic (especially for Subnetting and masking).  I am pretty much of a beginner, except that 14-15 years ago I took some Networking classes at a local community college, so I had some prior knowledge of the topic (but no actual hands on experience).I agree with the criticisms of the Subnetting quiz.  I misinterpreted the instructions (even though I read others' comments about them before I took the test).  I finally figured it out.  The test was hard even once I understood the instructions, but that's b/c I had a very hard time understanding subnetting & masking.
 It would be helpful to have more hands-on quizzes, but I'm not sure how that can be accomplished in a class in this format: online and at-your-own-pace.  I think the next course includes command line instructions and practice, and this may help us all to get hands-on practice on our own computers, using some of the tools we've learned.
@@ -1161,7 +1102,6 @@ Much better than Network+ Not a bunch of memorization of a Comptia Objectives li
 What a great course! This was challenging and engaging. I really learned a lot. I knew some of what occurred during networking. This course really opened up my eyes. I was able to learn all of the little things that go on behind the scenes during data transfer and how networks operate. From routers and switches to domains, WLAN, and more! A must-have course for those interested in learning all of the in's and out's of networking.
 The part I praise the most about this course is the instructor. His energy and enthusiasm shows in his delivery of the content. The content is the second best part of this course and it was just right for someone like me who is very new to computer networking. There is a lot of content, which is expected as this field is vast and this course does a great job of condensing aspects of computer networking in a comprehensive way.
 Great course! So much information on such a complicated subject. Never found this theme interesting, but the way it was all taught here changed my attitude. It was really exciting to explore all these details. I still have a feeling that I need to revise this material, but now I can confidently say that I understand in general what's going on there with bits and bytes in the network. The tutor is really appealing, thank you!
-Curso muito bom. Altamente explicativo, com grande quantidade de informações técnicas de qualidade que me encorajam a acreditar numa empresa de tecnologia. Vejo o grande esforço em cada pequeno movimento desta grande engranegem que é a tecnologia. A cada etapa concluída, vi ficar mais claro o funcionamento de redes de comutadores, consegui compreender de verdade o uso de protocolos, portas, meios físicos... Muito toooop! :)
 The journey was amazing. The topics are very useful, vey well categorized. Instructor was superb. But in "The Bits and Bytes of Computer Networking" course was really hard and so deep theory included. I learned so many interesting topics. There are OSI Model, All layers deep info, Subnetting, deep knowledge of IPv4 & IPv6, DNS, Cloud Computing, Wireless Networking and so on. At the end of day that was awesome experience.
 This is an excellent course for preparation on computer networking. This course has been very beneficial to me especially after obtaining my Network+ certification. The theoretical knowledge from my preparation for the exam helped me to have a much better understanding regarding the connections between the networking concepts and also covered some new material that I have not gone over during my preparation as well.
 This course was definitely a step up from the previous course. I was a little worried as I went through Course 1 that the rest of the courses wouldn't go into enough technical detail, but I have been presently surprised. Overall, this course did an excellent job of conveying the information and reinforcing the topics through the use of quizzes and activities. I am really looking forward to the rest of the courses!
@@ -1238,7 +1178,6 @@ Challenging but really great course! The instructor did some research in order t
 There is a lot to learn about Computer Networking and for sure this course was extremely challenging.  You have to really hang in there and review the material about the Networking layers and protocols to really grasp the material.  This course really detailed every aspect of Computer Networking in great detail.
 The hardest class so far. Didn't enjoy it at all. The instructor, however, was a great presenter.I give it 5 stars because it is relevant information. Wish there was more real life discussion instead of the constant here's a term, definition, term, definition. Get ready to memorize a bunch of unfamiliar terms.
 Great course..! Even if you're an entry-level IT person, you will be able to understand many new concepts regarding Computer Networking. If you have any kind of previous training or experience with Computer Networking, this course will help re-affirm many different concepts and/or understand them even better.
-Muy buen material, excelente explicaciones todas claras con ejemplos estupendos. Realmente te da un paneo general de area de Networking. No se si es tan apto para alguien que no tiene conocimientos basicos de redes. Quizas ayudaria si introducen material de practica para realizar pings y cosas asi. Saludos
 Wow it was really hard but I get a lof of knowlodge from this course, they will give you basics and after proficiencies study material. It was hard to get know this area and memorize it, but I did it. I think it will help me to get now more with network area, probably I will be able to do someting with it
 This was a great course.  A lot of information was packed into this course but all very essential, well presented and very organized.  I really enjoyed and appreciated the enthusiasm from the main instructor, and was overjoyed when I finally completed the course.  I would definitely recommend this course.
 Thanks for everything, it was a pleasure to finish this course satisfactorily.
@@ -1252,7 +1191,6 @@ This course was tougher than I thought it was going to be, but still super infor
 It’sa really tough course and I needed to go through the Five Layer Network model several times to get through the written portion but I’m so glad I stuck with it. The material is challenging but it needs to be because this stuff isn’t simple. Thanks to Coursera for regular emails reminding me to finish!
 Awesome course, much more intensive than the 1st, but chalked full of useful information.Some of those quizzes are tricky. If you add or take away a space, misspell, or don't word it exactly as it's supposed to be. You might be at a standstill for 8 hours. Do your research and triple check your answers.
 A very challenging course chock full of information!!! I found the discussions about IPv4 vs IPv6 particularly interesting. I would've liked the opportunity to use the virtual machines in real life scenarios to apply and learn more about using the networking troubleshooting skills that were introduced.
-Conteúdo excelente, abre a mente para o mundo de redes, já havia tido um contato com o assunto antes, mas esse curso me analisar o problema de uma forma diferente, as analogias feitas durante o curso para possamos assimilar o conteúdo é algo encantador. Superou minhas expectativas em todos os aspectos.
 I really enjoyed the course and especially the troubleshooting section in week 6. The interview role play regarding networking was awesome. Adding further role-plays as a learning tool could have been valuable. Some practical assessments using quicklabs could have enhanced learning. Thank you Coursera!
 Awesome course.  However you guys need to explain the rules of the compression of the iPv6 quiz.  Had to go to the discussion forums to figure it out but that's what made it challenging and more fun as well.  However, it still would have helped if you provided the rules written out in the first place.
 This part of the course has been the most challenging for me throughout this course, I have a lot of previous knowledge on networking but i really never studied the network layers topology as thoroughly as this course did. My previous knowledge did help me grasp the curriculum a lot more efficiently.
@@ -1340,7 +1278,6 @@ This course was more intricate than the first, but I was happy to kick my brain 
 Great course! I learnt the working of internet in great depth. Even after studying a computer science in my university in India, I learnt a lot of practical aspects of networking which always troubled me while figuring out how it all worked together.
 A lot of technical information, but very interesting! I am amazed how much goes on in the background when I visit webpages, watch movies on Netflix, and stream my favorite YouTube Videos. This course taught me how it all works and it was fascinating!
 Loads of information essential for IT support specialist. The course is well-designed and easy to follow. The illustrations make it easier to understand abstract concepts. Instructors are also doing a great job with the explanation and encouragement.
-Para mí fue muy difícil comprender tanta información técnica pero con el mayor esfuerzo que pude logré aprobar todos los exámenes, el material está perfectamente explicado y es muy satisfactorio que aunque haya sido un camino difícil y largo lo logré
 This course truly helps you understand the basics of networking and lays the groundwork/peaks curiosity for deeper exploration. I really enjoyed learning about the different networking layers and how they all come together to make the internet work.
 Victor was a great instructor, i loved all his jokes!  This course will teach the basics and fundamentals of networking.  Do not assume this is simply learning about how to set up WIFI though.  Take your time and review concepts that seem dificult.
 After finishing this course, I can confidently say I have all the fundamental ideas about how computer networks it's amazing to think how far computer networking came from where it initially started. Very very well explained and awesome experience.
@@ -1392,13 +1329,11 @@ This course was very well done. I especially liked the walk through descriptions
 This taught me a lot. You are similar to CBT nuggets, but I prefer these courses for the quizzes. This was extremely informative and similar to a CBT nuggets course I took. It was also much more difficult than the first course.
 I enjoyed and learned a lot in this course. The instructor and the format used to deliver the information made perfect sense for me and made me feel encouraged to continue from start to finish. Many thanks to the Coursera team!
 I really enjoyed this course. There is allot of great information given that helps to understand more of what was taught in course one. I feel that I took allot of info away from this. Thanks Google for the awesome instructors!
-Muy buen curso, la verdad la forma de explicar es increíble, aprendes mucho y no se hace pesado. Es cierto que lo que enseñan es un poco superficial, pero sirve para aprender los conceptos y luego por tu cuenta investigar más.
 This course is fully loaded with enough knowledge that can help you solve literally all types of networking problems. The course moderator is a great one. Thank you, Google for the great input that you employed for this course
 This course definitely makes you think about the how extroardinary the networking world is. Have you ever wondered the behind-scene process of sending text messages to our friends? Well, this course is the one you should take.
 One of the most difficult courses I have faced here. I learned a lot some stuck and some didn't, but this is one course that I definitely have to go back and watch a few lessons because it was that difficult. Best of luck all!
 One suggestion to improve upon the abstraction of learning about the ethernet frames & ip datagrams would be to show a specific example of how these protocols would physically look like while troubleshooting out in the field.
 Really ,i m super excited and feel good of through it.The course and the other supportive guidelines helped me better understand of concepts and underlying stuff.Thanks to the Victor (Of Course), the Google and the Coursera .
-a pesar que ya se sobre esto (algo avanzado) siempre se verán temas que uno no había visto, cosas mínimas puede ser. Este es un gran curso aunque hubiese preferido que fuese mas especifico en el área de redes y conectividad.
 Very informational, make sure to take notes. I am usually not a note taker but I used them to refer back to during tests. Make sure to do the supplemental readings. The tests ask questions based on them more than the videos.
 This course is a very good one to reach some entry-level about Networking and how the computer communicates between small or big networks and how some network devices interact and communicate with each other similar devices.
 Overall this program is an excellent source of information that has helped me better understand the IT world and concepts that have never been clearly described to me before. It's already helping me perform better at my job.
@@ -1406,7 +1341,6 @@ Very excellent way to learn about the fundamentals of networks and they data is 
 It is wonderful, this course drives you in the fantastic world of computing. You can understand and discover a lot of new things about computers and the Internet, even if you are familiar with some of this stuff. Thank you!
 This course need full attention if you really want to be network engineer then go ahead also its good for people who wants learn how computer talk with each other. In this course you will learn a lot of things from Googlers
 Best course to learn basics of computer networking technology and devices .It laid a foundation for techies to explore computer networking and technologies. I completely enjoyed in taking some Bits and Bytes of this course.
-Muito bom o curso me consolidou varias conceitos que já havia aprendido na faculdade, um pouco mais complexo que o primeiro curso do programa, porém é super importante conhecermos os fundamentos da rede e como ela funciona.
 The content in this course was terrific in detailing the information with regards to how data sent across networks. I would have liked a bit more trouble shooting course work or assignments to really test our new knowledge.
 Lots of interesting information to learn about networks. From physical communication of bits to explaining how the Cloud works all of these courses are very informative and help greatly in understanding computer networking!
 This is an amazing course.  I am in the Google Certifcate program, and while Networking has not been my strongest, or favorite portion.  I am excited that I now have a little more knowledge about the "magic" of my network.
@@ -1511,7 +1445,6 @@ I like the way the the course is laid out giving you informative videos of the t
 This course was Fantastic! it really helped me hone my basic knowledge of computer networking. Thank you Google and Coursera! I cant wait to move forward with the next course in this program.
 Intense! I really appreciate the huge work of the team. Trying  to deal with tons of new and interesting material. I am literally becoming smarter every day.  And of course thanks Victor! 5/5
 The test of this section had some issues with answers. everything is fill in the blank so a you have to type in exactly what the answer is and there is no leeway. but everything else is great
-Para mi es una gran experiencia estudiar y entender las redes de comunicaciones. Es algo complejo para mi, pero el curso me ayudo muchísimo a simplificarlo y entender cada cosa por separado.
 Awesome course for those who want to go for networking as a future career.this course is the basic necessity for networking, and also understanding the communication between network devices.
 I had the opportunity to learn from the best, the best in the area of networking. I can stand authoritatively and defend whatever I have learn in this course. Thank Google team and coursera.
 I loved this course! It was informative, easy to use, and most of all in a really fun format. Some parts of the course may have been a little rough to get through, but it was 100% worth it!
@@ -1645,7 +1578,6 @@ Very informational, I learned a lot of things i had no idea, it's a good foundat
 Fantastic training on details which do not raise themselves formally in day to day situations yet are critical to a global understanding of networking technology
 good course. on the final module, i wish there were practice situations with the line commands to practice troubleshooting. but overall difficult yet satisfying.
 This is a tough course, but you LEARN A LOT! I was able to plow through it in about a week, but it may take other people longer. It's just how motivated you are.
-Buen curso , si bien es cierto el tema es muy complejo pero lograron explicar lo esencial y ya lo demás queda en uno seguir investigando. estuvo bueno el curso.
 This was a really great course about leaning the details of working with a network. I would highly recommend this course for anyone interested in going into IT.
 I have learn more than I thought I could and want to learn more plus get job ready at least at entry level. Email me anytime if there is an chance I can get in.
 Way better than the pointless introduction course. Look fordward to more actual coursework and hope that I can manage to finish before I'm billed a second time.
@@ -1661,7 +1593,6 @@ The Bits and Bytes of Computer module
 started by building from the foundation by introducing the TCP/IP module which entails every aspect of computer network.
 I believe this course would be one of the best courses. The trainer was very friendly and appropriate for teaching all the difficult topics so easily. Thanks!
 Awesome course! Awesome teacher! I've learned so much throughout my time with this course and I can honestly say it has changed the way I looked at computers!
-Buen contenido , un poco confuso en cierta manera debido al alto contenido teorico ,pero en gran medida se pudo lograr comprender la mayoria de los conceptos.
 A lot of information, a lot! But how it was presented and sectioned off made it digestible. I would have loved to see a lab actually configuring a DNS server.
 This course was a lot of work but you informed us all along that it would be so I prepared. I really enjoyed it for all of the information that is imperative.
 Yes, I learned a lot of new things in this course the critical element in this course is troubleshooting. I will keep going for the next class. Thanks for all
@@ -1697,7 +1628,6 @@ Although I struggled with parts of this course, the information and the way it w
 That was really owesome for me and my journey to i have learn a lot about networking and servers and also how to menage the different network in one path.
 Awesome course. Gave a lot of insight to computer networking. Helpful mostly for the working professionals whose major was not in CS and want to learn it.
 I learned a lot in this course. A lot to learn, but very thourough and when you are done, you feel that you have a good background in Computer Networking.
-Me encanta los cursos, cada dia aprendo mas y esto me hace feliz, gracias a Google y Cousera por darme la oportunidad de aprender a mi ritmo y adistancia.
 A very technical course about how networking works. You will learn in depth about the OSI layers, and all kinds of other useful information on networking.
 Not easy for a person who is not familiar with IT and all its technical names and abbreviations! I learned a lot and has helped me a lot in my work field!
 Some teachings were really messy. Though it was pretty simple and understandable. It is recommended to give slides of all the teachings after the course.
@@ -1806,7 +1736,6 @@ Lots of good stuff here, including a near byte by byte breakdown of how packets 
 really enjoyed this course. Im amazed how much information was packed in and the way that it was presented really helped me to process it.
 This course is very useful to learn how layers work and how to troubleshoot,IPv6 adresses.The course is very useful and enjoying to learn.
 this is a hard course but i feel like i understand a lot more the functions that make computers work and communicate Thanks Coursera!!!!!!
-Excelente curso, pude alcanzar logros en conocimiento de redes y tipos de conexiones que no conocía hasta que estudie este magnifico curso
 Phenomenal course. Great information about the ins and outs of networking. Good points made on where to direct my learning moving forward.
 The instructor is great at putting technical into laymen's terms, and provides great examples, to help you  fully understand the material.
 This was a challenging course. It was presented very well. My only complaint is the quizzes at the end of each week. They are very touchy.
@@ -1872,7 +1801,6 @@ This was a challenging course. Although I had some knowledge of how it worked, I
 Tough course, but very appreciative of all the information on how computers work, ipv4, the cloud etc!Kind Regards, Alonzo W. Hill
 Very well done. Information was very compact and efficient but easy to understand if you put the time and effort into the process.
 This was way more difficult but I definitely enjoyed it. I am actually got more interested in networking after taking this course.
-Excelente curso introductorio y comienzo de una posible especialización a través de una certificación con alguna marca como CISCO
 Very well structured Course. Perfect for a student to get a detailed idea about the contemporary networking technology out there.
 A must recommended course to everone how want to make their career in networking sector all fundamentals are cleared very clearly
 This course helped me learn the foundation of computers now i can help people and not question my own response to their questions
@@ -1922,7 +1850,6 @@ i learn a lot!! but more important is the fact that i was able to test my own kn
 I did my CCNP way back but this course is a refresher and I love it. The instructors are amazing. The learning is Very Deep
 I learned a tremendous amount about network computing in this segment. Highly recommend it anyone interested in IT Support.
 Ready for the next course!  Thank you for putting the dictation of the video also below, that has been very helpful for me.
-Curso um tanto quanto complexo e desafiador, mas passado de uma forma que torna o aprendizado muito mais leve e divertido.
 I thought I had a better than average understanding of networking.. but now I *KNOW* that I have a better understanding :)
 Excellent. I am very happy to finish this course and i am very interested in the next one. I really want to get certified.
 Amazing course. There's a lot of knowledge in this course and a great history lesson of the birth of internet. It was fun!
@@ -1971,7 +1898,6 @@ Great way to expand your knowledge in Computer Networks.Thank you Google for pro
 I have learned this thing on my vocational school from the first year until last year. But this course make it simple
 This course is great. This course help me a lot in my career and education also. I learned the practical skills also.
 The course was great with a lot of information.   I personally wouldn't mind a few more hands on interactive  models.
-Curso bastante técnico, muito conteúdo além do ensinado na faculdade (mais detalhes), sem dúvidas um curso muito bom!
 Great instructors and content!  Course layout and presentation aides the student in understanding technical material.
 very excellent course . i joined without any background of how internet works , and now i understand every part of it
 This is such an amazing course provided by Coursera and Google. I'm really glad I found this course. Thank you much!
@@ -1989,7 +1915,6 @@ Great overall l leant a lot that l never thought was there about NetworkingI wil
 Would highly recommend taking this course, it has multiple 'weeks' of intense training on the basics of networking.
 Everything in this course is substantially helpful in term of technical aspects. Thank you for giving more clarity!
 Excellent course to build a foundation of basic computing and learning the different layers of a networking system
-Material ótimo, que explica muitos conceitos e aprendizado que melhoram muito seu lado mais técnico da área de TI.
 Amazing course, a transforming experience. There´s no better place than here. Thanks for making it possible for me
 Finally an explanation of both the gritty, physical and conceptual way in which information moves on the internet.
 easy to follow course,  self pacing helps and being able to revert back to study material before a quiz is a plus.
@@ -2028,7 +1953,6 @@ It was quite good, I learned many interesting things, I will do everything possi
 Awesome, engaging, and convenient study-time expectations. I'm glad I heard about this before it was too late!
 Helped me learn many interesting things from the basic to many deep knowledge about Networks and the internet.
 Great Level, interesting topics and that information that they provide are very awesome for improve my skills.
-Excelente curso y me exigió mucho para poder lograrlo, ademas aprendí muchas cosas que no tenia conocimiento.
 Wow i really can see myself in this field.  With this knowledge I will be god like to ignorant tech peasants.
 Whew!  This one is full contact.  Its densely packed and incredibly useful, but definitely bring your A game.
 Can't wait to review this material again. Looking forward to what is next! This course was verify insightful!
@@ -2085,9 +2009,7 @@ Good Networking refreshing. Would be a great primer to take before starting down
 This is a great course.  There is so much to wrap you head around.  I love the videos, quizzes and tests.
 Very difficult, take lots of notes!  But really satisfying when you are able to complete the assignments.
 Super Interesting!!! Learned a ton of new stuffs. Thanks a lot to all the course instructors. It was fun
-Um curso com muito conteúdo técnico e extremamente útil na carreira de um especialista em suporte de TI.
 This course has been great. Learning so much which will give me the fundamentals to computer technology.
-Aprendi mucho mas sobre los protocolos y muchas otras cosas sobre como operan las redes de computadoras.
 One of the hardest courses I have done. Quite demanding and challenging for me but happy to finish it :)
 This course actually laid the foundation of my networking and has made me to know a lot about networking
 It was difficult but very rewarding thank you so very much for the time and energy put into this course.
@@ -2312,7 +2234,6 @@ Love it, so informative and makes it to where you can actually understand whats 
 I learn a lot on Network layer. I hopefully to learn more to be IT Professional Support.
 A lot of information! But a lot of fun to learn how everything works together and flows!
 It is an excellent option to start and get deeper knowledge about the IT role in general
-Curso excelente, grande valia para a carreira profissional de qualquer pessoa, obrigado!
 This one was much harder, but was much more densely packed with new information to learn
 Tons of practical information delivered in a straight forward and easy to absorb format.
 A ton of great information delivered in a way that is easy to understand and build upon.
@@ -2335,7 +2256,6 @@ A bit difficult but used up course to learn. Just  don't give up on last 3 there
 Hard, and very intensive, but very fun and informative can't wait for the next course!
 I am highly benefited of this course. I will definitely do more courses from coursera.
 Excellent refresher, New Concepts Learned, the way it should, Thanks Coursera Team....
-Este ha sido más difícil que el primero! Aún así, muy interesante, he aprendido mucho!
 The course was very helpful. More clarification on sub-net mask would be very helpful.
 This course is really challenging but so worth the effort.  Great presentation skills.
 it is the best module for the people who wants to learn something about the networking
@@ -2367,7 +2287,6 @@ Very good course, I learned a lot, thanks to the instructor for all this informa
 good content with clearly explain all topic, thanks google for creating this course.
 Very happy that I took this course...Thanks coursera for this amazing opportunity...
 great course. We have learned a lot of things about networking, cloud and many more.
-Tiene un buen balance entre lo tecnico y lo util, muy buen material y bien explicado
 This is a perfect course for me. I have learnt what i never expected to have learnt.
 Googlers make seance of the computer network and how they communicate to each other.
 Pack with knowledge of basic computer networking. I've learned a lot in this course.
@@ -2418,7 +2337,6 @@ I learned very much and liked very much the course! Thank you GOOGLE and COURSER
 very good and interactive course . im very much like this course , i love google.
 I learnt a lot in this course about how actually internet in the background works
 Amazing experience, thanks to the instructor, made everything sound easy. Cheers!
-Muito bom! Bastante conteúdo e o conhecimento é passado de forma clara e simples.
 Really great course....not too long but very informative with real world examples
 Very good course, a lot of detailed items which helped me get through this course
 Networking Concepts are amazing and this course made me to learn more about them.
@@ -2437,7 +2355,6 @@ Some minor inconsistencies but the course overall explains everything very well!
 lots of information about data handling and transmission, with lots of acronyms.
 it was great to learn all basics of networking, looking forward for next course.
 The tutor was very amazing and taught every concept in a very understandable way
-Excelente. Un curso muy bien estructurado e impartido de una manera excepcional.
 excellent,supper amazing course by super energetic,amazing,brilliant instructor.
 this course was amazing . i just love it . i completely grow up with this course
 Great lessons for basic understanding of networking. A good start for beginners.
@@ -2483,10 +2400,8 @@ Intimidating and challenging, but ultimately fulfilling and quite informative.
 Very helpful review of what is going on behind the scenes of what computers do
 Difficult but a great course and it is presented in an open and engaging way.
 A very good course. Instructor has presented the concepts very well. Enjoyed.
-Excelente manera de entender como funcionan las conexiones entre dispositivos
 This is a very thorough introduction to computer networking.  Great delivery!
 Course is good, but the main problem is everything provided is in very brief.
-Excellent! Excellent! Excellent! Excellent! Thanks, Google, you are the best.
 The best course for networking. Explains each and everything from the basics.
 Great overview of networking technology clearly explained by a great teacher.
 Enjoyed it, content well laid out and explained in a fun and engaging format.
@@ -2530,7 +2445,6 @@ It has been an amazing journey, can't wait for the next course. Thank you.
 An Awesome course. I think Anyone can understand with this type of course.
 very excited and excellent course one should take.very informative.thank u
 Great course - learnt a lottt of stuff ! The instructor was just amazing!!
-انها دورة تدريبا جميلة لقد استفدت منها جدا كانت صعبة لكن جميلة و مفيدة جدا
 Great course! I learned a lot. Ready to get hands on with more networking.
 This course is absolutely incredible and i really enjoy learning this way.
 I enjoyed learning more about networking including history, ipv4 and ipv6.
@@ -2588,9 +2502,7 @@ this course strengthens fundamentals of Networking..get to learn a lot.
 ufff! Learnt a lot of concepts. Now everything on head is crystal clear
 Very interesting and informative. Learned a tone of useful information!
 its very intensive and there is a lot of info but its totally worth it.
-ME ENCANTO!!!! Fue un dolor de cabeza por momentos pero valio la pena!
 Thanks for all the efforts that made these courses publicly available.
-Este curso es genial, agradezco a google y coursera por la oportunidad
 Learning more and more about the I.T. field. Can't for the next course
 Tutor was very good at all,I wish further courses will be taken by him
 Great way to learn! I loved every minute of it! Keep up the great job!
@@ -2715,7 +2627,6 @@ Thanks for giving such a valuable knowledge in such a great way!
 Thank you for taking interesting quizzes and practice questions.
 Absolute perfect for beginners! Please continue this great work!
 very interesting and educating course. i like the course so much
-Excelente curso! Será importante na minha carreira profissional.
 The delivery of the content is awesome and my style of learning.
 Great material for networking basics and troubleshooting skills.
 very complicated course study but very interesting and relevant.
@@ -2724,7 +2635,6 @@ Really great course. Well presented in easily digestible bytes.
 carefully curated material & precious to enhance once's skills.
 Super dense material. Worth to revisit when i forget something.
 Great experience, and really good practice using real machines.
-Me gusto el rolplay de la entrevista, son situaciones veridicas
 Really good info here.  Enjoyed the instructor for this course.
 A very awesome basic course to understand all networking bacis!
 it was hard, but if you take good notes you can get through it.
@@ -2769,7 +2679,6 @@ this is one of the best online courseon networking i have had
 man this was hard I'm so happy I made it through this course.
 Totally Awesome Content for the beginners. It helps me a lot.
 This is such a great course. I really enjoy learning all this
-espectacular!! me encanto!! muy simple y sencillo de aprender
 A perfect course to shape the mind with  networking concepts.
 Wow! I loved it and learnt a lot from it. Thank you Google 🙌
 Great information and teacher. Thanks Google and Coursera!!!!
@@ -2781,10 +2690,8 @@ I loved this course and learned so much more about networking
 Nice lecturer. Explains complicated things in simple language
 I learned a lot, more than I knew existed. Well craft course.
 Information was well explained and there was a lot I learned.
-un curso muy completo, con contenido actualizado y practico.
 I am very happy for this opportunity and the journey so far.
 really good to understand networking terms and its functions
-Excelente curso, lo disfrute bastante. Lo recomendaré mucho.
 thats a very good course and the teacher explains very good.
 its really very informative course and  easy to understand .
 It was very hard to get threw will have to put in more work.
@@ -2794,13 +2701,11 @@ I learn the lot of thing's, in the course that I don't know.
 Great introductory course to the complexities of networking.
 It is a great course to understand the basics of networking.
 Great experience, enjoyed every bit of learning this course.
-Excelente curso con gran informacion y un tutor excepcional
 Great experience! So much stuff I learned about networking.
 it is an amazing course , thank you so much for your effort
 It was great opportunity and fun learning. thanks for this.
 very much educative materials, and the tutor was awesome :)
 Course is more interactive and Practical doubts are cleared
-Muy bueno el curso lastima que los examenes estan en ingles
 I could really learn bits and bytes of computer networking.
 Cool! More complicated than Technical Support Fundamentals.
 Thank you very much it was very interesting and informative
@@ -2861,14 +2766,12 @@ Very interesting and well informed course. Thanks a lot.
 Really happy, could learn many complicated things easily
 Enjoy the course and challenging mostly heavy on theory.
 Great explanation, very comprehensive and understandable
-Gracias por compartir todo el conocimiento de este curso
 An eye-opening course on computer networking. Fantastic!
 A challenging course but an exciting course - thank you!
 Dry topic but important and interesting. Happy to learn!
 Lots of good information for a beginner and to catch up.
 very difficult course but so worth it for the knowledge.
 This course was great - it was thorough and well taught.
-montonazo de información sintetizada que se agradece :D
 Very instructive.The instructors were amazing!!!!!!!!!!
 Great, A little bit complicate this level but excellent
 Great information on internet protocols and networking.
@@ -2937,7 +2840,6 @@ It was a very interactive course, im glad to find it
 The instructor was so eloquent and taught very well.
 Amazing course, amazing professional! Thanks Google!
 It's good for beginners to learn from such platform.
-Super completo y con mucha información para procesar
 I earned a lot in the subject of Networking! Thanks!
 Very good! Amazing material, and very easy to learn.
 Amazing course, keeps you interested and I loved it.
@@ -2960,8 +2862,6 @@ a thing not to finish A challenge for lifeencouraged
 Very informative & teaches ALL the essential basics.
 Amazing course and great info and teaching approach
 Easily explained and made me love with this domain.
-Excelente, estuvo super entretenido y aprendí mucho
-Me encantó, aunque fue más difícil que el anterior.
 very informative course, I enjoyed learning it all.
 THIS WAS HARD!!! But awesome, as I learned so much!
 Everyone should try this course it is very helpful.
@@ -2974,7 +2874,6 @@ help me build a solid foundation on basic concepts.
 Awesome course! I can't wait to go to the next one!
 Nice course to understand the basics of networking.
 Amazing course, looking forward to learn even more.
-Excelente curso. Instrutores com didática muio boa.
 An intense course, but lots of helpful information.
 It was very helpful class for Updating my knowledge
 Oh, the things I thought I knew about and now I do.
@@ -2998,7 +2897,6 @@ networking simplified for the not so techy people!
 Incredibly in-depth dive into computer networking!
 Good information for a beginner into the IT world.
 so much info that I have always needed to know, ty
-Excelente trabajo, me gusta mucho esta plataforma.
 its good to study it. And got many things from it.
 Best platform to study at home thank you great job
 This is a very useful course developed by Google.
@@ -3105,9 +3003,7 @@ A lot of information. Worth the bit of stress.
 A course to stretch your networking knowledge.
 I learned a lot of concepts important to know.
 great knowledge and great presentation for it
-MUY bueno y por lo menos para mi algo dificil
 That was great. Thanks to al coursera family.
-en verdad muy bueno. muy util. muchas gracias
 Really enjoyed the videos and the read alongs
 good course to learn a depth about Networking
 A great concept used and easy way of teaching
@@ -3119,11 +3015,9 @@ Thank you Coursera and google for this course
 Just interesting. it was very helpful for me.
 Best Instructor and content is very in depth.
 nice program to show you how networking works
-Excelente información en este curso, gracias.
 Great content and amazing production quality.
 Awesome networking learning with this course!
 i thought it was very detailed and up to date
-Challenging but engaging. I enjoyed learning.
 Hard but enjoyed every moment and learnt alot
 Awesome!! Great explanation of complex topics
 Great course well laid out and easy to follow
@@ -3135,7 +3029,6 @@ Lots of info! But was very fun to go through.
 Very complete, and with detailed information
 Really learned a lot of the basic networking
 excellent course need more courses like this
-excelente y exigente curso, se aprende mucho
 Awesome love the course as well as the caoch
 Very good course to get a hold of Networking
 Loved every part of it. Thank you very much.
@@ -3147,7 +3040,6 @@ It was a very good experience .... Thank you
 Must do course for any IT support specialist
 Great course. A real eye opener of a course.
 Extremely difficult and extremely rewarding.
-excellent.  Well explained and deep content.
 Wonderful teachers and great content... A+++
 Great course! I learned a lot of new things!
 Very good course, the delivery is excellent!
@@ -3155,7 +3047,6 @@ Great intro into and overview of networking!
 Excellent for newcomers. Nice easy approach.
 Stepping stone to the vast Networking field.
 a little bit more complicated, but necessary
-Excelente Curso aprendes información valiosa
 Great course. A good overview of networking.
 Especially good at explaining the OSI model.
 It's an interesting and well compiled stuff.
@@ -3168,7 +3059,6 @@ Great information! Like how it is presented
 That was hard and fun but I finish it yeah!
 So much information so organized so excited
 Such a fun course with lots of information!
-Excelente que bueno tener esta oportunidad.
 This course was awesome. I learned so much!
 very insteresting, helpful and illustrative
 Fantastic course. Unbelievably informative.
@@ -3226,7 +3116,6 @@ Made me work and think.  I learned a lot.
 I would of liked more practical projects!
 very in depth and packed with information
 Best course to learn basic of Networking.
-Excelente curso, muy completo y detallado
 Best introductory networking out there!!!
 very beneficial course learn extra things
 Superb Course I have learned in Coursera.
@@ -3256,7 +3145,6 @@ Incredibly in depth and very informative
 Excellent presentation, I learned a lot.
 has phenomenal visuals and info graphics
 Great course with in-depth principles...
-It just keeps getting better and better!
 The course is amazing! Thank you google!
 Very crisp and clear. Nicely explained !
 Very good to learn networking protocols.
@@ -3266,13 +3154,10 @@ excellent teaching methodology thank you
 Great material and excellent instructor.
 I learned lots of thing in very easy way
 IPV6 compression is fun. I like turtles.
-Muito complexo, portanto muito completo
-Cours bien conçu et très compréhensible
 Challenging module but great lecturers.
 Totally awesome. Sergio is really good.
 It's very challenging but it's worth it
 methodical and well organized course...
-Me encantó el curso, lo recomiendo 100%
 Great Puns! Tough but enjoyable course.
 The useful course for grow IT knowledge
 I've learnt so many new things. Thanks!
@@ -3280,7 +3165,6 @@ Excellent way of teaching and learning!
 Really helpful for learning networking.
 The Great networking course i ever had.
 The assignments are very well designed.
-Excelente. muy tecnico. pero necesario.
 Great course, definitely learned ALOT!!
 Best networking course for fundamentals
 Challenging course but very well taught
@@ -3308,7 +3192,6 @@ it was difficult but i manage to pass.
 This course is very useful.excellent!!
 Difficult, concise, and educational :)
 It was an exciting learning experience
-awsome nd little bit diffcult to do it
 Great information! Very useful lessons
 Thank you! Tons of useful information!
 Challenging. Lot of useful information
@@ -3323,7 +3206,6 @@ Interesting subjects...well explained
 It's a great way to learn networking.
 good way to learn about IPv4 and IPv6
 I have learnt a lot from this course.
-Excelente curso, realmente muito bom.
 very inspiration and educative course
 Amazing course with nice explanations
 Great course. Can't wait to continue!
@@ -3332,7 +3214,6 @@ Excellent material, good explanations
 wonderful content. Highly recommended
 alot of information but it will help!
 What a great course!Thank you so much
-excelente curso y excelente contenido
 Very well taught and in depth course.
 this course challenged me, thank you.
 This was cool I really learned a lot!
@@ -3352,11 +3233,9 @@ Very informative and well structured
 My learning experience was awesome..
 the trainer's approach is impeccable
 Thanks google for excellent training
-Excellent course. Strongly recommend
 Great course with great information.
 Nice course with tonnes of knowledge
 Excellent course, thanks to Coursera
-Very Very Interesting !!!! I like it
 Great introductory networking course
 awesome and very beneficial course..
 that was a lot of great information.
@@ -3373,7 +3252,6 @@ One of the best course done so far!
 This course is highly enlightening.
 Very well instructed, great course.
 I strongly recommend this course =)
-Excellent course, great instructor.
 Really complex but loved it overall
 It was boring, yet enjoyed somehow!
 A great way to learn for beginners.
@@ -3436,7 +3314,6 @@ It was an excellent experience...
 Great teachers and great platform
 Got new Insight after this course
 Awesome! I learned a lot! Thanks!
-Very good for newbies, like me...
 Great course. I've learned a lot.
 Very good content! Great Course!!
 Awesome.Knowledge Gaining course.
@@ -3447,7 +3324,6 @@ The V Neck crew were spectacular!
 Absolutely recommend this course!
 Very Informative and challenging.
 These courses are so informative.
-¡Muy interesante, muchas gracias!
 Hard Stuff! But very interesting!
 So much information... Very nice.
 Very well put together, Thank you
@@ -3464,7 +3340,6 @@ This one was no joke! Thank you.
 it was great learning experience
 Great foundational skill course.
 Excellent work. Kudos to Google.
-my favourite course ever....:)))
 thanks for the amazing resources
 Thanks to Coursera and Google!!!
 great@ wow salute, hnin hnin aye
@@ -3493,7 +3368,6 @@ I learnt and enjoyed the course
 good experience and good course
 Good basic knowledge developed.
 Great opportunity . Thanks alot
-very very good !! keep going...
 great course, I learn too much.
 I DIDN'T RECEIVE MY CERTIFICATE
 Awesome course , Amazing tutor.
@@ -3530,7 +3404,6 @@ Thank you for this opportunity
 more difficult than I expected
 So hard, but finally I'm done.
 This gives technical knowledge
-Exellent course a little dense
 wow great, it's experienced...
 Very good course learned a lot
 The course is very informative
@@ -3539,7 +3412,6 @@ Google deos its best as always
 Lots of details. Very helpful.
 The instructor was THE BEST!!!
 Very thorough and challenging.
-nice subject and nice lectures
 You are the best! Thank you!!!
 very informing and CHALLENGING
 It is exciting and I loved it.
@@ -3558,8 +3430,6 @@ I really enjoyed this class!!!
 I love the program I enjoy it!
 It's a great course recomended
 That is very important course
-Excellent course learned alot
-Fue super me encanto el curso
 Very informative and engaging
 absolutely amazing experience
 Awesome Course for Networking
@@ -3574,24 +3444,19 @@ Awesome and a fun experience.
 Amazing opportunity to learn.
 All were good in this course!
 Designed as very smart course
-Great, fun, difficult course.
 I love this course very much.
 Loved IT. you get it right.IT
 It is very informative course
 the most interesting course !
-Excellent Course, learnt alot
 Great course, i learned a lot
 great ..thanks to instructors
 Love it!!! I learned so much.
 Good overview and content .!!
-Great instructor, fun course!
 it was little bit challenges
-Muy bueno, aprendí muchísimo
 Amazing course on Networking
 THE INSTRUCTOR IS SUPER COOL
 This course was just awesome
 Good info, and great content
-entretenido y didactico!!!!!
 very walkthrough and helpful
 Challenging and informative!
 Very nice informative course
@@ -3611,7 +3476,6 @@ lots of helpful information.
 Awesome proud of this course
 Awesome course for beginners
 This course is so so mature
-Perfecto contenido correcto
 Too technical and difficult
 Lots of useful information.
 excellent way of learning!!
@@ -3622,7 +3486,6 @@ It is an interesting course
 Very detailed and explained
 Difficult but WELL WORTH IT
 Very nice and good learning
-Muy completo e interesante!
 Great course lots of info!!
 this instructor is amazing.
 It was an amazing experince
@@ -3631,7 +3494,6 @@ awesome and broad knowledge
 Love you Google !! For this
 Cindy was a great teacher !
 Tough but knowledge packed.
-Thank you ! You are amazing
 Challenging and informative
 Amazing learning experience
 Pretty good, I love it!!!!!
@@ -3639,7 +3501,6 @@ Very nice and to the point.
 Awesome course. I'm stoked.
 Great very in detail course
 very challenging and worthy
-VERY extensive and detaied!
 The course is mind blowing
 This course is super cool.
 A loot of info, but great!
@@ -3651,17 +3512,13 @@ Practical aspects was good
 It was great thanks a lot.
 great course easy to learn
 Great opportunity to learn
-Difícil pero no imposible.
-Well explained nice course
 Excellent So much to learn
 Great course for Beginners
 A little bit challenging:)
 Thank you for this course.
 Very Important to every IT
 Very beneficial. Thank you
-Sencillamente Espectacular
 What a ride! Great course!
-amazing!!!!!!!!!!!!!!!!!!!
 Supre interesting course !
 Very informational course.
 So much information...wow!
@@ -3670,11 +3527,7 @@ Great intro to the basics.
 super hard and interesting
 it was very understandable
 That was awesome course!!!
-i love it very interesting
-just a fantastic course!!!
-Getting better and better.
 very difficult and useful!
-Excelente! Muchas gracias!
 Havey info, amazing course
 Thank you for this course.
 Great entry level course.
@@ -3686,16 +3539,12 @@ It was a good experience.
 i really enjoy the course
 Really well put together.
 Amazing and very helpful.
-Sooooooo interesting!!!!!
-Great content and quizzes
 really enjoyed the course
 Mind blowing information!
 Very Interesting course!!
-Amazing content delivery!
 Great and very educative.
 harder than the first one
 best i hope next one also
-DEEP DIVE INTO NETWORKING
 Challenging but rewarding
 Very good and informative
 took longer than expected
@@ -3727,7 +3576,6 @@ Great Challenging course
 Great material and jokes
 This was a great course.
 Very challenging so far!
-Victor does a great job!
 well put together course
 A wealth of information!
 very useful and good !!
@@ -3736,10 +3584,8 @@ I have learned a lot!!!
 this is a great course,
 This is the nice course
 The Course was awesome.
-Simplemente. Excelente.
 Informative course ever
 Quite a challenging one
-amazing experience!!!!!
 Great networking course
 It's an amazing course.
 excellent!!thankyou ...
@@ -3757,7 +3603,6 @@ very interesting course
 Awesomely illuminating.
 VERY USEFUL and helpful
 great course. Loved it!
-Awesome.  I feel more p
 Awesome, learned a  lot
 This course is awesome!
 This is a great course.
@@ -3765,35 +3610,25 @@ I'm learning so much!!!
 this course was trivial
 the kid knows his work
 very helpful thank you
-Very Good! well done !
 This course is awesome
-It's excellent course!
 this course is awesome
 Really valuable course
 Toooo much information
 Perfect Job instructor
 That was really great!
 Great course it is....
-Exceptional Course!!!!
 Lot of items I leaned.
-excellent explaination
 Lots of good material!
 osm course for bigneer
-Amazing. Thank you!!!!
-Feeling fortunate 👍😎
 I am beyond satisfied.
 Enjoyed it thoroughly.
 Tough but interesting!
 Good knowledge explore
 This course was great!
-nice course i like it.
-super excellent course
-Comprehensive course!
 It is a great course.
 I have learned a lot!
 Very fun and helpful!
 very rewarding course
-Fantastic experience!
 such a amazing course
 Great course. Thanks.
 This course is useful
@@ -3802,8 +3637,6 @@ Really awesome course
 Great course overall!
 It was a great course
 NO REGRET, I AM HAPPY
-I love GoogleIT!!! <3
-Super useful content!
 high quality delivery
 it was a great course
 The teacher is great.
@@ -3816,74 +3649,53 @@ Great content, Thanks
 Learnt tons of things
 very real world stuff
 its tough but awesome
-Enjoyable Courses!!!
 Worth byting through
 Pretty Interesting !
-excellent experience
 perfect for learners
 That was challenging
 interesting material
 very nice experience
 it is awesome course
-A great experience !
 very tough and good!
 This a great course.
 this was challanging
 I enjoyed the course
 Its very Nice course
-WASREALLYCHALLENGING
-Excellent, Amazing!!
-Very complete course
 So much information.
 Loving this course.
 it was very usefull
 very good expirence
 Loved the Course...
-networking modeling
-Challenging yet fun
 Outstanding course!
 Give Victor a raise
 A very Good Course!
 Super Informative !
 This was super fun.
-Awesome as it gets!
 It was fun to learn
-i had learned a lot
-I 'd recommend 100%
 lots of information
 Excellent Teaching!
-Great for beginners
 I loved the course!
-exceptional course!
 Challenging and fun
-Excelente curso...!
 enjoyed and learned
 Very useful course.
-very useful lessons
 Very informational!
 Very comprehensive!
 the course is great
 good for the brain.
 Great instructor :)
-Excellent contexts.
 It was pretty good.
 I'm learning a lot.
 Get ready to learn.
 Enjoyed this class.
 i have learnt a lot
 you're the best!!!
-Thank you, GOOGLE.
 Amazing to learn..
-Super challenging.
-amazing experience
 Thanks opportunity
 This was one hard!
-Amazing Experience
 It was really hard
 it was very useful
 Really enlightning
 Awesome Thank You!
-Ive enjoyed a lot.
 Thanks Mr. Victor.
 Great information.
 perfect! Good Job.
@@ -3891,70 +3703,51 @@ Totally, worth it.
 veryhelpfullcourse
 Outstanding course
 Interested course.
-Excellent overview
 Really nice Thanks
 Really interesting
-Thank you GOoGle!!
 I passed so great!
-Geeky and Awesome!
 Hard but worth it!
 Super informative!
 huge and difficult
 Very good so fare!
 Thank you so much
-GOOD. Thank you!!
 A Great Challenge
 awesome course!!!
 Great Course. : )
 Great Information
 That was Awesome!
 Thanks to Google.
-Excelente :3 !!!!
 Very Informative.
 Wonderful Course!
 Very nice course.
 Learned so much !
-Excellent Course!
 Great information
 A splendid course
-Great experience!
-Amazing learning!
 very informative.
-excellent!!!!!!!!
 Quite informative
-Fantastic courses
-QUITE INFORMATIVE
 Very informative!
 totally recommend
 THANK YOU Victor!
-Awesome course 2.
-Fantastic course.
 Great, good level
 FANTASTIC COURSE
-Excelente curso.
 good to learning
 Great instrater.
 Amazing Course !
 Very Good course
-excellant course
 good information
 Good Experience.
 course was great
-Super funt to do
 The best ever !!
 So much to learn
 awesome course !
 loved the expert
 Very informative
 worth the hustle
-VERY GOOD COURSE
 Amazing teacher!
 It was very nice
 I learned a lot.
 I learned a lot!
-Thank you GOOGLE
 love this course
-So fare so good!
 That was awesome
 Really In-depth!
 Too many things!
@@ -3966,97 +3759,61 @@ Great course :)
 I learned a lot
 learned so much
 Really so good.
-Awesome!!!!!!!!
 Great feeling!!
-Muchas gracias!
 As always best.
-Simply Amazing!
 Awesome Journey
-well understand
 amazing course.
 THANK YO GOOGLE
 Very satisfied.
-I just loved it
 yoo hard course
 Hard and worth!
 Great knowledge
 Amazing Course.
-It was amazing.
 Amazing Journey
-Very well done!
 Love the course
 IT was the best
 Great course 👍
 great thank you
-great course!!!
 Great Course!!!
 awesome course!
 Has everything!
 Great job guys!
-Enjoying myself
-Ecellent course
 Tough but good!
 This was great!
 Great course :)
-amazing course
-Nice course ..
 Really Awesome
-Great material
-Thank you! :-)
 Awesome Tutors
-supper courese
 really indepth
-It was amazing
-Very satisfied
 Awesome curse!
 i learned alot
 v. good course
-great material
 Really helpful
 Simply Supperb
-very good one,
 Happy learning
 Very Satisfied
-Well presented
 This was great
-Excellent!!!!!
 Very thorough.
 Really useful!
-AWESOME STUFF!
 Learned a lot.
-Thanks, google
-very rewarding
-great course!!
-llluuuuvvvvit!
 It's worth it!
 A lot to learn
 Great Love it!
 pretty good :)
 very useful :)
-i recommend it
 Very pleased.
-week 6 was OP
 Very thorough
-just awesomee
-i loved it!!!
-EXCELENTE!!!!
 Great....!!!!
 It is awesome
-Super course.
 It was great.
 Good to learn
 good sessions
-so delightful
 learned a lot
 Great course!
-good exercise
 Greath course
 Really useful
 Love it!!!!!!
 Thanks!!!!!!!
 It was agreat
-good traininh
-Nice program!
 Well planned!
 It's so good.
 Breath taking
@@ -4065,161 +3822,61 @@ good course!
 satisfactory
 Tons of fun!
 Very usefull
-grate Course
 Just Awesome
-Struggled...
 interresting
 good content
 really great
-GREAT!!!!!!!
-Blew my mind
-good content
 good concept
-Challenging!
-best courses
-its soo good
 That's great
 It's awsome.
 overall good
-Gret course!
-Outstanding!
+good content
 Very Usefull
-Thank you :)
 great Course
-Eye opening.
-Estuvo chido
 Learned alot
-awesome!!!!!
-good startup
 Very clear !
 Good course!
 Love it Sir.
 Good one....
-I love it :)
-Challenging)
-Stimulating.
-excellent!!
 not easy :)
-great stuff
 Good cource
-awesomeness
-Best Course
 loved this!
-Exceptional
 Good Course
-super good.
 loved it :)
 Recommended
-ótimo curso
 Mind blown!
-Great work!
-Amazing !!!
-Thank youu!
 Ouf Finally
 Good times.
 Many thanks
-Fun course!
 good course
 cool! couse
-fascinating
 really good
 I Love it!!
-god is good
 well taught
-i liked it
-Very nice.
 Alright...
-Fue genial
-Very nice!
-Difficult.
-WOW!!!!!!!
 GOOD COURS
-Awesome...
 Very Nice!
 wow supper
-Beautiful.
-Very good!
 intresting
 very happy
 Completed!
-كورس ممتاز
-Foi tenso!
-Awesome ;)
 Super cool
-Amazing!!!
-good start
-dam got it
 Great!!!!!
-I love IT.
 Was great
-Superb 😀
-Very good
-Excelente
 great one
-super fun
 Great job
-Thank you
 Love it!!
-excellent
-good job!
 THANK YOU
-awesome!!
-Awesome !
-Goodstuff
-excellnet
-very goog
-EXCELENT!
 very cool
-i like it
-AWESOME!!
 LOved it!
-Exelent!!
-muy bueno
-Awesome.
-love it!
-tufiuoig
 was hard
-Awesome!
-nice one
-Fabulous
 The best
 Love it!
-Yes Sir!
 loved it
-exellent
-Intense!
 Great !
 Indepth
-niceeee
-Awesome
-AWESOME
 Thanks.
-goodie!
-SUPERB!
-love it
 got it
-ممتازة
-rrrrrr
-I like
-Ótimo.
-superb
-GREAT!
-Dense.
-Good!
 Grate
-Otimo
 Cool!
-10/10
-Joss
 thnk
-Done
-YEET
-yuan
-mass
-!!!!
-Yes
-fun
-حسن
-:3
-A+
-5

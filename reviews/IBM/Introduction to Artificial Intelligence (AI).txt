@@ -50,7 +50,6 @@ Ur here finally.. 3 years of chase
 It was an OK introduction to AI.
 it think week 4 could be shorter
 Good knowledge on basics of AI
-Good for getting an Overview
 Good for new learner of AI.
 THANK YOU.
 It's an excellent course for beginners. My suggestion is that the course should talk about the failures of AI to date. I recognize that data collection is still a big issue, and that AI will not work as robustly with limited data. That was the experience that IBM had in implementing Watson in the healthcare field. There are stumbling blocks (which people should be informed about) and challenges ahead. Thank you.
@@ -79,7 +78,6 @@ Good introduction. I got an overview of AI. A bit confusing was the use of Watso
 Interesting, insightful course but I think you should definetely try to include a female perspective in the course. There were no female interviews even though you did include links to interviews with women working in the field.
 This course is very helpful in learning about AI . which i don't have basic knowlege about this one helps in gaining relavant technical terms related to the Ai  ,Machine Learning ,Data Science, Deep Learning/neural networks
 This course gave a basic overview of AI like the benefits of AI, Problems, Conflits, active research areas, future of AI.It does not include any coding, good for those who want to know what is AI in a general perspective.
-Me ha parecido muy interesante para empezar a conocer algo del mundo de la Inteligencia Artificial. LAs personas que intervienen parece que tienen gran experiencia y aportan su conocimiento además de su opinión sobre el
 It was a good start for a complete newcomer like me. I was able to understand the reach of AI and also its limitations and challenges. My aim is to develop a career in AI. Hence I will try to learn more courses of AI.
 The course content was very engaging and informative. Rating four stars due to the Final Exam being a Peer Reviewed item. I felt like the grade was lower than it should have been based upon the requirements.
 The peer to peer grading at the end isn't very efficient.  There was only one project to grade and it makes me worry that my project will take a long time to get graded.  Other than that I loved the course.
@@ -96,7 +94,6 @@ Good intro, explaining  different concepts related to AI. Quite generic though, 
 Some of the ethics chapter issues seem to be rather non-academic, which worsens the course experience a little bit. Otherwise a great introductory course.
 Good Course.Very well understood. So many myths of AI has been remove from mind.Course really incredible.IBM Watson is amazing. IBM clod is also good.
 The course is very informative and well organized apart from the last IBM homework. It is not clear and the system does not work, which is not clear.
-Creí que estaría un poco mas orientado a Python. Error mio. Por otro lado es un muy buen curso para conocer la AI, sus variantes y sus posibilidades.
 It gives the good Basic Knowledge About the AI . Before starting any thing about Machine learning or any branch of it you must study This courses
 The course provides a great introduction about AI.  The views of experts provided in the video contents are very enlightening and great value to
 Overall a good introduction to AI. Some of the images in the instructions pertaining to IBM Visual Recognition are outdated.Thank you
@@ -118,7 +115,6 @@ Very good course for the introduction module, as clear and gives some examples f
 it is easy to learn in coursera all matirals are provided for the topic best way to gain knowledge
 Very good course for a beginner.Opens a new door in the path of exploring AI with strong basics.
 It is quite informative, motivative and simple for starting and for getting a clear sense of AI.
-Es un curso intoductorio, no está mal, pero si andas en este mundillo muchas temas ya te sonaran
 good for gaining a basic knowledge of AI. all theory part like what is Ai, it's applications
 Almost theoretical but helpful in clearing basic concepts. kudos to creators of this course.
 This course is a good overview of the status of artificial intelligence at the moment.
@@ -183,23 +179,18 @@ It is really helpful for me.
 this course is very usefull.
 it's easy to learn with IBM.
 This course was informative
-just done as no sake for us
-HAD AN AMAZING EXPERIENCE.
 GREAT COURSE FOR BEGINEERS
 it was a wonderful course
 Good for introducing AI
 it's good for beginners
-Well done and engaging!
 It is very nice course
 Required for EVERYONE
 This course is Nice.
 Interesting  Course
 Bellow basic course
-Course is well done
 good intro to AI
 Nice and Useful
 Great Learning.
-neutralll
 cool
 The course design is excellent specially for beginners to study and understand the basic concepts in Artificial Intelligence. The lessons and course material are perfect and apt for this course-level.
 Great Module to understand  basic AI & how it will be useful . Watson lab was worth doing, it very interesting how AI is classifying the object in picture. Will be doing next module shortly.
@@ -261,7 +252,6 @@ This is the first Coursera course that I have participated in, and I thoroughly 
 This course is very useful for any one who is has no background in IT or Engineering field, like me. It helps to get to know about AI basics with some terminologies used in AI. It helped me to understand some of the applications we use in our daily life which I haven't realized AI was used in.
 A highly recommended course for anyone, who would like to understand AI fundamentals. This is a must for people to wanted to kick start their AI and Data Science career journey. In the course, the concepts are explained with a lot of examples and by the experienced professional. Go for it.
 It was a great experience with Coursera together with IBM Watson. Coursera made it easier for us students to grasp the importance and value of AI in the future. I know that AI is really growing fast and like others out there I am also so thrilled to use the AI platform in any industries.
-Excelente, muy recomendado para aquellos entusiastas y exploradores dentro de este campo como lo es AI, es un curso que tiene muy en cuenta detalles que son a priori claves para que tu sepas lo que en verdad se refiere la Inteligencia Artificial.Saludos y gracias por la enseñanza.
 Amazing course, the transition of difficulty is smooth so you don't have to worry about things going top over your head. The speakers and lecturers were great. Learned a lot from this course, would definitely recommend this course to everyone looking to start their AI journey!
 Great introductory course for anyone that is interested and motivated to learn about AI on the IBM Cloud platform. However, this only scratches the surface. To fully appreciate the subject matter, please consider taking other related courses with increasing breadth and depth.
 This course is great introduction to AI and its applications. Course also gives views of different AI specialists from different fields and its application in real world. Overall a very its the starting step course for you if you want to start learning AI and Machine Learning
@@ -269,7 +259,6 @@ Course contents, speakers and knowledge provided are all really good. If any one
 Good introductory course for entry level learner to obtained basics understand of AI, its application, ethical issue & future opportunity of AI. Enjoying the learning process with hands-on experience applying AI in visual recognition ;) Looking forward for the next level.
 Very well structured, instead of just focusing on skills in AI, they have the experts share their thoughts and let us discuss on their perspective and give broader definition. The videos that show the concepts of AI is also well designed! Kudos to Rav Ahuja and his team.
 This is the best learning experience i have ever had online.  I was able to learn about the basics of AI and Machine learning, Hands on labs with IBM Watson from IBM experts.Thank you coursera and IBM for the world class skills you have given to me on a platter of gold.
-Los conceptos son explicados de forma que puede ser entendido por todos y los distintos puntos de vista de varios expertos en el área proporcionan un claro y rápido acercamiento y entendimiento de lo que es la Inteligencia Artificial y todo lo que concierne la misma.
 I loved learning about AI, which I never thought I would be interested in the point of finishing the course finally. This course helped me understand the differences between Machine Learning, Neural Networks, and Deep Learning in a way that was easy to follow.
 Always been interested in Artificial Intelligence and its capabilities. Thoroughly enjoyed hearing from experts and prominent figures in this field. Their perspectives, comments and ideas were insightful and gave me a great introduction to the world of AI.
 It's Great course to understand the basics of AI & how useful it's . Watson API lab was worth doing, It's very interesting to see how AI is classifying the objects in different images and showing the results with good accuracy. Looking forward to do more.
@@ -322,7 +311,6 @@ Bunkers, give me the introduction that i needed to get trough into the A.I place
 Very good approach about what AI is. I enjoyed very much. And it's good to hear what the experts on the field think about this matter and where will it leads. Definitely a course, everyone should take.
 This course absolutely helped me a lot to understand the basics of artificial intelligence, the hand-on labs are extremely fascinating to learn practical things on IBM WatsonThank You, Coursera...!!!
 This is an excellent course for the beginners who want to know about AI primarily. The course will help the beginners by giving an initial concept about AI. The quizzes are nicely decorated here.
-Muy fascinante el curso me gusto mucho y me dejo con la intriga de que va pasar mas adelante en nuestra ciudad si es que tiene futuro o cuanto tiempo demoraría en modernizarse el resto del mundo.
 I learned a whole new concept of computer science. A very good starting point to explore and learn more about this fascinating world. I enjoyed every lecture, video and complementary material.
 This course is amazing! I wish this was a longer course because everything was well put together. This course had my full attention the whole time. I highly recommend this course to everyone.
 This course is really very useful for the beginners.The contents in this course are really in high standards and easily understandable. All the basic concepts of AI is explained very clearly.
@@ -469,7 +457,6 @@ This was a great learning experience. The course is made with professionalism an
 Wonderful program. Excellent course design, great content and easy to understand delivery. Thanks to entire team.
 Excellent course, well structured and paced, with a good blend of practical and theoretical. Highly recommended.
 Very useful course, its give u good understand and how to start with AI Magic, Thanks for this wonderful course.
-Uno de los mejores cursos en mi opinion, ya que abarca la definición de IA y presenta opciones de profesionales
 This course has taught me a lot and I think what I have learned here would be a great use for me in the future.
 Really interesting course! Would like to urge all those out there who are interested in AI to take this course.
 The best course for beginners to gain the overview of all the major aspects of AI from the Industry Specialists
@@ -662,7 +649,6 @@ This course is so fascinating. I enjoyed the whole process.
 A  great way to start my journey towards a career in AI !!!
 Great learning experience, detailed and easy to understand.
 This course is very good for fundamental learning about AI
-Es super valioso este curso, gracias a los que lo crearon!
 You will get a very much idea abot ARTIFICIAL INTELLIGENCE
 Best course ever for beginners who want to learn about AI.
 It was a really good broad Introduction clearly explained.
@@ -676,7 +662,6 @@ The course is well organized and very effective to learn!
 it's better experience to know more information about Ai
 Its really useful and thank you for the great experience
 great intro and hands on peer review really helps.......
-Excelente curso para inciarse en Inteligencia Artificial
 It helps me to know the basis of artificial intelligence
 A great introductory course in AI, I would recommend it.
 Very good course if you want to get aware of buzz of AI.
@@ -690,7 +675,6 @@ Great start in to the topic AI  and very good speakers.
 Lovely course... Will leave you with more thirst for AI
 One of the best courses i have taken on Coursera so far
 great course and gives an introductory concepts for AI
-Excellent materials, supplements, and time management!
 SUPERB COURSE I CAN TELL ANYONE , TO START THIS COURSE
 incredible course , everyone at least once must pursue
 Excellent discussion of  AI and its domains knowledge.
@@ -703,7 +687,6 @@ Really amazing courses and teaching are also awesome.
 Good fundamental explanation about AI! Happy learning
 It was really great opportunity to start world of AI.
 Great Introductory course to Artificial Intelligence.
-Me encanto el curso, muy bien organizado y atrapante.
 The course is very easy to follow & quite interesting
 Useful for the learners and a nice platform to learn
 provided an overall idea about the AI and its scope!
@@ -769,8 +752,6 @@ An introductory course with modern examples!
 Good course it's very helpful for my future
 nice session about Airtificial Intelligence
 Best course for beginners, very informative
-GOOD AND HEARTFULLY LEARNED SOMETHING NNEWG
-Excelente curso, lo recomiendo [24/05/2020]
 This course really made me to  get into  AI
 This is a very good and interesting course
 This was an excellent experiences  with AI
@@ -779,7 +760,6 @@ Great course i never seen like this course
 A good introduction for absolute beginners
 Good overview of the AI! Very interesting.
 greetcourseandgivememenyinformationaboutAI
-Best course you all must enroll yourself.
 It is good to learn on Coursera platform.
 It is a good platform to learn new things
 Wonderful Experience to learn AI with IBM
@@ -789,7 +769,6 @@ Very good for beginning your career in AI
 Excellent introduction to the topic of AI
 Good for beginners. Enjoyed it extremely.
 Excellent and very well designed course.
-este curso y lo hice en forma individual
 It was good! Learned since new concepts.
 Great course to provide insight about AI
 a very good course for introdution to AI
@@ -821,7 +800,6 @@ Great course for learn concepts of AI
 so fentastic to be a part of coursera
 Enjoy Learning New Things.Great Work.
 Really Enjoyed the course.So helpful.
-Excelente introducción al mundo de AI
 Well Explained From Foundation levels
 Good to give brief introduction to AI
 Informative, interesting and engaging
@@ -840,9 +818,7 @@ Good and useful to learn everything
 Very Good Explanations and Lab work
 Perfect course for beginners to AI!
 The course in one word:EXCELLENT!!!
-Excellent AI fundamentals training.
 Great Course with valuable insights
-Great course for beginner like me !
 great stuff favorite work overall.
 It's absolutely cool and enjoyable
 it was an amazing course thank you
@@ -856,10 +832,8 @@ Fantastic. Thank you IBM-Coursera.
 Good course for Introduction in AI
 great course till yet on coursera.
 Good for a beginning introduction.
-Excelent introductive course on AI
 Great Course for understanding AI
 fantastic learning. thank you IBM
-excellent e-resource and content.
 Great introduction for beginners.
 Very nice and informative course
 REALLY A VERY HELPFUL COURSE!!!!
@@ -870,8 +844,6 @@ best course for the AI beginners
 Describes all about AI.Good one.
 I gained some knowledge about AI
 An excellent introduction to AI.
-Suitable for absolute beginners.
-Excellent beginners course on AI
 Very good. Easy to assimilate...
 Excellent! I liked it very much.
 Concepts are taught wonderfully
@@ -881,7 +853,6 @@ Nice course for AI Enthusiasts.
 Nice course for AI Introduction
 Great Introduction and insight.
 Best course for an AI beginner.
-Excellent Course for beginners.
 Very good Introductory course.
 Great course to start with AI.
 This course is really helpfull
@@ -893,7 +864,6 @@ creates interest to learn more
 Good intro to AI. Informative.
 This is very help full course.
 Learnt a lot from this course.
-Excellent videos and materials
 EXCELLENT COURSE FOR BEGINNER
 Very informative introductory
 it was a very nice experience
@@ -905,7 +875,6 @@ Great Start for the beginner
 Very useful and Interesting.
 The Assignment was top notch
 Very Interesting course here
-Osssam and good for beginner
 Very much enjoyed the course
 Thanking you .well and good.
 Best course to start with AI
@@ -948,15 +917,10 @@ It is very useful to me
 Great foundation for AI
 Was good for beginners.
 Great foundation for AI
-Excelent for beginners
-Good Course dan LAB...
 Simple and interesting
 This course is exllent
-very god for students
 Well explained course
-Excellent Course...!!
 good lecture about ai
-Great experience.....
 wel described.Thank u
 Good.. It was helpful
 loved the teachings..
@@ -964,30 +928,23 @@ very simple to follow
 love this course..!!!
 Very Informative...!
 Perfect for everyone
-Great intro into AI.
 best starting course
 Course is Fantastic!
-Great for bigginers
 The course was good
 Introductory Course
 Really super course
 Very knowledgeable!
-Nice Experience !!!
-Excelente el Curso.
 Good course nice 👌
 eassy to understand
 The best cours ever
 Very good training!
-awesome, i like it
 thanks for support
-Excellent Sessions
 well design course
 good course......
 Thanks, Very Good
 Really very good!
 Good course ever.
 it was AWESOME !!
-علمتني هذه الدورة
 Very nicely done.
 Quite Good Course
 Must have Course.
@@ -997,30 +954,19 @@ its very helpful
 its  good course
 GOOD INFORMATION
 Its a nice code
-NICE EXPERIENCE
 Course is great
 Really ver giid
 Awesome couses!
 I learn so much
 very helpful .
-Was very good!
 it's helpful.
 Amazed Course
-recommendable
 thanks and lo
 overall good.
-Eye opener !!
-just loved it
-Terima Kasih
 great cource
 awsome couse
 Really helps
-NICE COURSE
+Very Good!!!
 GreatCourse
-Excellent,
-Niceeee
 Great!!
-Exlent
-nice 1
 Coool
-JOSS

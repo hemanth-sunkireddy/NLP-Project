@@ -59,9 +59,6 @@ Little unsatisfied with the final part of the specialization.
 Lack of Keras training made it often hard to do layer code.
 This course needs more instruction on Keras.
 Poor explanation for alot of things
-Too difficult.
-Needs work.
-I feel sad.
 I really like the deeplearning.ai specialization. And also I like the Sequence Models course. However, I feel that I have learned less during this course comparing to the other ones in the specialization. First, I believe it was an extensive use of Keras. Whereas the framework is great, it would be much better for understanding if all the exercises were in numpy, whereas Keras tween-projects be optional.  Doing both numpy and Keras versions would allow to better understand the material and learn through repetition. Second, even though the course is great, I perceived the number of errors/typos was much higher than in other courses. Is that true? For example, the Jazz Improvisation exercise was a nightmare. Overall, thank you for the course. Despite those problems, I would still recommend it.
 5 stars for the very informative lectures.  I especially appreciated the amount of content related to de-biasing models.  Such an important step to take!2 stars for the HW assignments, however.  I felt like I was just translating comments into code and that I didn't really learn enough to do sequence model development on my own without the hand-holding.
 in comparison to the previous courses from this sequence, this one is even less structured - ptobably this is because even broader knowledge is tried to be shown in only 3 weeks, but i feel like a lot is skipped between videos (which are ok) and the tasks - in many assignment tasks in this course it is not very well explained what is meant to be done - i mean this especially in case of Keras objects. In many cases it is quite unclear how those classes are supposed to be handled in the context of our task. There are some hints but those are mostly links to documentation (btw, some of the links are no longer up to date), but it is often not too well explained which properties those objects have, what one can do etc. so one ends up with trying using those objects in different configuarations, then googling around, looking on the course forum for the right answer but it is very difficult to derive it. There should be more precise instructions regarding handling Keras objects - the examples in the documentation and in blogs are often much simpler than those from assignments so one ends up not knowing what is going on. In summary - there is a big jump and a big gap between the intuitions in videos (which btw are much more fuzzy than those in first cources in the specialization, the intuitions get more and more superfluous as one doesnt go into detail) and what is being done in the assignments. One thing i really liked about hte previous assignments was that when writing the code one could really know very well what is going on. And this is no longer the case in this course...
@@ -204,7 +201,6 @@ Would like to learn a bit on how back-prop works when using attention.
 fairly more complex and deeper as previous courses. Nice ex. however.
 I feel this course is not as carefully designed as previous courses
 Trigger word detection - v1.ipynb bug is annoying. Course is good.
-ほぼ英語、プログラムの課題の問題を解決するのが非常に大変だった。bugも多いのでこなすのは苦労した。ビデオは相変わらず素晴らしい
 Good Course but lectures and assignments could have been better.
 Should be five weeks instead of three. Dive deeper into Details
 One of the weaker courses in the specialization. Felt rushed.
@@ -218,11 +214,9 @@ Doesn't teach much about keras which is sorely needed
 GRUs are poorly explained. Unable to get past Week 1.
 a bit outdated due to lstm being not that s-o-a now
 very basic ..would have wanted much advance level .
-Codes are not explained. Some codes files are given
 Works as a primer. Assignments aren't that great.
 The learning embedding part is kindof confusing
 Great course but has been dumbed down too much
-Esperaba que los ejemplos fueran de otra forma
 Should add some instruction videos of Keras
 does HW created/reviewed by different ones?
 The assignments are not very satisfactory..
@@ -235,7 +229,6 @@ second week was hard to follow
 So many errors need to fix.
 very tough for beginners
 Keras is a ball-ache.
-too hard
 Some coding assignments were too hard to follow what was required.
 Very good course which gives a nice intuition to sequence deep learning modelling. Unfortunately, this is the weakest one among the whole specialization. There are no deep explanation of LSTM as well as GRU and back-propagation algorithm. Seq2seq models explanation is not clear and looks too inconsistent. I had to read a lot of the additional materials and blogs in order to understood a theory behind lectures. Hence, the first week assignments were disagreeably difficult to complete, whereas second and third week assignments were comparatively easy. I think this course should be revised or prolonged for 4 weeks to cover LSTM models more profoundly. Nevertheless, I would like to thank Prof. Andrew Ng for really great job and initiatives in such an important area of study!
 Little bit math heavy. It was sometimes hard to understand the intuition, e.g. RNN, LSTM, GRU
@@ -313,7 +306,6 @@ This is a very interesting course with good explanations, which give a brief but
 Although I really really really love this series and although I always gave 5 stars, I think the quality of this last module is a lot less better than the previous ones. I think convolution was way more difficult but the explanation was awesome. Unfortunately, i think explanations in this module are a little sloppy.
 As usual, Andrew Ng's stellar talent as an educator shines through. Unfortunately, some of the video editing is a little scrappy, and the assignments could use some more polish. Especially in areas where they catch quirks in the grader. Luckily the forum support is excellent. This course is definitely worth doing.
 Overall nice course, learned a lot about NLP and Speech to text. Course is more oriented towards NLP applications, I was also hoping to learn more about time series analysis. Feel like the course could have been longer 4-5 weeks since RNN, LSTM and GRU is pretty long topic and 3 weeks seems to be too short for it.
-Recomiendo ampliamente este curso, te proporciona un claro entendimiento de los modelos secuenciales y recurrentes. Es excelente, aunque a diferencia de otros cursos de esta especialización no explicaron en detalle algunos aspectos de las RNN, me hubiese gustado que profundizaran un poco más en backpropagation.
 The RNN, LSTM< and GRU were very good. But the Week 3seemed a bit abstract. More could have been covered in Audio, Attention.ALso the Jupyter Notebooks was frequently crashing, and it took lot of attempts to re-open the existing one. Lot of time wasted. Also it took long time to to submit and run the program
 This course provided a nice high level overview of RNN models and associated Keras implementations. The tricks and tips given were a useful addition to my ML arsenal. The only thing that I feel discredits this course is that the programming assignments are easy to gloss over and pass without much engagement.
 Great introduction to RNNs and how to implement them in keras.  I suspect it is a relatively new course as there are still typos and a few errors in the assignments (otherwise I would have given 5 stars) but the forums help you to find your way around them and hopefully in future versions they will be fixed.
@@ -325,7 +317,6 @@ This is a very well structured course. I initially started this course almost 10
 Great explanations on the videos, and well designed programming exercises. However, the complexity of the programming tasks is not well dimensioned (1h - 1:30 h may be too little). Worse, some of the exercises are not well explained, with misleading information (e.g. about model tensor dimensions).
 There was not enough theory as the first three courses. Some explanations were superficial and difficult to understand. Maybe drawing the shape of the inputs, outputs, and other matrices in lectures would help to better visualize what's going on inside the networks. Overall, it was a great course.
 It's a great course. The information and knowledge that you get about Sequence Models is fantastic as a primer. Andrew is an amazing teacher throughout the entire specialization altough I found the content of the videos in the Sequence Models slightly more rushed than the previous 4 courses...
-Poderia dar um pouco mais de instruções na hora de usar as funções do Keras. Ficou um pouco confuso. No assignment da semana 3 (Machine translation).  Tem um output que não precisa estar exatamente igual mas o curso não fala isso e acabei gastando bastante tempo nisso, só vi depois no fórum.
 Though the lessons are interesting and mathematically demanding, I felt that it was a good time spent learning these concepts. Overall I feel that the 3 weeks could be split into 4 weeks and learning could have been much smoother by adding some more lessons to address the contents of Week 2.
 Nice content, but the assignments are too easy and only demonstrate the pipeline instead of providing hand-on experience in picking the network and training with GPU. Also, there are some grader problems which has wasted my time to make my code pass the grader even if the answer is correct.
 The homework grading methods need improvement. I got the right model and get the right results, but still have to spend tons of time to make the submission pass the grading system. It is a waste of time for future learning.  You may want to train a DL model to solve this grading problem :).
@@ -454,7 +445,6 @@ Instructive course with useful concepts. However, there were many more mistakes 
 Awesome introduction, but feels like Andrew is a little bit rushing since it is the last course in the series, I dont feel it is as clear as other courses
 The CNN course was better in this series of courses. This course is also good, but more content could be provided. Still the best small course out there.
 Faced issues regarding assignment submissions. Otherwise, the course is perfect. Would upgrade my review to 5 stars if this issue seems to be fixed later
-Es buen, algo extenso, pero suficiente para avanzar.  Algo importante es actualizar los cursos con los nuevos algoritmos, al menos uno, por ejemplo BERT.
 This course is quite challenging, but at least the concepts were well explained. Wished that Andrew and his team could conduct a crash course on Keras :)
 A great intro to RNN, LSTM, GRU, Activation. Programming assignments are rather messy though (unlike those in the other courses of this specialisation).
 Great course, I like the practical application and assignments discussed in this course , wish latest research papers were also discussed in the course,
@@ -599,15 +589,12 @@ The quality was a bit down but still very worthwhile and interesting
 Great practical experience. Would have preferred a bit more theory.
 it covered a lot of interesting topics but it was a bit high level.
 great course to understand intuition of sequence modeling for NLP.
-课程虽然很短，只有三周的课程，但难度明显比之前四门课程要大，编程练习一共有7个，第一周的三个是最难的。但仍然是最优秀的深度学习课程。
 Well explained, I feel like it could go a bit more in depth though
-Muy buen curso, resulta sumamente estimulante el ejemplo de woebot
 The good course as the theoretical basis for RNN and other models
 Attention Models is not that clear. Everything else is excellent.
 Excellent lectures. Some programming exercises need more clarity.
 Very hard, but not your fault, very good course ! Thank you !!!!
 Exercises have less quality than the ones in previous courses.
-El curso esta muy bien peor deben añadir subtitulos en español
 I think this course needs to have a continuation to go deeper.
 Grader was wrong sometimes. Typos everywhere in the notebooks.
 Good course but can add more models to get a deep dive in NLP
@@ -628,10 +615,7 @@ Great course, but too many mistakes in the assignments.
 Good content, it would have been good to do more keras
 Great insights, helpful notebooks, good explanations.
 Again, programming assignment should work flawlessly!
-un poco lentos los ejercicios y repetitivos comandos
 Very good introduction to RNNs and their variations.
-Muy difícil en comparación con los demás anteriores
-这节课主要还是以入门为主，没有讲太多理论知识，序列模型部分讲解跳跃性较大，需要结合更多资料去仔细研究
 Too much details! Too little time. More exercises!
 Excellent content, the auto-grader not so awesome.
 Very good course but can be too rushing sometimes.
@@ -669,8 +653,6 @@ Not good as the previous courses.
 It seemed a bit rushed in the end
 Good place to get back to basics
 not as good as the rest of the 5
-Excelente curso, aprendí mucho.
-课程很棒，内容很多，但是作业编程的提示有些少，耽误了不少时间
 I finally have a superpower!!
 Really helpful and intersting
 Quite a good course overall.
@@ -679,7 +661,6 @@ As always, amazing content !
 Cool course, learned LSTMs.
 amazing introduction to RNN
 more exercise would be nice
-希望讲得更细一些，多给一写intution帮助理解
 Assignments are awesome!
 It's really interesting!
 Andrew Ng. is too good.
@@ -687,17 +668,12 @@ it is really not easy..
 more material is needed
 Good work by Andrew NG.
 It was a great lecture
-希望编程部分可以更加自由, 做填空题没意思
 It was Amazing !!!!
 Concise and helpful
 I liked the course
-soooo difficult...
-感觉没有前几次课程详细了，视频部分
 It was tough :)
 A bit cryptic
 a bit hard!
-productive
-goo
 I am so grateful that Andrew and the team provided such good course, I learn so much from this course, I am so excited that see the wake word detection model actually work in the programming exercise
 To set the context, I have a PhD in Computer Engineering from the University of Texas at Austin. I am a working professional (13+ years), but just getting into the field of ML and AI. Apologies for flashing this preamble for every course that I review on coursera.This course is the 5th and final one in a 5 part series offered by Dr. Andrew Ng on deep learning on coursera. I believe it is useful to take this course in order and it makes sense to study it as a part of the series, though technically that is not necessary.This is one of the best courses to take if you want to understand the basics of Sequence Models (Recurrent Neural Networks). RNN is a technically-difficult-to-understand, still-evolving field of Neural Networks, and it has thus far found remarkable uses in a wide variety of field, ranging from Natural Language Processing (NLP) to Voice-to-Text conversion and Music Synthsis, to name a few. Dr. Ng really exposes us to this cutting edge research, by explaining research papers that were only recently published. By now, I could see how the problems would be tackled.  However, there are several subtle aspects, such as the optimal metrics to use, the clever modification in the NN architecture, etc. which Dr. Ng drew attention to and made clear.The instructor videos are very good, usually 10 min long, and Dr. Ng tries hard to provide intuition using analogies and real-life examples. The quizzes that accompany the lectures are quite challenging and help ensure that the student has understood the material well. As with the other courses, the programming exercises are the best part of the course. You get to practice, (1) Music synthesis, (2) NLP and Sentiment Analysis, (3) Trigger Word Detection (Hello Google, Hey Siri, Alexa!), ... All these problems are actual, real-life projects, which are extremely difficult to solve. They help the student practice the strategies and also provide a jump-start for the student to use the code for their own problems at work or in school.Overall, this is an excellent course. Thank you Dr Ng and the teaching assistants, Thank you coursera.I HAVE A HUGE GRIPE WITH COURSERA's TECHNICAL SUPPORT.  THEY DO NOT HAVE A READILY AVAILABLE TECH-SUPPORT EMAIL ID.  YOU HAVE TO SEARCH THROUGH THE WEBSITE CAREFULLY TO FIND A CHAT LINK. I HAVE RECOMMENDED COURSERA TO SEVERAL FRIENDS AND MANY OF THEM ARE VERY UPSET AT THE SUBSCRIPTION POLICY, WHICH IS SNEAKY.  IN FACT THE WORDING IS ALMOST DESIGNED TO CHEAT YOU.I have been a huge supporter of Coursera and hate to give this negative feedback here.  I would have easily subscribed to many other useful and important coursers that Coursera offers, but will now be doubly careful about doing so.
 I want to thank Andrew Ng and his team for the amazing work. You definitely make the world a better place sharing this knowledge, and it is an inspiration.To the contents: the course covers many uses of sequence models, for many different formats (many-to-one, many-to-many...), the questionnaires are focused but comprehensive and the programming exercises cover a wide range of difficulty levels, from no-brainer-one-liners (most of them) to implementing LSTM backprop by hand (optional). They take away the dirty work from you but make sure you get how you would do it. At the end you get to work with pretty complex setups like the attention model, but you still get the feeling of knowing how it ticks from the very bottom up.The actual merit is that, even if it feels simple, it actually does work and is a takeaway knowledge that can be directly applied for personal setups. And mr Ng's videos are a charm, you can totally feel the care. Glad to see him back after so many years :) Cheers
@@ -738,7 +714,6 @@ The last course is in this series does not disappoint. I found this course to be
 An extremely well thought off and comprehensive introduction to sequence models, with examples taken from the most important/interesting application domains. Andrew NG's clarity of exposition is absolutely wonderful on such an otherwise complex area. The assignments are very cleverly chosen and helped me to finally get to grips with Keras. This being a new course, the assignment notebooks had a few minor issues that are well known by now and documented in forums and erratas, and will likely be fixed in subsequent reruns. Nevertheless, given the breadth and quality of the content, 5 starts are absolutely well deserved.
 This was, in my opinion, the best of the 5 courses. Actually, here's how I'd rank the courses (from best to worse): 5, 1, 2, 3, 4I learned a lot about sequence models and half-way through the course, I was able to jump right in and try some ideas I had in PyTorch.The assignments could use a bit more work: I didn't really feel inspired by them and their "fill in the blank" style prevented me from thinking too hard.All in all, I highly recommend this entire specialization. I was completely clueless about deep learning at the beginning, but now I'm actually trying out some novel ideas!Thanks so much Andrew and the team.
 This course, undoubtedly, has the toughest assignments compared to all the previous courses. The content is rich and informative. Again, pay close attention to the hints given in the programming exercises. If you don't follow, check the Discussion Forums to get a hint. Professor Andrew, your teaching is absolutely sublime - Crisp and concise. Personally, I would have loved an entire week dedicated to Attention Models as the entire concept seemed a bit rushed. Other than that, I have absolutely no qualms! For the people who are enrolling for THIS course only - make sure you're pretty good with Python and Keras.
-Such a great course. It explains everything from scratch and teach you how to code in numpy (scratch) and how to code in keras to build high performance system (instead of tiny datasets).I recommend this corse and the DeepLearning specialization as well. Thank you.Es un curso muy bueno. En el se explica todo desde cero y te enseña como programar los modelos en Numpy (desde cero) o usando keras para crear modelos de alto rendimiento (a pesar de los datasets pequeños por falta de capacidad de computo).Recomiendo este curso a todo el mundo asi como tambien las especializacion completa en DeepLearning. Gracias
 This a the last and the most anticipated course for me. It's hard, informative and most useful. I've got chance to learn some popular and powerful methods within the years, like word embedding and attention mechanism. I start to understand the way deep learning community deal with NLP, i.e., ingenious design of network structure inspired by the pattern human beings perceive the world. It doesn't enjoy solid foundation as statistical learning does, but is works and suitable for engineering. That's astonishing! I hope I can combine deep learning with traditional methods to better understand NLP.
 I just want to say Thanks to Andrew and the team for a great content. I may not be able to create award winning NLP models after this course, but I have learned a bunch about them. Lots of work went into creating great videos and even more in creating the programming projects. I really appreciate the format of the programming assignments. For someone with not much experience in DL, they were pretty close to perfect: I felt I was not left to fend for myself, yet they were not overly simple and forced me to solidify what was thought in the lectures and learn better. Thank You Andrew and team!
 Thanks very much for Andrew Ng and the other teachers, who made a series of these awesome classes including  videos or programming works running on the jupyter-notebook. And also thanks the finical aid provided by the Coursera, I can't finished this course without your generous help. After a hard work with  the Deep Learning classes, not only gained the knowledges, but inspired by the spirt from Andrew that "try to help people with your technology", which actually changed my mind, I will study more, do better to remember that in my life. Thank you and hope the world be a better place.
@@ -978,7 +953,6 @@ Great course teaching state-of-the art NLP technologies. I wish the attention no
 Andrew Ng is a fantastic instructor. His ability  to break down  a complicated concept like neural networks and deep learning so that a non-math, non computer person  like me actually understands the underlying mechanisms is quite extraordinary.
 I think the course and specialization are special. It requires a lot of hours to finish it. It can be a great review of specific topics in the deep learning subject. Thank you for allowing us to reach those specific topics easily. Great content
 The course explains the fundamentals of RNNs, GRUs, and LSTMs in a very easy manner with plenty of illustrations and programming exercises. Although, some of the exercises are optional but doing those actually help reinforce essential concepts.
-Très intéressant. Les papiers scientifiques illustrés dans les travaux pratiques sont récents et cela fait plaisir de comprendre comment marchent ces réseaux de neurones de notre quotidien (traduction google, trigger word, style transfert, ...)
 State-of-the-art and in-depth content, inspiring and engaging lectures throughout the whole specialisation. I will be eternally grateful to all of you who created this (and the other) courses. Thank you, Coursera, thank you so much, Andrew Ng!
 Very useful for understanding what 'sequential' means in DL. I expected as some new solution to the time series scenarios but it turns out a different area from the quantative techniques. It might be helpful applied to more 'sequential' areas.
 Yes, I have just finished the whole specialization. I'm very proud of myself. And I recommend this specialization to anyone who wants to start with this field. Andrew is the best one I've seen who able to explain the thing in deeper way. Thanx
@@ -1275,7 +1249,6 @@ Awesome course, taking the student from basics to the advanced level seamlessly.
 I find this course much better done and prepared than the course on ConvNets. I also learned much here and found it interesting and educational.
 This specialisation was very informative, and I learned a lot of things from these courses. Thanks to Coursera and Deeplearning.ai to teach me.
 This course teaches relatively advanced courses in a very intuitive manner. The assignments were challenging yet fun. Highly recommended course
-simplesmente espetacular. São as palavras que eu encontro para descrever toda a sequência de cursos do Andrew Ng. Mas tem que AMAR matemática !
 Pretty good, for learning recurrent neural network and neural machine translation,  and I learned a lot about Keras in the program assignments.
 Excellent exercises and assignments! And most importantly, Prof. Andrew Ng's teaching style is superb and has made me quite an admirer of him.
 Clear but concise , Which is really helpful for busy professionals. the course tests are really useful in conveying the message of the course.
@@ -1324,9 +1297,7 @@ The content is good. But in the programming assignment, why not stick to Tensorf
 Very well put together course with easy way to learn and use frameworks and getting under the hood of the latest technologies. Thank you
 Very  very demanding. ButTop level team: Andrew inspiring approach and top tutors help fix complex concepts into mind through practice.
 The course is well structured. The graphs used to explain the principle of different algorithms (such as LSTM GRU Glove) are intuitive.
-感谢吴恩达老师带来的课程,这门课不仅仅使我对深度学习更加感兴趣.还让我想到了很多能够用其完成的一些事情. 课程虽然结束了, 但是有关于深度学习的学习才刚刚开始, 最后再次感谢吴恩达老师, 以及提供这个平台的coursera课程,让我在中国可以听到来自全世界的课程,谢谢!
 Great course on sequence models covering a lot of applications in translation, speech recognition, music synthesis. Highly recommended.
-Auch der Letzte Kurs war sehr gut! Diese Spezialisierung hat sich sehr gelohnt. Der Stoff wurde gut erklärt und war sehr gut anwendbar.
 Thanks Dr. Andrew NG and team for putting together a fabulous series of courses. I am grateful for motivating me to use DL in practice!
 Quiet deep course for understanding the RNN's and their implementations. Sad I haven't found time to pass this course few months ago=)
 Awesome course, Andrew Ng is a master at explaining everything in a very clear and concise way. Makes hard concepts easy! Thank you :)
@@ -1387,7 +1358,6 @@ Great course with lots of details and hands on programming assignments covering 
 Excellent course. Lectures are very informative. Programming assignments helped a lot to understand core concepts. Thank you!
 It was an exceptionally good course and the theory part of the course was really the best. I enjoyed completing it. Thank You
 I didn't enjoy this one as the previous courses, maybe because I'm not interested in its topic, or I wanted just to finish it
-El curso tiene un valor incalculable para mi formación profesional. El aprendizaje y el conocimiento adquirido es invaluable!
 Best ever course I have learnt in Coursera. Thank you so much Andrew NG sir for explaining complex concepts in an easier way.
 This is an amazing course for the ones who want to explore and dive deep in the world of RNNS and NLP. totally recommend it.
 I am working with all my heart and soul from last few months it literally made me cry a little seeing my first certificate!!
@@ -1479,7 +1449,6 @@ Excelent! Week3 PA have some errors that should be fixed. Threre is no GPU keras
 Shortest way to get used to most of the up-to-date techniques used in deep neural network for sequential data!
 This course very impressive, I have experienced a lot in deep learning, I re-cap theorem or something i miss.
 This is very helpful for a beginner in deep learning. Thank you Ng for offering such wonderful courses online
-Todos los ejercicios fueron de mucha utilidad y explicaron conceptos muy complejos de manera muy entendible.
 Excellent Course, Teaches RNN and LSTM from absolute scratch and its applications to process sequence models
 Insightful and very practical implementations. Thank you legendary Andrew Ng and Coursera for the privilege.
 the most difficult course of this series, it takes me really a long time to finish it, but i think it worth!
@@ -1603,7 +1572,6 @@ Great Course. Gives a great exposure to Natural Language Processing and the math
 According to me , Andrew sir has missed some of the NLP topics? I think but not sure of it.
 Amazing course on Sequence Models. Extremely useful with the real world applications of AI.
 A great course for everyone who wants to use deep learning for natural language processing.
-该门课程对序列模型的讲解由浅入深，一步步带领我们从最基础的RNN走到最后的LSTM及更复杂的模型，作业十分有趣，尤其是课程最后一次作业能让我们真切感受到深度学习的力量及其给我们的作业
 Great Course by Andrew. I have recommended the course to many of my friends and colleagues.
 We certainly need a better Keras tutorial using Functional API . In particular around RNN's
 One of the best specialisations from one of the best and most passionate instructors ever.
@@ -1711,7 +1679,6 @@ Good course. I liked it , Some more programming exercise will make it awesome
 Great Thanks. Excellent Course giving full of self confidence in Data Science
 Again an excellent course of this specialization. Very well done assignements
 Thanks for preparing such a beautiful course. My basics have really improved!
-Genial curso, he descubierto un nuevo mundo de aplicaciones de deep learning.
 Great course! Very step by step and very practical. The legend does it again.
 Extremely helpful instructional material. The course instructor is inspiring!
 You will learn a lot about the modeling sequential data in a neural network.
@@ -1734,7 +1701,6 @@ was the most hardest one, but trigger word assignment was very interesting.
 Excellent course. So much cool code and very practical and useful tools. :)
 Great course to get an in-depth understanding on RNNs and Sequence Models.
 Very helpful course providing a thorough understanding of sequence models.
-Отличный курс. Много интересного. Хорошие слова о лучшем будущем. Дай бог.
 Mr.Andrew NG thank you from heart ,excellent course and perfect assignment
 It was one of the best courses I have done.I wish I could do more practise
 Great introduction to sequence models, with very interesting case studies.
@@ -1766,7 +1732,6 @@ Really interesting and with enough theory plus hands on practical work!
 this was the best course to understand sequence modeling and processing
 Learnt about NLP, applications, trigger word detection was pretty cool!
 Thank you so much to the coursera deeplearning.ai team. You guys rock!!
-Curso muito bom! Ajuda bastante a ter uma base em modelos de sequência.
 A comprehensive review of recurrent neural network and sequence models.
 Great course!  THanks for putting this together for the world to learn!
 Very helpful and practical. Thank you Andrew NG and other teachers/TAs!
@@ -1848,7 +1813,6 @@ Great course--well taught, practical and interesting material.
 Andrew is awesome!  As always.  Love what I learned.  Thanks!
 Excellent course with interesting applications and exercises!
 All I had to say THANK YOU, Prof Andrew NG, for your efforts.
-Great course, complex concepts explained quite succinctly....
 A great foundation to pursue work in the Deep learning field.
 perfect, I have enjoyed it so much. Thanks also for practice.
 A must needed  course to learn the concepts of Deep Learning.
@@ -1901,7 +1865,6 @@ I feel the course is fundamental but also very pragmatic.
 High quality as the previous other courses in the series!
 Excellent as always from the superman himself, Andrew Ng.
 I have learned a lot from this course. Thanks, Andrew Ng!
-Good course on sequence models. Nice programming examples
 Thanks for your detailed Course content. Thank You Andrew
 Best course you can find about recurrent neural networks.
 Awesome course! A bit harder than others but pretty good!
@@ -1947,11 +1910,8 @@ The best course I've seen on deep learning based NLP.
 Prof. Andrew Ng explains everything veri effectively!
 Some handy applications covered. I really enjoyed it.
 Great fun and insights as in all Andrew Ng's courses.
-Perfecto complemento al resto del cursos de la serie.
 One of the best courses in RNNs and i have seen many.
 Really useful for learning NLP and Audio processing!!
-ttt__h_aaa_n___k y__oooo_uu __AAAA_nn_ddd_rrr_e___www
-后面的编程习题有点难，估计是对keras不太熟悉的缘故，有点太抽象了，但是理解老师，因为这样，编程才好处理
 Great way to wrap up! Excellent applications as well.
 some Keras  pre course training will be very helpful.
 The best course by deeplearning.ai so far! Loved it.
@@ -1971,11 +1931,9 @@ Excellent!Gave me good understanding of LSTM / GRU.
 The most difficult, and the best one of the series.
 I really thank you for providing the amazing course
 Useful, since I am developing my own sequence model
-因为Coursera提交的问题，本该一周前就通过的认证硬是拖了一周，回家用windows电脑搞定的，真
 Loved it , looking forward to more implementation.
 Nice explications with good examples ! I recommend
 Thank you very much for such specialization course
-Excellent course, materials and problem exercises.
 I really enjoyed the course. Highly recommendable.
 this course has been amazing as the previous ones.
 One of the best online teaching and learning site.
@@ -1989,14 +1947,12 @@ Excellent course with real examples of applied ML.
 Its a really good introduction to Sequence Models.
 Great course! Amazing content, even for beginners.
 Very interesting and great assignment to practise
-No será perfecto, pero si ligeramente completo :)
 Big shoutout to Professor Ng, until next time! :)
 Wonderful course!! Would highly recommend it!!!!!
 Thank you Andrew! You are really a good teacher!!
 Great course with modern approach. Appreciate it!
 This is a great learning program, as i expected !
 very impressive course. Thanks to deeplearning.ai
-终于完成了学业！非常感谢！非常优秀的课程！言简意赅！（希望能有更好的中文翻译，有一些字幕也有问题）
 Good sample models to learn from at the homeworks
 Very interesting course! Learned a lot!  Thanks!
 This course is awesome, from beginner to master!
@@ -2018,7 +1974,6 @@ Exciting and practical. I just want to say WOW!
 Amazing course with a lot of practical examples
 Great course! Latest techniques well presented.
 Great course by Andrew Ng! The man is a legend.
-Andrew老师讲的很好，环环相扣，每个问题的原理讲的也很清楚，让我学到了很多知识，谢谢老师！
 with more details instructed about GRU and LSTM
 Will be looking toward advanced specialisation!
 Very interesting content and clear explanations
@@ -2044,7 +1999,6 @@ Great introductory course to Machine Learning
 is challenging yet wonderfully understandable
 Clear explanations and very helpful examples.
 Great course on Sequence Models by Andrew Ng.
-很棒的課程，我也會推薦我的朋友來學習，時間序列模型真的相當有難度推薦有學習過的朋友來試試看
 Lots of materials and excellent case studies!
 Great course, very good, practical exercises.
 rigorous assignment of all 5 "totally useful"
@@ -2068,9 +2022,6 @@ Awesome ending for an awesome specialization
 I learned a lot from this course. Thank you.
 Excelente! But the lessons are kinda broken.
 Very useful for building sequencing models.
-excellent introduction. advanced course plz
-excellent course for sequence data modeling
-虽然后面的课程准备没有machine learning 那么充沛，但是依然是很好的课程
 Very detailed hands-on assignment. Hard tho
 Wonderful course! WONDERFUL Specialization!
 somewhat difficult but interesting lecutre.
@@ -2111,7 +2062,6 @@ Excellent Course to get started with NLP
 Explained very well by professor andrew.
 Exactly what I wanted out of this course
 Excellent method to teach creating RNNs
-Me encantó todo el contenido del curso.
 Excellent course. Highly recommended !!
 very hard stuff but great explanations.
 Sequence models was taught very nicely!
@@ -2122,7 +2072,6 @@ Great overview of models for text data.
 awesome coverage. Very good assignments
 This course is really nice to learn NLP
 Excellent course with great assignments
-Excellent course and excellent teacher.
 Great content and very clear as always!
 Excellent course. It was worth the wait
 Amazing course by an amazing professor
@@ -2144,7 +2093,6 @@ great explanation and hand-on session
 It was awesome! Thank you, Andrew Ng.
 The course was very nice and perfect.
 Excellent Module. Very well explained
-Genial como el resto de todo el curso
 Great excercise, I very like emoji :D
 Great Lecture and wonderful Learnings
 Excellent course. Highly recommended!
@@ -2156,12 +2104,10 @@ A very practical approach to teaching
 Excellent!Thank you professor Andrew!
 One of the best teacher in the world.
 Great materials! Learn a lot. Thanks!
-Nice course, excellent course design.
 Very fun. I'm proud of my achivement!
 Great courses, great specialization!
 Great course enjoyed it very much :)
 Very interesting and well explained!
-excelent, really funny. just perfect
 Very usefull and structured tutorial
 Another awesome course by Andrew Ng.
 Thank you very much for your efforts
@@ -2169,7 +2115,6 @@ Assignments of this course are best.
 Fantastic course and specialization!
 insightful and thoroughly explained.
 great overview about sequence models
-Awesome material for Sequence models
 Excellent course and specialization.
 thanks a lot! for all you have done!
 The best deep learning course ever!
@@ -2177,7 +2122,6 @@ Great course to learn Deep learning
 Very interesting course.. Thank you
 Mr. Andrew is the best of the best.
 Best of the best, good job Prof Ng!
-Bravo course. GOOD LUCK TO EVERYONE
 Excellent course, very informative.
 Very useful. Best class in NLP area
 Thank you very much Andrew and TAs.
@@ -2236,7 +2180,6 @@ Other Language Translate Please.
 good course and good assignment!
 a little bit hard for assignment
 Great course and specialization!
-AWWWWWWWWWWWWWWWWWWWESommmeeeee
 Best introductory course to RNN
 An awesome intro to RNN and NLP
 Andrew Ng is an awesome mentor.
@@ -2247,8 +2190,6 @@ Amazing lectures..Learned a lot
 Great course! High recommended!
 The course was really useful :)
 Thanks for taking me to the NLP
-Best course on sequence models.
-Excellent course! Learned a lot
 thanks so much for great course
 Nicely structured and explained
 Like the programming exercises!
@@ -2257,7 +2198,6 @@ very good and industry oriented
 Very insightful and practical.
 Thank you Andrew and the team!
 Thank you sir for this course.
-an excellent course, I love it
 Nice Course! Amazing Lecturer.
 Great course, I learned a lot!
 This part is some of difficult
@@ -2265,7 +2205,6 @@ strongly recommend this course
 complex but very well designed
 I learn a lot from this course
 super awesome course, loved it
-吴恩达老师讲课深入浅出，很受益，谢谢老师，我一定要继续努力！
 As usual - Andrew NG is great!
 Wonderful course by andrew sir
 andrew ng course is excellent
@@ -2296,10 +2235,8 @@ Andrew is cool!!Nice course!
 Very good and useful course.
 Head first of deep learning!
 outstandingly interesting!!!
-Amazing Content. Super like.
 This is very helpful course
 The best course out there!!
-best courser ever I've seen
 Thank you very much Andrew!
 Great course ! Learnt a lot
 The rigor is worth it 100%!
@@ -2307,10 +2244,8 @@ Excellent Course. Thank you
 Great course! really useful
 bring more awesome courses.
 Great class, learned a lot.
-nice like previous courses.
 very good lectures and lab
 Thanks. I've learned a lot
-Complex topics made simple
 As usual one of the best..
 I learned a lot. Thank You
 Great introduction to NLP.
@@ -2324,9 +2259,7 @@ Awesome. Thank you Andrew
 Another fantastic course!
 Keep the good job, folks!
 Great Course. Loved it :)
-Excellent course overall!
 My favorite of the series
-超级棒，简单易懂。哈哈哈~刷完了好开心，感谢恩达！
 Nothing short of awesome!
 Thank you for this class!
 I hope speak more slowly.
@@ -2343,7 +2276,6 @@ Best teaching as always
 Thanks for the courses!
 Thanks much, andrew NG.
 Very beautifully taught
-Andrew gets even better
 I enjoyed the learning.
 Amazing couse thank you
 Awesome course overall.
@@ -2351,30 +2283,20 @@ No words only grateful
 The best course on NLP
 This is a great series
 Hard but good lectures
-Cómo siempre muy bueno
 very intuitive course!
 Great content and fun!
-Incrivel, como sempre!
 Very very informative.
-excellentInsIghttoLSTM
-Excellent Course......
-非常好的课程, 学习曲线很适合我这样的程序员
 This one is the best !
-awesome course content
 It was good, but short
 very vast and helpful
 Really good course :)
 good course.Thank you
-briefintroforbeginner
 Just great as always.
 So good! Learn a lot!
-通俗易懂，涉及方方面面，值得学习～～～：）
-Content is excellent.
 Best I could ever get
 Andrew Ng at it best.
 Great course for RNN.
 must for a AI learner
-hard but excellent :)
 Very nice RNN course.
 Really amazing course
 Eventually done!!!!!
@@ -2382,9 +2304,6 @@ really nice showing.
 Thank you Andrew NG!
 Great lecture on RNN
 Excellent as before.
-课程非常好，我一定要把它推荐给我的朋友。
-Freaking awesome....
-Awesome... !! Superb
 Awesome explaination
 Great Insights...!!!
 Thanks, Good course!
@@ -2394,106 +2313,52 @@ Very good materials
 Nice Work Andrew NG
 this is very good !
 Best Course for DNN
-fantastic material.
 maybe too practical
 I am Disciple of Ng
 Great and excellent
-You are fantastic!!
 Very usefull Course
 Simply fantastic :D
-As good as it gets!
 caption is not well
 Thanks Ng for ALL !
 Thanks NG and team
-Excellent classes!
-Long journey ended
 Exceptionally Good
-difficult :""""""D
 Awesome as always!
 Excellent, thanks!
 Best in the series
-Thank you, Mr. Ng!
 I love you, Andrew
-Perfect enjoyment!
-Extremely valuable
 So great course!!!
 awesome course!!!!
 nice of all corse
-best courses ever
 Simply Awesome !!
-序列化模型非常重要，对我很有帮助！
 Thx Andrew et al.
 Andrew is my idol
 nice assignments!
-内容全面，讲解深入浅出，清晰易懂。
-excellent course！
 Like the HW a lot
 Thanks Andrew Ng!
 This's the best!
 As always great!
-un vrai parcours
-Thank you sir <3
 best explanation
 Great assigments
-Fabulous course!
 Very great class
 Recommended 100%
-Fue interesante
-amazing journey
 Very practical！
 Really good!!!!
 Smart learning.
 Great lecturer.
-superb course!
-MY best course
 awesome class.
-Nice course :)
 Really cool :)
 really useful!
 worth the wait
 Thanks Andrew!
-REALLY NICEEEE
 Nicely taught
-I love Andrew
 worth reading
-感谢吴恩达老师的精彩授课！
 Very  helpful
-Nice courses!
-日本語訳がふえるといいなー
 Good courses!
-五星好评，一次奇妙的旅行。
-Amazing... :)
-一如既往的好啊，强力推荐！
-Best Lecture
 THANK YOU <3
 hard to beat
-very good！！！
-吴老师讲的真好，深入浅出
-Masterpiece!
-Helps a lot
-A Must do!!
-Remarkable!
 very thanks
 The best!!!
-excellent!
-终于完成了所有课程。
-Awesome :D
-great !!!
-Best!!!!!
+Thanks Ng
 greathlp!
 sick mate
-内容很好，期待证书
-非常值得学习的课程
-Best Ever
 Thebest.
-Thank u!
-无法打开编程作业
-收获很大，感谢
-非常老师的讲解
-Nice =)
-NG NB!
-ggoood
-done.
-GOODS
-Tops
-赞

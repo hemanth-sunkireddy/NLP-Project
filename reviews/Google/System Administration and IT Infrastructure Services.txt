@@ -22,7 +22,6 @@ a lot of problems with the Qwiklabs...
 successful system administration
 no help on final labs
 not great
-garbage
 week 5 got overly complicated and disorganized. the instructor was not fluid and was difficult to understand at times. there should have been more time spend on the basics in the active directory portion vs cramming in a bunch in 4 8-13 minute long videos.
 Way too many rabbit holes of information. I could take the topics and run with it but then what would be the point of a course? Videos just go over things, shallow in some areas, a little too deep in other areas. Content became a strain.
 Some of the information is good, but the labs in the courses are broken for the most part. Support is very slow and hard to understand - English is a second language for many of the staff. The whole certification should be put on hold until the labs and other problems are fixed.
@@ -118,7 +117,6 @@ i was hoping for labs
 Really tough course!
 Too fast.
 Tough !!
-fair
 So why not just tell people, go take a course on Active Directory ? The rest of of it is just useless, just clicked through an passed. I use to teach flying to students and I know these Google guys are smart but this is just an overview of what you need to go learn on your own. So I paid someone to tell me go actually study this.
 The course is fantastic, I've learnt a lot about things that I am really interested in but I just wish it would be more specific instead of just throwing commands around and not explaining them. More Qwiklabs would be great, that's where I learnt the most.
 Course quiz has errors which must be resolved. It took me several days to get done with week 2 quiz "Networking Services". I even complete my whole course and wasn't able to pass that. Today I passed it with 100% and I have no idea how...
@@ -310,7 +308,6 @@ Very interesting overview, it has encouraged me to learn more.
 I wish there could be more lab practice in Directory Service!
 The course is good, few concepts are not able to understand.
 The graded assignment can be lab work rather than just quiz.
-Instructor just read like a digital voice . doesn't explain
 Excelent! so much important information to be a good Admin!
 a lot of the captioning doesn't match what is being spoken.
 I hope that I will be able to go back polish my knowledge.
@@ -368,10 +365,8 @@ Great Conceptual knowledge
 So glad the labs are back!
 Great intro to Sysadmin!
 more labs would be nice
-Dense but informative!
 This was a hard course
 I enjoyed the class.
-Faltaba más enfoque.
 Its very productive
 very good course..
 Very informative!
@@ -380,22 +375,16 @@ Bit theoretical
 For informative
 Great program
 It was Good
-Superb !!!!
-nice cert
-tanks
 This is a great course! Very informative and right tools are explained for a SysAdmin job. This might give you a kick start for a comprehensive study drive required for a dedicated job capacity.
 I just cannot thank  Google and Coursera enough for this opportunity. This particular module of the entire Google IT Programme really kindled my curiosity to learn more using this path. Thank you.
 Good course which gives as much details about administration and infrastructure services . A Big thank you for Google , Coursera and The instructor for giving a valuable knowledge to me. Thank you
 THIS was the course I was waiting for! I feel like this gets into the true heart of what it means to be an IT specialist. I loved learning about Virtualization, Backups, Active Directories, etc.
 Lots of great information! The last assignment was pretty challenging. Make sure to include what specific action, service, or product you would recommend and why it would help solve the problem.
 After completed the course, I can learn so many things that are very beneficial for the IT support through demonstrating several effective lab assignments and quizzes along the whole course (Just confirm of your demonstration through all Labs and assignments). Now I am very much confident that I can be the effective IT support for the company!Thank you very much to the Google team and the Coursera!
-Topzeira
 So far, this has been my favorite of the Google IT Support Professional courses. The instructor is fun and engaging and has a gentle, knowledgeable presence on screen. The information is really useful and can be applied immediately anywhere there's a computer network to manage. I've taken tools from this course and applied them to my Help Desk role with great success. The labs in this course are also really fascinating -- you get to configure a web server, which hosts a website that you can then view online on any device for one of them, and you get to schedule a backup which you can manage on any device for another. I'm infinitely grateful that this course exists and found it so engaging that I'm seriously considering looking into SysAdmin as a next step after I move on from Help Desk work. Thank you, Google!
 Whoa!  That was intense!  I was challenged on this course to not only think like an IT Sys Admin but to also be the one making decisions on how the IT Infrastructure of an organization of 100 people will be implemented and improved!  Thanks so much for taking me out of my comfort zone and pushing me to think about the larger picture.  I feel confident that whether I am running my own small organization or if I am in charge of one I share a common goal with that I will be prepared.  Thanks to Devan for once again sharing with us his expertise in the subject and making it all make sense.  Looking forward to the next one where I feel I will be challenged even more but with IT Automation maybe I can make it a little less scary.
 I gave the course 5 stars because I learned a lot from this course, but the only things I would recommend is that the system is designed to give partial credits on the Graded Assessment Test because I  got several of the answers correctly but did not select one answer and it makes the entire question wrong. My score could have been significantly higher had the system gave credit for getting the part of the answer correctly that you selected.
 This course was really cool to tie everything together some. I especially really like the final project. Really well written case studies that have different problems for each of the three companies instead of a lot of redundancy and overlap. After thinking of like 15 different ways that multiple businesses can improve, you start to realize your personal value and ability to contribute in many ways that have a real impact in a sysadmin role.
-Excelente, intuitivo, técnico y con unos soportes muy sólidos. Una excelente apertura el mundo de la administración de sistemas, su mantenimiento y su nivel operativo y empresarial. 
-Encantado de aprender con Google.
 The best course so far. I feel like this course actually showed us things we would be doing day to day in the workplace. It's nice to problem solve since that will probably be a big chunk of the job.
 This chapter is very interesting since describes a lot of the things that we have at the office running on the background but we never understood well. The material is well put together, congrats.
 Very nice and to the point course. It covered so many important areas that help in support and keeping the system running.
@@ -471,7 +460,6 @@ Wow!  This course was really both challenging and informative... it covered so m
 I did not think that I was able to get through the Active Directory tests and was pleasantly surprised that I managed to get 80% and 100% respectively. Quite difficult to understand but somehow do-able. This course allows me to see the importance of having a competent system administrator within an organisation for it to function optimally.
 This course gives a step by step guide in using a directory service such as Active directory  for centralized management, It also went though the implementation of using group policies to control access for both users and computers. Finally using a backup solution to effectively back up critical servers and files for business continuity.
 When I started this course I just had a basic knowledge about System Administration, but after completing this course I feel like I know about System Administration now, obviously, there's a lot to learn about, its a very vast field, but this course helped me build my foundations on System Administration.Thanks, Coursera and Google!:)
-Curso muy interesante para saber el alcance de un administrador de sistemas y todas sus funciones, desde elegir el tipo de almacenamiento de ficheros, configurar el servidor de correo electrónico, mantener el directorio activo o ser capaz de generar las copias de seguridad y los métodos de recuperación de datos en caso de desastre.
 The instructor was so nice to learn. its our good opportunity to
 learn this course & heartiest thanks to the instructor for providing your
 valuable times. thank youTo learn about basic things of the course. This course helped me
@@ -497,7 +485,6 @@ Good morning to the respective admins and to my fellow learners. I learned how t
 Genuinely a very helpful and insightful course. There's a lot of great opportunities to be had as a SysAdmin and this course helps you get your foot in the door and orients you on the right path. I highly recommend it to anyone just starting out or even those looking for a refresher.
 I love the google made this course this course is awesome I have done a system Administration training from Red Hat so I thought I will not get much information here but I have learned so many new things like Active Directory, IT Infrastructure Services and Networking related topics
 Ayurveda wisdom meets western encapsulated web cluster... those labs added to Course-4 are a true masterpiece and should be somehow laminated in 3DHats off to Google's fun+mental team for "deep diving" into rock solid 6 weeks of System Administration and IT Infrastructure Services
-me encanto el curso ya que refresque en varios temas que tenia problemas y pude entender las situaciones que se presentan en diferentes campos dentro de la administracion de equipos de igula maneras siempre se presentaran otras dificultades pero para eso estamos para resolverlos
 A lot of hands-on with assignments with Services, and those are definetely good skills to have. Really cool stuff. I'd love if there would be more pracice with cloud resources. Thanks for the great experienceP.S.:  The questions in the graded quizes are sometimes very unclear
 Overall, very good. There are many take aways for me personally.  Especially on active directory.  My only suggestion is the AD section.  Some of it can be long.  I think if it was broken down into smaller sections.  But then again, a cup of coffee might have changed things.
 This course covers a lot in terms of system Admin, I wish there were labs to test out Directory Services implementation. Overall a worthwhile course for aspiring and practicing IT admin, you will pick up plenty of tools to help you manage your day to day IT infrastructure.
@@ -508,7 +495,6 @@ The topics, services and protocols are the knowledge bases and the tools that yo
 The course in general really liked a lot. I am grateful for the opportunity to receive this course represented by a company in the Google category.
 This course is very detailed and well constructed to understand the deep and tricky parts of being a system administrator. After completing this course I can say I understand the large and small company requirements and understand better how IT Infrastructure works.
 I enjoyed this class.  At times it is a lot of technical information but it was one of the classes I was most excited about.  This class definitely builds on all the previous clases, so if you are new to IT I would suggest starting from the beginning of the Program.
-Muy buen curso con excelente material didáctico, adicionalmente considero que el esquema de evaluación permite que uno realmente estudie cada tema a conciencia, sin embargo pienso que deberían haber a lo largo del curso más evaluaciones del tipo del proyecto final.
 Excellent course and lot of new and important things to learn about the important role system administrator play in an organisation. Thanks to the tutor as he is really excellent at explaining things and teaching quality or contents are just absolutely marvellous.
 It is a deep course of course, however I´ve learned a lot! I intend to study more because I think IT administration is a very intereting subject! I want to learn  more in a practical way! Well, I think I could work as a trainee at any company! Thanks all team!
 This is a very highly drilling course; I highly recommend this course for anyone who wants to take a career in IT Support and System administration.The Qwiklab demonstrations are like real life situations....Cool Course.Much thanks to Google and Coursera!!!
@@ -533,7 +519,6 @@ Learned how to establish and how to properly implement A proper IT Infrastructur
 amazing information.  I am happy with the course but still think that the ability to have a more hands on course meaning in person would be a much more deeper training.  Thanks for this its amazing learning from this course.
 Very insightful course - I feel like I learned a ton, and now have a better understanding of the behind-the-scenes action that takes place in the workplace from an IT perspective. Seems like sysadmins have a really cool job!
 Wow I learned a lot about systems administration and IT infrastructure. It is challenging sometimes and some topics require additional studying but I do feel more confident about advancing a career in information technology.
-Realmente muy buen curso. Hasta ahora es el que mas me gustó de toda la certificacion. Me parecio excelente todos los ejemplos de la vida cotidiana. Creo que eso es lo que mas suma en un curso de este estilo. Muchas gracias
 The course coverd a big part of the IT support and knowledge in real life.It helped me a lot to understand more and more how the IT infrastructure of a company works and how you can improve it! It was an amazing experience!
 Really great course. Instructor covered diverse topic that will help in the job. I really loved this program. I hope enthusiast future SysAdmin of the future would enroll this course and learn valuable knowledge. Thank you.
 The course is practical, to the point, engaging especially the labs and excerises are very practical and challenging. i love the course. however a few more qwiklab practice challenges should have been added to the course.
@@ -566,7 +551,6 @@ This course is an excellent refresher on Sys admin tasks on both Windows and Lin
 Really good course but I wish you could teach on how to troubleshoot a DNS or DHCP server in Window environment also I would like to have learned how to install and configure a LDAP server.
 This course helps you to understand how systems are monitored in an organization. This course takes it from the root level. Once after you complete, you would have learnt a lot of things.
 This is a very Detailed, and Pragmatic Course on SYSADMIN Roles. I learnt a lot. The Tutor delivered the course and tutorials well. Thanks, Google and Coursera for a wonderful Curriculum.
-Es un gran curso que ayuda a conocer como administrar los servicios de un servidor y como configurarlo para una mayor productividad en una pequeña empresa, que en un futuro pueda crecer.
 The last page says course 4 of 6 but the actual certificate only has 5 courses, not 6. "You've successfully completed Course 4 of 6: System Administration and IT Infrastructure Services"
 I really enjoy the AD sections, I wish there was more hands on with exercises in this course.  More focus on VM environment would have been great to see, but overall an excellent course!
 This is not just about AD. You will learn about different processes, cloud terms. disaster plans, backup process, post-mortem etc. Also you can take practice labs. I liked it very much.
@@ -595,7 +579,6 @@ It was definitely a great course and a great opportunity to fill any missing gap
 There was a lot of information in this section and it was challenging but I learned a lot and I feel more comfortable knowing exactly what a sysadmin does on a daily basis.
 Thank you for proving me platform learning too much knowledge of  System administration and IT infrastructure services, , and now i can add my technical skills & bio data .
 A wonderful course and you learn so much about the role of a System Administrator.  Each instructor keeps your attention and explains the content in a professional manner.
-Excelente un paso más en mi aventura de aprendizaje en el mundo de las Tecnologías de la Información ---Excelent another step further in learning adventure in the IT World
 Working with Virtual Machines was a lot of fun and where I learned the most. I just wish Qwiklabs were better at recognizing when tasks have been successfully completed.
 It's a great course covering all parts of IT infrastructure and the Instructor was knowledgeable and knows how to explain things in an understandable way.Thank YouGirma,
 This is a veery good course on system administation. I recommend this course to all fellow learners. Special thanks to instructor for making everything simple to learn.
@@ -682,7 +665,6 @@ This course is very comprehensive.  At times it had so much information I was am
 A amazing course which enabled me to learn more about role of sys admins and infrastructure services. I just wanna say love u google
 The course a nice piece interesting thing that the google team and coursera has put in place. Thanks for this wonderful opportunity.
 I finally figured out getting Active Directory to work through this course and I am super happy about that. This course was awesome.
-perfecto , muuy buenos profesores , los laboratorios geniales , que puedop decir , queda fascinado . Gracias GOOGLE gracias #inefop
 This was an excellent course. The Labs are extremely high quality and you should do all of them even though many are just optional.
 This is an informative and thought-provoking course that is well laid out. If you are ready to take it, get ready to be challenged.
 You will not appreciate the value of this course until the final assignment. Then you realize what the course was trying to achieve
@@ -741,7 +723,6 @@ great studying with coursera. I am really gaining lot of knowledge here . this c
 The project at the end is super nerve-racking but, I did it and aced it and it feels good man! Loved this course.
 Wonderful course to get a good foundation and figure out what is the best route for you to take in the IT field!
 Really a great course with much interesting tasks. I loved it! Thank You for helping me to get this start ahead.
-Excelente curso, no dudes en tomarlo. Aclara muchos puntos con los convivimos día a día los que trabajamos en TI
 This course is very informative, I thinks I've found what area of IT I want to continue my career in Technology.
 I am very satisfied with this course. Thank you for putting so much time and effort into this learning program.
 Not sure why it says completed 4 of 6 -- thought it was 4 of 5. Oh well, I'm happy with the progress I've made.
@@ -799,11 +780,9 @@ This course is the longest among all the courses, and it's interesting and fully
 The course is very interesting ,it summarize the role of  system administrator in a very simple way .
 Really enjoyed this course, probably the most so far. Very useful and informative. Great teacher too!
 It was a great experience! Very challenging the final project! I learn so many things in this course!
-Excelente curso, bem explicativo para mim serviu para lembrar de muita coisa esquecida na faculdade.
 Learned so much about cloud and having a recovery plan for all the files that I have in my computer.
 One of the most exciting courses for me. Super important. I will come back for a refresher though :)
 The course was great and I learned a lot about system administration and IT infrastructure services.
-Alguns trechos um pouco cansativos, mas o conteúdo compensa. Gostei do curso e achei bastante útil.
 Very through with information and providing excellent external tools to test your skills as you go!
 This course has a very good content and i will recommend it for new IT support Specialist to study.
 Nice overview of SysAdmin role.  Much more research will be needed to implement in the real world.
@@ -818,8 +797,6 @@ It was the most challenging course in terms of the graded assignments but also t
 Great course to understand the concepts involved in being a Sys admin and IT support specialist.
 Awesome stuff, very interesting (and a bit frightening) to learn the scope of a sys admin's job.
 Great Course for System Administrators. I have learnt a lot  on how to carry out my job better.
-Мені було дуже цікаво навчатися. Я дізналася на курсі дуже багато цікавого про адміністрування.
-Muchos conocimientos nuevos pero todo muy bien explicado muy bien me siento completamente feliz
 I think some things should be broken down to shorter videos and more hands-on otherwise great.
 Really the best course in this specialization. There's a lot to learn from this single course.
 This was a hard course, but very well taught and will prove to be a good basis for an IT role.
@@ -830,7 +807,6 @@ This was a nice course, where there I learn many things regarding IT Infrastruct
 Very important course and full of knowledge. I would recommend every one to take this course.
 This course was VERY detailed, and I left actually feeling like an I.T. Helpdesk professional
 This course was a real eye opener to the possibilities of learning for a future role with IT.
-Muy bueno el curso. Falta profundizar más, pero para ser para principiante, es recomendable.
 Look, av been in the system for several years 10+ and the course is just as juicy and needy!
 Loved the last assignment! Great practical use of all the information I have learned so far.
 I did it! Difficult at times yes, but with perseverance I accomplished my goal of learning.
@@ -856,7 +832,6 @@ Tough, but learnt about AD and post mortem reports and what a sys admin does in 
 It is great, and teach you a lot about sys admins tasks. You will fall in love with IT.
 Excellent course, believe it touches a lot on real-world IT support and sysadmin tasks.
 This course is great. Wonder how such great content was passed withing the limited time
-Excelente curso, me gustaría saber saber cual me recomiendan para tomar ahora, gracias!
 Really enjoyed this course! Learnt a lot about systems administration and IT generally.
 It was an interesting course, a difficult last assignment, but the effort was worth it.
 Amazing course. I wish it had more hands on labs with Active Directory and Server 2016.
@@ -893,7 +868,6 @@ I really like the IT Systems Administration and Services Infrastructure course
 It is a challenge on last assignment.  Overall , this course is the very good.
 Really rounded out my knowledge of what is required of a systems administrator
 though a little tedious, but it worth it, thanks to the wonderful instructors
-Excelente curso, te pone a prueba en tus conocimientos y promueve tu análisis
 This section thus far of the entire course is where the rubber meets the road
 System Administration and IT Infrastructure Services is a very helpful course
 The is an amazing course. The course Instructor is very talented in his work.
@@ -922,7 +896,6 @@ Great information on the basics of IT support in a multi-user environment.
 Great content , great instructors, nice labs to improve all your knowledge
 Very interesting course ,but i think i need to refresh on Active Directory
 Learned the values of System Administration and IT Infrastructure Services
-Muy buen curso. Aunque seria bueno tener más practicas y no tanta teoria.
 Alot of information to take in, but very well worth the effort, to learn.
 Challenging course well-packed with the Systems administration Essentials
 The Active directory information was very useful and explained very well.
@@ -950,7 +923,6 @@ Very informative course videos. Thanks to coursera team and Instructor
 It was very good course and the the way it was taught was exceptional.
 It was an awesome course. I learned a lot from the hands-on exercises.
 Tons of valuable information that can be used for small/big companies!
-Muito bom o curso. Material muito didático e com ótimos laboratórios.
 I really enjoyed learning more stuff not about AD and how to use GPOs
 Great  jobs for the well packaged learning experiences. Thanks Google
 I've learned so much about system admin's responsibilities and tasks!
@@ -975,7 +947,6 @@ Great course and lost of new knowlegde that teacher share with us.
 Interesting introduction to management tools and back up technics.
 Neatly curated course to enhance the systm administration skills.
 some of the labs did not work at all but the information was good
-I LOVE LINUX!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Thinks to improve :-More exercise in AD-Had a note of all subject
 Loved it! LDAP,  DNS, IP Addresses, proxy servers. Learned a lot!
 Good content, I think if lab was included it would have been nice
@@ -999,7 +970,6 @@ It is an excellent course, I recommend it to all interested.
 This course is tedious but the knowledge gained is worth it.
 Super interesting course I am so happy to be part of it. :))
 I am grateful and hope to continuous to have my certificate.
-Un cours très instructif et qui m'a vraiment beaucoup appris
 Great basic intro to IT admin and infrastructure deployment.
 It was excellent guide and instructions were easy to follow.
 Lots of knowledge into the profession of Sysadmins lies here
@@ -1050,7 +1020,6 @@ The labs made it a lot easier to remember the material.
 its very good certification course by google @ coursera
 Great overview of Sysadmin responsibilities and powers.
 I am very excited. I cant believe it I made it this far
-impresionante e increíble, muy didáctico y entretenido!
 A good way to fill up gaps in my knowledge. Thank you.
 This course is like an astronaut food pill. Thank you.
 Thanks you so much for teaching us the backside of IT.
@@ -1100,7 +1069,6 @@ This was extremely fun. Bring on the next course.
 I really enjoyed this section of specialization.
 Very intense course, but there's a lot to learn.
 Practical and designed to improve students skill
-for me its a like god gift for my entire life...
 very nice instructor and very easy to understand
 love the instructors and very clear instructions
 Intensive course covering many important topics.
@@ -1111,8 +1079,6 @@ There is a lot of information here. Good stuff!
 probably the most important since the first one
 Very informative course and helpful activities.
 I learned a lot and really enjoyed this course!
-muy buen curso y muy buen material de estudio.
-excelente curso. Muy interesante e interactivo
 Thank you! for this course! More power for me.
 Great course! Thank you for all the knowledge!
 It really a great course. Am very much fit now
@@ -1123,7 +1089,6 @@ Probably the best instructor out of all five!
 Informative. Challenging final. Great course.
 Great course with lots of useful information!
 You guys are awesome!    Thank you for this!
-Thanks for elevating my knowledge and skill.
 it is a nice and well understandable course.
 Relay enjoined this course.  Good job Google
 Very good , have a lot to learn. !! enjoyed.
@@ -1147,10 +1112,8 @@ Awesome course with best known explanations
 Quite challenging, but that's a good thing!
 really key and critical piece. learned alot
 Awesome Course!! I learned so much from it!
-Excelente curso. El mejor que he realizado.
 Really well done job presenting the topics!
 very cool stuff i learn in this course!!!!
-A série de cursos do Google é sensacional!
 I like the hands on with active directory.
 Highly recommend this course for everyone!
 I have a good day with Google and Coursera
@@ -1173,10 +1136,8 @@ Great information and taught very well!!
 Great Platform to update my tech skills.
 amazing course by google must go for it.
 This is good knowledgeable online course
-A mon avis, ce cours est très très utile
 Very informative and I've learned a lot.
 The course was very interesting and fun.
-Aspectos importantíssimos para SysAdmin.
 Good Course ! Enjoyed taking it. Thanks.
 This was an amazing course. Thanks a lot
 Loved the course, and easy to understand
@@ -1189,7 +1150,6 @@ It's grateful to conclude these courses
 Learned so many things.. Great course..
 I LOVED THIS COURSE! I learned so much.
 The best course yet out of the series!!
-Excelente y de mucha utilidad. Gracias!
 The labs are brilliant! Well-worth it.
 It was really difficult to understand.
 i am happy, Thanks Google and Coursera
@@ -1207,33 +1167,24 @@ Great course! In-Depth and technical.
 One of the best course over Internet.
 Excelent course and very interesting!
 Very easy to understand and in detail
-Excelente Curso cada dia me gusta mas
 a lot of information and a lot of fun
 great instructor. very knowledgeable.
-Perfecto dinamico y con ganas de mas
 Great session with Devan Sri- Tharan
 Thanks. I have really learned a lot.
-Yes I did it. Hardest course so far.
 The best way for learning new things
 Awesome Course, great for beginners.
-Very interesting content.  Relevant.
-WOOOOHOOOOOOOO YES!!!!!!! LETS GO!!!
 Great course, sometimes challenging.
 Very challenging, made me work extra
 Packed up with a lot of information.
 thanks a lot it was a great benefit.
-super maravilloso somos el futuro!!!
 This is a best platform to learning
 Great course. Thanks google family.
-Excelente, enseñanza y conocimiento
 Very insightful and easy to follow.
 it was hard but It was so educative
 I am so bleesed having this session
 Great thanks. I have learned a lot.
 Interesting and challenging course.
 I wish there are more hand on lab.
-Amazing job Google, keep it up! :)
-Excellent course. I learned a lot!
 Great course and love to learn it.
 Devan was very good at explaining.
 nice Experience with Coursera Team
@@ -1249,10 +1200,8 @@ This is the most complete Module.
 Well organized course. Thank you.
 I gained a lot of knowledge here!
 learnt something really valuable.
-Excellent course. I learnt a lot.
 highly informative. i learnt alot
 Very informative great instructor
-Un curso muy bueno, muy práctico
 Awesome. What a powerful course!
 Challenging but I learned a lot!
 Awesome course, I learned a lot.
@@ -1275,7 +1224,6 @@ Excellent lab and Stuff learnt
 Recommended Course. Thank You.
 great and well detailed course
 I feel like I learned so much!
-Excellent course and contexts.
 great course. i learned a lot.
 exellent thanks for everuthing
 Very insightful but very hard
@@ -1288,19 +1236,14 @@ A lot of information to learn
 So much important information
 ery good subject and syllabus
 This is a really good course
-best course i have ever done
-Devan Sri-Tharan.THANKS ALOT
 It Time to Learn with Google
-sooper Cool !! Thanks Google
 I really love it... It helps
 Brief, but very informative.
 Very Educative Course in IT
 Hard stuff, but good stuff.
-Excelente curso, me encantó
 Very enjoyable and helpful.
 Great Course.. Learnt a lot
 I really like this course.,
-just AD's are bit difficult
 It a great course i love it
 A very good and informative
 great course! very helpful.
@@ -1311,14 +1254,11 @@ Devan was a great teacher.
 Great Challenging  Course.
 lots of food information!!
 The course was beneficial
-Всем рекомендую этот курс
 Everything was awesome...
 Awesome and good learning
 Good course.  I liked it.
 Amazing, i loved the labs
-Excellent Course program.
 Its Good To Learn Skills.
-Engaging and interesting!
 Great course. Enjoyed it!
 Tough class but worth it!
 This was an great course
@@ -1330,7 +1270,6 @@ It is good for learning
 Could be a bit shorter.
 Very informational!!!!!
 every  thing is awesome
-Fantastic Experience!!!
 great course, thank you
 Extra-ordinary learning
 Really good and useful.
@@ -1340,7 +1279,6 @@ The course was very inf
 Nice. I learn so much.
 Excellent information.
 satisfied, thank you !
-it an excellent cource
 Great learning system.
 best tutor then others
 Great course overall!
@@ -1354,25 +1292,18 @@ instructors is awsome
 A lot of information!
 Great Course! Thanks!
 great awesome cousrse
-Challenging but fun!!
 very good i recommend
 very helpful. thanks!
 The Great cost ever.
 I learned very well.
 very engaging course
 Thanks, was amazing!
-Challenging but fun!
 Very good course! :)
 Its very interactive
-Challenging but fun.
 it was good journey
-amazing instructor!
-Overall excellence!
 Amazing this course
 An Amazing Course!!
-Exceptional course!
 Amazing instructor!
-Very useful skills.
 Thanks Coursera..!!
 very helpful course
 Best course by far!
@@ -1388,19 +1319,14 @@ Crazy but awesome
 tutor is not good
 Hard but worth it
 Great Instructor!
-You must do it...
 Love this course.
 learned new stuff
 Awesome, thanks!!
 Awesome and great
-amazing module!!!
-A bit challenging
 very2 good course
-Excellent course,
 Good for freshers
 Worth every hour!
 It was excellent!
-Thank you Google!
 Enjoyed it..!!!!
 FANTASTIC COURSE
 I learned plenty
@@ -1419,75 +1345,34 @@ very nyc course
 Great! than you
 Very Satisfying
 good instructor
-Great material.
 This is awesome
 very learnable
 lovely course.
-Muy, muy bueno
+very satisfied
 Really Enjoyed
-Muito esforço!
 Nice training.
-perfect course
 Informative...
 Great Class!!!
 very important
 well worth it
 total package
 That's great!
-Superb module
-i learn a lot
 good practice
 Satisfactory.
-awesomeeeee !
 Learned a lot
 Tough course.
 Comprehensive
 Satisfactory
 good leaning
-perfect!!!!!
-Very Good :D
-awesome ....
 it's so nice
 It Very good
 Good Schitt
 pretty Good
-LDAP rules.
 Great info.
-I made it !
 phenomenal
-Good Stuff
 Thanks you
 It's good!
-great!!!!!
-Muito Bom.
 Great Help
-i like it.
-Muito Bom
 Very Nice
-amazing !
-super fun
-Cheers!!!
-I was fun
-beutiful!
-awesome.
-vey good
 So much!
-Xcellent
-tHE bEST
-OH yeah!
-Ecstatic
-Good :)
-Exelent
 Greart
-eezee
-best!
-great
-dope!
-Good!
-Wowza
-Nice.
-Solid
-neat
-Yay!
-waw
-in

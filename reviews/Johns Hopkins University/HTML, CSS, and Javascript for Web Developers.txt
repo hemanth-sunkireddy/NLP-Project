@@ -31,15 +31,9 @@ worst course donot explain anything properly....
 remove github project stop promoting tht
 Too hard to even download the software.
 I don't understand anything he says
-Error en fecha limite
 Lacakage of details.
-so hard to get start
 Very confusing
-Garbage!!!
 bad course
-Average
-trash
-Bad
 The content is EXTREMELY outdated. Lots of the implementations only fit the web development environment from FOUR years ago. The course materials were built in 2016. I had to double check at least 70% of the instructions from all kinds of resources because what was taught in the video does not work anymore. It could have been such a great course, if the instructor spends some time fixing those bugs. Now this thing is full of bug
 Old information, course need to be updated.
 I really like his teaching style and complete explanations of topics BUT..... This course is based on an older version of twitter bootstrap and the newer version (4) is not compatible so I had to constantly look up how to change the code.  In the middle of week 3, I wasn't even sure what parts of the code were the problem so I decided this was not worth it.  I'm going to find some other course that either doesn't use bootstrap or uses the updated bootstrap.  I think this course would be much much better if it did not rely on Bootstrap.  It's a great program but it involves a lot of complexity that doesn't seem to be necessary at a beginners level.
@@ -73,8 +67,6 @@ Just a bunch of videos and not much else. Youtube it.
 So old now that most of the setup is outdated now.
 Module 5 should have been way better!
 Github crash course is outdated.
-after 2 week you were very fast
-not very good for beginners
 JS and Azax is not clear
 a lot of it is outdated.
 Very outdated
@@ -130,10 +122,7 @@ HTML,CSS was great but js was not up to the mark.
 Pretty average. Check out Angela Yu on Udemy.
 Lots of things changed since the video made
 JavaScript Content should be increased
-old and not suitable for beginners
 very old content, needs update
-Very fundamental!
-De
 Firstly, this course is not for beginners. If you don't know basics of HTML, CSS and especially JS (author also noticed it) you must learn it by yourself before entering this course or choose another one. If  you're super beginner it will be much confusing! Secondly, there are a lot of old information ( starting from github set up and finishing with old stuff in lectures). For example, you will study  old version of Bootstrap wich CSS classes was to much updated in latest version so it's too foolishly.However, this course gives a lot of useful information to supplement your knowledge. There were a lot of neccesary things that i learned, and i suggest you to take this course if you know some basics of  HTML, CSS and JS.Good luck!
 Very good all-round intro and specialisation to HTML5, CSS3 and JavaScript. The constant loop back to real world problems is very helpful in applying the learned skills. What lets the course down a little though is it not being up to date - I think its around 4-5 years old now and in the frontend world thats a long time.
 I learn a lot about HTML and CSS3
@@ -262,7 +251,6 @@ HTML and CSS was good but the Javascript was incomplete, getting data database a
 Very Nice Course to learn concepts of HTML, CSS and Javascript both for beginners and expert professionals who want to enhance their skills.
 Thank you so much for this opportunity and the course should also be windows adaptive but fine with the interface the course went smooth.
 This course is very informative and intensive. Covers the fundamentals of Html5 , CSS and Javascript in detail. Worth taking this course.
-Muy bueno aprendes mucho de HTM5 y javascrip.  Como aviso hay que tener algo de idea para poder avanzar  conseguir hacer los ejercicios.
 Thanks to Yaakov for the course. It explains each topic very well, but it should be updated with the technologies that currently exist.
 I liked learning HTML, CSS, and Javascript with this course. Assignments are challenging and give you hands-on experience with coding.
 Amazing course first 4 modules were awesome , 5th module could have been much better . Overall it was great experience learning here
@@ -298,10 +286,8 @@ I feel that I need more explanation about the code, I don't feel capable to solv
 Great Course and a great mentor indeed. However felt the need of more videos and documentation of Javascript.
 I already feel like a web developer, all thanks to Yaakov Chaikin. Its been a wonderful and exciting course.
 I learned a lot of basics on front-end programming.CSS was through - the Java Script side felt a bit rushed.
-dinámico curso de HTML, como sugerencia pondría que la parte de Javascript debe ir totalmente en otro curso
 a good course for the beginner student to learn about html css and javascript for creating a good web page.
 Good course. I would recommend this to everyone who are interested in learning HTML, CSS and Javascript.
-super bueno y estructurado este curso, me ha servidor demasiado para entender cosas que no tenia claras.
 From java script the pace of the course is too fast for a begineer. Other than that everything is good.
 Good tutor.Teaches from the scratch.Easy to understand the whole course because of the way of teaching.
 Concise, simple and well structured practical course to easily learn HTML, CSS & JS for web development
@@ -309,7 +295,6 @@ The 5th module is quite complicated (especially Ajax). Could've been explained i
 it was a great and well structured course . it helped me to understand the advanced topics very easily
 A good course. It lacks challenging assignments to get 5 star rating.I didn't like the rush in week 5.
 it's a Professional course for learning HTML and CSSbut doesn't much helpful for JavaScriptThanks! :)
-Отличный курс, но для новичков тяжеловато. Очень много непонятного. Хотелось бы более подробно о JS.
 can be little bit slower i.e should have more lectures to get a deep understanding of the subject..
 Professor is a remarkable teacher...no hiccups, no gaps....takes you smoothly through the course.
 It was a very good attempt in reaching the students who are interested to learn web designing!!
@@ -343,7 +328,6 @@ Excellent Course but  i was expecting some more content !! its very good
 Week 5 should be explained in a more clear manner. It is rushed a bit.
 Excellent.  I particularly enjoyed the instructor's style and content.
 javascript part was a bit complex but the over all course was awesome
-estuvo interesante y con buenos conceptos respecto a los temas datos.
 very good for beginners. Javascript is not taught much in this course
 Everything is cool if their are ore examples it would be more useful.
 Everything was perfect except the last week which was in such a rush
@@ -351,7 +335,6 @@ This course was very helpful.And l learned html java script and CSS
 Feels like a better job could've been done from ajax till the end.
 Teaching style was very good but the content is a little outdated.
 In my opinion you should properly guide us in the bootstrap topic!
-Половина курса без русских субтитров. А так очень познавательно!)
 course need to upgrade with all latest versions but overall good.
 great teachings but somewhat improvement in the use of technology
 Nice Course Would recommend more courses from the same professor
@@ -409,14 +392,11 @@ Such a great tutorials for beginners.
 It is helpful to create the website.
 Very helpful and informative course!
 It was overall very good experience
-Week 4 and week 5 has been so tough
-Mediocre course.................;)
 Nice experience with well coaching
 this course is a  career  builder
 Better If JS is Explained Clearly
 Nice way of understanding things.
 Learnable and very much enjoyable
-Helpful exercises. Great lectures
 The course was designed perfectly
 Very useful course for beginners.
 Very good Course, very practical
@@ -441,26 +421,16 @@ Assignment were very easy
 Nice, but not the best.
 over good explaination
 I feel it is too basic
-Completo e intructivo
 the course was great
 old but good enough
 Pretty nice course.
 website is so slow
 Great course !!!!
-EXCELLENT COURSE!
 i like the course
-its nice course
 Its Awsome...
-Muy completo
-nice course!
-nice courses
 it was fine
 prety good.
 reasonable
-Like it
-Goov\d
-grea!
-/d
 Excellent course, specially if you are a professional but in different technologies/ languages, from the back-end world, etc... You will progress very fast as it goes right to the essential notions.
 Very interesting and well presented.  It's difficult to address all the different experience levels so some points were (to me) a bit laboured, but overall a useful, informative and enjoyable course.
 Excellent course, period. This is the first course I've taken from Coursera. Before the course I knew something about HTML, CSS and Javascript but not too much.  First week is a piece of cake. Second week was also easy but I did not have a strong logic about the "box model" before, after the second week I had it.With third week things went in a strange way, but in a positive one. We started to code a "real" website (yeah you'll understand if you enroll) from scratch. This was invaluable for me. Reading documents is something, but watching lectures, interact with the real code, try and see way, using Git and Github,  getting great tips, I mean doing real stuff is invaluable. Fourth week is also not so hard for me since I have some basic Javascript history. And Javascript section is not so detailed and difficult, but just for one week it was beyond OK, it was great. Even in basic info you'll learn something. Fifth week is a total stranger for me since I don't know anything about Ajax or dynamic loading pages style. Ok, I know what was Ajax but just the name :) So, after the week I've learned those. At least the concept itself and how to implement it in a simple web site. But I must confess, I watched the videos twice and examine the codes again and again to fully understand what we are doing and how we are doing. Because a week is not enough for this and things go faster. But hey, lectures are recorded and you can watch them again right :) And you have all the codes!Beauty of this course is all the weeks and assignments are related and integrated. So you learn something, finish the assignment. Next week, you learn new things, get new assignments but continue the last week's job. Yeah, you remember the real web site part? And of course last but not least Mr. Yaakov Chaikin is a great instructor and person! He has an excellent way of teaching. So, if you are a total newbie or someone who is beginning of his journey like me do not hesitate to enroll this course.  But please pay attention, if you are so new about those topics, about the week four and five you will struggle a little bit.
@@ -475,7 +445,6 @@ Very beneficial for every type of learner. I enhanced my skills trough this cour
 Excellent course, I appreciate too much what you do as platform letting us counting with excellent tutors like Yaakov who teaches every single thing that's possible in a funny and very comprehensive way.Please keep it up!
 I learned very much in this course. I enjoyed each moment studied the content. The teaching methodology is wonderful and teacher is so nice. In general, this course is excellent and I recommend it.
 It's cover all details you needed!
-Awesome course 😊
 Nice Course, I learned a lot and Love it.
 OVERALL NICE INTRODUCTORY COURSE TO ANYONE WHO WISHES TO BEGIN HIS JOURNEY IN WEB DEVELOPMENT !
 The course is quite thorough for a basic course and is challenging in pace. The work load is higher than the guidelines suggest for someone who hasn't done any programming for a while and is not familiar with object-oriented programming Yaakov is very knowledgeable and presents the material in an accessible way. He throws in some humor, which helps with absorbing the material. The quizzes are good learning guides and are appropriate for the material in the course. They require some thought, but adhere to the topics in the course without assuming additional knowledge. The exercises are difficult and take more time than the listings. But the reference materials are helpful and the online forums are very useful in clarifying points of uncertainty. I found some of the assignment descriptions, especially in modules four and five, to be unclear and it took some additional research to understand the intent of the task.The registration process and installation of the needed software was clearly explained and easy to accomplish. The software worked well with the course and enhanced the learning experience. I especially liked the way BrowserSync worked with Sublime Text and Chrome. The Chrome analysis tools are very useful. The use of Github as a coordinating platform worked well, for submitting assignments. The Coursera UI was very efficient at tracking progress and coordinating the peer level reviewing.Overall, I enjoyed the course and found it well worth the effort despite the few frustrating hours that always accompany grasping new skills.
@@ -504,7 +473,6 @@ I have been actively watching the tutorials for a week, and its really good!! Th
 Don't hesitate to start this course because you will lose really really an awesome opportunity to take the fun and great class. As I am the person who is the beginner and took some courses online and offline of web development, I would like to tell you that the instructor of this course is very knowledgeable plus he has experience in the industry I could say. The difference between this course and the other courses I had taken before is that he is trying to show the real industry as he gets a real client during the lecture and indeed, he builds a real website continuously interacting with the real client.  You know what, just take this course :)
 Excellent course.  While I have no goal of becoming a professional web developer, as a professional system architect, this course has given me an important foundation in javascript, and added significant depth to my knowledge of CSS and HTML.  Knowing javascript is more and more important as Node.js becomes embedded as the go-to solution for a wide-variety of activities within modern  micro-services architecture.  Yaakov is an engaging lecturer and he addresses some of the more esoteric best practices and javascript kludges quite well.  Javascript is a messy language and Yaakov is up-front and unambiguous about how to do it right.
 This was a really interesting course, it shows you not only the granularity of a project, but also how to build it in a way that allows you to keep scaling with different technologies, basically as the title of the course says, you will implement a real site, and Yaakov will give you a ride to the clients restaurant in order to take requirements, you are going to create a website for that restaurant, and step by step you will see how to improve it, from simple HTML structures to complex Javascript code (using good practices). It will give confidence if you already have some knowledge and you will learn a LOT if you are new.
-Excelente! Los conocimiento desplegados en el curso son muy completos! En lo personal repeti cada leccion y estudie los fundamentos varias veces, ya que hay cosas que de repente se pasan por alto pero que si se considera el tiempo que dura el curso (5 semanas) es mas que entendible. Tratar de ir mas alla requeriria mucho mas tiempo. Sin embargo vuelvo y repito el contenido abarcado es bastante, y al finalizar estas en plena capacidad de empezar a contribuir en proyectos de desarrollo web. De verdad excelente y gran parte de la calidad de este curso se debe a Yaakov y su tutoria dinamica y para nada aburrida. Saludos!
 Johns Hopkins University shows how versatile teaching institutions needs to be these days, delivering an extremely well prepared online course. Having Professor Yaakov Chaiking on the driving seat, was certainly a wise choice, as he is a great communicator, able to keep the audience interest up to the very last lesson. I was looking for an introductory course on HTML and CSS, which is amazingly covered during the first three weeks of the course. Javascript was a plus, a highly useful one. This was a great learning experience, and a fun one too! Hats off to Professor Yaakov Chaiking for such a great performance!
 One of the best Coursera courses I've taken so far.   The quality of the contents is second to none - Not to mention the way they're presented is simply outstanding.   If I had to come up with areas of improvement, I'd probably say that the length the weekly sections is a little bit overwhelming.  Actually, I think the contents of this course should be split into two separate courses on their own so the various concepts can be absorbed in a more efficient way.I've really enjoyed going through this course and I must say I've definitely accomplished all the learning goals I set for myself at the very beginning.
 I liked the course very much! Everything about it is great. Yaacov meticulously explains needed information. The slides are adequate. It's nice to have the information spoken by Yaacov as printed for further comprehension and follow up. The field trip for the website was really good. It's the first time I get exposed to the life of Jews and I found many similarities with my background. Of course there are so much information concerning the course that I need further readings (from the Readings list) and perhaps to restudy the course on my own to have a really sturdy base in web development. Thank you!
@@ -593,7 +561,6 @@ Thank you. This course is really good. I learned a lot about HTML, CSS, JS. My p
 This course is really great, even if you're a web developer you can learn some internal mechanics that often are not perceived in a daily basis. The instructor gives some really nice explanations about css rules and show and explain how some of Bootstrap classes work. Finally, it teaches about how to handle raw Javascript code, always preserving scope and following some guidelines.
 ﻿A well-designed course that allows me to understand the web development concepts. Each section is clear and flows to the next section. A great teaching method that makes you think and try out the changes. It does not matter if you make mistakes, the tutor as your back, and provides the before and after source code. Brilliant, other course providers should follow a similar method.
 This is an amazing course. If you want to master these technologies in a fun way, this is the course for you. What sets this course apart from the others is the way Yaakov demonstrates the whole web development process, including interacting with a real-world client and taking requirements of the application from her, doing the design and implementing a complete solution for her.
-Excelente curso, el profesor es extremadamente claro para enseñar conceptos. Enseña todos los detalles necesarios para que tu como estudiante no quedes con "el puente con tablas menos" como es común en cursos de youtube hecho por aficionados. Se nota la calidad que imparte tanto el profesor como el respaldo por la universidad en que lo que más importa, es que tú aprendas.Saludos!
 The course delves deep enough into the fundamentals of HTML, CSS and Javascript to provide a great start in Web development. Coding an actual website was a significant measure as it provided some practical exposure. Moreover the tips provided, be it related to code organization or dealing with client and many more ,are really useful. On the whole, this course is worth taking.
 This course is amazing The Only problem is that some content of this course such as the Github has become outdated and it is a sincere request to Coursera and Yankov Sir to please update the content of the course for the Development Environment part 3:Browser Sync and the Github Video and keep up the amazing and Awesome work that he is doing. In the end Thank you Sir,Regards
 Excellent excellent course!!! Professor Yaakov Chaikin is brilliant, he really knows what he is talking about. I attempted learning  HTML, CSS, JQuery and JavaScript on my own and in just a very short amount of time of taking this course,  I have learned so much more! I am thankful I found this course when I did.  I am looking forward to what is to come. Thank you professor!
@@ -602,7 +569,6 @@ You can't get any more generous than this course. It gives you tons of knowledge
 Definitely a good course! I love it! It helps me to see the big picture of web development. Briefly, HTML for structure, CSS for style, Javascript for dynamic. The course material is well prepared and coding material is easy to start with. The instructor is enthusiastic and humorous. Because it is an introductory course, I'm considering taking other courses offered by him.
 This course changed my outlook regarding online courses. Everything was laid out in the simplest manner and was conveyed perfectly. The entire 5 weeks of the course were brimming with information. WE EVEN WENT ON A FIELD TRIP!!!.  This course is just AMAZING.I don't have enough words to thank Mr. Yaakov Chaikin for teaching me. He's one of the best teachers I've ever seen.
 The course is well structured, includes only relevant information and allows you to get a feel for what's it's like in real life. The instructor does a great job on emphasizing important things, gets to the point quickly.One detail that could be improved though was that the coding assignments on JS were too simple and covered only a tiny portion of the lecture material.
-Estoy muy feliz de haber tomado este curso el cual lo considero "Intenso" pero muy actualizado en el tema de HTML JS y CSS. Quedé sorprendido por la habilidad y el buen conocimiento del instructor Yakov, quien domina perfectamente todos los temas.Este curso requiere mucha dedicación y estudio de manera personal para poder avanzar cada semana. Está fascinante.  Gracias.
 This is an excellent course.  I have been in software development for over 20 years, but never took the time to really understand CSS and Javascript.  After taking this course, I feel much more confident in my skills and I've already been able to apply them on the job.  Professor Chaikin is a fantastic instructor and conveyed the key points.  The course was also fun.
 Outstanding quality course. Very  well structured, well-thought, in-depth, comprehensive and in the same time easy to follow . Professor Chaikin  is outstanding teacher easy to understand, teaches straight to the point, clearly and with good sense of humor.Many thanks to Yaakov Chaikin and Johns Hopkins University for all the effort making this course available.
 One of the best courses that I've done in Corusera. Even some of the topics are hard to understand (especially,  the last week), the assignments are adapted for people who are not familiar with this area. Also, I've learned many basic concepts that other courses didn't explain which are essential in the HTML, CSS, and Javascript understanding. 100% recommended.
@@ -699,7 +665,6 @@ This is the first proper course I took of web development and it's a great way t
 I normally get bored real fast with online teachers,  since they, well, simple put usually lack a cool teaching style. This time around, niiiiiiiiiiice :)Cant say anything else then, if you want to learn HTML, CSS and JavaScript, and want to do that while being inspired, take this course!
 Thank you so much, Sir, for this course, this course cleared all my doubts in CSS and Javascript. There can be no better way; I guess to deliver this course. Hats off to you. This course helped me to make my personal website which would help me a lot in coming placement season.Thank you.
 It was great learning experience with Yaakov. Thanks for creating such a wonderful course every single concept is so clearly explained. This cleared all my confusions about some of the complex topics. Yaakov as an instructor is just amazing, Looking forward for learning more with Yaakov.
-El curso es muy claro, los ejemplos son sencillos y sumamente ilustrativos. La calidad del contenido también es excelente y sólo propondría, como mejora, el incluir otras herramientas que ayuden a alcanzar los mismos objetivos (ej. Sublime Text puede alternarse con Notepad++ en Windows).
 Really Good Course I have enrolled many paid courses on other platforms like udemy but they don't have quality course like this. It gives us conceptual idea and clearly shows how things work. It has some outdated parts but still happy to give five stars rating saying recommended course.
 I would like to thank COURSERA for giving me the opportunity to learn this awesome web development for free and I would also like to thank Yaakov sir for creating this very informative web development course.From beginning to the the end, this web development course is very interesting.
 Great course! Even though I had been doing web development for a few years (self taught) I still learnt a lot. Yaakov is very talented developer with a skill in teaching that make sit easy to follow and learn. Highly recommend this course to any individual interested in web development.
@@ -728,7 +693,6 @@ Amazing course! Yaakov is an extraordinary teacher. Every time I want to hit pau
 This course provides a concise introduction to the topic. It covers the basic theoretic aspects, but does not lack easy to understand examples.The lecturer clearly put a lot of thought and effort in creating this course, which makes learning very efficient and motivating.
 I thought the course was great. Yakoov is a great instructor and he is very easy to understand and follow. It can get pretty overwhelming towards the end but all course examples are available from the git repository so you can download it and go over it at your own time.
 Mr. Yaakov Chaikin is a wonderful instructor. Videos were easy to follow. Had a lot of pointers with the assignments. It covers basic HTML and CSS very well. I understood a lot of basic JavaScript as well. Thank you for starting me on my journey towards Web Development.
-Ótimo curso!  O professor tem uma boa didática, as avaliações são desafiadoras(mas de acordo com o que é ensinado) e os prazos para entrega delas é razoável. É recomendado ter alguma noção de programação, principalmente para a semana 5.  Vale lembrar que é em inglês.
 Enjoyable course. Challenging, but not to tough. Although I didn't enjoy the peer-reviewed assignments, it taught me a lot I didn't know already about HTML, CSS, and JS. Instructor was knowledgeable on the subject and it was fun to create something that was your own.
 The content in this course is well-structured and well-presented. Topics are broken into short digestible segments that are narrowly focused and thoroughly explained including relevant examples. Quizzes and assignments reinforce the critical aspects of the lectures.
 Its a very challenging course.The assignments are also pretty difficult.But surely I learnt a lot from this course.Covered all topics in a very systematic way.Well explained lectures.Overall this is a very good course if u r having a little prior knowledge of HTML.
@@ -738,7 +702,6 @@ This is fantastic course, everything is clearly resented. Foundation parts are j
 The material is excellent, and the lectures are very high quality. I also like that in addition to HTML, CSS, and JavaScript, there's brief introductions to things like Git, as well as links to places where you can get more information. Very happy with the course.
 I did decide to audit this course because I want better understand some aspects about HTML and CSS, both I was already learning. I can say this is a fantastic course I got my goals so far. Some concepts that were kind of obscure for me now they are pretty clear.
 A well sequenced collection of topics.Helped me a lot in learning new things with great comfort and more understanding.I highly recommend this course to get more grip on the topics and to know how real websites are made.Thanks a lot coursera for providing this.
-A veces las explicaciones del profesor van demasiado rápidas, sobretodo en las semanas 3 y 5, pero por lo general es un buen curso que todo el que quiera ser desarrollador web debería darle una oportunidad ya sea para aprender, repasar o expandir conocimiento
 Awesome! An interesting course and the JavaScript part is really a jewel. Professor Yaakov introduced us in the guts of JavaScript with a very clear explanation. Definitely a great course BUT it demands of the students time and effort to finally get the goal!
 This is a great course, I really liked it! First, because I don't speak English very well and I could understand everything and second because the content is real and it helps you to learn more about the development's process. Congratulations for this course!
 A very thoughtful and well delivered course. Learning front end could not have been more easier. i have been doing HTML, CSS for 3 years but i still learned A LOT. On the contrary, i hope this course get updated as soon as possible. Still Highly Recommended.
@@ -750,7 +713,6 @@ Some concepts (especially on the topic of CSS) were presented in really great de
 Absolutely brilliant and very entertaining course, which at the same time uncovers a really useful set of tools + I really liked how easy Yaakov made the process of building a site look. This was clearly one of the best courses that I have taken on Coursera.
 Excellent Course for the beginners to learn web development in one place.The teacher Yaakov Chaikin is a brilliant teacher and is a gem of this course.I'll highly appreciate this course to everyone who wants to learn web development from the very beginning.
 I think this is one of the best courses about these matter. I'm grateful about all the knowledgment that Yaakov passed. He is a very good teacher. Happy also to know the community. Even with some technologies out of date, the course maintain its actuality.
-Me parece un curso genial. Lo estaba buscando desde hace tiempo y por fin lo encontré. Muy superior a otros en cuanto a la metodologia y el desarrollo del mismo. Gracias a  Universidad Johns Hopkins y al profesor Yaakov Chaikin por su trabajo y dedicación.
 A really great course combined with a very good teacher makes for a great learning experience. A very beautifully  designed course which takes you from the basics to quite advanced levels. Anyone looking to start learning web development, look no further!
 The Javascript module, and specially the Ajax part was more abstract and vague than the rest of the modules and I honestly didn't get much of the Ajax part. I learned a lot, though, and fully appreciate the amount of effort put into each lesson. Loved it!
 A very thorough and interesting course. Prof. Yaakov is incredibly talented and keeps the lessons dynamic  and he goes into details without making it tiresome. I'm happy to have discovered it and I would definitely recommend it to others, pure 5/5 rating.
@@ -762,7 +724,6 @@ I'd give a 10/5 if it was possible. I had a splendid experience during this cour
 Extraordinary clear! In simple steps and, mostly of all, in the weekly assigment, you are going to fix up and to learn all the explained concepts and to have a very clear understanding of  web responsive design, boostrap framework, javascript et cetera.
 The course is great! Everything is well explained, a lot of example, good sense of humor and really cool and adequate exercises to implement what is leant, I highly recommended for anyone who wants to get the basics (maybe even more) of web development.
 I have completed plenty of HTML, CSS and JS courses/tutorials before and this one beats the rest hands down! The assignments could've been more challenging when compared to the quality of the lectures, but overall the course is still exceptionally good!
-Es un excelente curso, dinámico y con herramientas que ayuda a mejorar la productividad en el desarrollo de aplicaciones web con HTML, CSS y JS.Los videos son de gran nivel y el profesor tiene un estilo grato y ameno de enseñar.¡Curso 100% recomendado!
 This Course is very good. I have learn very new things from this course. The speaker is very good.His tone, and his teaching is very good. And Overall structer of this course is very good. and but you should have basic knowledge of All this 3 language
 Before this course -> Knew almost zero about HTML.After this course ->  learned the basics of HTML, CSS and Javascript and acuired tools for creating web pages from zero.Thank You ! An excellent starting point for starting a career as a web developer.
 As a person who hated HTML, CSS and JS previously mainly due to my ignorance with the subject, Yaakov has helped me in understanding the core concepts as well as common pitfalls that surround the technologies. Now I am a huge fan of web technologies!
@@ -886,7 +847,6 @@ I started from zero level when i was just child in field of html and development
 Excellent course for people with intermediate knowledge of programming. Very eloquently teaches Bootstrap framework and Javascript along with AJAX. Must take course for any aspiring web developer!
 The Course was Great. It teaches a lot about the Basics of Web-Page Development. The instructor was awesome and ensures that the viewers gets whatever he says. In conclusion, One heck of a course.
 Professor was awesome! Lectures were really good. The only thing that I can think to improve on is some clarity on the explanations but even then that was on point. Enjoyed this course very much!
-Excelente curso, a pesar de que ya lleva alguno años la forma en que el profesor lo trabaja es extraordinaria. muy buena atencion en los foros y practicas que ponen a prueba lo que has aprendido
 Very nice course, but need more russian subtitles because even if i'm not ad at english but still some words ad other things is too difficult for ordinary user. Thank you for such amazing course
 It is well done but it is very basic. The method is good since we get the basic programs to work with them and follow the lectures. The instructor explains things in a detailed and clear manner.
 Thank you, Professor Chaikin. It's a fast-paced course but deeply focused in important topics of html fundamentals, css use and organization, javascript fundamentals, and consistent ajax basics.
@@ -955,7 +915,6 @@ I like this course. Lections are very structured and easy to understand! Sometim
 This is the first-ever online course I took— and it's marvelous! Sir Chaikin explains the lessons clearly that even a beginner like me can understand. So glad I found Coursera!
 My first course on Coursera. I am glad to start with this course very well designed course anyone who do not have any experience in this field can be a master with this course.
 Being the very first online course I completed, I can't be the best of the judges, but I am sure that this is would be one of the best courses to start learning web-development
-O curso é excelente! O professor Yaakov possui uma excelente didática e transmite não apenas conteúdo, mas também experiência no ramo de desenvolvimento. Muita coisa aprendida!
 Excellent course covering not only basics and most useful features of the languages, but also principles on wich popular libraries are based. Assignments are easy yet engaging.
 The course is a properly designed and tuned series of lessons with each taking a few steps ahead while not flooding the student with knowledge either. Overall I learned a lot.
 This is a quick and a good way to start learning about web programming. Lectures are really easy to understand and the material wonderfully helps to see how all work together.
@@ -974,7 +933,6 @@ Yaakov gave a very clear coaching with real-world application. The second half c
 This course has really helped me gain practical knowledge in Web Development. The guild is very interactive and anyone interested in Web Development must give this one a go.
 Including real website coding enhances this course. But the JS Module didn't cover much that is one flaw in the website. Hope so it gets added. Rest the course is very good.
 The AJAX portion of the course is a little handwavy but the basics of HTML JS and CSS are solid and explained to a great depth for an introductory course. Fully recommended.
-Дуже хороший он-лайн курс! А професор Яаков Хайкін — найкращий викладач!.. Дякую йому!Very good online course! And Professor Yaakov Chaikin is the best teacher!.. Thank him!
 It was a great course with a lot of great content, personally the last part was a little tricky but it's obvious to be a real world case. Excellent Job, thanks to the team.
 A great course for beginners as well as advance developer .I i liked the unique concept of field trip in a website development course.precise and to the point explanations.
 This was an amazing course! Yaakov was really clear with the information provided and the course itself covered a lot of details necessary to better understand the subject.
@@ -1031,7 +989,6 @@ Very nice course with so many other things which may be useful in various things
 This course was a great addition for my web development startup. Professor Yaakov is Amazing. Easy to Understand and you get to learn everything with the flow.
 first of all, I want to say a big thanks to all the organizers and everybody that made this course possible. I would definitely recommend tis course to anybody
 A very good course for those who want to start learning about web development. The instructor is very good in teaching. I highly recommend to take this course.
-老师讲解非常清晰，整个课程的结构和细节考虑都很周全。强烈推荐给入门级的朋友，但是建议参加课程前 多储备一些 HTML CSS Javascript的基础知识，这样上课更容易跟上老师的节奏。推荐先去W3School  自学基础知识。Thanks Coursera for this amazing training!!!
 Excellent Course. Excellent Content and Excellent Teaching.Impressed with the Tutor's command over the subjects. I can't ask for anything better.Thank you Sir!
 An excellent introductory course to these important web technologies, and delivered in a very invigorating way.  I was surprised at the details I didn't know.
 Good lectures from the Instructor. Very well framed lectures and step by step explanations till the end of course. Covering all topics related to this course.
@@ -1041,9 +998,7 @@ The best course! so far on Coursera. Very impressed with the instructor Yaakov a
 Awesome lectures and drills. Also, very useful materials. Perfect to me as a home-based worker. I'll recommend this to my friends and mentors. Kudos Coursera!
 The course well conducted by the instructor. The instruction is clear and engaging. Highly recommended for those who want sharpen their web development skill
 It is awesome. I have learnt Html, CSS before, but I didn't understand them well. Thanks for Yakkov's lecture, with which I finally got through the language.
-Génial. Manque que les sous titre en français. Le dernier cours va très loin mais j'espère que le cours sur angularJS va revenir un peu sur ce genre de code.
 The Course is very easily Understandable . Yaakov Chaikin sir presented it very nicely that I could understand the concepts very well. Thanks for that Sir!!
-Gran curso, aprendi sobre HTML5, JavaScript, CSS, Bootstrap, estoy muy contento por completar el curso, muchas gracias, este curso me ayudara en mi trabajo.
 Excellent course! Great mix of theory and practice. Foundation parts are just perfect and will give you the knowledge of what's going on behind the scenes.
 Nice course indeed but a little time consuming considering stuffs have gotten a little backdated in some areas which needs to be looked at in search engine
 This is a very good platform to learn and gain the knowledge I recommend all to go through this course who is interested to learn HTML, CSS, and JavaScript
@@ -1161,7 +1116,6 @@ Best course of HTML, CSS and JavaScript I've seen so far. Teaching skills is eve
 It is reallyy awesome.. When I started, I didn't know anything about web design. Now I can design a website !!! Thanks to the course!
 Amazing Course i'm so happy to be a part of this great course, thank you so much Yaakov Chaikin , it was an Honor to learn from You.
 Fantastic course, well structured with an actual commercial site being built as part of the course. Wow!, kudos to a true teacher!!!
-上完第一周的课就来评价了，课程结构清晰、简洁，教会了我怎么使用GitHub，browser-sync等有用的工具，还推荐了许多不错的书，尤其是《HTML & CSS: Design and Build Websites》和这门课程配合一起阅读效果非常好！感谢老师！
 THANKS A LOT!!! I LEARNED THE BEST WAY TO DEVELOP HTML, CSS AND JAVASCRIPT. THE TOOLS GITHUB, SUBLIME AND BROWSER-SYNC ARE POWERFUL.
 I learnt a lot in this course.This is my first course in coursera. The instructor explained it very well.I really enjoyed learning.
 A great course Indeed. It was a great way of teaching. Really learned a lot about Web Development and Designing from my zero basic.
@@ -1241,7 +1195,6 @@ I really enjoyed this course and the way it was taught, specially the third modu
 Great Lecture ! Yaakov Chaikin is very pedagogical and we learn everything we need to start coding dynamical websites :-)
 I don't think it could be better. Very demanding and interesting, you will certainly learn a lot if you take this course.
 This course is awesome. Specially the instructor Yakoov chiakin. I started from scratch and now I know a lot about HTML.
-Es un curso increible, las instrucciones son claras y al finalizarlo me siento preparada para hacer algunas paginas web.
 Very good course on the basics of HTML, CSS, and JavaScript - and Bootstrap. Also, promotes the usage of Git and Github.
 Excellent and the best course. Lectures are very clear and neat. Additionally the samples websites info was very useful.
 Great informative course. Goes into enough details to understand the concepts and background of the code and structures.
@@ -1259,7 +1212,6 @@ Probably the best course I took on Coursera. Yaakov is an excellent instructor, 
 It is very good to learn html, css, and javasript with johns hopkins university .i am very glad to enroll this course.
 This was the best course to learn html , css , bootstrap and javascript  ,I learned everything i need . Thanks a lot .
 Very helpful course and also the tutor has excellent teaching ability. One of the best and the most well paced course.
-De primera, muy didáctico y muy bien organizado el material.Cada día totalmente motivado a ver que es lo que sigue ;).
 A wonderful and organized course with real life website deployment experience. Enjoyed and learned at the same time !
 An amazing course which provides insights to how a website is built!Great material and explanations!I'm really happy!
 I think it's great! And first of all because of a good and clear explanation of the material. Thanks a lot to Yaakov!
@@ -1267,7 +1219,6 @@ Incredibly well explained, structured and taught with great supporting material 
 This course is very well structured right from the beginning, it gives you a solid basis to build your knowledge upon
 I really enjoy it !!! I recommended a lot this course for anyone who's looking to understand this three technologies.
 Excellent course with a lot of useful examples that will help you to understand the concepts explained in the videos.
-Excelente curso, muito bem explicado e simplificado, apenas o final fica bastante complicado, mas era de se esperar.
 well, this is a pretty solid course.i would like to recommend it to everyone including absolute beginners.thank you.
 Excellent course, I leaned a lot, the classes were very dynamic. Yaakov is a great tutor, I liked his classes a lot.
 This course is very interesting as web development and Instructor is very Good and having good practical experience.
@@ -1289,7 +1240,6 @@ It is a brilliant course. Very good for beginners or people who have limited kno
 Very nice course, informative, advanced , project oriented, practical, real skill development. Thanks Yaakov Sir .
 Amazing Course. I learned a lot. And Yakoov is an excellent teacher. This is for sure the best course in Coursera.
 Very clearly presented and interesting to follow. For now you can also access all materials without paying. Great.
-Excelente professor e conteúdo. Realmente o curso vale 5 estrelas e recomento para todos os profissionais da área.
 Yaakov is articulate, knowledgeable and entertaining. I am learning so much and it is only the first week. Thanks!
 Amazing course really learned and got to know to code i really loved this course definitely needs a 5 star rating
 The course is awesome! You can really learn a lot of thing about CSS and Javascript. It's fun and easy to follow.
@@ -1298,7 +1248,6 @@ Excellently taught course that teaches you many fundamentals about how the moder
 It was a very nice experience and I learned alot , but the last part needs more time to explain it well.Thanks:).
 This course was awesome and I learnt a lot from this ,this will surely help me to make a website for my projects.
 Great course! Very well structured. Good videos. Great instructor! I learned a lot about web development. Thanks!
-Курс очень понравился. Преподаватель прекрасно дает материал. Много чему научился  и уже начал применять в работе
 Fantastic course.  It was well done and I really enjoyed the instructor's creativity when conveying the material.
 Loved the course! Thank you for sharing your knowledge and making this course interesting and easy to understand!
 Brilliant course! Explains the basics of everything. Good enough to get you started in Front-end Web Development.
@@ -1367,11 +1316,9 @@ Interesting how we go through the course building an actual website! Learn by do
 This was the best web development course I have come across on the Web. Yaakov is very knowledgeable. He
 Content builds up very nicely. I'm very confident now for creating a website which has the layout I want
 Very professional, deep and comprehensive course for beginner web developers. Very pleased, I recommend!
-Muy bien descrito todo, los ejercicios son fundamentalmente útiles.Tiene de todo! Todo está excepcional!
 Arguably one of the best courses online for web design and JavaScript! Highly recommended for beginners.
 Really enjoyed course and lecturer's style, but had an inexplicable craving for Chinese food throughout.
 Every lecture had a very detailed explanation and the assignments were well guided! Highly recommended!
-Muy buen curso y muy bien explicado, tanto así que no debes perderte de nada porque todo es importante.
 Except for the last module, it was easy to keep up with and learn a lot, especially through assignments
 Able to develop websites easily using this course, detail explanation by yakaoo with real time examples
 Great Course! Though the javascript part was not that comprehensive. Great teacher! I've learned a lot!
@@ -1452,7 +1399,6 @@ I learned so many things from this course i am glad today to be a part of such f
 best course to learn fundamentals and very interactive lessons and easy to understandable codes
 Professor Chaikin is exceptional. I am really enjoying course. Def deserves a five star rating.
 This is a great course. It helped me learn the basics of HTML5, CSS3, Bootstrap and JavaScript.
-muy buen curso, inicialmente lo tome sin certificación pero lo tomare de nuevo para adquirirla.
 Great experience leaning!! Definitely worth spending time on it. Really liked the assignments.
 its  a very good course for beginners who interested in web development and really good course
 An interesting, hands on course well worth your time, for those interested in web development.
@@ -1469,7 +1415,6 @@ The course is very comprehensive  and clearly explained. I was able to follow an
 lucidly explained, and comprehensively completed all the essential parts in an academic style
 Very Good Course! Yaakov is a great teacher - all is very interesting and easy to understand.
 Very great course. The instructor has a wide kngoledge of the subject and explains very well.
-El curso es muy bueno, tiene todas las bases necesarias para comenzar a ser un web developer.
 Beautiful Course, Very well crafted both beginners and for people who need a refresher course
 Great course!  Instructor does excellent job clearly explaining a number of important topics.
 A great course for seasoned as well as a novice web developer with a interesting field trip.
@@ -1494,7 +1439,6 @@ This class is great but a little bit old. Need to update with new features, fram
 The course is excellent, it has a great approach. Congratulations to Coursera and  Yaakov!
 An excellent course with best teaching. Cleared all my concepts regarding Web Development.
 this course gave me a real world experience of how to develop a website.Excellent course!!
-Un curso muy completo y didactico. Me gusto la forma de explicar y el largo de los videos
 An excellent course; I highly recommend it.
 
 
@@ -1570,11 +1514,9 @@ The course is very useful and is very funny as it keeps going. Totally recommend
 Excellent material, to the point. Looking forward to completing the current course.
 Great Course and great learning experience. Would learn a lot if you actually care!
 Very well structured and covers content from the root. Amazing professor. *Respect*
-Très très bon cours!. Félicitations au formateur et à toute l'équipe qui a réalisé.
 because I am remembering, which already use and understand how the best way to use.
 this course has provided me with the necessary tools to do my job better. Thank you
 This course is very thorough and well-paced for learning front-end web development.
-Очень понравился курс. Все компактно, без лишней "воды" и понятно. Thanks a lot !!!
 Good one! Especially for understanding the basic building blocks of Web Technology
 Very good course to understand basics of web development. interesting  instructor.
 Excellent Course I learned much more through this course.. Thanks to team members.
@@ -1626,8 +1568,6 @@ It was really a great course. Thank you for making web development so easy....
 Great Course, especially for the beginner can provide very detailed knowledge.
 Exceptional course! Would recommend to anyone! Yaakov is a truly great teacher
 very nice course ,easy explained but you have to give your best to study hard.
-Excellent cours, accessible aux publics francophones avec un minimum d'anglais
-Ótimo Curso! Uma verdadeira experiência de aprendizado em HTML5, CSS e JScript
 A very helpful course for who want to learn some basic web development skills.
 Very efective introduction to the basic web tecnologies and a great teacher!!!
 Its Very interesting . I am able to get almost every thing and able to use it.
@@ -1646,7 +1586,6 @@ One of the best courses I had on Coursera. I would personally recommend this.
 A really good course! My web development knowledge has increased my so much!
 Very good experience by  this course for my web developing skills.Thank you.
 Great course . Starters can Start here become an expert in Web Development .
-Excellent course! Excellent Instructor! Best course I have done on Coursera.
 this course really help me to understand the fundamentals of web development
 A truly informative course for someone starting a web development career! :)
 Best Course along with Best Teacher!Learned Basic skills for web development
@@ -1691,7 +1630,6 @@ The content of this course is very good and this is the the best course.
 I Love this course, Teacher is also cool and chilled to learn us.thanks.
 Awesome class, very clear and systematic. Guide me into front web world.
 Brillant ...ONe of the Best courses I have seen with real time scenarios
-Muy bien explicado y ejemplos precisos para entender los diversos temas!
 helpful!It's a good course and help you to have a habit of using github.
 This is real HTML, CSS, and Javascript for Web Developers! Great course!
 I am learning a lot of things.Thank you Professor and thank you Coursera
@@ -1751,7 +1689,6 @@ Challenging and intensive enough, no slacking during video lectures.
 you will regret if you do't choose this course.Great Work sir :) (y)
 Excellent Course....Learn't the bascis of web development real quick
 Great course, help me a lot about the concepts about web-developing,
-Amazingly Concise, helped me get on my feet in Frontend Development
 Very inspiring lectures and assignments.! Thanks instructor Yaakov!
 One of the best courses I've ever had on coursera or anywhere else.
 Well presented and good materials by the instructor Yaakov Chaikin.
@@ -1771,7 +1708,6 @@ It is one of the best courses I ever took on Coursera. Great Work !
 Nice format, excellent instructor, interesting tasks and exercises.
 Great course for everyone who wants to start with web development.
 Excellent Course. Great Teacher and teaching style. Learned a lot.
-Grande aprendizado! Obrigada Coursera e Hopkins pela oportunidade!
 It's a good course for getting started on frontend web development
 Great Course! Highly recommend it. Yaakov is an excellent teacher.
 It's a complete course. Very useful and interesting. I'm satisfied
@@ -1868,7 +1804,6 @@ Finally it's simple to understand! Thank you for your work!
 Excellent Course and Perfect Prof. Yookov Chaikin :) :like:
 It is one of the best web development course for beginners
 The course and content are phenomenal. Highly recommended!
-Великолепно. Все что нужно новичку о Веб вы найдете здесь.
 It is a good teaching method for beginners to advanced....
 I really enjoyed learn my new coding skills from this site
 A course rich in knowledge, simplified and smooth teaching
@@ -1897,7 +1832,6 @@ Excellent course with information that is very practical.
 Congratulations, Yaakov and JHU team! Amazing course!  =]
 Great Course, Step by step, clear, usable.Thanks a lot !!
 Great course! Videos were extremely thorough and helpful.
-Excelente curso, todo bien explicado, lo disfrute mucho.
 Very Nice Course . From Rookie To Pro in Web Developing.
 Awesome Course for Web developer! Big thanks to Yaakov..
 The course is having in-depth knowledge for the begineer
@@ -1964,7 +1898,6 @@ Very well structured and presented. Great instructor.
 It's the best course and the best teacher I ever had!
 concise and clear, the right way to learn.
 Thank you.
-Wow! That  was amazing! Thank you Mr. Yaakov Chaikin!
 This course is just great, especially for beginners!
 Amazing course and a very good course for beginners!
 The course teacher and course were both fantastic :)
@@ -1976,7 +1909,6 @@ The teacher is very good at teaching and explaining!
 good course to learn things related to web designing
 It was great learning the course . Thanks a lot ! :)
 The best programming course that I have ever learned
-Excellent course, complete and fun, recommended 100%
 Think you Yaakov Chaiki !!!, it' a very nice course.
 I personally felt this course being very interactive
 Thank you for the amazing and very useful course! :)
@@ -2031,7 +1963,6 @@ Loved it. The teaching style and topics covered.
 The best course I met ever with a great  teacher
 Eye opener... made me work harder. Great course.
 Awesome course, it´s worth the time. Congrats!!!
-FEELING GRATE ON THIS SITE TO LEARN WITH EXPERTS
 Very clear explainations. A good quality course!
 Nice! I hope I can learn a lot form this course!
 this was really an excellent opportunity for me
@@ -2045,7 +1976,6 @@ This course is very helpful for beginners.!!!!!
 it was a very interesting and learnable course.
 great course. it just hurts when he eats alone.
 Great course really helpful and amazing lecture
-Мне курс очень понравился, спасибо вам огромное
 Good course for starting front end development.
 One of the best course to start for web design.
 mashallah excellence explanation by the teacher
@@ -2055,7 +1985,6 @@ Awesome course. Learned a lot about JavaScript.
 I was joined this course ,  thank you so much !
 Enjoying this course and hoping to keep going!!
 very good course， really learnt a lot!  Thanks!
-Muy buen curso para iniciar la programación web
 Excellent course and material. Good instructor.
 Excellent course..  very practical and didactic
 easy to understand and the teacher is very cute
@@ -2067,7 +1996,6 @@ Its nice course.Understand easily every point.
 Great Course and Teacher, thank ypu very much!
 great course for beginners for web development
 Awesome course, the instructor did a great job
-Great lessons.....!Excellent explanations....!
 Good Course and Prof. Yaakov is really great!!
 Got to learn and experience a lot. Loved it !
 Very nice course for learning web development
@@ -2076,9 +2004,7 @@ Excellent course. Mr Yaakov Chaikinis amazing
 Great course with a great teacher ! Thank You
 One of the most powerful courses in Coursera!
 Very good course content.thank you yakov sir.
-ótimo curso para uma qualificação reconhecida
 Great Course! Thanks Yaakov! Thanks Coursera!
-Excellent course! Perfect for quick learners.
 It's a great course to learn web development.
 JavaScript part especially worthy to look at.
 Fresh and with basic concepts well explained!
@@ -2089,8 +2015,6 @@ Excellent and involved course for beginners.
 Best experience with this course and faculty
 A very excellent  and well-explained course.
 Amazing course!! Got to learn amazing things
-best web development course for beginners!!!
-Très très bon cours. J'ai vraiment adoré ! !
 Great Course !! Learn Lot from this course..
 Very good teaching.Thanks you very much sir.
 I'm not best at this but I'm loving it guys!
@@ -2207,7 +2131,6 @@ The best course for beginner developer
 great course with enjoyable assigments
 Excellent introduction for this topic!
 i liked th course , easy to understand
-Excellent Course! Yaakov was too good!
 Great Course, and well taught as well!
 Best Course for Learning HTML and CSS
 The perfect course for the beginners.
@@ -2216,11 +2139,8 @@ nice and very effective for beginners
 its amazing course and very helpfull.
 I have enjoyed learning this courser.
 m very happy to learn these languages
-Best course for HTML,CSS & JavaScript
-Pretty detailed and beginner friendly
 meaning full course with good content
 If I can give than 5 stars I will do.
-muito bom com exercícios desafiadores
 Awesome course!! I really enjoyed it!
 Fantastic content and well delivered.
 spectecular. very special instructor.
@@ -2286,10 +2206,8 @@ Well-Explained & Efficient Course.
 This was really helpful.Thank you.
 It was really very good experience
 Best Course by Yaakov Chaikin sir.
-Best Teacher, Best Course Material
 Really a good and effective course
 Very informative and entertaining!
-Excellent course, great professor!
 Very good course.It's very usefull
 i learn lot of thing from coursera
 one of the best html/css/js course
@@ -2314,7 +2232,6 @@ great content, excellent teacher!
 Very well designed and elaborated
 Best Programming Lecture EVER!!!!
 Awesome... Excellent...Join Today
-可以学到很多基础的东西和工具，如果要继续的话，肯定需要更多的练习。
 great course. learn a lot. thanks
 Great course ! Highly recommend .
 Great course! I enjoyed it a lot!
@@ -2334,7 +2251,6 @@ Great course! Best teacher ever!
 Excellent course !  Thanks a lot
 The Best Course there is on Web!
 Great stuff! Highly recommended.
-Excellent course, i recommended!
 Course which learnt in best way!
 GREAT COURSE.......Learning alot
 Great course, very instructional
@@ -2396,10 +2312,8 @@ Very, very interesting course.
 Great intro to web development
 well done!awesome!thank you :)
 Nice and interesting course !
-Best Course I have ever seen.
 Great way to learn the basics
 Professor explains perfectly!
-GOOD JOB BY PROFESSOR CHAIKIN
 Great course I had ever seen!
 Brilliant course for starters
 great course.short and crisp.
@@ -2416,29 +2330,24 @@ My experience has been great.
 Awesome course. Thanks Yakoov
 The course was really good !!
 Awesome course! Learnt a lot!
-VERY CLEARLY, UNDERSTANDABLE.
 Excelent professor and course
 This course is really great !
 Great course! Great lecturer!
-Excellent.  Simply excellent.
 Awesome course! Thanks a lot!
 Must go for it. Very helpful
 Great course for a beginner!
-Superb! very amazing content
 collection of precious skill
 A very good quality course !
 Great course ever in my life
 Interesting and cool course!
 This course is Just Awesome.
 Great course, well detailed!
-Great course superb content!
 I really enjoyed the course.
 nice course and assingments.
 Nice Teacher and Nice course
 Very good teacher and course
 Absolutely loved this course
 wonderful course. Thank you.
-excellent instructor keep on
 its awesome to start with...
 Very well organized lecture.
 i love the course thankyou!
@@ -2448,12 +2357,10 @@ It's excellent. I loved it.
 feels good when you got it.
 i had an excellent teacher!
 perfect course for begineer
-Best Web Development Course
 This Course is just Awesome
 Module 5 was not very clear
 I hope lerned more with you
 Intensive, but learnt a lot
-Inspirational certification
 Good to learn bottom to top
 awesome course with example
 Very useful and interesting
@@ -2467,14 +2374,11 @@ Great Course for beginners
 was a very good experience
 Excellent!..great learning
 Nice and fun to learn here
-非常详细非常接地气，比我们学校老师不知道高到哪里去了
-Excellent for beginners...
 It was an excellent course
 Great tutorial! Thank you!
 Thank you for this course!
 great course for beginners
 Good Course for beginner !
-An Excellent Introduction!
 it's a five star Course :)
 Nice learning experience!
 good course for beginners
@@ -2483,13 +2387,10 @@ Good teaching by Coursera
 Amazing course. Loved it!
 easy and understandable:D
 the best class I have yet
-Fantastic coursera course
 Excellent way of teaching
 enjoyed doing this course
 Amazing Course..Thank you
-pretty simple and amazing
 Love this course to bits!
-老师讲解得很清晰易懂，课程内容由浅入深，值得学习！
 This course was very good
 Excellent Teaching Style!
 Very good course for web!
@@ -2501,12 +2402,9 @@ this tutorial is awesome.
 Good teaching, easy task!
 This course empowered me!
 Salute to the instructor!
-GOOOOOOOOOOOOOOOOOOOOOOOd
 Wow! Awesome information!
-Excellent presentation  !
 thanks for financial aid
 Great Course, Thank you!
-Best html5 css js course
 best course for beginers
 great course that i took
 it's a nice way to learn
@@ -2529,25 +2427,20 @@ Very thorough and clear.
 Very good, great teacher
 Great course! Thank you!
 It's been great journey
-html,css and javascript
 a great course to learn
 Great beginner's course
 It was a great  course.
 Learned a lot, thank Uh
 Really a great course!!
 This Course was awsome.
-best web for bigginers.
 Great experience for me
-学习到很多关于JavaScript的高级知识。
 Very Informative Course
 Great course. Thanks !!
 very good course forme.
 Enjoyable and educating
 Very clearly explained.
 Nice way of teaching :D
-Best course I've taken!
 the course is excellent
-Awesome course content!
 Excellent teaching !!!
 Good and interesting!!
 Great teaching method!
@@ -2566,11 +2459,9 @@ That is a Great Course
 Nice work! I loved it!
 A really great course!
 Great course! Love it!
-Excellent course! Thx!
 really good instructor
 I am happy and thanks
 Great. I learnt a lot
-Excellent Instructor.
 Really Great Course!!
 i enjoyed this course
 Great course to excel
@@ -2582,22 +2473,17 @@ really good i Like it
 It is good experience
 So easy to understand
 Very helpfull course.
-Yaakov is a good guy!
 Very helpful course !
 Very funny teacher :)
 Great course. Thanks.
-非常好的课程！讲解精彩，练习安排也很合理。
 Very cool course !!!!
 EXCELLENT instructor.
-One word - excellent!
 A really nice course!
-material muy completo
 Great! keep teaching!
 REALLY GREAT COURSE.
 It's a great course.
 Great Course indeed!
 Really great course!
-Excellent experience
 Very well teached :)
 The course was good.
 it was very helpful.
@@ -2615,13 +2501,10 @@ its a great course.
 Perfect. Thank you.
 HTML,CSS,JAVASCRIPT
 Excellent  teaching
-A great experience.
 Good course, thanks
 It's very helpful..
 great explanation..
 everything is good!
-Brilliant course ♥️
-excellent course!!!
 i love this course!
 A wonderful course.
 good study material
@@ -2637,23 +2520,14 @@ usefull information
 Awesome experience
 Vvery good course.
 Good. Very Helpful
-Excellent Course!!
 its awesome course
 Really nice course
 amazing cource,,,,
-VERY NICE CONTENT.
 Best Prof ever !!!
-niceee courseee!!!
-Excelent course !!
-Excellent cours !!
-Excellent Course !
-Thank you, Yaakov!
 thanks for teacher
 amazing proffesor!
 really awesome !!!
-Excellent course.!
 100% recommended.
-thanks yakuv sir!
 Extremely Helpful
 It was so helpful
 I really enjoy it
@@ -2661,120 +2535,66 @@ wonderful course.
 Very Great course
 Than you Coursera
 course is good !!
-Good For Beginner
 Good Explanations
 Really amazing !!
-excelent course..
-LAK NESHEYEK TOUK
-Yaakov is my hero
 Bravo and thanks!
 Very Good Course.
 Amazing course!!!
 Best class ever!!
 very good course!
 Good Explanation
-good bt too long
 Perfect teacher!
 Really educative
 Good instructor!
 very educational
 Wonderful class!
-simply excellent
 Best free course
 very interactive
 simple to follow
 really useful!!!
 useful and clear
-Great job Jakov!
-Basics- Best :)
-excelente curso
 course was good
 Its good course
 really helpfull
-Best so far !!!
 good course!!!!
 vary nice intro
 Simply The Best
-Nice Course !!!
 Great cours  :)
-Good, very good
 I was very nice
 Awesome Course.
 Great course!!!
 It's very good!
 Really nice...
 a bit outdated
-Good.Very good
-excellent !!!!
 Really oswmmmm
-Nice Course...
 Great Course!!
 Good teaching.
-Excellent work
 Its a good job
-Good....!!!!!!
-simply amazing
 Good Course !!
-great courses!
+great course..
 A great course
-Coolest Course
-Awsome course!
 Grt instructor
-Nice tutorial
-Super course!
 Lovely course
 awesome class
 it was awsome
 very useful..
-I'm loving it
 Great Courses
-I love it !!!
-very good....
 Just perfect!
 greate course
 that was good
-great course!
 nice teacher
-Best teacher
-very good!!!
-VVDDCCDCC DC
 great stuff!
 Really good.
-great work !
 mind blowing
 It's awesome
 Great Ideas
-very good .
 Thank you !
 thanks alot
-VERY GOOD!!
-cool course
-Awesome 👍
 good cours
 Thanks you
-Good stuff
 Just great
-Super dope
-Great fun!
-Best Ever!
-Noiiiiice!
-excellant
 NICE WORK
 Nice one!
 Great !!!
-Engaging!
-Excelent
-awesome！
-worhtit
-coolest
-Must do
-mbjbjb
-amazig
+Nice One
 Great!
-happy
-masst
-awsum
-很不错，
-/.
-gg
-TT

@@ -14,7 +14,6 @@ I wish it was more exhaustive, some of the sections referred to labs and content
 Good overview of the subject but limited and easy practical exercises.
 detailed. learned a significant amount on how GCP handles data.
 I didn't really like the woman instructor. She talk too fast...
-I liked end but begging was not so good
 Many repeated contents.
 Very condensed course. A lot of stuff to go through which is great but links to code, refereed documentation etc would be very helpful, especially when only mentioned in a video and not shown. At some points its possible to pause the video to note down where reference material can be found.
 Evan & Lak's lectures are very good, it went so seamless, but listening to Julie's lectures is hard work, she is rapid, I needed subtitles to comprehend the speech. Other opinions might be different, but; these are genuine ones from me, please note that there is no bias in my mind.
@@ -22,39 +21,32 @@ Really Interesting. If possible add one migration example from existing data war
 Good course but perhaps to make things stick, we would have used one project and built upon it. I felt like I was being tossed all over the place in terms of subjects and topics.
 Course material spends a little too much time promoting the benefits of GCP when it could be focusing on the technical aspects of using GCP
 The labs were awesome! The trainers in the video and in the demo were well prepared. The quizes however were short and not well thoughtful.
-Bom curso para ter uma visão inicial sobre Data Lakes e Data Warehouses. Poderia ter um pouco mais de Labs para masterizar melhor o tema.
 Pretty good. I wish they dig a little deeper into streaming versus batch ingestion, and also talked about BigQuery BI.
 There were few times when it was a bit confusing and took me some time to catch-up but overall it was a great course!!
 Not really much practice. A lot of In-depth details about Data Engineer job specifics and how it relates to GCP.
 This course lays the foundation of data engineering through the hands-on exercises on GCP services. Niceone!
 Some of the labs were repetition from the first course, but one had to go thru it, to get completion status
 Great course. I would have liked a bit more exploration into CLI through the console and console commands.
-Muy bueno, creo que el se puede mejorar los laboratorios, aveces parecen no tener relación con el tema.
 lab practice are good and expalination with example during lab practice are really well explained
 Excellent presentation, demos and labs. The last lab needs to have a little more time allocated.
-Bueno, enseña mucho de bigquery. Me gustaría profundizar mas en el clustering y el partitioner
 Over All, It was really great!! I learned a lot of new concepts!!! Thanks, Coursera Team!!!
 It was good course with hands on, The only thing you could add on is case study at the end
 This course is a good intro to Data Lakes, DW concepts. Week 2 content is the best!!
 Very good to understand how to structure data lakes and data warehouse on GCP.
 now i have a clear knowledge how data lakes and data warehouse managed in GCP
-Gostaria que os labs disponibilizasse maior tempo e elevasse a dificuldade;
 Demo/lab on transfer service is missing.  Its very important service
 Very interesting features to know about data engineering concepts.
 Deeper overview for Data Lakes and Data Warehousing concepts.
 Good course to start on modalisation on data lac
 To the point syllabus and well-designed labs.
 I am really enjoying learning theses courses.
-me gustaria ponerme mas retos practicos.
 More challenging labs but worthwhile.
 I liked the labs and demos over all
 Needed more demo and lab practises
-Bom curso, um pouco repetitivo.
 Biquery Covery is very good
 Few videos are bit speedy.
 Its okay, could be better
 Great overveiw.
-Excellent lab
 The course offers a nice description of what modern DWH means, which are the differences between classic DWH and cloud DWH. You have the chance to work with the new cloud concept on GCP.
 Great course that is organised in a way that makes the concepts easy to understand. Clustering is still a little confusing in terms of how it actual works behind the scenes, but how implement it and the value it adds in making quires efficient is crystal clear.
 Very detailed explanation on Data Lake and Data Ware house and use cases. Concepts of the Data types such as STRUCT and ARRAYS are explained very well and beneficial in Data modeling.
@@ -84,7 +76,6 @@ excellent.its being a great experince and feeling confidence for data engineerin
 Good introduction and overview of the field of data engineering, data lakes and modern data warehouses and a hands-on walkthrough of all the technologies related to solving these problems on GCP.
 A better understanding of BigQuery starts here. A vital resource for consultants,  data analysts, and product managers, and an important reference source for engineers and data scientists.
 I really like how the Google courses do not overwhelm the learner with too much information. The information was presented well and the labs were very practical with clear instructions.
-Muy interesante aprender funcionalidades nuevas que se pueden aprovechar de SQL en Bigquery. Tambien ver el workflow de un data engineering en GCP es similar al  que estoy utilizando
 Great course providing the fundamental concepts around Data Lakes, Data Warehouses, Schemas, ETL/ELT/EL, and specific Google GCP Technologies that help implement these concepts
 In depth course explaining how to build scalable & state of the art data lakes & data warehouse on GCS, CloudSQL, Bigquery. Ways to optimize bigquery & improve the schema
 This is a great course for people wishing to make a career in Data Engineering on the Google Cloud Platform. Highly recommended! Its simply superb!
@@ -131,11 +122,8 @@ Good point to start the selection of Data Lakes and Data Warehouses
 Very well explained concepts with n numbers of practice examples
 Great course in the Cloud Data Engineering Certification Journey
 I especially liked the more thorough lab on arrays and structs.
-Un curso muy completo donde aprendí muchos más servicios de GCP
 Learnt a lot about data warehousing and specifically bigquery
-Muy útil, trata los puntos claves necesarios para el examen
 Amazing journey is going on to learn google cloud platform.
-Estoy feliz de haber finalizado este curso. Muchas Gracias.
 This is the core of the Data Ware housing  infrastructure
 Good coverage of all contents required for the subject
 Great resource to know more about Big Query in detail
@@ -148,7 +136,6 @@ Very good understanding of Big query datawarehouse
 So much great information and several useful labs!
 This was a very good course. I loved it was great.
 very good. I liked so much. so learningful content
-GOOD CONCEPT ABOUT DATA LAKES AND DATA WAREHOUSE
 Good Materials and explanations of the concepts.
 Insightful and practical, Case-based material.
 Very friendly  training with powerful content
@@ -162,16 +149,12 @@ Very useful content to start with BigQuery
 Very nice contents and explanation. Thanks
 I really enjoyed learning about Big Query
 I really love the homework and practise.
-Excelente. Completamente recomendado.
 Good material with simply explanation
-Excellent Course...congratulations!
-Excellent content and experience.
 The course content was well done.
 Great learning so far, way to go!
 Happy to learn new things on GCP
 I think is a well rounded course
 A good way to introduce to GCP
-Ótimo treinamento! Inspirador!
 Awesome course, well explained
 Better evaluation than week 1
 Upgraded myself. Thank you
@@ -180,19 +163,11 @@ it was really good lesson
 Very interesting material
 short and simple course.
 Well constructed course
-Execelente Treinamento!
 thanks for the material
 it was really awsome!
 Absolutely beautiful!
 Quite Good Training
 Lecturers are good!
-Painfully awesome
 Interesting labs
 Awesome training
-Happy learning.
 nice thank you
-c'est géniale
-great labs
-Elegant
-ok ok
-qwe

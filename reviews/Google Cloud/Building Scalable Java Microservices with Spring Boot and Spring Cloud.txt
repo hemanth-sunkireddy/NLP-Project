@@ -6,7 +6,6 @@ There is nothing to do here in the Audit mode. If you are not willing to pay, yo
 Google Cloud, Kubernetes, Spring Boot, etc are cool exciting technologies themselves, but I don´t feel this course is worth the time and money. 
 In the first place, the lectures are bare boned and completely content devoid. They get to explain little more than what can be accomplished through a couple of web searches. Then there is the labs, which consist pretty much of dumb lists of steps to take, with no further explanation provided, and which pose no challenge at all. At least you get to fiddle around with the Qwiklabs thing, the Google Cloud Shell and the Google Cloud API manager, which are really cool... and that would be the only redeeming feature to be found here. 
 Moreover, the course is scheduled to be done in two weeks, but it can be easily completed in a couple of evenings (fiddling with the provided Spring App, the API manager, and all). Such is the lack of actual content this course provides. The icing of the cake comes when you get to the Qwiklabs introduction video, which has been borrowed from another course. Like, they haven´t even bothered to purposely make one for this course.
-Lab 12 has issues
 Very disappointing. It's basicly a showcase for the google platform. I haven't learned anything new about Microservices and all Spring Boot examples are specificly for the google cloud platform. Almost all labs malfunctioned at some point. I managed to complete just the first ones, after that it was a struggle. Getting your grades eventually means opening the lab, logging in, excepting terms and closing the lab again. Doing the assignment is optional. The assignment is merely a copy paste commands into the console by the way. Even my 10 year old son could make it to the end...Absolutely not a course that should be on Coursera!
 This pathetic course, please dont buy any course at courseera. They dont have any customer support or chat line. Also the material is worst. Every lab full with issues and errors and ultimately you will not complete any one of them. At end they offered you certificate without any lab completion or learning. How can I get certificate from Google cloud without any learning or completion of assignment? This is full fake website and not recommended to anyone.
 Most of the labs included in this course don't give the expected outputs. There is no support provided if any command doesn't give the expected output. The learning path is mostly copy pasting and doesn't help much in upskilling.
@@ -35,14 +34,10 @@ Hard to follow instructions.
 Althoug course is great for learning about GCP, very few info is provided about Spring boot itself. I was expecting to learn also about Spring boot, which I had to do myself becasue the course does not cover it, even the mos simplest info.Also there are some labs not working due to kubernetes unssoported versions.
 Unfortunately in this course you won't learn much about neither Spring Boot nor Spring Cloud. You'll just learn the concepts by using the GCP platform but that's it. A part from that, labs are interesting and well done.
 Interesting, but are GCP LABS and does not teach spring framework
-Чисто рекламный курс.
 The material is great. However, labs are not ready and has many bugs it requires knowledge in maven and previous experience in troubleshooting to apply all of the labs. Otherwise, following the instructions as is will not qualify the student to successfully implement them.
 There were some mistakes in exercises and sometimes there was not a clarity of actions in exercise, but on the whole, the course was very good for practical introduction to google cloud tools for java web developers.
 Became aware of various aspects but getting out without much in-depth knowledge.  Maybe there is another course that I have to participate in.  Thanks a ton for your help in preparing this & the lab is awesome.
 Some Labs not working as intended, some are not prepare to work with JDK 11 (missing dependencies) and some are not loading resources from the bucket. Not too much explanation or documentation.
-La práctica está bastante bien, pero hay poca información en
-los videos, estaría bien que fueran más extensos para posteriormente tener más
-claro la práctica a realizar.
 Nice introduction to Google cloud platform. I was expcting more in deep learning of microservices and the practices are too easy (you have just to copy and paste).
 There were quite a few problems in qwiklabs due to timeout issues, otherwise the coverage of topics are good.
 course is quit good if you are beginner in Microservices then for this course Thank you and All the best. :)
@@ -51,9 +46,7 @@ Less learning about spring-boot, the main focus was on google cloud tools
 Deploying the same app multiple times was a bit repetitive.
 It was a good experience with brief intro and parallel lab
 Good starting point but most of the labs dont work.
-Algunos recursos no funcionan por completo
 Packages and labs with many errors.
-falta mas sobre la arquitectura
 Good practice on GCP.
 module is jam pack with concepts , content is easily understand and follow by even a newbie like me ;)But when it comes to the lab, some missing pieces, scripts, folders. Some instructions just not clear enough to guide users. Students can easily get lost. Strongly suggest to provide alternative as to what shuold be the end result once file had been altered. That would help to gauge expectation and avoid lost in instructions which commonly leads to losing interest.Just my 2 cents as Instructor
 A good starter for spring boot developers. Week  2 labs will be very easy for developers who are already familiar with basic linux shell scripting and basic cloud computing terminologies. The quicklabs provide an easy way to explore the GCP console options. Found it very easy to follow the quicklabs.  There might be a few tiny issues here and there but as you go ahead with the labs you might realize the mistakes previously made.
@@ -70,12 +63,10 @@ I liked the hands on part of the course but wish there was more back up with con
 Wrote my review on my personal blog: https://nmenego.github.io/2020/07/18/building-scalable-java-microservices-with-spring-boot-and-spring-cloud/
 This course was very insightful in understanding GCP APIs but it heavily relies on dependencies from Google instead of spring's own libraries.
 Nice course if you are looking for an overview of Google Cloud Platform.  It covers use of spring starters for various GCP PaaS services.
-Muy buen curso aunque no aborda muchos temas de Spring en sí. Se aprovechan de Java/Spring para lucir los servicios de Google Cloud.
 A very interesting course ! Unfortunately I faced some technical problems but I could solve them with online research
 It was great experience. Assignments are quite handy and gives exposure to commands and good learning in an easy way.
 Very good, but it is not completely updated and the Cloud Spanner laboratory could not do it since it does not work.
 There were few labs instructions which were not correct. Thus giving it a 4/5 stars. Overall it was a good course
-Excelente curso para migrar las aplicaciones al cloud siempre que se tenga los conocimientos básicos de spring
 A good start, but a little bit simple.If there is a Specialization of Spring Boot and GCP, I'd love to enrol.
 It was good.It will be good if student will have the opportunity to write microservice code itself.
 Some labs don't work oob. I think there free resources with similar quality in Google QWikLabs.
@@ -89,7 +80,6 @@ Outstanding content and methodology, amazing lab excercises!
 I liked the labs, but the final lab did not work properly
 Complete exposure for any programmer to the GCP platform
 More practise would give more hands-on experience.
-great course but expect more video tutorial
 Very nice to focus on practicing GCP skills
 For starters it's a pretty complete course.
 Looks good on practical stuff
@@ -105,7 +95,6 @@ The hands on nature was incredible! The course was a fantastic overview of a bro
 Its wonderful Experience with plenty of explanation on the topics covered inn each of the tasks. it really helped my self to build Micro Service based application enabled with GCP Services
 The labs in this course are a fantastic introduction to both Google Cloud and Spring Boot - I'd recommend it to anyone looking for a place to start with either.
 A really good  to present the entire landscape of  Infrastructure in a concise format.  provides a good comparison of all the latest technologies and offerings.
-Excelente curso, muy completo y brinda todo el conocimiento necesario para desplegar aplicaciones como microservicios en la plataforma provista por Google
 It's a truly amazing course, with each practice you learn something new and it makes you fall in love with cloud computing and the good GCP interface
 Good course to get started with GCP. I feel we can reduce the waiting time of copying project everytime and storing it on local instance created
 Learnt a lot about Google Cloud Platform and how can we use it our Java Application using Spring Boot which is the widely used Spring Framework
@@ -124,12 +113,9 @@ useful course. Got very good experience working with GCP services
 loading the bucket is a bit slow otherwise the course is pretty good
 It's a really good treaning with all clear stuffs, with hand's on .
 It was really fun to learn and good way to run coding with ease.
-Well planned course structure. Good lab environment and support.
 I'm extremely satisfied with the course. Thank you very much
 Got to learn a lot of topics with great hands on experience.
 Excellent course with detail explanation about google cloud
-Excelente Curso, a Google Cloud Training está de parabéns.
-Es muy intuitivo el curso y los talleres son excelente.
 Good, useful but Qwiklabs is kind of slow and unstable
 Good course to start journey on GCP with Spring Boot.
 It was very helpful for me to understand Spring Boot.
@@ -140,10 +126,8 @@ The codebase should be updated and maintained.
 NicewaytolearnGCP and kubernetes ! Thank you !
 This course is really useful!!... Thank you!
 very good to have an idea overview about GCP
-Отличный курс но желательно побольше теории
 I liked so much this course, I recommended.
 The course is very good and great learning
-Excellent content and practical exercises
 Thank you very much for this good course
 good super experience with the training
 Very Good Course To Learn MicroServices
@@ -152,11 +136,9 @@ It was a very knowledgeble course
 Best Labs and hands on experience
 Good Hands-On with detailed steps
 Great Opportunity for learning
-Excelente curso, recomendado!
 Superb Learning platform..
 It's a nice starting point
 Short and Simple Course
 wonderfull course.
 good experience.
-Nce content
 very ace

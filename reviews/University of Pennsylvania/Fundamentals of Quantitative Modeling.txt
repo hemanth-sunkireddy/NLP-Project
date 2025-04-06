@@ -6,9 +6,7 @@ The course is poor. Exams are too easy, video lessons are boring and not engagin
 I thought that course was more specific. I will expect more applications examples.
 It's too easy ... I can learn this on google.
 boring, it doesn't like other quants course.
-bof, pas assez concret pour mon travail
 worst app for studying
-Locked quizzes :(
 it was trivial
 the course is mere naming of concepts used in modeling with no actual way of learning how to practise the things taught in the course :(
 Needs more interaction from the teacher. Use animations to make the math more understandable or dynamic. Consider adding practice problems as a check to see if students are understanding the concepts.
@@ -109,14 +107,11 @@ please improve hand-out for self study.
 Good and nice Analysis of each model
 A little too basic, but still good.
 Review of simple high school math
-Way, way too basic and hand wavy.
 the lecturer is kind of boring
 This course is for beginners
-PractIcle Examples???
 Basic but informative
 Good but too easy
 This course has the right approach to the beginner. I thoroughly enjoyed the course. I learned the basics of how can we relate a quantitative models in real world business.
-Good fundamental lessons!
 The information in the course seems appropriate for an introductory level class and is presented clearly and in an understandable manner; the theoretical portion of the course is solid. Having said that, the course could do with more exercises and practice tests in which you can apply and understand the formulas, how they are used, and why. The arithmetic component of the course felt glossed over and while that was not the focus of the course a few extra exercises could make things clearer and would not be a burden.
 
 Fundamental knowledge of probability/statistics will help you better understand some of the concepts in the course, so if you have the time you could try checking those subjects before, or even while, studying this course.Didactically, looking at the instructor's face for long periods of time gets tedious after a while, but this is just a minor issue.
@@ -206,7 +201,6 @@ In-depth explanation of the theory. However, the class could've been more engagi
 I found the course very interesting. My only regret is that the course was only four weeks long, as I found myself wanting to dig further into the different types of models.
 It was surprisingly simplified, the graphical illustrations and citing real examples helped to understand the equations better. It was a great learning experience for me.
 Overall good high-level explanation of the material. The only thing that I dislike is that there is no "homework" or problem set with which we can test our understanding.
-Muy explicativo en modelamiento matemático pero buscaba aprender mas de finanzas ya que conocía la mayoría de los contenidos por asignaturas cursadas en la universidad.
 Enjoyed the course.  GREAT INSTRUCTION.  Course material matched expectations on the exam.  Overall, the course provided a solid introduction to Quantitative Modeling.
 I knew nothing about modeling until I took this course. Upon completion, I definitely know more now and am looking forward to taking other classes in this discipline.
 Quite a nice introduction though definitions of the various compenents contained within all of the formulas could be more clearly defined and displayed on the slides.
@@ -225,7 +219,6 @@ Course is good. I think it should contain spread sheets with linear and multiple
 The lecturer was very clear and concise in explaining concepts, and the examples and illustrations used were very suitable. I enjoyed the course.
 Very clear explanation of the concepts and provides practical examples. The course is easy to follow.  But the Quiz is a little bit too easy...
 Very well done. Easy to follow and covered a good amount of material. Would have preferred a little more of the math behind some of the models.
-É bastante didático, mas senti a falta de alguns detalhes tais como o passo a passo de como é realizado o cálculo em um software, por exemplo.
 A great course that provides all the key introductory elements that are needed in order to acquire basic quantitative skills and perspective.
 unnecessarily complicated use of phrases. Very easy, uses Highschool math to get youself fresh again in the related topics. Would recommend.
 The interface is not that great. Leaving a video at a particular time must continue from that exact point to make it easier for the learner.
@@ -245,7 +238,6 @@ It  was really helpful to learn the basic of quantitative Modeling Never thought
 A few concepts where not completely clear but as fundamentals the course gave me the ideal mind set to continue my certification.
 A really good introduction to Quantitative Models. I will personally recommend it for beginners since it wraps up main concepts.
 Very very informative course, only problem is, the content is kind of dry so it requires a little more dedication than average.
-Buen curso, pero mas que nada para las nociones básicas, no lo recomiendo si ya se tiene manejo de herramientas estadísticas.
 After getting the results of a test, it would be helpful to get an explanation of questions that a wrong answer was selected.
 Good basics, thoroughly developed from one step to the next. Thanks also to the course forum participans for the discussions
 This course really helps in understanding mathematical functions and gives you a good foundation in quantitative modelling.
@@ -268,7 +260,6 @@ Very wonderful experience so far. I began to see a practical side of the quantit
 A good starting point for quantitative modeling. I am looking forward to taking the next courses in the series.
 Really interesting and insightful, however, It could have included more examples and a little bit less theory.
 good explanations, lecture is easily understandable. quite easy material if you really want to work with maths
-Buen curso como introducción a la modelización, aunque deberían incluir ejercicios prácticos y algún software.
 Could use more excel based exercises and examples but overall good broad explanations of different models
 More examples should be given to make us understand the concepts better. Otherwise, the course is good.
 Demostrating example is spreadsheet or R, would be a very helpful tool to understand the course better.
@@ -289,13 +280,11 @@ Straight and too the point. Worth the time watching the videos for the ability t
 Fantastic tutor and very relevant to what I was trying to understand about quantitative models.
 Not enough explanation on the calculations, especially considering they were used in the tests
 The learning offers the best experience. the videos are clear and the content is what i needed
-Excelente me gusto como se explicaron los conceptos, quisiera que incluyan ejemplos en excel.
 Thankyou coursera for providing me chance tolearn such a useful course with excellent faculty
 Good overview. However, much of this information was even more basic than I had anticipated.
 Great Course. However, It is a little too basic for me.I think It best fits for someone new.
 Very basic course - a little too easy. The questions & assignments could have been better.
 Really nice. But some practical examples would be helpful to really integrate the course.
-Me pareció un bueno curso, sin embargo considero que deberían de otorgar casos prácticos.
 It was a good refresh of mathematical functions and the most common quantitative models
 Good level of detail and math for application use, though not for theoretical analysis.
 It is very basic module without any insight into the mathematical details of the topic
@@ -365,7 +354,6 @@ Very insightful and easy to comprehend.
 Understand types of model in general
 Very well summarised and explained.
 Have certain degree of difficulty.
-very fundamental but quite useful
 Good..can be made more practical!
 We need more practical examples.
 Its a quite interesting course
@@ -381,18 +369,12 @@ Useful, but very basic
 Good overview course.
 Is it really useful?
 Informative but asy
-basico, pero bien.
 Clear and concise
-Needs more detail
 A bit too basic.
 can be improved
 somewhat simple
-Too elementary
-GREAT MATERIAL
 Basic Course
-有一点简单，很基础的课程
 Good review
-Too simple
 I really enjoyed this course. Although I have had exposure to these topics in the past I really enjoyed the teaching style, the clarity with which the topics were presented, and the practical applications. Additionally I found the Coursera platform useful as I could pause, 'rewind', and review concepts as needed.
 Very good background to quantitative modelling. It gets a bit heavy on the mathematical formulas in places, but if you follow through, it helps cement understanding. Good speed/pace of material.
 Richard Waterman is good at explaining. The level is basic but he advances some useful interpretations of common expressions. For someone like myself with experience in modeling in a different field (biological processes) the examples from the business world are very much appreciated. Learning modeling and statistics is not hard. The hard part is becoming wise at using them. Modeling won't spare you from being creative.
@@ -413,7 +395,6 @@ The teacher has clear logic in class and can explain quantitative modeling syste
 Very easy to follow, and a very suitable introductory class.
 Fantastic course. Easy to pick and a great teacher.
 It's very easy to understand.
-Very engaging class. Thanks
 AMAGING COURSE
 This course was wonderfully thought out and very well organized. The professor did an amazing job introducing modeling concepts and then breaking them down in very clear, concise points so you also can understand the underlying purpose of those concepts. The examples are all very well laid out to help you further understand this course. The quizzes were simple, but they did help reinforce the information taught in each module. Some questions weren't technically covered in the module, but you could easily extrapolate from the information given to come to the correct conclusion. I would definitely recommend this course to anyone who had an interest in forming a foundational understanding of basic financial models.
 I'm an economics grad who passed out a few years ago and was looking to learn quant modelling. I learnt these concepts in school but the way it was taught in this course was precise and better because of the examples. The course does make more sense if you have learnt calculus in school but now you have softwares to do that. Each module has an introduction which articulates very clearly what you can expect to learn and the summary beautifully wraps up what you learnt to give you a quick overview just before the quiz. I thoroughly enjoyed this course more than I did in school. Would recommend to econ students who want to get a refresher course in econometrics!
@@ -458,7 +439,6 @@ This really is the first course I have seen which truly deals with understanding
 As the name of the course states, we went through the fundamentals of quantitative modeling. I come from an Economics background, so the course was not very challenging but the quality of the course is very high and I do see how other people with no background in business/finance/economics could immensely benefit from it.
 A great course conducted by a great professor! I would recommend this course to anyone who has an interest in learning about Statistics and the fundamentals of how it's used in modelling. If you have a perpetual fear of math, don't worry, this course is made super simple by the professor and even a Math novice can ace it.
 I would say that this course requires a good understanding of mathematics. This course deals with numerous concepts related to statistics. The teacher does an excellent job of explicating these concepts, yet students may need external resources (i.e., Wikipedia, Youtube, etc.) to aid in the understanding.
-Gracias por permitirme tomar este curso, ha sido de gran ayuda para complementar mis conocimientos financieros y en especial conocer como se estructuran los modelos financieros desde identificar la data hasta optimizar el modelo/función. Me servirá para trabajar en optimizaciones de procesos de negocio.
 It was challenging but the tutor's pace of speech was measured (and you can always rewind) and the examples were practical. I can't say I completely understand but I'm definitely starting to think more logically and have more of an understanding of what models to use for different scenarios. Thank you.
 It is a very helpful class to introduce the basic quantitative theories and terminologies required. The difficulty of the class if perfect for the people who doesn't have any financial background but having some mathematical background will certainly help in understanding this course.
 It will be great if there are more examples of applications and a feedback about the resolution of the problems and explanations once you have the certificate and you solve all the doubts and the failed ones. Thanks, it was excellent in general and pretty clear for foreign speakers!
@@ -525,7 +505,6 @@ I always used to wonder what Regression means and why the term was being thrown 
 This course helped me to understand, the main concepts about modeling with log, linear power and exponentials functions with very interesting examples of the real life, highly recommended.
 This course has fundamentals of statistics. Course content is to the point and covers in depth using examples. However, brushing up of stats 101 is required before starting the course.
 It was a wonderful experience. The amount of knowledge have been able to acquired within the short while is quite unimaginable. I'm not the same person as at when I started the course.
-Es un curso muy completo como introducción al curso de Negocios y Modelos financieros. El profesor explica las cosas formal además de que siempre te da ejemplos que suceden día a día.
 The teacher explains well, in a clear and concise way, he thinks systematically and models problems easily, he also gives many appropriate examples so that you understand the subject.
 Excellent refresher course. Breaks down difficult concepts into easy-to-absorb heuristics. Perfect course for someone new to modelling and a good refresher for a seasoned modeler.
 This was an awesome course on quantitative modeling. The beauty of math in business modeling is clearly shown here. Very enthusiastic explanation. Thanks for such a great course!
@@ -533,15 +512,12 @@ It's an interesting and insightful course. I'd reccomend anyone with interest in
 There is some small confusion with some of the quiz answers, but the staff/respondents are quick to reply and give the best answer they can that helps with actual understanding.
 This is a concise and practical overview of the fundamental math techniques applied in quantitative models for business. It only took a few hours and was very clearly explained
 This course has provided me a great knowledge regardinhg Mathamatical functions. Has helped me to polish my skills and is a great stepping stone to my main target the Capstone
-Lembrando que o curso é introdutório, então, não esperem grandes trabalhos nisso. Mas como segue uma sequência, fica a recomendação. A especialização da Wharton é sensacional!
 Professor is engaging and explains well, which is very important!  Some are just such a bore I just fall asleep.  Wish there were more details and demonstration on modelling.
 A great introduction to the modelling process for a novice. The instructor does a great job. Examples provided to help explain concepts make the entire learning process easy.
 It was great to learn how to use mathematical functions in real life business problems! I am glad I had to take this course in one of the top international business schools!
-A didática do curso é incrível, nos permite pensar fora da caixa através de exemplos claros e reais.  O curso trouxe de volta a minha paixão por matemática e pelos números.
 Very good introduction to modeling. Only improvement would be to show your correct/incorrect answers on the Quizzes to allow you to understand where you had missed a point.
 Professor Waterman clearly explained every single concept as though the student had never come across it before, and made everthing very easy to understand. Great course.
 NIce course for beginners but the content is too easy. The content of the course should be made little tougher as well as more elaborative. The quizzes are also too easy.
-Estuvo excelente, aunque había visto la mayoría en mi curso de pregrado sé que este tema no es para todos y es la base para poder modelar los modelos de aquí en adelante
 Good teacher. Explaining the terms step by step without a hurry. I think this course is designed to give the fundamentals needed to do quantitative Modeling. Good Job !
 Through this course, I've learned basic knowledge and concepts of Quantitative modeling. It is helpful to getting  general ideas and learning useful terms for modeling.
 Well organized course particularly from the second week. Week 1 is too basic and more material could be added to the course, making a 10 hrs course even more suitable.
@@ -561,9 +537,7 @@ The lecturers were always ended with summarizing the models and equations, which
 It makes you really understand all the important concepts in a wholesome manner and an essential stepping stone for future courses related to quant. analysis,
 The instructor explains it very well. For a person who had basic stats knowledge, this course has made Quantitative modeling so much fun! Highly recommended!!
 The course provides a comprehensive yet practical overview of the various methods of modeling. The narrative and slides are crisp and "straight to the point."
-Excelente! me ha brindado una vision muy completa de los fundamentos de Quantitative Modeling. Profundizando en los puntos claves con claridad y practicidad.
 Great summary of fundamental concepts. Really appreciated the varied examples as it showed how the concepts are used practically instead of seeming abstract.
-Excelente curso, los temas se explicaron de una manera muy sencilla y los ejemplos fueron muy útiles a la hora de entender la aplicación real de cada tópico.
 This is a very good course, the explanations are great. If you need to recall the concepts regarding Quantitative Modeling then this is a great way to start.
 Very good introductory material. Complex things broken down and explained in very simple terms by the instructor. Thank you so much for providing the course.
 Teaching style and emphasis on key concepts is commendable. Apposite use of real life problems and examples makes the course and course more comprehensible.
@@ -608,7 +582,6 @@ The concepts have been very well explained and thank you Professor Waterman.I wi
 Fundamentals of Quantitative Modeling. Nothing more - nothing less. This course will give you great introduction in the field of modeling.
 This is my first learning experience from Coursera.  Neatly explained and well understandable. Many thanks to Professor Richard Waterman.
 Its really good for a beginner. Nicely explained and designed for the purpose of quick learning. Will take the next level of course now.
-Este es un curso excelente para aumentar el entendimiento del racional, aplicaciones y limitaciones detrás de los modelos cuantitativos.
 A basic course on quantitative modeling, but provides a big picture and key concepts and models, and clearly presented - a great course.
 very interesting course.  I am in the middle of changing my careers, and I thought this course and subsequent specialization would help
 Highly informative, well explained and overall fantastic learning experience. Will gladly enroll in more courses of the specialization!
@@ -738,7 +711,6 @@ Wonderfully delivered!!! Even doctorates can explain the concepts in a simplisti
 Good introduction to elements of quantitative analysis and modeling for business operations.
 Very well structured course, covers all the important concepts of different types of models
 i really learnt a lot of things thanks to this course, thank you coursera and thaks teacher
-Fornece uma visão geral muito clara e fácil de entender sobre as metodologias de modelagem.
 Very clear and easy pace, and very interesting, looking forward for another Wharton course.
 Great introductory course to quantitative modeling with examples of practical applications.
 The presentation in the PPT is very clear. Also, the teacher is very logical. Thanks a lot
@@ -773,7 +745,6 @@ Richard Waterman has cleared many of my concepts. Great course. Highly recommend
 I enjoyed the professor and thought that the given power points were very valuable.
 very good course. would like a financial modelling course as well for fundamentals.
 The way of explanation was really good. The examples and slides were to the points.
-Muy educativo y bastante dinámica, te brinda toda la base de modelos cuantitativos
 Very useful examples and explanations were straightforward and easy to understand.
 Great course with a great instructor; would have been interesting to model though.
 An excellent course content delivered by an equally excellent instructor/professor
@@ -886,7 +857,6 @@ Good repetition of basics knowledge with practical examples
 Great introduction to modelling. Explained with simplicity.
 Very useful module and very well explained!Congratulations!
 The course is wonderful!!!!! And i have a good score, HAHA!
-Excelente curso, muy sencillo y con muy buen nivel tecnico
 Excellent course to understand the foundations of modeling
 I learned a lot while doing this course... really helpful
 in this course to very good learn, useful for the course.
@@ -911,7 +881,6 @@ Good high level overview of basic models + regression
 This is a best course to understand the fundamentals.
 Easy and productivity for people technical education
 Learner-friendly explanation with relatable examples
-Very Well structured for a beginner like me. Thanks
 Great course and the professor taught it very well.
 Great Video and study material. Learnt a great deal
 Very helpful course!I learned a lot about modeling!
@@ -974,7 +943,6 @@ Excellent course with relevant examples.
 Very interesting and informative course!
 Good quality of presentation and slides.
 Excellent Course, Would Highly Recommend
-Excellent introduction for a 'non-Quant'
 great refresher on quantitative modeling
 Very engaging and informative. Loved it.
 Concepts were made so ease to understand
@@ -988,7 +956,6 @@ Great process, content, and instructor!
 Very nicely explained and very useful.
 Learnt many new processes of modeling.
 Super amazing course & teaching style.
-希望老师可以讲得更深入一些，觉得有一些浅显，可以习题也很简单。不过谢谢老师啦
 Very well done and easy to understand.
 Great introductory course on modeling.
 It's great content of modeling course
@@ -997,7 +964,6 @@ Very interesting & easy to understand
 Excellent! God bless!  All the best!
 A great course with a great theacher
 very helpful with the examples given
-excellent, great presentation skills
 Great lesson, very clear explanation
 Great course with easy explanations.
 Great info and analysis introduction
@@ -1021,7 +987,6 @@ On point with excellent examples.
 Very good course, well explained.
 I love the content of this course
 Excellent foundational knowledge.
-I do learn a lot about model !!!
 What a great learning experience
 Loved this course and Professor.
 Very insightful and challenging.
@@ -1049,43 +1014,34 @@ The course was well taught!
 Good introductive course !!
 The course is well designed
 nice foundation level breif
-Great starter for beginners
 this  is an amazing course.
 Great material, thank you.
 Cleared so many confusions
 Lots of learning. Amazing.
 great content and teaching
-Muito bom, muita didática!
 So clear and interesting !
 Great Introductory Course!
 Great Experience.Thank you
-An excellent introduction.
 Very nice skills to learn
-Gran curso introductorio.
 Great prof！！Great class!!
 The course helps me a lot
-Great fundamental course.
 A life-beneficial course!
 great practical learning.
 Great content, thank you
 furnished review earlier
 Very clear and succinct!
-Excellent for Beginner's
 It's very useful for me!
 Nice course to modeling!
 Very good course so far.
 Absolutely Brilliant!!!
 I have learned a lot :)
 It's an amazing course.
-Slides was very helpful
-quite simple and useful
 useful for the initials
 Well explained concepts
 explained really well.
 Great course to learn!
 Increase the detailing
 This course is useful.
-Course well documented
 Great course with some
 Awesome at all levels
 Amazing, great class!
@@ -1096,15 +1052,10 @@ Well taught course!
 Love those examples
 Very informative .
 insightful course!
-Excellent overview
-I have enjoyed it!
-tres interessant!!
 Simply fantastic.
 REALLY INSIGHTFUL
 great explenation
 Pretty awesome!!!
-Fantastic course
-Juste ... génial
 Very impressing.
 Simple but good
 well explained.
@@ -1113,17 +1064,8 @@ nicely covered.
 Good professor
 Very thorough.
 Very specific!
-Amazing sir..!
 Very useful!!!
-Super Helpfull
-Great lecturer
-I love UPenn!
 Learned much.
 Perfect pace
 good class！
 great one!
-so useful
-Useful!
-不错的课程。
-sdfd
-C

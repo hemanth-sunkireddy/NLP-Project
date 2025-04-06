@@ -6,7 +6,6 @@ They said we will be given option to advertise our cerificates to many enumerate
 Courses developed for people who didn't see computers and Internets in their life even one time. Good for my grandmom.
 terrible support when u have problems using there software for labs! and by terrible i mean zero support!
 just horrible through and through. did not learn a single thing. no redeeming qualities what so ever.
-So boring, only talking and talking!
 for id verification
 Interesting course. I loved covering security policies and digital threats. However, the virtual machines in this course wouldn't give me a grade after numerous, perfect completions. It was extremely upsetting to know that I literally did everything else perfectly, but can't get my grade in two labs. This means that I have to wait an undisclosed amount of time before I can get my certification. I have done everything else.
 The course was very information and easy to follow I am not fond of the peer reviewed assignment, because I am done with this course, but I have to wait until someone grades my final peer assignment to be done with the complete course. I had to resubmit my final peer assignment three times, because my peers were not giving me any credit for recommendations that I clearly wrote. I appreciated the criticism, but I strongly believe that it is unfair to give someone no credit for something they they did do. In addition, there is no detailed rubric given prior to completing the final peer graded assignment.
@@ -54,8 +53,6 @@ was not hard enough after the first 2 courses.
 practical explanation is required
 A good course. I recomend it
 It was interesting
-Needs some work.
-it wasok
 It's a good course. They definitely teach you all ground basic concepts. However I WISH they would have involved classes on how to properly set up a router, build a server from scratch, you know things like that. WOULD HAVE BEEN AWESOME!Overall is a good course if you have no knowledge at all and I would definitely recommend it.
 This one was tough, but worth it. The peer review project is best worked on as you go through the course.
 The content is good, the instructor is great - although mainly reading the text most of the time instead of explaining the stuff more fluidly.. I only gave 4 stars because the way the course is presented, there's a lot of theory, which is good, but the application of all this theory through practical examples is what's missing. I think is a great initiative by Google, and the course provides a lot of understanding of what is going on with all the security protocols and cryptography, but it really misses on the practical aspect, lacking exercises with real world applications of the content presented, which are as important as the theory itself. Thank you Google for the initiative and hope I could give you and all the people who's wanting to take this course a little to think about.
@@ -142,7 +139,6 @@ Very common sense social instructions. Technical portion to reinforce the social
 I made it!. I may forget a lot of this, but at least I can sat I sat down and completed it.
 The google console is extremely glitchy and delays or inhibits completion of the course.
 It was a difficult course, which needed some more presentation format but i enjoyed it
-Falto temas sobre ciencia de datos o inteligencia artificial aplicado a ciberseguridad
 in general it's great and contains a lot of information, but could be better organized
 Informative but hard. A rubric prior to finishing the final project would be great!
 The course was super exciting with the hands-on tool. Thank you for this course.
@@ -198,13 +194,9 @@ good beginner course
 course is good....
 A great course 👍
 It was fun course
-Easy and good!
 Was very Nice
 It's Great!
-great 4.5/5
-NIce course
 very well.
-moo nice
 I learned so much more from this course. More than 2 years of courses at a college. Thank you to those who worked on putting this course together.
 Very tough course with a lot of information on creating the best security possible for an individual computer, or an enterprise.  The peer reviewed assignment will make you re-evaluate everything you learned and force you to provide ample detail for each area you are required to supply an answer for.  No beginners or intermediate learners will pass the peer review the first time; it is difficult, but because of that I know more than I did after submitting my first peer review!  Kudos!!
 I am absolutely mind-blown!Thank you for making me believe in myself.All the instructors have done a fabulous job at delivering their profound knowledge so beautifully.Really.....I can't thank you enough Coursera for helping me get through 6 whole courses!And for introducing me to a new version of myself.You deserve the best!Regards,Your IT Support Specialist graduate,Alina Nadeem
@@ -261,7 +253,6 @@ A Very Important Aspect of IT which is Security and defense is covered brilliant
 I greatly enjoyed this course.  I was a great intro in to the Security sector of IT and gave me a great foundation to move into my new career.  The pacing and the information and well as the presenter were all fantastic.  I especially enjoy the hands on labs, which gave me some much needed experience with the command line command use.
 This was an informative, interesting, and one of the more important modules. Some of the videos had a lot of details which could potentially lose the attention of the viewer, but Gian led us through it in a clear and concise manner. When he would interject his humor, it came across as natural and genuine, and not forced.
 It is vital to know how to protect our IT infrastructures from the digital dark arts. This course gives a valuable and overall introduction to preparing us to understand the many ways our systems and networks are exposed and how we can mitigate and prevent those risks using sound protocols, technologies, and behaviors.
-Gracias a este curso, he conseguido nuevas herramientas y abilidades que antes no tenía y he afianzado las que ya tenia. Me ha hecho más conciente sobre la prevención en Internet, pero, a la vez, muy desconfiada, especialmente sobre descargar apps de otra organización. (Sólo descargo apps que pertenezcan a Google).
 A Big thanks to all instructors for what I've learned all those months and will continue this learning  journey, because that is what makes successful as a whole. As the Greek philosopher Solon said: "Γηράσκω δ' αεί πολλά διδασκόμενος", which in a way means, even though I'm getting older, I am always learning a lot
 When I started this course I just had a basic knowledge about Computers, but after completing this course I feel like I know about IT Security now, obviously, there's a lot to learn about Computers, its a very vast field, but this course helped me build my foundations on IT Security.Thanks, Coursera and Google!:)
 The course has given me an in-site on how to understand security threats, Cryptology, AAA Security, Securing your Network, Defense in Depth, and Creating a company culture for your company. The information is just simply invaluable and i will use this to advance my career in the IT Professional world. Thank you.
@@ -325,8 +316,6 @@ I enjoyed this course. The instructor was funny and the material was new to me. 
 Good course! A lab using some of the tools like Nessus, OpenVAS or Qualys, and a lab demonstratingpenetration testing or vulnerability scanning could help learners better visualize these processes.
 Thank you Google, Qwiklabs and the Coursera team for giving me this wonderful opportunity to learn the vast IT world. Thank you for providing me with the knowledge and the start to a career in IT.
 Great course a lot to learn and a lot to know along with great and cool teaching staff I enjoyed much and learned a lot. Thanks to all the teaching staff and google for such a wonderful course.
-Fue muy interesante eme encanto, pude aprender muchas cosas que no sabia y todo esto va ser muy util para todos los trabajos que encuentre de ahora en adelante, gracias cousera. Gracias Google
-Curso bem feito, com conteúdo atualizado, bem apresentado e com laboratórios práticos intuitivos e funcionando exatamente como deveriam. O Google está de parabéns com o trabalho que fizeram.
 Make you relies that we may lock are car and house but we really don'y think how an intrude can take control of our lives but gaining access through poor security at our home and work spaces
 I just have to say the instructor for this course was amazing! Despite it only being in videos, it was engaging and at some point pretty humorous! Thank you for all that you have taught me!
 This course has addressed all of the industry standards and best practices associated with enterprise level security. I have improved my knowledge and gained valuable skills for the future
@@ -349,7 +338,6 @@ Overall this course was very challenging and helpful, because I've learned a lot
 The most important and consequential course of the specialization! Hope I have lifetime access to the material, as I'm sure to be going back to refresh and deepen my knowledge.
 Appreciate the way some of the very complex concepts have been simplified . It covers the complete array of topics. And finally the hands on qwiklab exercies have been helpful.
 I love the broad perspective of IT that this course has given me; I know that the rest is left to me and that it is only the beginning of a wonderful journey!Thank you, Google!
-muy bueno el curso enseña cosas muy importantes sobre la seguridad dentro de las redes que para hoy en dia es muy importante ya que las telecomunicaciones estan en todo lado
 I thought i knew how to keep my computer secure , but after this course i realized the moment i open my browser , i am under attack i should not just click on anything i see
 This course was very important because I understood  a lot about IT Security! And of course I need to learn much more! Thanks to all Coursera and Goggle Team of instructors!
 This is one of the most interesting training of this course, it brings the computer world to a new level. Hope we can work on this and help to protect users and ourselves.
@@ -358,7 +346,6 @@ Really a fantastic course! I especially enjoyed the parts on encryption and cryp
 Encryption concepts were explained beautifully. As a developer with 20 years experience I got to understand things better than I understood before I took this course.
 Expectation met and i'm looking forward to diving into more Google facilitated programs. I will also suggest that google gets more involved in more Coursera programs.
 This was a great course I took a minute but I got it thanks to the teacher that taught the classes and too all my peers that help me get through this. thank you all
-Muito feliz com o curso. Realmente uma oportunidade única de aprendizado e conhecimento. Agradeço ao time Cousera e Google pela chance. GRATIDÃO!!! Curso MUITO BOM!
 the last assignment was hard, but managed to pass it, thank you google and all the instructors for your hard work to make this course useful and easy to understand.
 This course was great, good material and presentation by the instructor. Learned a lot about security and now I am interested in doing in-depth courses in security.
 A very good refreshment in my knowledge about security and protection, also to know how to implement good habits among employees to keep a safe working environment
@@ -367,7 +354,6 @@ Great course! I really think Google and Coursera are a great partnership and I h
 Great Experience.!Must enroll yourself, if you really interested and want to learn and explore new things and want to dive deeper in the field of Network Security.
 it's was really help full for me and my further future I learn A lot of things from this course about security and implemention more on. Thanks all Coursera Team.
 This course was awesome and I learned a lot about hardening a computer, network, and mobile device. I also learned what to look for when dealing with bad actors.
-excelente curso muy didactivo y sencillo es importante tener una base de conocimiento pero pues esta diseñado en general para poder avanzar sin ningún problema
 This course will provide with security practices to harden organizations as System Admin and of course educates you on how to protect your on personal devices.
 Brilliant course, I enjoyed every second of it. Wasn't sure on how in depth it would be but this course really does give you job related skills needed for IT.
 Awesome Course. Loved every bit of it. Loved the aspect of designing a comprehensive document for a fictitious organization from many aspects of IT Security.
@@ -445,7 +431,6 @@ This course was very informative. In this course I needed to study other resourc
 This course gives us very informative data , Good explanations and videos, Effective presentation and supplemental readings.
 Some concepts were a little harder to follow. I'm glad I was able to rewatch those that I felt I needed more clarification.
 A comprehensive introduction to security and some best practices to secure a better world for digital information exchange.
-Excelente curso explica bastante fundamentos de la seguridad informática así como muchos aspectos en las organizaciones IT
 very good beginner's course! Loved it. I look forward to continue the level above this one. Thanks for the great lectures.
 I am so excited that I finally finished this!  I look forward to the other Google Certs that are coming out and are out!
 Overall, their are an abundance of new terms that I learned. This was a challenge, but in the end, It was well worth it.
@@ -459,7 +444,6 @@ Detailed and concise.  Would recommend more definition quizes then the ones they
 The course was very informational and helpful. I am very thankful for this course and excited about the next steps.
 I enjoyed this course. Setting up the company IT infrastructure was challenging and really made me think. Thank you
 I would recommend this course for every modern user of computers as it gives the basic knowladge of educated usage.
-c'est vraiment un cours très intéressant pour les connaissances de base sur la sécurité informatique. Great course
 I loved the instructor! He made the difficult material more fun with great teaching habits and puns along the way.
 Awesome. I loved detailed overview of the security and threats. And also the play on the titbit from Harry Potter.
 This is an amazingly important course that taught me quite alot about IT security. Thank you for the opportunity.
@@ -493,7 +477,6 @@ It gives me immense pleasure to have gone through this course. Amazing content. 
 This really prepared me ti understand cybersecurity and get the foundation behind the field.  Keep it up!
 The tutor was super knowlegeable I had a really great experience. I know a lot which i didnt know earlier
 this course was very helpful and introduce a lot of new concepts in cryptography that I wasn't aware of.
-Gracias, antes de este curso no tenia un objetivo al cual dirigirme, ahora lo se. Muchas muchas gracias
 Amazing Course. However I do wish we went a little more depth into the algorithms used for encryption.
 Great Course with So much information and practical knowledge that can enhance your Professional field
 I'm better prepared to secure my home network and start learning more about how to protect businesses.
@@ -607,7 +590,6 @@ Improved my knowledge base, it is a lot of material so tread carefully.
 Great, Thanks Gian, Google and Coursera for such and Wonderful course.
 Some info packed lessons in here but always a fun learning experience.
 these course is simply awesome, its great way of learning cheers !!!!!
-Excelente aprendi mucho sobre la seguridad y las amenazas que existen.
 This was by far the most interesting section of the IT Support course.
 Excellent course with a lot of very detailed and relevant information.
 This course has enabled me acquired more knowledge about IT security !
@@ -647,7 +629,6 @@ Very good course, I would recommend this to all it professional.
 Awesome course, learned a lot about security and best practices!
 very very interesting, i have learned so so much in this course
 Great information throughout the course in all the areas of IT.
-peu technique mais très riche en infos et astuces sans pratique
 Wonderful course to find a serious job opportunity worldwidely.
 i really enjoy and sure that will improve for finding a new job
 The best course to learn everything I wanted to learn about IT
@@ -702,7 +683,6 @@ Comprehensive look at IT security methods and policies.
 Thank you! This was an amazing course. I learned a lot.
 Beyond anything I thought I could do! Thank you Google!
 This was a very enlightening course.  Great stuff.  : )
-muy bueno , excelente profesores y contenido relevante
 Very Helpful in understanding the basics of IT Support
 One of best course among all. it was amazing learning!
 Very Nice course, the instructor is awesome, Supercool
@@ -718,11 +698,9 @@ I just love this journey & thanks to all the teacher.
 Great course. Taught me things I really need to know!
 Very informative and fun. The lecturer is great also.
 Very verbose because it was mostly jargon and theory.
-Excelente curso, muy cargado de excelente información
 That's all lot security consideration in this course.
 This course is truly packed with so much information!
 There should be more labs for how to secure a network
-IT WAS GREAT KINDLY PROVIDE HANDS ON EXPERIENCE MORE
 Loved it and would like to go over everything again!
 was long journey , i enjoyed every single step of it
 Covering a lot to topics which is good for security.
@@ -797,7 +775,6 @@ Great overall course. You will learn a lot!
 this dude reminded me of my prime minister.
 awosome course. Thanks for the opportunity
 great course to start with your it carrier
-Excellent course and an excellent program!
 Amazing end to an amazing specialization!
 Greatest@ wow@ thank you. Salute, sgt aye
 An excellent platform, a lot of knowledge
@@ -819,7 +796,6 @@ A great course and I really enjoyed it.
 I really enjoyed this course. Thank you
 Very informational program,  loved it.
 I had a great time learning what I did
-Providencecr.com or Allonlinenames.com
 awesome i love coursera i learn a lot!
 I loved it as usual. Very informative.
 Great course to advance your knowledge
@@ -879,7 +855,6 @@ Super dry, but very informative.
 Great course very informational.
 great course, very informative!\
 Thanks for such a great course.
-Excellent course. Learned a lot
 One of a kind, thanks to Google
 Excellent material and teaching
 Great course. Thank you Google.
@@ -887,7 +862,6 @@ Was a great learning experience
 Great experience for me. Thanks
 I learned a lot, thanks Google.
 OMG, not easy, but i got this !
-Excelente todo, muchas gracias
 the best course on IT Security
 i learn a lot from this course
 great course. I learned a lot.
@@ -906,7 +880,6 @@ Good learn so many new things
 It's a great course to learn.
 Good Course, I learned a lot!
 Awesome Course..Learnt a lot.
-Sensacional, muito bom mesmo
 Thanks for your great Course
 it was hard but i kept going
 Its really a great course...
@@ -917,29 +890,23 @@ Brillantly clear and useful.
 thankyou the info was great
 Awesome Journey with Google
 Thank you for all lecturer.
-Muy buen curso, recomendado
 Good and interesting course
 I learned a lot. thanks sir
 I learned a lot, thank you.
 Absolutely Great content!!!
 THANK YOU SO MUCH MY TUTORS
-Best course I've ever done.
 Very Very Marvelous course
-Me agradó mucho este curso
 One of the toughest course
 challenging yet I loved it
 i enjoyed every bit of it
-An excellent last course!
 Very thorough information
 amazing  learning journey
 It is a very good course.
-Second Hardest course yet
 nice learning experience.
 it really nice experience
 Hard but amazing course .
 Learned a lot! Thank you!
 It has lot of information
-wooo -hooo!!!! I did it!
 i loved all these course
 Very nice course awesome
 Wow! This was fantastic!
@@ -958,13 +925,10 @@ good learning platform
 It's a good experience
 Best, totally worth it
 it was well worth it .
-Nice course. Excellent
 Great course. Thanks!!
 Brilliant! Thank You!
-Butt kicking awesome!
 wooow mama, loved it!
 A really good course!
-Excellent instructor.
 Great Learning System
 cool !! thanks google
 Great security course
@@ -977,7 +941,6 @@ Virtual Thrilling!!!
 very pleasant course
 Great will recommend
 Well worth learning!
-Amazing Course ever
 Very Exited Journey
 It was Just Great!!
 BEST COURSE EVER!!!
@@ -985,8 +948,6 @@ Thanks very much :)
 I Like lab Practice
 Good training ever.
 That was awesome!!!
-Exceptional Content
-cool google, love u
 THANK YOU TOO MUCH
 Very great content
 Thank You Coursera
@@ -994,15 +955,9 @@ Just go for it....
 good course thanks
 It was awesome!!!!
 Its a great course
-great achievement!
 awesome way to end
-must take it folks
-Good for beginner.
-VERY VERY HELPFUL
 amazing hard work
-Thanks a loooooot
 That was super !!
-I like it already
 very nice cource
 awessome journey
 Amazing and fun!
@@ -1012,59 +967,21 @@ Highly Satisfied
 I'm really happy
 very helpful me
 All interesting
-vey nice course
 taught me a lot
 I love cousera.
 It is wonderful
 It was cool!!!
-Very Rewarding
-Well delivered
 Great courser.
 Great program!
 Its my love !
 THAT WAS NICE
-SO GOOOOOOOOD
-GOODJOIN ASPA
 Greate Course
-keep learning
-great feeling
 TOUGH BUT FUN
-REALLY SUPER!
-Very intense!
-yes i did it
-Excelente XD
 good to pass
-so satisfied
-Enlightening
 The Best :3
-INTERESTING
-challenging
 Good unit!!
-Muito Bom!
-I enjoy It
 was cool !
-Excelente,
-Buenísimo
-All good.
-Exceente!
 Toughest!
 thank-you
 Cool one
-very gr8
-Good : )
-Fine!!!
-was ok
-GREAT.
-Mantap
-hi!!!!
-gOOD!
-grate
-nicew
 tough
-sweet
-Nkce!
-Yes!
-YES!
-surb
-Love
-cfc

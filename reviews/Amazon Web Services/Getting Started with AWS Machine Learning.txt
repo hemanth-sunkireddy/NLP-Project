@@ -6,7 +6,6 @@ The same content presented over and over again. Most trainers were just reading 
 Is more of a marketing ad than an actual course
 This course is basically an AWS commercial.
 what shit
-no labs.
 The content video is repetitive and it does not provide a deep understanding of machine learning. The major drawback is that there is no practical part of this course. To master AWS machine learning, I think exercising a machine learning project using AWS machine learning would be the best. However, that is not provided in the course. My verdict is that do consider again before taking this course or you will waste a lot of your time since most of the video contents are marketing contents by Amazon.
 if you are stating that it is introductory course for begineer and starting with ml then you are fooling world.You are just trying to showcase excellence of how smart amazon is which is not bad way,but it feels like you are advertising amazon product to consumer.strongly dissappointed  by course curriculam.
 I would have expected Amazon to actually provide us with some hands-on experience. To tell you the truth, I've learned nothing by completing this course. Thank god I didn't have to pay for this, otherwise I'd be really pissed off.
@@ -19,7 +18,6 @@ The course isn't introductory at all. It requires a lot of prior understanding o
 Nothing to learn here. Just corporate videos trying to sell you to the Amazon Web Services.
 Very heavy marketing (way more than expected) with negligible knowledge about any actual ML
 Got this course for free but I definitely wouldn't pay to watch a 5 week ad from Amazon
-NO IN-DEPTH TUTORIAL. JUST OVERVIEW OF AWS PRODUCTS EXCEPT FOR SAGEMAKER.
 toooooooooooooooo boring instructors and boring way of teaching
 videos were too lengthy and jumped around concepts
 It was all about promoting Amazon's  ML products
@@ -27,7 +25,6 @@ Only advertisements for AWS.Total waste of money
 too much video, not enough training on the job
 This is 90% advertisement for AWS SageMaker
 It is only theory based.
-Amazon advertisement
 Publicity stunt
 no hands on
 This course is a compilation of unstructured content that has been taken from the actual AWS certification programs. Most of the videos have repetitive content. The initial week includes content regarding the theoretical aspect of machine learning, which in general is adequate. In week 2,3,4, Amazon advertises their services and persistently tell you that why even bother learning about machine learning. The last week has some videos that are very lengthy which jump from 10 to 100 in terms of theoretical and practical knowledge, thus making a huge gap in the learners learning. This course tends to fail in recognising their target audience. Other cons: IMO purchasing this course is of no use. The course, for the least, could have provided labs for specific modules to explore the platform and to better understand the concepts taught step by step. Moreover, I am extremely disappointed from Coursera for providing such courses. Courses as such, in my opinion, are becoming a new medium to advertise your brand instead of providing insightful knowledge.
@@ -49,7 +46,6 @@ Though some videos are very useful but you can't get the most out of this course
 A namesake course with videos put together from all over. There is no hands-on experience for us to train on. My first worst experience on Coursera till date
 This course felt more like AWS advertising the product to prospective data scientist/developers than the content to actually get started on ML using AWS
 Should focus more about core machine learning algorithm and concepts of AWS servicesAnd more MCQ should be there for better screening
-Il corso ha poco di Introduttivo: nei termini e negli approcci è molto avanzato. Ritengo che manchi tutta la parte di laboratorio.
 first couple videos are ok, everything week 3 on is only useful if you plan on using Amazon's own solutions.  no hands on work.
 A lot of overlap between the videos and it is not possible to practice on AWS platform directly within the course
 This is a very introductory course where some of the modules were just taken from other courses. Not so good.
@@ -58,7 +54,6 @@ this seems to be a way for amazon to sell its ML services rather than teachinng 
 should allow students to have hand-on experience in the use of Amazon sagemaker
 DO NOT TAKE THIS COURSE if you're not already a machine learning expert!
 Assignments should be added, just quizzes were not enough
-Hard to understand for beginners.
 more advertising than knowledge
 Only promoting amazon tools
 The starting 2 weeks were informative and then it seemed like an amazon commercial.
@@ -147,7 +142,6 @@ Very focused on Amazon's current tools
 Learnt with new technology of Amazon.
 good for introduction course of AWS
 Good course, but lots of marketing.
-Looks More like Amazon Advertisment
 There was no hands-exposure to AWS
 Not up-to the expectation I had
 Only First 2-3 Weeks were good.
@@ -156,8 +150,6 @@ It was awesome course .
 i was  expecting more
 to much videos only
 very rudimentary
-proper content
-ok ok course.
 The course seem to be balanced between those who are in machine learning already and want to use the AWS tools, and those who want to use machine learning tools but not the go deep into data science. I enjoyed the course, but it will be more helpful if you could separate the courses and give those already into machine learning, more hands on to the AWS tools and remove the repetitiveness in the concept we already know. Coming from ML Course (Stanford) by Andrew Ng. Week 4 and 5 had a lot of useful concepts that we can use. Over-rally it was worth every pen.
 A very good guide for understanding the full Amazon web services flow but lack of proper implementation
 Good overview of ML with some deep technical sections as well
@@ -187,7 +179,6 @@ It was a good course and even the instructors were good. I have just one suggest
 I think some topics need to be updated, there are long videos that can be divided into tasks. The course covers the basics of using Amazon Web Services to implement Machine Learning. Good introduction, thanks!
 This is a nice course offered by amazon. Basically this course help to understand that who the machine learning mechanism work and here i learn the practical application with the help of amazon aws tools.
 Liked the course. Provided me with the various services provided by AWS, although I did not understand a few concepts since I am a complete novice at Machine Learning. Thanks you Amazon and Coursera.
-Excelente como revisión de todas las herramientas que posee AWS, ideal para comenzar. Lo único que faltó es la opción de tener labs prácticos (como otros cursos que he tomado de GCP).
 This course should be designed to serve people already have some knowledge of ML. I hope there are more hands-on lab practices. There is also some repetition among content provided.
 Good overviewWould be a great course if there were practical examples (actually playing with a Jupyter notebook) vs. simply seeing them on a screen.But extremely helpful nonetheless
 THE PROFESSIONAL COURSE THIS PLATFORM IS OFFERING IS VERY GOOD. I GOT THE OVERVIEW OF THE AWS MACHINE LEARNING AND I AM LOOKING FORWARD TO IMPLEMENTING THIS KNOWLEDGE TO MY WORK
@@ -242,7 +233,6 @@ it was a great course i got lot of knowledge but it could be improved if a live 
 It's an overview of what AWS offers for machine learning, but don't expect great knowledge acquistion.
 It's very great to learn from starting to ending and I got skills related to development of my career
 Very basis course. Good for those starting from the scratch and want to move in AWS architecture.
-Buen curso introductorio a AWS sin embargo esperaba algún tipo de tareas o ejercicios prácticos.
 Some introductory videos on the services provided by AWS to create, train and deploy ML models.
 its very useful to learning AI,ML,DL.....and so on ....thank you amazon to give their tutor...
 Thank you for the wonderful lessons. I really enjoyed and learned more on AWS Machine Learning
@@ -347,24 +337,17 @@ Labs could help to learn
 Better way of knowledge.
 Outstanding course 👍🏻
 learn something  in AWS
-could be more detailed
-it was quiet awesome
 tutorials is awesome
 It was great course
-miss some exercises
 lacks hands on labs
 The course is good
 Nice Introduction
-congratulations!
-it was wonderful
-quite helpful..!
 Thanks Coursera!
 Done with course
 Nice AWS Tools
 Great teaching
 well explain
 good to work
-Axilent
 Not deep into ML techniques, but a lot of demos and how to use as the best AWS features for a smooth ML processes
 Demonstration is very fast and in week five one video is 70 minutes long.  It can be divided in to several short videos.  Seeing a long video is creating a boredom.  Otherwise it is a very nice course.
 The course materials and lecture delivery was just one of a kind,I have learnt a complete skill on Machine Learning and its Algorithms.I hope this will lead me towards a next level of Data science.
@@ -399,7 +382,6 @@ Actually it was so different and confusing when i thought to start aws course. b
 Very nice course for getting introduced to AWS services as well as different ML algorithms utilized by Amazon machine learning team. I would have loved to have some more practical examples but overall had a pleasant learning experience with this course.
 Basic knowledge for starters for using AWS, further courses should get you deeper in each section of this course and some personal research should be done in order to understand the concepts in a more meaningful way, but it is a nice place to start.
 This Course introduced me to a whole new Dimension of Machine Learning that is currently offered by Amazon.Thanks to Coursera for enlightening me during this really crazy situation. Thanks to Team AWS. Looking forward to learning other ML concepts.
-Muchas gracias por permitirnos  tomar el curso gratuito en su plataforma. Coursera tiene toda la capacidad para tomar cualquier curso en linea desde cualquier lugar. La velocidad de procesamiento es  muy buena. Los Video  jamás se me cortaron.
 this course was very good by am amazon web services training and certifications. this course gave me every insight of aws for building , training , and deploying machine learning models . i was introduced to amazon sagemaker and many more .
 The course is well designed and introduces AWS applications in detail from very basic level. It's easier for beginners as well to understand the lessons and concepts. Really a good start if someone is willing to work on AWS applications.
 THE COURSE WAS VERY HELPFUL. AS I GAINED A DEPTH KNOWLEDGE STARTING FROM DEEP LEARNING,MACHINE LEARNING TO AI. CAME ACROSS ALL THE NEW TECHNOLOGIES AND PLATFORMS IN AWS. HOPE I CAN DO MORE SUCH AWS COURSES IN NEAR FUTURE. THANKS AWS !!
@@ -510,7 +492,6 @@ It was very useful platform, and also helped me to gather the information about 
 One of the best course ever I've taken from Coursera. Clear explanations with practical examples.
 Very Useful to start with. Need more detail courses to cover all topics in AWS ML certification.
 Simple, basic  and easy to learn for those who wants to learn AWS Machine Learning from scratch.
-VERY GREAT EXPIERENCE TO KNOW THE DEEP KNOWLEDGE ABOUT THE AMAZON .WHICH I PREVIOUS DON'T KNOW.
 Quite a trailbrazing course in machine learning. What a rich ML resource base AWS has on offer!
 Very educational.Thanks for this Amazon AWS and Coursera for offering such a beautiful course.
 Fantastic Course, learnt new things related to AWS Sagemaker, Thank you AWS and Coursera Team.
@@ -547,7 +528,6 @@ The explanation, use cases are very understandable. Very Interesting and i loved
 Very excellent course.. Thank you so much for giving me the wonderful opportunity..
 AWS machine learning course is very useful.This video's are clarity to  understood.
 A very good course which gives you good understanding of AWS ML stack and usecases
-Me encantó la introducción a detalle de la nueva era de Inteligencia Articificial.
 Really great experience, I have learned so many tings all trainers were excellent
 Very good experience on how AWS works with machine learning from the basic level.
 I injoyed this cource and learn about AWS machind Learning, Deep Learning and AI.
@@ -632,14 +612,12 @@ Great Introductory course to Amazon AWS ML features!
 FROM NOW I CAN ABLE TO CREATE MODELS. THANK YOU AWS.
 It's been a great platform to learn easily & quickly
 A very thorough introduction to Amazon Web Services.
-THIS IS THE GREAT PLATFORM TO LEARN NEW TECHNOLOGIES
 I have learned to win in this course, I can not hope
 extremely amazing experience with the good faculties
 Good Course for understand machine learning for aws.
 Very useful websites I learned AWS machine learning
 It was good but practical part is needed so much :)
 Easy to understandExamples related to topic is nice
-Excellent Course Design and Lectures. I enjoyed it.
 Very Awesome course ! Tremendous knowledge gained !
 Great course learned a lot about the Amazon tools.
 Very useful course from AWS.... Thank you so much.
@@ -688,7 +666,6 @@ Contents are great and are well explained!
 its awesome to learn and easy to implement
 gives a good intro to aws machine learning
 I am so excited to have learnt this course
-Excellent course content and explanations.
 very good explanations and useful samples
 Very Informative!, Thanks for this course
 Best one ever I learned in a short period
@@ -708,7 +685,6 @@ A good introduction to platform of AWS
 Very informative course i learn a lot.
 Excellent course to start ML learning.
 In-Depth details with great hands-on!!
-THANXX FOR GIVING ME THIS OPPURTUNITY.
 Amazin introduction to AWS ML services
 Its Awesome Course Must Subscribed....
 Thank you! It was really great lesson.
@@ -752,7 +728,6 @@ Great start to learning about ML
 Very interesting skilful course
 It is really good basic course.
 I Enjoyed Learning this course.
-MUST DO. ML EXPLAINED VERY WELL
 Well Designed course on the Aws
 Most helpful site for learning.
 give me a clear  idea about ML
@@ -782,9 +757,7 @@ Amazing experience with AWS
 Its very helpful for career
 Nice and Informative Course
 Good experience to learn ML
-Awesome, Week 2 was Awesome
 Very great detailed course!
-GREAT OPPORTUNITY THANK YOU
 it was very amazing course
 thanks for providing video
 really a great experience
@@ -795,7 +768,6 @@ Very Nice and very useful
 Very Good in all aspectsv
 It's really very usefull
 Nice Introductory Course
-Excellent Experience....
 amazing knowledge thanks
 This is very good course
 Instructor is very good
@@ -814,7 +786,6 @@ Good app for learning
 best certificate ever
 Very nice and use ful
 Great basics course.
-Vey nice experience.
 explained very well
 informative. thanks
 Its really awesome!
@@ -823,39 +794,17 @@ Its great learning
 That"s good course
 It is very perfect
 Awsome learning ..
-Better experience
 thanking so  much
 course is awesome
-Knowledge enhance
-NICE TEACHER ALL
-Supeb experience
 Good idea of AWS
 best in class!!!
-COOL INSTRUCTORS
 amazing course..
-excellent for ML
-Awesome must do!
-Over all Amazing
 Nice one to Aws
 Get the Insight
 Very helpful..
 Helpful Course
-awesome.......
 extra-ordinary
 good teaching
 A good Course
-VERY HELPFUL.
-Grate course
-it was best.
-ExtraOrdinay
-Amazing one!
 great topic
 oustanding
-good job！
-So Good !
-Good LAB
-amaizing
-mantapu
-fdfdv
-osamm
-Easy

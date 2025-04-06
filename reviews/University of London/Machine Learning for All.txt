@@ -28,7 +28,6 @@ Not much informative, easy to understand though
 Good course to start with the concepts of ML
 very basic yet good stuff
 content is not enough
-Bnjhjkm
 Good course for beginners.Section on boolean data is probably useless.Thank you Marco & Colleagues!
 I think this course was awesome. For someone who knew absolutely nothing about machine learning, this gave me the background to understand how computers work with machine learning and where they are used in our everyday lives. The reason I give this course a 4 instead of a 5 is because this course makes you want to continue to do machine learning, but does not give you recommendations on how to do so. Although there are further resources to learn about machine learning which is GREAT, there is no clear direction on how to do it on your own computer or how to download software that could do machine learning. If this was improved, I would recommend this course to the highest degree for everyone.
 Excellent course, well understandable also for not English mother tongues, with clear explanations of the pros and the possible cons of Machine Learning and in general of AI.Maybe some explanations on the hw/sw requirements for using the ML plugin would help: I had some problems with the exercises (my company pc is too armoured to let the ML plugin run), until I managed to login and run on an iMac of my own, where the power of the ML gave an impressive proof, although I made an extremely reduced dataset (a pity that the ML plugin only allows for 3 classes and cannot be embedded in some applications, it would be a real help in classifying!).Well done, anyway!
@@ -160,7 +159,6 @@ The course is outstanding for beginners. I have come with zero knowledge on comp
 A very interesting course, with a very good approach, it's really exciting to be able to put the theory into practice so quickly, thanks to a really well done tool. The interviews also make this course very lively, congratulations!
 This course is very useful. I learnt how machine learning work in this course. I want to thank Dr. Marco Gillies for teaching such amazing course. I look forward to learn how to code such type of image classifier in the future.
 It's a great course for anyone who wants to get the fundamentals of machine learning and artificial intellignce. The practical excersize is just great as it allows you to play with your own data and see whether machine learns!
-Excelente curso introdutório. Ótimas aulas com excelentes discussões sobre temas relevantes, diretos e indiretos. Recomendo a todos que querem ter uma visão introdutória teórica e prática com as mãos na massa treinando dados.
 Very nice course. I would really thankful to the instructor who makes this course impressive. This one is the first course that I took on Coursera. I am hopeful that this course will help me a lot in the future. thank you!
 Provides an excellent explanation of the roots of machine learning without any technical details. Would definitely recommend for people who want to learn ML, Deep Learning and other exciting fields in Computer science!
 Very nice introductory course. This course gives you an overview about Machine Learning and its applications. We will also use an ML classifier in Week 4. Those who got fascinated with this ML then can further explore.
@@ -303,7 +301,6 @@ All you need for a beginner to learn about machine learning
 this lecture is very helpful for student projects thank you
 Great Experience with this Course to learn a lot of things.
 great course changed the way I think about machine learning
-Mil gracias Coursera, Mil gracias maestro, un curso unico.
 very very important and perfect to learn for all student .
 Wonderful Course. Wonderful experience. Thank you so much.
 A Great course for a beginner of machine learning student.
@@ -370,7 +367,6 @@ good course contents and structure.
 Excellent Course for the beginners.
 Very lovely and informative course.
 an outstanding course for beginners
-Nice, easy but more valuable course
 Amazing Course and learned a lot .
 Very useful and beneficial course
 Very well understood the Concept
@@ -411,22 +407,15 @@ nice traning session
 Un enroll the course
 EASY TO UNDERSTAND
 amazing teacher..
-Excellent mentors
 good start on ML
 Funtastic course
 Amazing, Thanks!
 Cool to learn...
 Good course....
-very excellant
 It's was good
 Good course .
 More helpful
-REALLY GREAT
 great sir...
-reaaly good
 Great Work.
-Goog course
 Enjoyed :)
 Awsome!!!
-GRT WORK
-hey

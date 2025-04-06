@@ -4,10 +4,8 @@ Teaches neither programming nor MATLAB effectively. Videos are too long and usel
 The videos are good, but have no relationship to the homework problems. There are too many problems per week, and they are very difficult given there are no examples in either the videos or book that cover the material examined in the homework. The entire course was just frustrating.
 The instructor is incredibly self-obsessed and just unbearable. All the 'jokes' are neither funny nor useful. Just stick to teaching if you have to.
 Boring Professor
-Hard.
 Course contained unbelievable amount of silly busywork that has no place being implemented in MATLAB, while forbidding  the use of most useful built in functions. At no point during the course was any of  the MATLAB's strengths -- like easy solving of linear systems or vectorized operations, even suggested upon.  Furthermore, the course has unhealthy interest in dates and calendars - again of course disabling all the built in tools.
 I don't like it and I don't want to continue with this course how can I unsubscribe without losing my progress in other courses on my account
-El curso aunque sea para principiantes, los ejercicios no son claros, yo como persona que inicia en esta área me fue imposible.
 It wasn't mentioned that I had to pay for the certificate.I can't afford to purchase the certificate
 said i had a free 12 week license, but  i could not get access to the license.
 very easy course. was expecting something more challenging.
@@ -16,7 +14,6 @@ not good i cant understant any thing need to inprove
 Extremely difficult assignments for the conte
 Very lengthy and over knowledge
 I didnt feel that intresting.
-time pass course
 Too many videos with repetitive content. Homework was much more complicated than the information given.
 First of all, I am a chemist. I had no idea on how to start programming, therefore I started the course convinced to get some basic skills on Matlab (I had no idea on how Matlab worked) in the beginning I found it really helpful. But then at the end the assignments were really hard and quite difficult to understand for a non-proficient user. I strongly recommend to follow the first part, really helpful, but the second part probably it is more for experts in the field or students in informatic... maybe it can be useful to divide in half parts this online course. Maybe, it can be really helpful to cite the use of polyfit commands to fit functions. Really interesting until the 7th week.
 The 'About the course' section is partially true.It was ,in the beginning, felt like being really for the beginners, but nearing the end of the course, the assignments were not anymore for the beginners.Whereas the instructor taught with great effort, the difficulty of the assignments should have been taken into consideration beforehand and examples similar to the tasks should have been included therefore.When the course can be enthralling for someone already have proficiency over other languages, the majority of the beginner would find it near impossible to solve the assignments and achieve the certificate by following ethical coding.
@@ -69,12 +66,10 @@ Awesome learning Matlab with this instructor.
 Assignment Questions were not well explained
 Coursera App is not that much user friendly
 Very helpful but sometimes it is too slow
-YOU ARE GIVING DIFFICULT HOME WORKS
 too difficult assignments
 it is very  useful course
 too easy compared to cs50
 Too easy!!!!
-Good.!
 the course was very comprehensive and ideal for beginners to understand the basics of programming. the level of this course increases gradually. this course is a stepping stone for beginners to learn other programming languages comfortably
 A very goo course. However, there is a very steep jump between the session levels and especially the final assignments. The final assignments are very interesting actually and practical. Would have been more helpful if some of the assignments in the individual sessions also had some practical problems thrown in to get the students better prepared.
 I started this course without any background knowledge of MATLAB but special thanks to Fitzpatrick Sir for explaining each & every concept very nicely. As far as mine learning is concerned I would rate it around 75% & rest 25% depends on my practice. This course has definitely provided me with the necessary skills and confidence to use it in solving MATLAB problems. The syllabus has been amazingly designed.One negative thing that I felt about this course was level of difficulty of last 2-3 weeks for a beginner. May be it's easy for a person who has some past experience of programming. As a suggestion I would like to have few solved assignments be explained in video lecture ( of high difficulty) instead of giving them as an assignment.
@@ -88,9 +83,7 @@ for me i got more than what i expected in that course> the instructor really has
 I was noob to take this course. I wished i would get much help by doing this course. At the beginning of this course, until week 5. I was trying and trying to write a code and get a solution. It was not that easy but somehow manageable. I tried and tried. It took more than 2 hours to complete a code for me. But after week 5, it was very hard for me. It was so depressing that, i couldn't solve a problem by myself. I had to take help from my friends to solve each problem. I thought i missed something, thats why i am facing this problem. But no, i didn't miss any lectures. Out of nowhere hardest problems just pops up on the monitor! I don't know if everyone feels the same way or only me. But it was a great course indeed. The instructor tried his best and he is very cool.
 I highly recommend this course created by valuable professors and mentored with valuable enthusiasts. It is a hard course especially for beginners like me, but it certainly gives you the aspect on how to think like a programmer while teaching Matlab's good features throughout the course. If you are interested in programming, if you want to practice on programming on Matlab, this is the course what you look for. I also suggest you to get the certificate. Engineers and scientists would surely benefit from it. The only things I criticize are that the course is much harder than expected for beginners and the lessons are not really comprehensive even if they are highly beneficial and of high quality. Thanks!
 Honestly i liked the way he teach and especially is some bad jokes and all, besides the first 5 weeks is really interesting and keeps me concentrate enough to him and after that you know well the programming parts comes and literally started getting dizzy and at last like come on still how much i have got to go. Finally the assignments that's really tested my patience because for most of the assignment i don't the concept and all, so i just really googled it and read one by one line to understand the concept behind that. And I don't know weather i am going to use this MATLAB and all but now itself i am glad that i know MATLAB somewhat.once again Thank you professor and everyone in this team.
-Sehr geehrte Damen und Herren,ich fand Ihren MATLAB "introductory" Kurs sehr ansprechend und den Beginn sehr gelungen. Ich war eine absolute Anfängerin und konnte bis Woche 7 alles alleine absolvieren. Danach brauchte ich jedoch die Hilfe eines Bekannten mit Informatik Kenntnissen, um die weiteren Aufgaben erfolgreich abzuschließen.  Der Kurs bietet einen guten ersten Eindruck in die Welt des Programmierens allerdings braucht man, um den Kurs alleine zu beenden ohne Vorkenntnisse viel Zeit außerhalb des Kurses, in der man sich mit der empfohlenen Literatur beschäftigt.Liebe Grüße und allen viel Erfolg,eine zufriedende Teilnehmerin!
 Easy to understand.... Just perfect for people who are new to programming. Well, to be able to finish the assignment.... you would need a little understanding of Maths. During this course, you will learn the basic understanding of programming, how computer works, and as well how to program in Matlab & some Matlab term( Basic Calculation, Matrices, Vectors, Scalar, Functions, Built-in Function, Selection, Loop, Data Type, File Input/Output ). After completing the course, you should be equipped with basic  solid understanding of programming in Matlab. This may help you to build complex algorithm in the near future.
-la verdad el curso me ayudó bastante y aprendí muchísimas cosas nuevas me pareció muy interesante todo, me siento muy feliz de haberlo terminado, estoy seguro que todo me va servir en mi vida laboral. cositas por mejorar, sería que en algunos problemas la pedagogía de explicación debería ser más clara ya que  se prestaba a no entender muy bien lo que se tenía que hacer.del resto todo excelente, las explicaciones de los temas  muy bien te queda todo claro además el profesor auxiliar siempre estaba dispuesto a resolver cualquier inquietud por medios de los foros.recomiendo este curso a todos.
 I would like to mention the positive and negative aspects of this course separately.Postives sides: 1. Covers many many things of matlab. 2. Assignments are really involving. 3. Very expert instructor.Negative sides: 1. Sometimes, the assignments are a bit too involving and the problems are sometimes not explained as much as it was needed. 2. Some of the videos are a bit too long.Overall: A great course. If you remain consistent throughout the course, complete the assignments regularly, you will definitely come out well-acquainted with matlab and confident about using it in your discipline.
 A very good course for beginners who have little or no knowledge about MATLAB. It starts from scratch one and explains everything in detail with ample amount of examples. The instructor keeps cracking jokes to make it sound funny so that you don't fall asleep in between ! The assignments keep becoming tricky as you pass on to higher lessons and require a lot of practice as it tests the knowledge beyond the scope of the online lectures provided here. Overall its a good head-start learning course for anybody who is interested in working with MATLAB - The Matrix Laboratory !
 The course on overall basis was good. The instructor tried his best. The content of the course was perfect for beginners but the assignments really would upset any beginner, though I was fine as I have enough background. The assignments on the brighter side leads to logic development of one's. The difficulty of assignments in the very last week steeps upwards and no background of it is provided in that weeks lecture ,although one can always learn on their own after coming this far. On completing this course by yourself you'll surely think that it was worthy !
@@ -108,7 +101,6 @@ books.
 The course was really great, I enjoyed it. It was easy to understand, however the lecture took so long, its designed for nonprogrammers and sometimes I felt I should speed up the video to listen quickly to many parts during the lecture. Regarding the quizzes, I think it would be better to jump levels in the quizzes. The quizzes in the first 7 weeks were relatively very easy compared to the last two that took lots of time and thinking to figure out how to solve them.
 I got stuck in some of last week assignment, and did not have any clue what was going on. So, I refered MATLAB Community and got answer..... but still not satisfied got from that. Could you make an explanation video on Week 9 assignment and Post it in the Youtube, so that I can get overall clear explanation of what was going on?!. I have already subscribed to your Youtube channel. I loved your course, and learned so many things, Thank you sir!
 The course materials are good and very well presented by course instructor. However, the homeworks are not that well designed. The main focus goes to the mathematics behind the problems instead of focusing on the programming skills. So doing the homeworks was kind of boring staffs, as I had to spend time for mathematics instead of Matlab itself. Nevertheless this course is highly recommended to get in to MATLAB programming.
-Algunos ejercicios no se pueden hacer con lo explicado en el curso. El nivel de estos ejercicios debería reducirse. Algunos ejemplos: valid date, caesar y echo gen( este último se complica más bien por la mala explicación y algunos conceptos más que por la complejidad de la función a programar en sí).Por lo demás, en general está bastante bien. Aunque a veces las explicaciones se hacen muy lentas en los videos.
 The course was excellent. Although there is more to MATLAB but it's enough for a beginner. The assignments were good . I think there should be more tough assignments in between the lessons because the final problems were way tougher than the in-between lesson problems. Even though the final problems were very interesting and challenging to complete. Overall it was a very good course with a wonderful lecturer.
 The course was very helpful in learning the basics of Matlab coding. Though i had an academic course in my institute on Matlab, this course helped me to strenghen my previous knowledge and also made me a better Matlab user. I found the last few exams difficult to crack. However, i am happy that i am able to finish this long course. Thanks to all the peopel behind this course. Thanks for your effort.
 This Course really helped me in clearing basic concepts in MATLAB and has definitely provided me with the necessary skills and confidence to use it in handling the real life practical problem.This course also provides good base if you want to study advanced topic in MATLAB.Although most the assignment were simple and easy but final assignment must require separate video to really understand them.
@@ -197,7 +189,6 @@ It was very interesting to learn programming with MATLAB, kind of matrices invol
 The course was informative and provided the basic programming skill on MatLab. The course also provided innovative assignments that build up your problem-solving skills.
 the explanation was fantastic the material was good.But some graphs and plotting concepts were missing.it would be better if you include some graph plotting functions.
 last two weeks require few more exmples something related to the home work so that students may know how to approach the different problem in differert way thank you .
-En varios videos de las diferentes semanas que componen el curso, los subtitulos tapan el contenido de la explicacion en curso, habria que colocarlos de mejor manera.
 A very useful course for beginners in Matlab programming. It helps to understand the basic concept of programming which you can utilize in different programming also.
 This course is very easy to follow even if one has very little prior knowledge about programming. Great course to get anyone started with programming in MATLAB.
 I would recommend  this course to everyone who has interest in maths with programming. This course will be beneficial for my further study in computer science.
@@ -390,20 +381,17 @@ really very useful for beginners.
 the assignments were really tough
 It is a great course. Thank You.
 great site to learn new courses
-Very useful for beginer like me
 wonderful course helped a lot.
 This is a challenging course.!
 Very Good Introductory Course.
 very good course for beginers
 it is really very good course
-Some lectures are loo long :)
 needs more specific deatails
 A must course for beginners.
 Now it's better than before.
 It was a  great experience!
 good course to learn matlab
 Great course to begin with.
-好课程 可能是自己的英语不好 理解作业的描述总有些问题
 too much uncessesary words
 GoodwayofexplainationSir.
 A well-structured course.
@@ -420,17 +408,12 @@ good and intresting
 So helpfully course
 Exceptionally good.
 Very nicely taught
-A great Experience
 a very nice course
-great course!!!!!
 awesome to done .
 Awesome teaching
 It's informative
-First course
-Impeccable.
+I love it!!
 very superb
-fabulous..
-quiz
 It was a very involving course! Everything is taught by doing it practically. Assignments are really good and make you adept in what you learn the whole week. As far, the Best MOOC I've completed.
 Week 9 assignment should be little bit easy or else more information should be provided in the lecture. Overall I really enjoyed the course. It just build my foundation and rest depends on me. Thank you coursera for providing this course.
 Very good course, it has some really mind blowing problem sets. I would suggest everyone to hit the problems with a blank mind, i found completely different ways to solve them, and that was amazing.
@@ -571,7 +554,6 @@ Excellent course for the introduction to programming and MATLAB!  The lecture is
 Very enjoyable, after finishing this course I am much more familiar with how to program in MATLAB, and feel confident that I can achieve anything I want to do with it. The course starts off gently, but gets relatively steep in difficulty towards the end. The lead instructor had a dry but funny sense of humour which helped me stay alert whilst learning, and the staff in the forums were very helpful. If you want to learn a bit about programming and/or learn MATLAB, this course is excellent!
 I was a newbie to programming before this course. I took my time, re-enrolled several times in a time-span of 2 years and finally completed this course. I didn't delay completion because of lethargy, but because I was using MATLAB for my Masters thesis research, and hence learnt the skills when I needed them. It was fantastic! Professor Fitzpatrick has a very good sense of humor while his excellent grip on programming is apparent. I'm extremely grateful for this resource! Much love <3
 Vanderbilt University and Coursera has offered a great opportunity to students who are interested in gaining an additional software skills. If you are a newly learner regarding computer applications, such a kind of will lead you to grasp the skill.  On the other hand, MATLAB is a newly developed programming language used to solve numerical problems in technical world. Lastly, I would like to thank Prof. Mike Fitzpatrick for teaching the course very swiftly and making me a MATLAB nerd.
-Curso muy bien estructurado, con aprendizaje progresivo hasta obtener un nivel bastante elevado en las últimas semanas.Los vídeos son amenos a la vez que útiles aunque los ejercicios son la base del aprendizaje de este curso.Lo recomendaría a cualquier perfil cientifico-técnico que vaya a utilizar MATLAB a diario. Aviso: los problemas requieren de conocimiento matemático notable, por lo que si flojeas en este ámbito te costará bastante resolver los problemas en el tiempo estimado.
 This was my first course on Coursera & I can say those 9 weeks were worth it ! The syntax of MATLAB and its various inbuilt functions were explained clearly by Prof. Mike Fitzpatrick. The assignments were relevant with a gradual increase of toughness towards the end. File I/O O/P functions couldv'e been explained a bit more in my opinion but overall it was a fantastic experience. I would like to thank Coursera and Vanderbilt University for making it available to us . Thank you.
 It was an awesome journey, learning was made very easy and step by step counseling of Mike Fitzpatrick made it really interesting and programming with MATLAB was made enjoyable by him. I would thank VANDERBILT UNIVERSITY for giving a free course in such pandemic condition so that the time at home was made fruitful and help in improving MATLAB programming with the help of assignments and also provided their solutions so that i have multi concepts of solving a single problem
 This is one of the best courses I have done so far. I am thankful to the entire team of Vanderbilt university and Prof. Mike Fitzpatrick for such an amazing course. The course content, delivery and specially Grader has been designed in a beautiful way that kept me moving with the flow and motivated me to complete all assignments. Hats off to Prof. Mike Fitzpatrick and entire team. Request you to please come up with course on Advance Matlab programming and Simulink as well.
@@ -581,7 +563,6 @@ If you never ever touch Matlab, but want to learn, then this course is for you. 
 I loved the course. But sometimes statements or sentences to explain the exercises are too difficult to understand for non-native English speaker (and that was especially noticeable in the last exercises, i.e., in week 9). The videos are pretty clear and pedagogical, but it would be quite good to improve those sections into the lessons. Lastly, I would also like to acknowledge the great work did by the Fitzpatrick professor: Congratulations, and thank you so much!
 thankyou sir,, Introduction to Programming with MALAB is very interesting, in this course ,I have learned how to calculated different type of matrixes, plotting , how to use use functions , loop, image blur , saddle point ,echo genterator, and more many topics.finally , i want to say this matlab was very interesting because coursera metrial is enough to learn matalbvery very thankyou coursera , michal sir, and my college SAHARSA COLLEGE OF ENGINEERING,SAHARSA
 The last time I did computer programming was around 18 years ago with C++. I had almost forgotten the things. Since the programming language has been changed drastically in last 18 years initially , I faced some difficulties in coping up . But thanks to the aptly designed course content and unique teaching methodology of Prof. Fitzpatrick and assistance from Mr. Brandon that I could make it.This course will definitely be helpful for my research . Thank you !
-Muy buen curso. Al principio parece un poco aburrido porque comienza con (lo que para mí parecen) cuestiones muy elementales. Pero poco a poco comienzan a surgir problemas más complejos y los últimos ejercicios ya requieren el nivel que esperaba del curso. Una excelente opción para iniciarse (o reiniciarse) en Matlab. El libro que acompaña al curso trae material complementario y es una opción recomendable. En definitiva, un buen curso introductorio a Matlab.
 Excellent course to introduce yourself in programming language. Lessons through videos are really clear and explained as simple as possible; so nobody should have no problem, even without any preovious experience. Furthermore, the ebook offered by the teacher is very helpful and can improve your formation and solve some doubts. Tasks are quite challenging but you can learn a lot from them.I am very satisfied with the whole course and I strongly recommend it.
 An informative and robust course for anyone wanting to better understand MATLAB and programming in general. The presentation and wit of Dr. Fitzpatrick is welcome as he eases you into the world of computer coding. Some topics were just grazed, such as structs and cell arrays, as well as file formatting, but the fundamentals were explored in great detail. Overall, it is an essential for better understanding MATLAB and anything involving computer programs.
 This course is a very practical way of learning step-by-step this phantastic language and its environment. It also helps to learn some MatLab-way algorithmics. The serious and ironical at the same time style of Professor Fitzpatrick have made this course even more amusing for me. Challenging homeworks and accurate video explanations make this course great. I am looking forward you to make an advanced course and a Simulink one too if possible. Good work!
@@ -593,7 +574,6 @@ The routine of the course is so flexible to learners that they can complete the 
 First of all, I am thankful to professor  Mike Fitzpatrick and Akos Ledeczi for their wonderful course structure and syllabus. professor  Mike Fitzpatrick explains everything in an easy and understandable way. And special thanks to Brandon Armstrong sir for his efforts and quick responses in the discussion forum. Before I ask any query, all types of queries had already been answered by sir, so we can see that replies and easily rectify problems.
 I like this course very much.The way of  explaining  thins is good and innovative.Mostly I  like  Homework section, we know that Homework is stressful but I like pattern of homework which is motivating for doing homework.Although I enrolled very late I like this course very much.This course improves logical thinking but hard attention is needed. I would  like to attend other courses if release in future.Thanks A lot Professors and Mentors......
 I have been using MATLAB for some time, yet this course did not cease to amaze me by teaching the fundamentals of the language. In fact, I am feeling that I did not know a few MATLAB basics before doing this course. I wish I had done this introductory course earlier to improve my programming skills. I am very sure that leanings from this one are going to help me in my career.p.s. - Prof. Mike Fitzpatrick is the coolest tutor I have ever seen.
-Me ha parecido un curso muy recomendable y muy interesante para todos los estudiantes universitarios y quizás de Bachillerato, aunque el nivel no es muy sencillo,  que necesiten hacer realizar cálculos matemáticos y programar funciones matemáticas en general y en particular de  Algebra, Cálculo o bien que necesiten programación para resolución de problemas de Física , Química u otras Ciencias experimentales que requieran de cálculo matricial.
 While stuck in quarantine, I thought I'd take this time to learn a new skill. Although online courses usually have a negative perception of being boring and ineffective, the "Introduction to Programming with MATLAB" course exceeded my expectations and delivered a myriad of interesting topics. Accompanied by detailed resources and challenging courses, as well as helpful and patient teaching staff, this course is definitely worth completing.
 I'm really grateful to be one of you students doctor Mike . you taught me how to program a computer. you taught me what is data types and how computers stores data and how to access to this data by cells and how to connect with external world by file I/O and how to make loops and conditions and matrices and functions and you showed me how to plot functions and how to search for any function and many algorithms thanks so much doctor Mike
 This is a perfect course for a beginner to start programming with MATLAB. The way, the instructor teaches throughout the course involving the learner is what a teaching should be like. The graded assignment at the end of several topics were very useful in developing a better understanding of the topic. Also the assignments at the end of the course were very challenging  and useful for testing what we have learnt throughout the course.
@@ -673,12 +653,6 @@ This course is one of the best programming courses out there on MATLAB programmi
 This certification course was awesome and i want to state that by solving the problem statement i really learnt and enjoyed a lot . thank you for organizing such course and approving my financial aid . Hereby , i will try to enhance my coding skill on this language , also i am grateful yo coursera for giving the course for free with such rich content .
 I couldn't have enjoyed this course more.  The lessons were very well done and the information was presented in a manner that makes it easy to retain.  The programming assignments gradually became more and more difficult, but I felt that they really helped me learn MATLAB and gave me a solid programming foundation.  Awesome course and highly recommend!
 An excellent course with easy-to-follow, very logically built up and useful topics. The presentation style of Professor Fitzpatrick is amazing, he makes even complex things clear and easy to understand, and he makes sure the audience does not get bored at all. If you need to get a solid base in programming and/or using MATLAB you MUST take this course.
-Es un curso muy bien
-diseñado para que el estudiante aprenda y a su vez se divierta con las
-asignaciones. Es increíble la facilidad con la que se explican los temas,
-incluso sin tener nociones de programación se puede comprender los temas muy
-bien. Disfrute cada asignación y aunque algunas fueron un tanto desafiantes fue
-una experiencia muy agradable.
 I find this course very informative and useful for the person who is new to MATLAB programming. The course has helped me build the basics for MATLAB programming. The course is well designed and beautifully explained by prof. Mike Fitzpatrick and prof. Akos Ledeczi.  I am grateful to the professors and Vananderbilt University for providing the course.
 Thank you very much, Mike, I thoroughly enjoyed your class. I really appreciate your patience and clear explanation of each and every detail of the MATLAB code. I could able to follow your outstanding teaching and hopefully, I will utilize this experience in solving practical problems that I am going to work on.Thanks again!!Sincerely, Nagaraju Dande
 Unbelievable course. The lectures, ebook, homework, and help/feedback in the forum make this an elite learning experience. The course assumes little or no knowledge of programming, and only basic math concepts. I'm so grateful to the instructors who made this course, as it is given me the foundation necessary to take the next steps into data science.
@@ -734,7 +708,6 @@ It is an amazing course to get started in MatLab. The last assignment problems a
 Thank You Coursera for helping out a student like me.This course has enough material to get you started and the assignments given are really fruitful in understanding the concepts taught well.I would personally recommend this course to any one who wants to start with Matlab as this course delivers enough to start.
 This course is AMAZING, start from basics and the homework makes you think a lot! The classes videos are very interesting showing the concepts and giving a lot of examples (with a bonus of couple jokes, the professor Mike Fitzpatrick is very good!).Thanks Vanderbilt University and Coursera for this great course :)
 Brainstorming assignments which tease your brain accompanied with detailed explanation by Mike sir and his humorous teaching method which never makes us exhausted or sleepy in his lecture. There is a clear transition seen in me after I completed this course compared to that before I joined this course.Farewell!!!
-Curso muy bueno y muy completo, muy bien explicado y estructurado, con buenos ejercicios que ponen a prueba tus conocimientos adquiridos y que te hacen progresar rápidamente y viendo aplicaciones reales que en un primer momento quizá no llegaste a pensar. Enhorabuena por haber desarrollado este excelente curso.
 This course is one of my favorite.  The instructor has given all for this course the style of teaching is magnificent. If you are a novice in programming, you'll never find a better course than this. The level of teaching has been set to very fundamental and basic to high level. Thanks for designing this course
 If you have no any Experience of the programming language than I strongly commanded this course because of this course contains all fundamental ideas of MATLAB and Prof. Mr.  Mike Fitzpatrick gives detail knowledge of MATLAB in this course. Also the exercises is very useful for getting idea about of functions.
 This course was very useful to me .I learnt MATLAB in a very simple and effective way. Thanks to the instructors for this wonderful course. I loved their way of teaching. The Discussion Forum is also very active and informative. Most of my doubts were cleared by reading threads of other classmates discussion.
@@ -742,14 +715,12 @@ It's a great course with very challenging assignments.All the assignments cover 
 It was an amazing course about understanding the MATLAB language and it's uses. The instructor sure has his unique way of teaching things that helped me grasp the key aspects in a very amazing manner. 10/10 would heavily recommend to anyone planning to get into the MATLAB environment. Thank you so much guys.
 This course guided me on my first (somewhat clumsy) steps in MATLAB in an informative, easily comprehensible and fun way! It absolutely motivated me to get deeper into it! Short: one of the best online courses I've ever attended and definitely worth recommending!@authors: thank you so much for your effort!
 Did struggle to understand the instructions for the final assignment (echo_gen). Once I worked out what was actually needed it wasn't too tricky to achieve. It would be helpful to have a few more practice scenarios along the way, not necessarily for assessment but useful for practice and cement learning.
-El curso es excelente para su propósito, una introducción. Sin embargo, sería excelente que hicieran una serie de cursos donde especialistas en distintas materias muestren las utilidades específicas de los diferentes toolboxes de Matlab. Por ejemplo, finanzas, econometría, termodinámica, ingeniería, etc.
 It was very helpful to me in all the aspect regarding programming,coding,problem solving etc. I have developed new skills in computer programming  through this course.I suggest that all the engineer who are interested in computer as well as machine programming  learning should take this course.Thank you
 I enjoyed a lot this course. When I started, I already know a few things about MATLAB, so the first and the second weeks was a little boring, but when other weeks become, It started to be more challenging I learn many new things. Thanks, Coursera, Vanderbilt University, and my University (UFSM-Brazil).
 Superb course for beginners to programming. The professors were truly awesome, and were really funny but at the same time had a clear cut idea of the concept and were exceptional in explaining them. The assignment questions towards the end were really challenging and were truly not meant for beginners.
 This course on Matlab is very interesting and lots of learning, assignments are good and challenging. Brandon Sir and his discussion forum is very helpful to solve assignments. This has created a good hands on experience of Matlab programming, and will help me in learning more Matlab further. Thank You
 Very helpful to learn principles of MATLAB. Some prior programming experience is best for this class, as it is not as comprehensive and basic as other programming fundamentals courses. However, great instructor videos with built in assignments accurately test and apply material learned in the course.
 Perfect! It is a very nice course, I really enjoyed it a lot. I got to learn many new things, obviously MATLAB but also new programming-style related things even though I know C, C++, and Python already. The assignments were the best part, the questions very awesome, they helped me a lot in learning.
-esta muy bien estructurado el curso , pero hay problemas que tienen su complejidad que en el curso no te explican, uno tiene que investigar por internet algunas cosas y esta bien eso, pero debe decir al principio que uno tiene que investigar solo también para estar precavido a lo que salga en el quiz
 Great Teaching.Systematically builds concepts from the begining. Micheal Fitzpatrick rocks!Mentors are very helpful and you are certain to get a reply within a day of posting your question on the forums page.Thanks a lot to Vanderbilt University and coursera for letting me be a part of this program:)
 It was really fun to learn with these teachers. They are really amazing,no doubt about that.I really enjoyed the full course with them.Hope that, I will attend their class one day physically. Lots of love & respect for them.Iftekhar Bangladesh University of Engineering & Technology Dhaka ,Bangladesh
 It´s a very complete course, the teacher is a progammer expert! and he explains every concetp with clarity and his examples are helpfull to resolve the tests. (also his jokes are great).  If you have any doubt the course staff advises you. I hope there will be  the next part of the course!Thank you!
@@ -757,7 +728,6 @@ The course was truly helpful and intensive. I have learned so many things not on
 I would specially like to thanks Professor and all those staff member who are associated with these course for helping me out during the course. Staff instructor as well as support staff make understand tough concepts in easy language as well as reply to the questions in a very short span of time.
 very good experience...Professor Mike makes classes interesting. Discussion forums also help you to solve some difficult problems. This is the basic MATLAB course but it contains some challenging problems as well. I enjoyed every assignment and lecture. I am missing the professor's humor already.
 Great course!The assignments are challenging and interesting. The topics are very well explained and take a logical sequence. The power of MATLAB is well presented in this classes.I'm sure that my programming skills got to a higher level and I've been recommending to all my friends and colleages.
-creo que es un curso que es dictado por personas con amplia experiencia en el campo de la programación en MATLAB, además saben como hacer entender los temas, es un curso introductorio, sin embargo hay "trucos" en los cuales solo se adquieren por experiencia o leyendo un libro y eso demoraría más.
 I am a civil engineer. Yet I enjoy programming. I have enjoyed a lot and learned well with such an amazing instructors. I believe they are the best instructors for MATLAB. Learning this course has become a memory for me. Its an amazing experience. I loved solving homework problems in this course.
 Really amazing course. The content was very well explained and the assignments really test your understanding. As long as you do everything here faithfully, you don't have to worry about anything else. I just wish there was part 2 of this course or at least some more self practicing assignments.
 This course has taught me not only the language of MATLAB, but also the important principles in programming that I believe can be applied to other programming language. The course presents thoroughly and in a proper pace. The assignments as well as the grading system are also very comprehensive.
@@ -801,7 +771,6 @@ For a non programmer like me, this course was far more challenging  then I thoug
 The course is very nice. It is packed up with video lectures and challenging problems.what I liked about the course is the problems a student really needs to listen the lectures with concentration to solve problems.this would help you to brush up your knowledge of Matlab.
 Thank you for this great introduction to Matlab.  Lessons are clear and effective. It was a chance for me to revise basic programming by learning a new language.  I also had fun  solving some homework! I would appreciate it very much if you could add some advanced topics.
 This course helps me to improve my MATLAB skill. The instructor teaches this course very well. Moreover, the contents are enriched too. Whoever looking forward to improvising his/her MATLAB skill or getting started with MATLAB, I will recommend him/her to do this course.
-Muy buen curso. Se aprende bastante. Al comienzo pensé que no aprendería mucho, dado que inició relativamente fácil, y eso que no tengo mucha experiencia programando. Sin embargo, con el pasar las semanas, se tornó en un desafío muy satisfactorio. Totalmente recomendado.
 It started off relatively easy and became progressively harder and it was adequately challenging and quite interesting particularly the final assignment. I would recommend it to anyone looking to learn a new language and see the applications of Matlab in everyday life.
 The course is extremely good. Thank you Vanderbilt University for this awsome course. However, I found the assignments a bit more complicated compared to the course materials. There are no hints for the last week assignments. The final 3 assignments are extremely hard.
 Excellent course I extremely enjoyed the course. Just a suggestion to the beginners do not give up it took me really long but I did it finally so you need to be consistent whatever you do.Thanks to the professor and the whole team for such a great effort.Regards,Naqash
@@ -831,7 +800,6 @@ This course has done exactly what it advertised. Anyone with or without a progra
 An excellent and well-structured course that covers the basics elegantly; the lead instructor is very thorough and approaches each topic with great enthusiasm. The assignments truly put your knowledge to test and are engaging. All-in-all a well-rounded course.
 I really thank myself because I did this course,it's surely one of the very best courses coursera has to offer.And what makes this course more interesting is those detailed explanation of everything by Professor Mike to go with a good set of practice problems
 One of the best course i have learned. The teaching method which the sir adopts is very interesting .Learning the course made the process easy and interesting.The programs so practical that makes fun to learn.Sirs has done the best job in making the wonderful
-¡Excelente Curso!Contempla todo lo básico y esencial para comenzar a programar y manejar distintos tipos de archivos, datos numéricos, matrices y hasta algunos tipos de archivos como imágenes y audio. Así como el manejo de archivos de texto y microsoft Excel.
 At the starting of the course I was deciding like should I take this course or not. The way the professor starts teaching got me addicted. A wonderful course and guided beautifully by the professor through the basics. Thank you sir for this wonderful course.
 Excellent course! It gives you a good start to programming on MATLAB. I'd recommend this course for anyone with little or no previous experience at all. Prof. Fitzpatrick teaches right from the basics and in a pace that's easy to keep up with. Overall 5/5!!!
 This course helped me understanding the very basics of matlab programing. i have learned debugging, working with function, and implementation of logic. Achieved a good habit like writing comments on program. And special thanks to professor Mike Fitzpatrick.
@@ -849,7 +817,6 @@ The method of teaching which the teacher followed was very helpful. The course c
 I was using MatLab before this course reading the documentation. This course instead, help me realize what  I was doing wrong and become a mor effective programmer. It worthed the time I spent dealing with course's assessments regadless of difficulty.
 Wow. I loved everything about this course. Excellent course content, excellent instructor and very very helpful discussion form. It contains so many assignments which are very tricky, but believe me, once you solve them, you will be proud of yourself.
 Really clear instruction with assignments that are appropriately challenging. The staff are active in the discussion forums and the text is also very helpful. Really and excellent introduction to MATLAB and programming (I have no previous experience).
-Curso Genial, super explicado y permitio ordenar con lo poco que sabia del Matlab, aprender gradualmente y como digo ordenarme. Me siento feliz con los coneptos aprendidos. no me cansare de decirlo es un curso geniaaaaal. Lo recomendare a mis Alumnos
 The course is great and the content are very useful although the last assignment is a bit difficult becuase you need a bit accoustic skills to do that one and it take me a whole day to complete it . But put that aside it is really a wonderful course.
 Vanderbilt University's Programming with Matlab offers very well structured and well delivered lectures. Course level, content and practice homework/exams have helped me build a solid foundation for my growing programming skills. Highly recommended!!
 Introductory course on MATLAB.  Very well delivered, definitely recommended.  Enjoyed every little bit from beginning to end.  Recommended to everybody who heard about the MATLAB but he is afraid that it might be to difficult to learn how to use it.
@@ -889,7 +856,6 @@ It was a great course for me, I explored many programming courses before. But th
 Thank you very much for providing this wonderful course to me.Before stepped into this course ,I have a little shivering about programming int computer,but once I completed this course I have  possessed more confidence to do programming.
 Really an excellent course. I started with  zero knowledge about MATLAB  and ended up quite more confident to work in MATLAB . Especially staff and discussion forum really helped me. If you are reading this then you will try this course.
 The course is very well defined and show an easy path to learn computer programming even to those who don't have a prior knowledge of computer programming (i.e. Me). The video lectures are also shows a step by step approach.  Thank you.
-Un curso muy completo, las clases son muy claras y muy comprensibles. Los ejercicios aplicados de cada lección son muy útiles para ver si has comprendido o no el tema en cuestión. Además, resuelven las dudas en el foro bastante rápido.
 the course was very well designed and good for beginners who wants to learn programming.the assignments were challenging and good.i thanks to cousera and vanderbilt university for providing this course and teaching in such a good way.
 Totally loved the course. Of course the assignments got harder each week but doable with the help of the forum. I know, this is just an introduction course but I got out what I wanted: The interest for getting deeper into Programming.
 This was the best online course I have ever done, I hope that there is going to be an advanced course soon. It was really challenging. I had an experiance of working with MATLAB before but I learned a lot of new things by this course.
@@ -908,7 +874,6 @@ A very helpful course (especially for beginners). Starts slowly but gradually it
 This Course gives lot of ideas to write matlab program in my own ways.Course Instructor is explained lot of concepts in clear manner .Its really useful to research Scholars.My heartfelt thanks and wishes to the course instructor.
 Perfect for getting into programming for the first time, or getting into MATLAB for the first time with prior programming experience. Questions are challenging enough for the latter case, but simple to understand for the former.
 The course was really helpful for as an Engineering student pursuing graduate course in Electronics as MATLAB is the standard in various colleges in India. It allowed me to learn and tackle various useful problem with elegance.
-Es un excelente curso, especialmente para personas que nunca antes habían tenido experiencia alguna con el programa. Las explicaciones y los ejemplos son muy claros y el hecho de que uno pueda ir a su ritmo es una gran ventaja.
 Got an opportunity to learn programming even under busy schedules. Thanks to Coursera and its team members for teaching the basics of matlab programming. I would really recommend all to join coursera to keep themselves updated.
 The designated course offered by Vanderbilt University, Introduction to Programming with MATLAB is a highly interactive and indulging course that truly consolidates one's notions and concepts on the MATLAB programming language.
 It's an excellent course for anyone who's starting with programming.  It gives you an excellent background for basic programming skills and finally at the end of the course you will have a very good command over MATLAB as well.
@@ -929,7 +894,6 @@ It was an amazing course, I have learned a lot of principles in a two ways , fir
 I really enjoyed listening and learning from the Professor because he goes very slow, explaining all the details that one might miss out. The module is also very appropriately paced even for beginners to programming like me.
 This course is really helpful to me, it is neither tough nor easy to do. The quality of study as well as the questions are so fine. Discussion forums really helps to understand or realize the situation of problem.Thank you..
 I have limited knowledge about coding but I am a good learner and I am good at linear algebra and other advanced mathematics. I enjoy listening the instructors' teaching. Gradually, I believe I will get familiar with Matlab.
-Muy completo, y trae muchos problemas para que puedas aprender de manera efectiva MATLAB. Existen unos pocos cambios en MATLAB para la parte de Excel pero con todo lo demás me fue de mucha utilidad para iniciar a programar.
 The best course that I have done and found at Coursera. I have learned a lot of things related to programming. This course just boosted my enthusiasm for MATLAB. This course builds a strong basic about Computer programming.
 The instructor was clear with his approach.The pace of the course was just right .This course had a lot of assignments which helped in applying the concepts learnt in the lectures.Overall a great course for learning MATLAB!
 Very good course! It is complete in a way that teaches the programming techinics from the very beginning but also challenges you to offer your best, researching for new tools and working hard to solve the proposed problems.
@@ -980,7 +944,6 @@ The instructor was great and easy to understand. I love both the lecture and how
 I have never finished a course like this before, and I can't explain how fabulous the instructor was and the quality of the curriculum as a whole. I 'd suggest this to my colleagues and friends, too. Thank you.
 being able to finish this class in less than a month was really amazing, I was not familiar with MATLAB coding but now I believe that I am capable of understanding MATLAB codes and writing some codes if needed.
 excellent course , excellent teacher. Mark Fitzpatrick was very clear and capable to keep the attention af the students at high level all the time. The tests were interesting and well balanced with the lessons.
-Сложные, но интересные задания. Очень понятные лекции. Огромное количество примеров. Курс позволяет сделать первые шаги в программировании даже тем, кто раньше считал, что программирование уж точно не для него.
 This course was the first course to learn the programming languages, and I am extremely pleased with my progress. The  instructor and his teaching methods are delightful. Easy to understand and yet challenging.
 Very well structured and extremely clear videos and also helpful staff and mentors to our questions. Assignments were very diverse and challenges us to fully understand the concept and functions of the program.
 I would recommend this to everyone who wants to learn Matlab irrespective of their prior knowledge about the language. It helped a coding novice like me to write code specifically suited for my data analysis.
@@ -1010,10 +973,8 @@ This course is designed for the beginners who have no prior knowledge in the Mat
 The course is a great introduction to the fundamentals of Matlab. The assignments are easier through the first weeks and are getting harder as you are procceding. I definitely suggest to it to everyone
 It was a wonderful course. Starting from the very basic things and then to a very good level of questions, this course really helped a lot. Very nicely set questions and effectively presented lectures.
 Excellent course , the way of teaching , types of questions in assignment , discussion board all wwas awesome. Questions which were in assignment helped me to understand the basics concepts quite well.
-Es un gran curso para iniciarse en el mundo de la programación usando MATLAB. El instructor es excelente y explica las herramientas necesarias para un efectivo desenvolvimiento en el uso del programa.
 very good course for learning programming in matlab. all the basics are explained in a very comprehensible way. the videos and exercises are versatile and excellent. thanks a lot to Mike for his time.
 this course helped me to improve my programming's Skills and thinking not only in MATLAB but in generally also. Indeed it is a perfect Course for the beginners in MATLAB and IT domain. Thanks a lot!
-gracias por la oportunidad, a pesar de que el ingles es mi segunda lengua y no la practico de forma habitual, se me hizo facil comprender la clases del profesor, son muy buenas, thx for this 9 weeks
 A real challenge for a newbie.Proffesor Fitzpatrick is my hero. Teachs really well and clear. He´s a cool guy.The course is fully attended, Worths every minute. Very recommended You won´t regret it
 It was an awesome course. This course teach me a lot about Programming with MATLAB ,this course now make me able to write program own. I am very much glad to this course, Thank you for this course.
 I am at loss in rating this course. For me, it is 1000/100. Although I had some programming knowledge, this course had been mind-broadening. Professor is very humorous and enlightening in teaching!
@@ -1168,7 +1129,6 @@ Very good course! The professor have a fine sense of humour, and the knowledge i
 Great course. Great videos that are even fun to watch. Perfect course for anyone who wants to either learn Matlab from scratch or wants to refresh his College basics.
 This was help to improve my basic Matlab knowledge and using that knowledge I could solve lots of problems. Also this was help to become easy of my degree programme.
 I learned a lot in this course.It helps me to write program in easy manner by using builtin functions. Thanks a lot to Coursera team for providing this course to us.
-Es un curso bastante bueno, brinda las suficientes herramientas para empezar con la programación matricial. Es casi que enteramente práctico, cosa que lo hace ideal.
 This course covers a lot of basic skills and is very useful!  The best part is the exercise! Lastly, the teacher is very humorous and I love his muttering and jokes.
 I finished this course with ma friends . it was really nice course. quizes and hws are perfect fit to us.I can use matlab for my study now. very thanks to professors
 Really good course! Had to learn to use MATLAB for an econometrics PhD course, and this course was veryu helpful on getting me started. The e-book is also very good.
@@ -1211,13 +1171,10 @@ This is really good course to learn basic programming in MATLAB. Some of the ass
 Great classes and teacher, with practical videos about matlab. The problems proposed by the course helps you to really understand what is computer programming
 One of the best way to learn MATLAB very quickly from these Professors. The Lecturer had did a great job in explaining how to use MATLAB is very simple terms.
 it's a great course that helps me to learn the Matlab in such a short time period . and the instructor always tries to teach in a way that we would be bored.
-Es un buen curso te ayuda a esforzarte y a subir el nivel en la programación que va a ser y de hecho ya es un punto muy importante en una carrera profesional
 A very great course for a beginner or intermediate person. I learned a lot of great ways to approach the problem. Very great course for all sincere learners.
 Wonderful course! Just wish that there wouldn't be any 40+ min videos, and sometimes Fitzpatrick was talking a little sluggish. Still, he is a great teacher.
 Nice course. The course helped me a lot in understanding matlab concepts and in my practical field of study.Thanks Coursera for providing a wonderful course.
 I found this course very useful. Even though the problems get complex at the end after completing this course I feel confident in understanding MatLab codes.
-Un curso muy bien explicado y de forma sencilla. Cubre todas los temas básicos necesarios para tomar el control de nuestro propio avance en el uso de Matlab.
-Excelente curso muy detallado y con un ritmo de aprendizaje sumamente eficiente. Felicidades a sus creadores me parece un excelente curso de inicio en MATLAB
 These were the best classes I had in any programming language in my entire life. Thank you so much Dr.Fitzpatrick, Dr. Lédeczi and Vanderbilt University! ! !
 I was a good experience learning MATLAB programming. This is very good course. And I personally enjoyed learning it...as MATLAB is one of my favourite field.
 First time i realize that i can be work using MATLAB nice it was great experience for me and the instructor are very helpfull and always behind me thank you
@@ -1252,14 +1209,12 @@ One of the best courses I have taken from Coursera. Prof Fitzpatrick is excellen
 Very informative course ... Explains pretty much everything a starter programmer should know. Very pleased with the dificulty of classes and homeworks!
 Highly pleased, going through the entire course. Completed in one go. Was extraordinarily interesting. Feel like, I can do anything with MatLab window.
 One of the best online courses I have ever taken. Thanks to the Instructors, Mentors and everyone involved in the preparation of this excellent course.
-Ótimo curso de introdução não só ao Matlab, mas à programação como um todo, estimulando a lógica com problemas desafiadores e aplicáveis ao cotidiano.
 i think its a best platform where you can learn something new .teacher is very good and there are very good assignments system.i love it.   thank you.
 I've attended a MATLAB course in the university on my curriculum, but now I am understanding what  MATLAB is and what amazing things I can do with it.
 Excellent Course! Great illustrations and beautiful homework assignments. Many thanks to the teachers and everyone who has contributed to this effort.
 Instructors were good enough t explain the lessons and they are clear to understand. The exercises and notes give a better understanding. Great work.
 The course is really well structured which makes it easy to cover the syllabus intime.The assignments are really useful to learn the topics in depth.
 Very Comprehensive course on Matlab..you become a pro after going through this course. It helps if u already have knowledge of the programming logics
-Muy bueno. Recomendable 100%. He pasado de no tener ni idea de matlab a tener una base. No lo aprenderás todo pero lo suficiente para moverte por él.
 This course covered all the basics that I needed to start working on Matlab, especially the homework assignments helped to build and clear concepts.
 Love this course. Such a lovely teacher he is. I've enjoyed the full course and also liked the way of teaching of him. Will definitely miss you Sir.
 It is very useful, we can learn many things regarding Matlab. The main appreciating thing is they are providing free online Matlab services for free
@@ -1300,7 +1255,6 @@ Great course, everything is very well explained and the homeworks really help to
 Excellent course with enough homework to really make you know the subject. The instructor was easy to understand and very helpful on the forums.
 Really enjoying it so far! As a biologist with no official training in Matlab finding the explanations fantastic! Great well explained examples.
 Amazing instructors, very appreciate their input and explanations by typing it on the system.  Very well thought and excellent material content.
-Excelente curso. altamente recomendado. Me permitió ordenar lo que sabia y aprender tips  que mejoraron mucho mi dominio de este buen programa.
 Really awesome course created by Vanderbilt University, Nashville, Tennessee. A big thank you to Prof. Mike Fitzpatrick and Prof. Akos Ledeczi.
 It is such an amazing course to start your journey with Matlab. I will recommend this over any other Matlab introductory courses. Best of luck.
 i am initially has very less knowledge in programming , with completion of this course ,i am fond of programming and has found interest in it.
@@ -1315,7 +1269,6 @@ Was good to refresh my understandings of MATLAB.. Although I feel a beginner mig
 Great course.  The instructor is fantastic. Programming assignments are well designed, interesting and quite challenging. I've learned a lot.
 It is a great course for students who have no backgrounds in Matlab and it also can help you to build a fundamental knowledge in programming.
 Great course. Highly skilled lecturer. Very understandable and easy paced for every student.Lots of exercises to practice cording by matlab.
-Richtig gut gemacht, sowohl Erklärungen als auch Aufgaben wurden stetig schwieriger. Die Letzen "finale Problems" haben viel Zeit gebraucht.
 With this course I learned how to program with MATLAB, I recommend to those who want to have an excellent knowledge of this platform. Cheers
 It was a good starter course for getting indulged into Matlab. All efforts from the teaching staff and the coursera are greatly appreciated.
 I went through the videos on Youtube due to my limited time. I had to skipp all quizzes and homeworks.But the content was great and helpful!
@@ -1368,7 +1321,6 @@ I learned that programming is fun and can use in many fields such as computation
 Excellent course on MATLAB with very detailed examples and explanations. I really enjoyed the problem solving too. Thank you so much.
 Great Lesson! And I do learn a lot here. Not only how to use the MATLAB program, but also how to be a great programmer in the future!
 This course is made for those who want to start from scratch. Course instructor is knowledgeable and teaching quality is very smooth.
-muito bom. Me ajudou muito a aprender rapidamente a dominar o MATLAB. Curso com boas aulas e um professor altamente capacitado. Show!
 I understood Matlab much more deeper and better basics. i am very glad that i joined the course. Thanks you for giving such a chance
 This is an incredible course. I started from the beginning having no any prior knowledge of programming and now i am love with this.
 Nice coursework gives a lot more information considering i am from chemistry background.Hope I revise it again to learn more .Thanks
@@ -1441,7 +1393,6 @@ Wonderful instructors. The tutorials and challenging questions were a good intro
 The instructor is highly talented and material is easy to grasp.I recommend this course to all beginners and intermediates.
 I am a Graduate Student in Chemical Engineering at Texas Tech University. This is a very important and very helpful course.
 The course content is excellent. The instructor explains each and every step involved and also gives handy tips and tricks.
-Muy útil, dinámico y aprendes muchas cosas nuevas. Yo no sabía nada de MATLAB y he aprendido a hacer bastantes cosas. 5/5.
 The lecturer clearly explain the theory. The problem in this course not too hard but it's train you to thinking logically.
 I learned a lot from this course! The lectures were good, and I liked the interface for submitting the Matlab assignments.
 Addition of some lectures on plotting and application based practical problems will be even more helpful for the students.
@@ -1481,7 +1432,6 @@ Request to add objective type questions. Also request to reduce the difficulty l
 It is the best online courses till now I've ever experienced because the online facilities and knowledge is wonderfull
 This is a great course and as i am from the field of data science so matlab will definitely help me visualize the data
 Being a non-CSE guy, this course really helped me a lot. All thanks to the excellent instructors for making it easier.
-C'est  un très bon cours d'initiation à la programmation sur MATLAB. Il permet une prise en main total de ce logiciel.
 An excellent course to learn how to use MATLAB. This course teaches from the basics to some mid-high level functions.
 THIS COURSE WAS SO AMAZING.MOST IMPORTANTLY ,THE TEACHER WAS SO AMAZING WHO MAKE THE LEARNING EVEN MORE EASY AND FUN.
 Amazing course. Made me fluent with MATLAB, and hence improving my programming skills. The professor is really great.
@@ -1503,7 +1453,6 @@ It was very informative course i was like newbie at starts but now i feel like a
 Lectures were fantastic,the assignments make one work for the solution and it was overall an invaluable experience.
 A great course for starters! The speaker is awesome, I liked his jokes, especially about a guy asked about dying xD
 Wonderful course! No comparison of it exists. Perfect assignments at the perfect time. A very handy user-interface.
-A pesar de tratarse de una introducción es muy completo, lo recomiendo si quieres afinar tus habilidades en Matlab.
 This is a great introductory course! I recommend this to anybody that tells me they want to learn MATLAB. I love it
 Great! It is one of the best courses i have taken. Homework is good(difficult) enough to practise what i learn. :-)
 I have some experience in programming, this course was a movie. Professor Mike Fitzpatrick is a legend. Thank you!
@@ -1577,7 +1526,6 @@ Very nice course. A lot of interesting exercises that makes you think and develo
 The assignments are very nicely prepared. Also, I loved the end music. Thanks to teachers and other staff.
 thanks a lot for uploading this course, I learned a lot of coding basics, very useful course for beginners
 Really amazing course, the way I learned this new programming language was very easy and very comfortable.
-Excelente curso para iniciar en la programación con Matlab. Estoy mas que satisfecho con lo desarrollado.
 it was just amazing experience to learn matlab by  distinguished faculties, it really helpful . Thank you
 It's a great course for students.Thanks for giving us opportunity to learn about how to program on MATLAB
 This course was amazing. In the beginning, the exercises were easy but the level was increased gradually.
@@ -1595,7 +1543,6 @@ had a very good time doing this course the instructor is very good and explains 
 Wonderful course. I really loved it as i learnt almost all basics in MATLAB. I thank Tutor for the same.
 assignments are really challenging . theory too is excellent.very real time examples are questions given
 It's very helpful and well decorated course. I strongly recommend to all students to attend this course.
-Corso splendido, completo,complesso.Se ben seguito, vi darà delle ottime basi di programmazione MatLab.
 Good,Some of the assignments are  difficult to understand,write a  code for week 9 assignment is tricky
 This code is very nicely planned. Instructor is really a nice man. He never let's students to get bore.
 It was a very complete course, I learned a lot in it, and also I have so much fun with Mr. Mike jokes!!
@@ -1622,9 +1569,7 @@ Very good course, Gives you best insight in programming and gives you great idea
 I learnt how to write a program, this will definitely help me in enhancing the problem-solving skills
 it is quite an enjoyable course. But to be aware that the emphasis is on "Programming", not "MATLAB".
 A very good course. The exercises given helps a lot to learn. The lectures are good and bring clarity
-Gracias por la oportunidad de poder llevar este curso y las facilidades que se me dan para el futuro
 The explanation was detailed and helped me a lot to strength hold my knowledge in Matlab programming
-Sehr gut erklärt. Aufgaben sind so verfasst, dass man sich selbst gut kontrollieren und lernen kann.
 This is perfect course for the beginners. I thank instructor for nicely explaining all the contents.
 I prefer for adding basics about SMULINK too as it has become very useful in the mordern generation.
 I am giving the rating but the lecture should be updated accordingly as New version comes in Market.
@@ -1639,11 +1584,9 @@ All the problems for assessment were so good and the instructor was so good expl
 An excellent course, both in content and presentation. This is how an Online-Course should be made!
 Great, challenging exercises throughout the course to ensure you're learning every step of the way.
 Amazing content and faculty. Can't believe I was able to learn it within 9 weeks time. Thank you :)
-Sehr gute Erklärungen und sehr großer Lernfortschritt. Echt jedem Einsteiger zu empfehlen, danke :)
 Very useful course with great homework to practice and helpful response from teachers in the forum.
 The course is awesome and provides us with good learning videos as well as challenging assignments.
 A perfect course to get started with Matlab with very cool excercises to get practical experience!
-Muy buen curso, bien explicado y el profesor explica de manera correcta cada tema. Muy recomendado
 The course was great, and learned a lot. Hope to see some more amazing course from this institute.
 This is a great course...Do enroll for it, you will learn a lot from doing, so I can guarantee it!
 Great course! Lots of resources and practice problems. The discussion forums are very helpful too.
@@ -1703,14 +1646,11 @@ Excellent course. Completing the homework assignments correctly gave me a lot of
 Very well-organized and useful course for a beginner in programming. Can't ask for better :)
 Phenomenal lecturer.  A great introduction or review for those already familiar with MATLAB.
 Excellence fundamental course for someone who is seeking the first-step of MATLAB practices
-Best lecturer seen ever!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Muy bien estructurado, muy claro, gran curso para iniciarte en el mundo de la programación.
 This is a true MOOC.....Excellent teachers and tough assignments. Really loved this course.
 Very nice course for those who want to MATLAB. Come to try it no matter you are new or old.
 This was really a great course which helped me practice my previous knowledge about matlab.
 I would heavily suggest this course for beginner in Matlab or who wants to be a programmer.
 World best methodology adopted to teach, even to those having zero programming background.
-Ein sehr guter Einstieg in MATLAB mit vielen Knobelaufgaben, die sich jede Woche steigern.
 It's absolutely amazing!! The way the instructor teaches helps you keep going on...Hurray!
 Perfect course for a begineer and for a person who wants to brushen up their fundamentals.
 The course and the instructors are awesome!! Glad that I was finally able to complete it!!
@@ -1744,13 +1684,11 @@ I was an awesome course to learn the basics of MATLAB and Programming. Helped me
 it was an wonderful experience to learn from you.Thanks for providing this free courses
 Best course to understand the basics of matlab progamming.I really enjoyed this course.
 Excellent Lectures and good material provided assignments also very good thank you alot
-Excelente curso introductorio.Posibilita comenzar a programar tareas laborales diarias.
 Amazing grader system. Helped a lot. Also great professor with a bright sense of humor!
 The teacher is very kind and humorous. The whole set of video is elegant. My gratitude!
 Thanks for your wonderful Course. Really it's very much helpful for novice researcher .
 Great course, sometimes you need to think about questions twice, but it's interesting.
 super great!!!The teacher has a good sense of humour.  I really enjoy all the lessons!
-Fue un curso muy retador en el que puse a prueba mis capacidades de pensamiento lógico
 This is a great course to enroll yourself into. The instructor teaches extremely well.
 The way of teaching is amazing, sir was really great, i never got bore ,he is amazing.
 This Program is very well planned and the instructor is explained very well. Thank you
@@ -1773,7 +1711,6 @@ Simple and concise introduction to Matlab. I'd highly recommend it to the beginn
 Best course for Introduction to programming. Tougher concepts also explained easily.
 Excellent introductory course. Authors solutions to the exercises are a great bonus.
 I am feeling proud to be an part of this session,it is very helpful in future apart
-Excelente introducción a Matlab, buen contenido, buena explicación y buen profesor!
 i learnt a lot from this course, Thank you so much for offering such a good course.
 Learned a lot through this course and it would be very helpful throughout my career
 Enjoyed every minute of it and learned some valuable programming skills on the way!
@@ -1783,8 +1720,6 @@ Comprehensive introduction. Recommend to anyone who wants to get an intro to MAT
 I'm glad that Matlab is my first progamming language. The course was highly helpful
 This is an amazing course with detailed discussions with plenty practice exercise.
 Excercises were interesting  for solving and increasing the scope of understanding
-Excelente curso. Interactivo y muy dinámico.Great course. Interactive and dinamic.
-PRETTY GOOD GRAPHICS,NICE LECTURES,USING GREEN SCREEN,PROBABLY EVERYTHING IS BEST.
 Wonderful course. any one with can learn it . everthing is explained from scratch.
 One of the best course i have ever taken. And probably the best structured course.
 Very efficient study and a thorough knowledge of the course with good assessments.
@@ -1796,7 +1731,6 @@ excellent methadology of teaching..great illustrations too. keep up the good wor
 Very good course and useful for somebody who knows a little of Matlab programming.
 It was an excellent course taught with very nice examples.... Thank you very much
 "excellent content and very knowledgeable.....Trainer had a great sense of humour
-Muy buen curso, aunque esté en inglés pude entenderlo a la perfección. Gracias!!!
 Great teaching materials and great experiences using the online version of matlab
 A great introduction or refresher course for Matlab. Well taught and very useful!
 Good course contents with necessary guidelines. Recommended for MATLAB beginners.
@@ -1834,17 +1768,13 @@ An entertaining and sufficiently challenging course with a wonderful lecturer!
 Changed my way of thinking in programming and how for loop can be rarely used
 You are a Great Instructor. Would love to study from you again in the future.
 The course and faculty are awesome. Able to attain knowledge regarding Matlab
-Me ha encantado el curso! y las clases fueron muy precisas y muy entendibles!
 The course is very helpful in understanding the basics of Matlab Programming.
 The examples and asiigmnent questions are extraodinary and thought provoking.
 Excellent course and illustration by the professor. Hope to see more of these
 this course very helpful for improving my knowledge about MatLab programming.
 Teacher is so useful . his courses are fun ,and he truely know how to teach .
 With this topic, you will practically learn all you need to know about Matlab
-Me pareció un curso excelente, muy bien explicado y con ejercicios retadores.
-Increíble curso, las tareas son retos bastante exigentes y se aprende mucho.
 It was such nice course to know the basics of MATLAB and  usage of functions
-es un curso que permite adquirir habilidades de programación bastante utiles
 Very Nice Course for Beginners!!.. Learned a lot :) Kudos to the Instructor.
 Really good course, the videos are interesting and the tasks are challenging
 Thank you, Coursera, Vanderbilt, and the Professors Ledeczi and Fitzpatrick.
@@ -1908,7 +1838,6 @@ Great course that I highly recommend!  Comprehensive and well explained.
 this is really a best source for learning MATLAB...hatts off you guys...
 Very nice course, learned a lot. Great instructor with dry bit of humor.
 The teachers and TAs are really helpful when you asked questions online.
-目前上到第五课，老师非常细致，作业也对于应用很有帮助，或者说让新手比较容易完成且有成就感，哈哈，非常感谢老师辛苦讲解和编写作业程序。THX！！！
 let the experts guide u to win..........................................
 Very nicely designed and elaborated lectures with real life examples...
 video lessons were so good and easy to understand from the basics!!!!!!
@@ -1947,7 +1876,6 @@ Very Helpful course for people who want to learn Matlab from scratch.
 its best opportunity to doing online courses here. i love course era.
 This course was very helpful and the standards of the course is good.
 Very informative, organize and interactive approach. I learned a lot!
-非常感谢范德堡大学提供的课程，有趣而又精简，培养了我对编程的兴趣，非常开心能有机会学习这门课程，并希望今后在coursera学习更多的课程
 Who says that you can't become a good programmer with some laughs....
 Very satisfied with the course. Good exercise questions and examples.
 it is very useful course ,very important and gives me great knowledge
@@ -1967,9 +1895,7 @@ A good course for anyone who wants to gain MATLAB programming skill.
 this  lesson offer much help for new comers in this  domain like me.
 Very concise materials and practical knowledge. A Wonderful Course!
 Really like how they give us homework and the instuctor is very fun
-Excelente curso, cualquier persona sin conocimientos puede aprender
 Great course to start programming with MATLAB. Highly recommended!!
-Excelente curso, se aprende bastante para ser solo la introducción.
 Very good and effective course in the programming aspects of Matlab
 initial 6 weeks are damn easy. But later 3 weeks are so tough to me
 I got a great knowledge to learn how to code from basics in MATLAB.
@@ -1982,7 +1908,6 @@ thanks courseera for making such wonderful learning platform......
 very good course and mike is very good teacher i love his teaching
 Excelent course, gives basic ideas of the main commands in matlab.
 Very good course . I learn lots of important fundamental of matlab
-Muy buen curso. Me costó adaptarme a sus exigencias pero lo logré.
 I enjoyed this course. It was helpful and the teacher is the best.
 Good teaching system with a very helpful discussion forum! Thanks!
 very good and understandable course. Moves just at the right pace.
@@ -2119,7 +2044,6 @@ Love the way of teaching and enjoyed solving assignments
 Just as it was recommended to me, I'd also recommend it!
 Great course, took a while to get through, but worth it.
 wonderful course for anyone who wants to learn matlab!!!
-Excelente explicación me encanto el curso muchas gracias
 nice lecture and  explanations. very much useful. thanks
 a very good course to develop  MATLAB programming skills
 It was exhaustive, but at the same time very educational
@@ -2128,14 +2052,12 @@ The best MOOC programming course i have seen. THANK YOU!
 It was a good course contained with good test problems.
 Good for everyone who wants to learn about programming.
 This was the best MOOC I've been a part of. Thank you!!
-GREAT STAFF, RESPONDS TO DOUBTS AND OVERALL GOOD COURSE
 Excellent course. Every program lover should go for it.
 nice explanation of lessons, in very interesting style.
 it was very helpful and good way for beginers to learn,
 Really interesting and thorough introduction to Matlab.
 Very helpful and informative. Really good for beginner.
 It was a very experience. Enjoyed the learning process.
-NICENICENICENICENICENICENICENICENIENICENICENICENICENICE
 I highly recommend this cource for professional growth!
 That was a great course ! I learned so much, thank you.
 A great course to introduce you in programming language
@@ -2213,7 +2135,6 @@ excellent course ,very detailed and easy to follow
 A fun learning experience.Kudos to the professors
 Please make the lecture videos a little bit short
 Best course to learn matlab for those who are new
-Excelente curso! Muy sencillo y bien explicado :)
 This is an amazing course that I have completed!!
 Great course. Great teaching. Very easy to follow
 This course very good and explain basic concept .
@@ -2237,7 +2158,6 @@ Well structured for hands-on training. The best!
 Very great course to learn MATLAB. Good exercise
 coursera is a best platform for learning matlab.
 The way they teach this course was awesome... :)
-BEST LEARNING PLATFORM AND GOOD EXPLANATION TOO.
 i learned matlab very well good course thank you
 Teacher are really good Best way to learn matlab
 Best course I've ever done in Coursera platform.
@@ -2295,7 +2215,6 @@ Really good experience. Simple  and thorough.
 Great starting point to MATLAB programming...
 well planned and interactive.Never got bored.
 Excellent course, the homework is interesting
-Хороший курс, жаль что только на Английском(
 it was really helpful and useful, Thank you!
 This course was so helpfull for me, thanks!!
 Really helped me get a good grasp of MATLAB.
@@ -2335,7 +2254,6 @@ it is excellent therory plus pratical work
 Very nice lecture and knowledgeable course
 excellent rich material & learning content
 Awesome course. Very clear and interesting
-ONE OF THE BEST COURSES THAT I HAVE TAKEN.
 very good course for beginners to matlab !
 Exelent course for introduction to MATLAB.
 Very good course with excellent professors
@@ -2388,15 +2306,12 @@ coursera material is very knowledgable.
 It's a excellent app to learn something
 A really nice and well designed course.
 Thanks for your professional course ...
-AMAZING COURSE WITH GOOD VIDEO LECTURES
 Exceptional course and awesome teaching
 good presentation skill of the teacher.
 highly recommended course for bigenners
 Very easy to understand. Great course!!
 Thank you, the course is really helpful
-与普通的教科书样，教的是MATLAB矩阵编程的思想，很实用和高效，确实很受启发
 Pretty detailed courses. Greap practice
-课程的内容比较基础，但是有一些作业还是有些意思的。Project Euler！
 Very instructive and challenging course
 This is what i actually needed. Thanks
 Great course, explanation was so clear
@@ -2407,7 +2322,6 @@ COmprehensive, Precise  and up to date
 amazing course and a competent faculty
 the best course for matlab programming
 good course and good homework project.
-El curso perfecto para aprender MatLab
 Great course to get started in Matlab!
 Excellent. Really helped me at my job.
 IT IS JUST SUPERB..........WELL TAUGHT
@@ -2435,7 +2349,6 @@ Tough, but a good intro or refresher.
 this course is very very supported me
 Great Instructor, very easy to follow
 By far the best MOOC I have attended.
-Muy buen curso y muy bien explciado.
 the course was very good and helpful
 thank for such a great opportunity .
 Excellent.You can learn many things.
@@ -2460,7 +2373,6 @@ Best course for matlab introduction
 Excellent course and great teacher.
 Great course for beginner on Matlab
 very useful thank you for your work
-EXCELLENT EXPLANATION AND COMMUNITY
 Best course 👌 for matlab begginers
 it wonderful experiences, thank you
 learnt matlab in a very good manner
@@ -2472,11 +2384,9 @@ Thankyou
 very easy to grasp, simple and fun!
 A good course to start with matlab.
 Great course. Learnt a lot from it.
-编程题设计地还是蛮不错的~~~刚接触的matlab的同学可以学习一下。
 Good course for matlab introduction
 good examples and really impressive
 Awesome course with great Examples
-very helpful for understand Matlab
 very good assignments and lectures
 This course is exceptionally good.
 Very much interested for beginners
@@ -2506,12 +2416,9 @@ It was a nice leaning experience.
 clearly helped me to learn matlab
 it very nice course for beginners
 really awesome and worth learning
-Excelente curso. 105% recomendado
 Best course for matlanb begineers
 Excellent course for beginners !!
 really helpful to gain knowledge.
-une superbe introduction à MATLAB
-Curso muito bom, como introdução.
 it is a very interesting course.
 I absolutely enjoyed the course.
 From basic to advanced a journey
@@ -2529,7 +2436,6 @@ Clean and clear concept delivery
 very useful course, thanks a lot
 Very good text and explanations.
 Thanks for the wonderful course!
-Muy buen curso, 100% recomendado
 Thanks a lot team! Helped a lot!
 They made this matlab look easy.
 course for learning programming.
@@ -2540,13 +2446,11 @@ Outstanding Course presentation
 very good course. thank you sir
 Excellent course for beginners.
 It was a nice journey with you.
-Muchas gracias, excelente curso
 Very interesting and well done!
 exceptional learning experience
 nice and  very easily explained
 helps in fast and easy learning
 Best course for Matlab learners
-Excellent course and content...
 Extremely useful course for me.
 its very easy to learn matlab ,
 best course for learning basics
@@ -2556,23 +2460,19 @@ Great Course, really well done!
 A good for beginners In MATLAB.
 It was very useful. Thank you!
 Great teacher and great course
-Excellent course for beginner.
 It was a knowledge able course
 The excellent course in MATLAB
 Thank you for the good course.
 Course is useful for beginners
 A Very good programming course
-Excellent for understanding!!!
 Good course, very informative!
 enjoyed the nectar of learning
 EXCELLENT COURSE FOR BEGINNERS
 Best way to start with MATLAB.
 Good way of teaching. :) :) :)
-Expérience très enrichissante.
 Amazing course for beginners!!
 learned a lot from assignments
 Excellent teaching Faculty....
-Learnt a lot, Valuable course.
 Complete and incredible course
 BEST TEACHING I HAVE EVER SEEN
 Thank you for a new knowledge
@@ -2581,20 +2481,15 @@ great course. thanks so much.
 Good course. Taught very well
 Great way to teach the course
 perfect for engineering grads
-i learn lot of MAYTLAB skills
 very foundamental yet useful!
 Thanks for giving this course
 Very Effective. Thank You sir
-Excelente curso, muy dinamico
 Excellent Teaching by experts
 Quite a good experience i had
 great course... matlab a to z
-Excellent explain every point
 It was really Good!!! Thanks.
 Exceptional beginner course..
-我觉得这个课程特别好，老师讲得很细致，很慢，特别适合初学者
 fundamental but very usefull!
-very very good. Well done ;-)
 nice course very informative
 Saved me from matlab basics.
 very nice and useful for all
@@ -2607,12 +2502,10 @@ Awesome course , learn a lot
 Very nicely organized course
 It was a amazing experience.
 Thanks a lot for everything!
-Awesome Course for beginners
 Best site to learn anything.
 It was very exciting course.
 Love the way of teaching !!!
 very useful for ML learners!
-Aprendí como utilizar MATLAB
 intresting..thank u coursera
 Very good and challenging!!!
 Very interesting + well made
@@ -2621,7 +2514,6 @@ amazing. very comprehensive
 Love to learn from coursera
 Teaching was just awesome!!
 Course is very informative.
-Best course I have ever met
 Best instructor, that's all
 Good course for a beginning
 Excellent Teaching!!!!!!!!!
@@ -2629,9 +2521,7 @@ Very good for beginners' :)
 Amazinng learning experince
 I learned a lot from basic.
 it was a great experience!!
-mike ! sir,you are awesome.
 It was pretty much helpful.
-c'est vraiment instructif..
 It's very clear and usefull
 Great easy to follow course
 This course helps me a lot
@@ -2649,24 +2539,19 @@ I learned easily thankyou!
 The instructor is amazing!
 Thanks I've learned a lot.
 The instructor is so cute!
-Excellent Matlab course !!
 pretty good. Learned a lot
 learned a lot!! THANKS :)
 Instructor was fantastic!
 very good quality course.
-good Practical experience
 good for building basics.
-Simple & Best Explanation
 very very awesome course.
 very practical and useful
 Thanks a lot for the help
 Awesome course on MATLAB!
-good lesson for beginners
 very good course to learn
 good introductory course!
 Good job with the course
 great course of all time
-muy buen curso excelente
 Great Course. I like it.
 Very nicely structured!!
 This Course is Very Nice
@@ -2674,8 +2559,6 @@ It was great relly great
 very informative course!
 Simple and easy to learn
 teacher is very humorous
-很有趣的一門課程，教學團隊非常認真!  5星評價
-Продуктивно и интересно!
 Really like this course.
 great introduction video
 great videos and support
@@ -2686,26 +2569,21 @@ it was excellent course
 very satisfying courses
 Nice Course , i like it
 More Informative Course
-excellent..thank u sire
 WOW IT WAS GREAT COURSE
 Awesome MATLAB learning
 Excellant for brgineers
 It improves your skills
 Good and needful course
 Really very good course
-我的计算机语言入门居然会是matlab，完美！
-Best course for MATLAB
 Easy and user friendly
 Great. Love the tutors
 Very good. So helpful.
 it helped me sooo much
 outstanding course!!!1
 best course for matlab
-Excellently delivered!
 Brilliantly conceived!
 Teacher is super cute.
 This course was great!
-Simple, clear, useful.
 Really a great course.
 I like the assignments
 Great course - thanks!
@@ -2714,116 +2592,62 @@ it's good programming
 ALL ARE GOOD CONTENT.
 Great teaching style.
 i learn something new
-excellent course ....
-Excellent professor!!
 Great. easy to follow
 Great for first year.
-Excellent Explanation
 Very good assignments
-Muy útil y divertido
 wonderful professor!
 This is Great course
-One word : Excellent
 Very much productive
 Very good the course
-EXCELLENT COURSEWORK
-fantastic instructor
 very much effective.
-Fantastic Experience
 Tough tough tough...
 Best Matlab intro!!
 wonderful course...
 Thank you Mathworks
-excelllent material
-由浅入深，编程题很好，对提高能力帮助大
 Is really very good
-助教特别棒，幽默风趣又严谨。学到很多。
 great and inspiring
 Very well designed
 I LIKE  THIS COURS
 Good Explanations!
 nice and effective
-absolutely amazing
 Good length course
-nice workI enjoyed
 Very gud course...
 I learned a lot!!!
 It's just amazing!
-hw5 challenged me.
 hard but rewarding
 It was terrífica!
 it was incredible
 It‘s sooo useful！
-Excellent work!!!
 Very good for me!
 very clear course
-Excellent Teacher
 Very tough course
-Very Instrumental
 Awesome teaching!
-Great Lecture!!!!
 very practical !!
-Very good effort.
-Nice course ....
-Best one ever !!
 Helped me a lot.
 thanks a lot !!!
 it's really best
 I'm really happy
 finalassignment
-BEST EXPERIENCE
 Aawesome course
 a great course!
 Fantastic Class
-Excelent Course
 Best professor.
-outstanding....
 great to learn
 awsome coursre
-Thank you sir.
 worth the time
 Simply osm☺️👍
-great guidance
-课程很好，老师讲的通俗易懂。
 Nice and Neat!
-Very detailed！
-Nice Course.!!
-excellent!!!!!
 Well produced!
-VERY  USEFULL
 helped me lot
 good course..
 it's helpfull
-相當適合matlab初學者
-Muy bueno! :D
-Very amazing.
 great class!
-只能用完美来形容这个课！
-Extrordinary
 its a useful
-exceptional!
 For everyone
 Very useful~
 satisfacted
 Cool medium
 best of all
 Good start!
-有些课后题真的很难。。
-Splendid !
-很好，我从中获得很多
-So useful!
-josssssss
-非常适合初学者学习
-Recommend
-Excelent!
-GREAT :D
-congrats
-exellent
-CПАСИБО
-V.good
+intersting
 Coool!
-非常好的课！
-ENJOY
-yuupp
-可以可以
-n.a

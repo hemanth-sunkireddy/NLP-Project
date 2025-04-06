@@ -3,7 +3,6 @@ Boring. Not application based. Still no idea what ml is.
 The course tends to unclear on what you need to learn from the material for quizzes and then quizzes on industry knowledge not covered in the material. The Qwiklabs graded assignments used in this course has numerous bugs that can use up your attempts at performing the assignments. The Qwiklabs set up used can also make it difficult to pass for people with certain disabilities.
 The tutorial made no sense. Could not follow the instructions to set up the lab i.e the rest of the course could not be completed.
 Exercises are slow. GUIs offered for the exercises are terrible. And explanations are hand-wavy at best!
-Comentan que es gratis y no te dejan concluirlo hasta que lo compres, es un engaño
 This course is awful.  I recommend everyone stay away.  I want my money back.
 confusing and poorly structured. basically a promotion to their tools
 Let me un-enroll please. One of your videos was outdated.
@@ -11,7 +10,6 @@ The quizzes are very badly designed
 found it not interesting
 no option for qwiklabs
 really bad experience
-Not Relevant
 I think this was a good introduction to some of the theories/motivations behind machine learning but it lacked a lot of depth. Most of the time, it just seemed to be an advertisement for Google and Google Cloud Services. I also felt like it lacked a lot of hands-on activities that would have been more enriching and instead just placed the explanations in the videos. For example, instead of a video explaining how to clean data, a hands-on activity where the student practiced cleaning a dataset would have been better. The labs just seemed like more advertisements for Google Cloud Services and I don't think I learned much from doing them. I think this is good foundational stuff if you've never touched ML before, but honestly I would not recommend paying for it. A more interactive course on ML, maybe one that does involve some coding or some data manipulation, is probably worth your time and money.
 Not worth it gone for it cause it was available for me free it's not the basic and not the intermediate course it's some what in the middle of both which make the course hard to understand, If you want to a kick start with AI with zero knowledge go for the AI for everyone course which is the best for starters.
 This is mostly a Google advertizement for its products. This is also lost in between, not targetted towards either analytics managers (too basic) or business managers (too technical and not relevant). But still informative in certain places
@@ -55,7 +53,6 @@ Understood a little of machine learning in professional business
 between week 2 to 3 ,It's a little bit difficult to understand.
 Many time not able to work on google tools
 More Practicals will be helpful
-To much general
 NOT TOO USEFUL
 extremely good
 This course is very good for someone who wants to just get a feeling of how machine learning can be used in different scenarios and how to get a hang of some of the machine learning tools without explicit coding knowledge. But before doing this course I would suggest everyone to go through AI for everyone course by Andrew Ng. After that course, this course will look a lot more approachable.
@@ -68,11 +65,6 @@ Overall, the course is a very comprehensive course. It provides a good overview 
 I've taken a similar Amazon (AWS) course before, and should say that this Google's course is much better suited for the beginners. AI and ML are explained in relatively understandable terms, with good real-life examples. At the very least, I now have a structure in my mind that can be accessed whenever a discussion on ML in professional settings is taking place. Some parts of the course (especially the last lab) were way above the grade of the purported target audience - I think, Google might revise them for better comprehension.
 This is a great class for those looking for fundamentals of machine learning. If you already have ML experience or currently use Big Data at your company, you may find large parts of the course redundant. The labs are also quite easy and require little to no independent effort as the instructions tell you exactly what to do and write. This is a beginners class for business professionals, not intermediate or advanced. But fantastic if that's what you're looking for.
 This course has been designed for the beginners in machine learning. Theory is very important to understand the basics and idea of machine learning, which is existing from quite a long time by now. This course gives you a systematic understanding of components of ML with current real life examples. This program has been explained so elegantly by some of head experts in google. Thank you for giving a real good start for my journey of learning ML.
-Foi muito importante para contextualizar a utilização do ML,
-como a esta ferramenta pode ser aplicado nos negócios e como deve ser gerida.Foi também importante para perceber em que áreas nos devemos
-especializar e como tirar partido da riqueza em dados que a empresa possui e que
-não está a ser usada.Gostava que o curso tivesse mais tempo dedicado a
-explicar os modelos de AutoML que existem e sua aplicabilidade prática.
 Very helpful to get a great overview of all the aspects related to applying ML in a business setting.This was not a technical course at all as they clearly tell at the very start. However, I think it would be useful to explain a little bit more technicality in the How ML works module to give a better intuition of what happens to the students who may end up taking this as their first ML course ever.
 It's great course for a business professional who is in any strategic planing and managerial post to think out of the box. Help them collecting organized and necessary data and utilize this data by feeding into ML model to predict their customers behavior and other associative environments of business. More over, it will help to accelerate the business through the prospect of ML.
 Great, non-technical course on Machine Learning providing inspiring use cases, a high-level framework for managers who are seeking to hire people in their Data Science team and getting to explore interesting tools developed by Google and its partners in the field of Machine Learning. No prior coding experience necessary, since it's not the subject of this course.
@@ -94,7 +86,6 @@ Exceptionally complete and outstanding summary of learning algorithms used curre
 Good Overview for Business Professionals with no or only limited technical background. Shows you what is already out there and how some competitors might be using ML already. Obviously very Google product oriented. Teachers were very likeable.
 The Course is very Good To Get Started and to get Understanding,Must for who are new to ML and want to know how to apply it into business From Scratch To End to End,from Single to Many Model in a continues integrated Pipeline ! and Much More.
 It was a little bit hard for me to get all information from this course. But I really enjoyed examples of cases of ML and also I liked challenges that I have to complete. Thank you for this course because I understand a little more about ML.
-El curso esta muy bueno porque está orientado a la practica de casos reales, pero al mismo tiempo hace poca referencia a los modelos de ML en sí por estar completamente enfocado a las aplicaciones ML desarrolladas por google.
 Great overview of Machine Learning with practical examples and applications, easy to understand hands-on tutorials on Big Query ML, Vision API etc. Smooth and easy style of course content delivery from the Google instructors
 Excellent course for business professionals to get hands-on training on some ML tools. The course presents various use cases for ML across industries and helps you think in terms of how it can be applied in your business.
 I really appreciate Google team to create this course. Being from a Medicine background I would love to come across course which focuses on innovative ways to apply Machine learning into Healthcare or research. ThankYou!
@@ -116,7 +107,6 @@ Generally the course provides a good overview. I would appreciate if some criter
 The course is beneficiary for the working professionals. The course properly covered the topics with examples. I have learned ML with Lab experience. Thanks to Coursera.
 Helpful class to get understanding on how ML is applied in google cloud platform along with real life use cases of implementation of ML in leading industries.
 The course was useful to understand what is machine learning and how can we integrate in our profession to increase efficiency of employee and organization.
-Requiere mas practicas y un par de semanas mas para poder disfrutar del mismo y desarrollar mas los temas, en si un gran curso que puede ser aun mas grande
 The course was a really nice opportunity to get to know more about Machine Learning, specially through real-life examples. Thank you for this opportunity!
 More precise cases in manufacturing Industry across 3 segments Big/Medium/small  basis applicability of application of ML would have been more useful
 Really good overview for beginners and Google as such is really informative in the work they do. Thanks alot to google for making such great courses
@@ -134,8 +124,6 @@ Good course put together by Google Cloud giving an overview on Machine Learning 
 Really enjoyed the hands on labs in GCP with diagflow, bigquery etc. would love to have more hands on to experiement with GCP
 IT was well explained but it would be better to give students the last updated version of tools during examples, Thank you
 Very informative and easy way to understand it. Very effective lessons and hand on experience. Thank you very much .
-Très instructif . Donne une vision à la fois technologique et orientée Business des possibilités offertes par le ML.
-MORE QUICKLABS SHOULD BE INTRODUCED OR ADDED FOR BETTER UNDERSTANDING AND MORE REAL WORLD EXAMPELES SHOULD BE ADDED
 Nice Initial source before diving into ML/AI applications using coding. Non-coders can pursue this course easily.
 Good course, but need more essential language or training, such as the common functions and clause in BigQuery ML
 Some very good concepts and very good introduction to ML. Would like to see more labs added to the course though.
@@ -214,7 +202,6 @@ easy to learn... but there is few tech.
 Very good introduction for beginner.
 Immeasurable knowledge and insights
 Very good course,  enjoyed the labs
-excellent course for new learners..
 Great Experience of how ML works
 best course for machine learning
 Very informative and practical.
@@ -231,11 +218,6 @@ Nice for a beginner!
 Thank you for course
 I Love this Course,
 it is informative.
-Well made course
-nice material.
-comprehensive
-A bit hard
-No comment
 Meticulously planned course. Since it is Google developed training so will be helpful for improving the application of ML with Google technologies. I like the QwikLabs to give some hands on.
 Concise overview of what ML is and what it might be used for  with brief, but good intro to GCP tools.  Not very deep technically, but this is by design.  Instead, it covers some important points that some more technical courses skip past, that are important for a successful ML project in your company.
 This was really good, not much technical which would have been difficult to understand, learned to create a chatbot, labeling images, playing with business data, those were really fun.
@@ -244,7 +226,6 @@ Very interesting course for non-technicals, with experience and case studies acr
 The course material and coverage is very good and vast. It covers a lot of good use cases from different kind of industries.
 This is one of the best online courses I have ever taken, it was easy to go through and I feel like I learnt so much.  The information was just enough to trigger curiosity and keep me motivated.  Access to GCP labs and playing around was awesome, it was more than you could bargain for the fees.  The Quiz weren't that challenging except the one in Week #1.  It would be great I can continue to have access the material so I can further reinforce the information I learned by reviewing them again.  Thanks for making the learning easy.-Phane Rao
 Amazing Course. I was really Awestruck with this course. Because I am not from Computing Domain, but I changed my view of Computing domain after this course, I wish I had attend such course a decade ago, which would have changed my career path. Now I realize why Google is Unique and Different. Google is Class Act, Set Apart, Unique. I will be praying if God willing, would like to Join Google in the future, and be with that creative Environment. Thank you Google for Providing me an Opportunity to take this course.
-Este curso es una obligación si es que quieres entender TODO lo que implica ocupar el aprendizaje automático (ML) en el mundo del Data Science. Gracias a él ahora pude entender qué es lo que piden las empresas hoy en día y qué camino quiero seguir como profesional, esto pues cuando ingreses a este curso sabrás diferencias fundamentales entre los diferentes cargos de análisis de datos que las empresas solicitan hoy en día (y por qué lo hacen).Me encantó. Muchas gracias por hacer este curso.
 I really like the course, I have suggested some minor updates and I believe the Bias should be explained more since they can be a bit tricky to understand, but it was the course that I was looking for years since most of them are either too technical or the lack of certain statistical or mathematical information in my case, it made impossible to jump on it! But now, I'm thinking how to use ML for a PhD.
 Apt level of coverage for business professionals and project managers. There were few advertisements for the google training which can be minimised by just referring and not going too much in detail.
 great course really like Lak's explanation
@@ -266,7 +247,6 @@ The content of this course is really good and covers all topics related to succe
 Excellent course to give us an idea of how machine learning works, how to set up machine learning teams within your company, how to identify potential use cases in your business and the importance of sensitive data governance. I feel much more comfortable with machine learning concepts now and ready to pursue a more technical course. Highly recommended!
 I had no idea about the subject before i started this program. But when i finished, i feel i need to more. I am more excited, enthusiastic to learn more about AI, ML & DL. These will be the future of business and must learn for each business guy.Most importantly, i now know, why i couldnt crack the 2 important interviews i gave in past 2 months. :)
 Thank you for putting together this course. It is very well structured with a slow start that then picks up pace to address many relevant topics for ML. As a Product Manager, I found it very well suited for me to start in this area and to build good basic understanding. A lot of practical insights, knowledge and hand-on exercises. Thank you a lot!
-Excelente contenido que permite comprender los beneficios que pueden obtenerse de la aplicación de Machine Learning en las empresas. La importancia que marcan a la democratización del Machine Learning va en línea con las tendencias de implementación de no requerir de personal PhD / altamente especializado que se viene para los años 2020 a 2030.
 One of the best techno-functional courses on ML with the right balance of Use Cases and Lab exercises. The clarity and level of detail vs abstraction is very meticulously achieved throughout the course. I strongly recommend this course for Business Analysts, Product Managers - to get a 360 view of ML as a core discipline of data science.
 This course is really thoughtful for any data engineer who wants to learn about ML, think about ML and definitely a must for any business who wants to venture there needs and focus on improving the business using Machine Learning models. I thoroughly enjoyed learning this course. Thanks to Coursera and GCP for making this one.
 This course has really given me a better insight into where it is appropriate to apply machine learning and where it is not appropriate to do so. The Lab sessions are very useful for a beginner to familiarize him or herself with cloud computing techniques. Kudos to the team of instructors. They have all delivered so well
@@ -320,7 +300,6 @@ It was very intuitive and interesting to learn ML models and how to follow the t
 Solid overview covering most of the basics. It might be interesting to include a module on concepts to deploy/productionalize and maintain projects as business leaders need to have some idea this is the most challenging part!
 I wish I had this training before starting some of my machine learning projects in the past.This is not a technical traning but it shows some very useful advices for applying ML on business cases with concrete labs with GCP
 This is my 1st learning in ML, this course is very useful to me understand the concept and how to use. Three practical  exercises is gives me a handsome experiences  in ML. Thank you Google Cloud for this excellent course.
-Ha sido muy útil e ilustrativo, presentaciones cortas y buenas, entretenidas y útiles. Como punto de partida está muy bien, y creo que lo recomendaré en caso de que alguien quiera adentrarse un poco más en este mundillo.
 The course content is very well presented. The lab exercises are a big bonus, giving us a flair of how simple using GCP could be. This course serves as a very good introductory course into the ML world. Kudos to Google!
 A very engaging and hands on certificate course for business professional to give insights into the ML world. I am glad i took this path as every knowledge added is priceless. Thank you team for a well delivered course.
 This course is wonderful for the business professionals to gets hands on experience on basics of Machine Learning. With tools provided by Google, trying out quicklabs and other exercises is real fun! Highly recommended.
@@ -329,7 +308,6 @@ Great Introduction to the governance and use of Machine learning, also the use c
 The course gives big picture about machine learning, machine learning uses cases, how to implement machine learning in company, and provides hands-on machine learning project using Google Cloud Platform. A great help!
 Great course for understanding the application and uses cases of machine learning and data science from the perspective of a business professional. Also, we can learn to use Google specific tools with hands-on labs.
 The course was well-structured and taught by people who have in hand experience with the Machine Learning. I thoroughly enjoyed the course and learned more than I thought. This is university grade material no doubt.
-Es un curso introductorio que cubre las generalidades de ML muy bien y se introduce sólo lo suficiente para aprender a adminsitrar ML dentro de la organización y entender la importancia y cuidados de esta tecnología
 The explanations were very clear. Relevant examples were quoted in necessary places.  This course also helps in building business ideas. This should be the starting point to study any other machine learning course.
 This isn't a course... It is an experience! Perfectly suited for beginners and learners who want to get a head-start on Machine Learning. It covers the basics and provides us with hands-on practical experience too!
 Excellent course for anyone who want get started with AI & ML. This is apt for business professionals who would like to sound intelligently on informed on AI & ML. Thank you trainers and Google for this course.
@@ -345,10 +323,8 @@ A precise combination of theory and lab oriented study which throws light on why
 Course is good for anyone who would like to understand what ML is and what it is capable from business standpoint. Content is prepared andpublished in a nice way for anyone to understand.
 Had a great time taking this course. Gained insights on how to use machine learning to solve business problems and also learnt how not to create bias in deploying machine learning models.
 This gave me a overall view about the job done in a machine learning model.This course is the best course for machine learning beginners.This gave me motivation to study machine learning
-Excelente curso para adentrarse en el mundo de Machine Learning desde la perspectiva de la empresa que posee el conocimiento más amplio del tema. No necesitarás saber NADA de código.
 The trainers were very explicit. they made learning really easy and interesting. Thanks to the google cloud team, Coursera and everyone that has worked hard in putting this together.
 The Course aptly covers the overall ML know how. The information in this course will certainly help anyone to make right decisions for customers going through Digital transformation.
-REALMENTE EXTRAORDINARIO !  EXCELENTES EXPLICACIONES Y LABORATORIOS QUE PERMITEN MANEJAR HERRAMIENTAS MUY INTERESANTES DE IA QUE ESTÁN DISPONIBLES EN LA PLATAFORMA DE GOOGLE CLOUD !
 Great material, every tool is well developed and explained. You dont have to be a professional machine learning developer to complete each task. The videos have the right duration.
 This is an interesting course for anyone who wants to learn the theoretical concepts of machine learning. And also is a good course to learn how to implement ML into organisations.
 This course is for a beginner who would like to learn how machine learning could do with business. Companies will benefit from this course to survive the digital transformed world.
@@ -357,7 +333,6 @@ The course is very useful and good, but it needs more practices in implementing 
 It was really the great learning for me during this course. I studied the practical side or implementation of machine learning models rather going in deep to do research projects.
 A very good course covers both theoretical, practical, and implementation parts. Since it's a Google course, it was as well expected to have all things around Google platforms.
 Loved the concise. crisp way of presenting it ....... Always a fan of Google team and will remain so...Thanks to Coursera and Google team for curating such an amazing content.
-Corso eccezionale in ogni aspetto: i laboratori sono strutturati in modo molto chiaro e comprensibile. Anche le video lezioni sono ben organizzate e adatte davvero a tutti.
 This is a very good course for me to understand the applications of ML and ML could be used for. Anyone who is interested to find out more about ML can attend this course.
 A little trouble with Qwik Labs, but everything else was super user friendly.   I had some hiccups with the first module in Qwik Labs, but the subsequent labs were great.
 Very insightful and enjoyed the labs (even though they were difficult at times). Highly recommend for those trying to get a better understanding of ML from a high level.
@@ -377,7 +352,6 @@ Very nice experience with GCP model,coursera all lecture videos and labs are als
 It was excellent course I enjoyed it lot so many things I learnt form this courses... Really really good contain is made for teaching.... Faculty was excellent
 Great to learn Welcome to Machine Learning for Business Professionals! We’re glad you’re here. Start learning today by watching your first video: Introduction.
 A very well structured course that opens one's mind and teaches them where they can apply machine learning in their business organization to solve problems.
-La información presentada está muy bien organizada. Además, las practicas permiten mostrar la capacidad de la plataforma de Google Cloud en el área del ML.
 Very well put together. Covers a breadth of topics with the appropriate depth required for a business professional to start applying ML in the real world.
 This course is so great. It has many practical lessons, yet still easy to understand even for non IT person. Thank you for bringing this lessons together.
 Loved this course. Very informative and educational, it opened my eyes to many of the themes of ML that were foreign to me in an easy to understand way.
@@ -389,7 +363,6 @@ It's a very good starting point for business professionals interested on a deep 
 Model (ML)as basic  for data management and business orientation very unique course @ Courseraby lots of talented instructors and training materials.
 Lots of detail about a topic I knew nothing about. The interactive labs are also a great way to learn, particularly enjoyed the pizza bot making lab.
 It was a good course with some hands on experience with Google cloud. It also helps to understand Business applications where ML can be used and how.
-Muy buen curso, aprendí cosas que son muy útiles para decidir si vale la pena realizar un proyecto de ML o no y qué tener en cuenta para ser exitoso
 Very focused and precise ML course for business professionals. Covers the topic that are actually required when working in a production environment.
 The course was succinct, with very minimal technical terms. There were sufficient hands-on activities and practices to help students understand ML.
 Yes the course was nice, but one thing i will like to tell that Google should teach Data Science and Machine learning using using python course.
@@ -428,15 +401,12 @@ I am impressed and glad by the quality of the course. I recommend it for all eng
 So insightful, wakes me up that ML is not about mastering codes and techniques but how it can be more useful for applications.
 Very comprehensive and complete. The topics are edible even for non-computer science people. Job well done Google Cloud Team.
 Great overview of the basics of AI and how to think about when it makes the most sense to use it, as well as its limitations.
-Me ha dado un panorama muy completo de ML. EStoy muy contento y con ganas de seguir capacitándome en el tema para aplicarlo.
 I particularly like all the lab sessions they have as it makes learning more involved and better able to grasp the concepts.
-Fue una experiencia increíblemente enriquecedora. Me permitió ver más allá de los sistemas de negocios dominados por reglas.
 It was great time to spark imagination with several use cases and product examples through the entire course modules.thanks.
 Machine Learning for Business Professionals Course is very very love , so I know about ML and Google Cloud for ML very much.
 It was a great experience, the teachers shere the information in an easy way. A very good introduction to Machine Learning.
 Very Good and Use Case centered Course. Must do if you are about to employ ML into your company for products and services.
 Wonderful course!Fully equipped with Content and user friendly Labs allowing us to harness the real time buisness problems
-Genial, practico y que proporciona una visión global para saber qué y como hacer machine learning. El donde, en tu negocio
 Great summon of important strategies for implementing ML in a company and what is important to know first about a domain
 It was quite helpful to me to learning and understanding about data using GCP and learn many new tools within few days.
 Thanks to the teaching team, this course has really been helpful to understand ML and its possibile uses in business.
@@ -456,7 +426,6 @@ Recommended for those who want to learn the big picture design of an ML developm
 Very insightful. It has enriched my understanding of ML and sparked my interest in pursuing ML moving forward.
 Thank you very much Coursera and Google for the excellent course! It improve my desire to learn more about ML!
 You can tell the instructors know what they're talking about and are extremely passionate sharing it with you!
-Есть некоторые несоответствия между описанием и реальным интерфейсом в активностях. В остальном - все отлично.
 Excellent course for someone who is looking forward to learn machine learning on cloud basis and integration.
 We are really lucky to reach this course. I learned many things of business solutions. Thanks for everything.
 Really Enjoyed Course Content, Way of delivery was in simple and understandable....and Lab was really helpful
@@ -467,7 +436,6 @@ This was a wonderful course, very instructive, with many present tools and hands
 Very good course. Get more knowledge about machine learning, data and it's features and various methods.
 It's a fantastic course where we are able to experience hands on machine learning  tools and its usage.
 Great Course. Really enjoyed it. Good faculties and awesome lab experience. Thankyou for this journey.
-Un curso muy completo, muy bien explicado y que permite explorar herramientas muy interesantes de GCP.
 It is very much interesting to doing the course best teaching system is provided through this course.
 concepts are clearly communicated and enhance by building application in lab.  its a great experience
 Thank you Coursera/Google team: very well balanced training between business and technical aspects.
@@ -510,7 +478,6 @@ An excelente course for Business Profeesional whom don't know nothing of program
 A must-do course in case you want to know the insights of Google's ML for Business.
 GCP team did a great job putting this course together. Very Intuitive and hands on!
 Very good course. But need a strong internet connection. At last, Thanks to Google.
-Muy util y ayuda para saber muchas herramientas que nos pueden brindar  crear datos
 Good course to get a business overview of cloud based machine learning application
 once again a wonderful course from google clouds with their amazing lab simulation
 very helpful for understanding machine learning algorithms and their functionality
@@ -605,7 +572,6 @@ It was very useful. The labs where very interesting
 Really a good course for someone not in this domain
 Excellent.Especially Hands-on experience is awesome
 Very interesting and the labs is helping the study
-それぞれのHands onは、深くはないですが、知っておくべき側面を的確にとらえていると思いました。
 Super content of the machine business professional
 Awesome course with lots of important information.
 Very good introduction for business professionals.
@@ -623,7 +589,6 @@ nice love learned a lot about machine learning.
 teory and practice is the best. thanks GC team.
 excellent content from coursera and GCP! Kudos!
 It helped me a lot to understand how ml works.
-THANKS FOR THIS VERY GOOD LESSONS. INTERESTING
 Very good course to understand the basic of ML
 Very good excellent and excellent presentors.
 Good and simple into into practical use of ML
@@ -635,12 +600,10 @@ it is a really good course for intermediates
 It is the best course for the non programmer
 Great course for functional knowledge of ML
 Great insights into the wonderful new world
-Excellent course.Samples are explained well
 Very good Teaching, all topics are cleared.
 i have a lot of new experient and knowledge
 Nice to learn ML from Google Cloud experts.
 Very good initial learning to start with ML
-GOOD COURSE WITH VERY GOOD PRACTICAL LABS.
 Please come up with such kind of training.
 Very practical course, easy to understand
 A great introduction to Machine Learning!
@@ -695,33 +658,22 @@ It was good to know things
 benifited with this course
 It is a must-do course!!!!
 Great course for newbies.
-nice video, notes and lab
 I learned a lot of things
 Great course for new one.
-helpful, fun, well built
 best understanding of ML
 Excellent !! Thank you.
-exllent platform for ML
-Excellent, Outstanding
 The best course on ML.
 Very Nice explanation!
 outstanding experience
-I liked it!Recommended
 Very well put together
 the Course was Awesome
-BEAUTIFULLLLLL Course!
 Great overview of ML.
 excellent, thank you
 Greate CourseMantaap
-Excellent course 👍
 Awesome Cource!!!!!
 I Love this course.
 Professional Class
-Lak representing!
-EXCELLENT LECTURE
-very good maerial
 For Non-Technical
-Very unbelievable
 it was very nice
 Rich in content!
 Great Knowledge
@@ -729,15 +681,6 @@ great journ ey
 very Satisfied
 Great Course !
 Its very good.
-VERY GOOD....
-best courses.
 v good course
 Great Lecture
 thanks to all
-very goooood
-good and fun
-Shera....
-Me gustó
-GOOD LAB
-student
-Mantul

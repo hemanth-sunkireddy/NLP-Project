@@ -81,7 +81,6 @@ There is not much Depth even in the topics covered in this course !!
 I thought this would be a class to learn Tableau. it wasn't.
 Material is too scattered and I didn't learn much.
 Assignments were way too easy and tedious.
-mucho mas básico de lo que me imaginaba
 This course focused too much on what to do with not enough on how to do it.  2 projects that made-up 60% of the grade for the course was peer-graded based upon criteria that had nothing to do with Tableau. Finally, visualizations were published to Tableau Public AND to Twitter.  I see no value in publishing to 2 places and suspect that the publication to Twitter was to promote the course, the instructor, and third party sites.
 Very helpful in getting familiar with Tableau. Great tips from the instructor, and a very straightforward intro to what Tableau can do. Course materials were sometimes carelessly put together, though. References were made to things in the Resources tab that are not actually there. Many of the videos were poorly edited (one repeated a significant section of dialogue), and the written assignment instructions had missing information. For example, the final assignment must be submitted to Twitter with a specific course-related hashtag, but the hashtag was not provided, it was left blank. No big deal, except that the peer graded questions ask if the correct hashtag was used. Speaking of peer grading, it's pretty useless in this course and just asks whether the instructions were followed to the letter, no feedback at all on the actual vizzes. Who cares if the right hashtag was used if the viz makes no sense?
 The structure and the material of the course were great. Issues with the course. 1) How the grading is done-  Reviewers are providing the points without providing any comments. For instance. if the reviewer has provided zero points to the assignment, there is no way for the student to know what needs to be corrected and there is no constructive feedback provided. This issue limits student ability to learn and grow.  This has never been the case when the courseera started. 2) There is no way student can reach out to instructor. I really like courseera but if this is not improved, then I might have to switch to another learning portal. I feel there is a room for improvement, how the grading is done, and how student can reach out to it's instructor.Thanks.
@@ -131,7 +130,6 @@ Good but many problems with platform... and help center not easy to access
 Its quite basic in case you are looking to learn advanced Tableau skills.
 Peer-reviewed assignments are quite confusing and basically unnecessary.
 Felt a little superficial and we didn't really learn much about Tableau.
-Good content, but assignments and quiz questions are not always clear.
 It is decent course. Not much of Tableau, just a mere flavor of it.
 There wasn't much hands on experience with tableau. Hoped for more
 Is a little bored and slow. Repeats the same concept many times.
@@ -151,8 +149,6 @@ Should also include some mock work.
 The assignment is not very clear
 Poor material, lack of practise.
 Could have been more practical.
-Should add more content/modules
-So basic Tableau explanations
 Could be a bit more advanced
 this course is too simple
 A little too basic
@@ -271,7 +267,6 @@ I'd like to have more hands on approach into the story telling, like harvesting 
 Good Tableau visualization course. Best part is to introduce the Tableau community.
 This is a great course for understanding the basics of visualization and tableau.
 Great point to start the journey but to shallow if you are familiar with Tableau.
-Esperaba un poco más de información sobre el manejo de Tableau de forma práctica.
 Amazing experience to learn something i've always wanted to. Thank you coursera!
 The content is very less. It would be better if you increase the course content.
 Practical and highly intriguing course with high application in the real world.
@@ -325,7 +320,6 @@ It isn't updated with Tableau's latest version.
 As Fundamental course is quite well structure
 Clear and straightforward. Good introduction.
 Perfect course for beginners to get started.
-Muy interesante introducción al programa.
 Great course to get started with Tableau.
 More advanced content should be included.
 For me it has too much theory knowledge.
@@ -344,7 +338,6 @@ whole course could be a one video.
 Useful for basics of visualization
 Great for getting to know Tableau.
 Quite useful to analyse the data.
-A good required intro to Data Viz
 Please add more exercises to it.
 Need some more on tableau server
 Very comprehensive for beginners
@@ -359,7 +352,6 @@ Some assignments were vague
 Covers the basic components
 Good course to start with.
 Good focus on fundamentals
-More visualization needed
 Good overview of Tableau.
 Was good for beginners
 THANKS FOR GIVE COURSE
@@ -577,7 +569,6 @@ The course provided me with an excellent foundation for data science visualizati
 This course was easy to understand and was gateful to learn this course at coursera
 It is a nice course. We were able to understand the basic of  Tableau Visualization
 Very interesting course with a new point of view regarding the who-what-how method.
-Gostei bastente do curso, facilitou ter o meu idioma nativo disponivel com legenda.
 it was a great experience learning with you and had much fun in learning thank you
 Really, fantastic and helpful course.Thanks Coursera and University of California.
 Loved it..very awesome learning and the courses are very crisp and to the point!!
@@ -630,16 +621,13 @@ This course is wonderful, it will help me in my office immensely!
 Pretty exciting course, really objective, clear and resourcefull.
 Very good course to start data visualization journey in Tableau.
 Perfect course to get your feet wet if you plan to learn Tableau
-Curso muy completo. Muy buenos contenidos teóricos y prácticos.
 It's a hands-on introduction to use Tableau.  Very good course.
-Cours très instructif et facilite l'apprentissage.je recommande
 So far so good !!! cant wait to go ahead with rest of the stuff
 Awesome, insightful and highly relevant in this data-driven age
 Very very useful to understand the viz in a professional manner
 Good course to learn fundamentals of Tableau and Visualisation
 A great start, basic of data analysis and approach towards it.
 Great overview, and excellent start up guide to using Tableau.
-adecuada combinación entre teoría y práctica, muy buen curso!
 I would highly recommend this course to anyone who wants to l
 everything was so clear and the lecturer was so encouraging.
 Very well done, easy to follow and still insightful. Thanks!
@@ -691,11 +679,9 @@ Very good training, all you need at this level.
 Awesome course for beginner Tableau developers!
 Great introductory course on data visualization
 That's great to know the basic of Visualization
-Good one. Learnt context in data visualization
 Good overview of the basics needed for Tableau
 Really helpful in explaining the fundamentals.
 Best Course , Freindly teachers from UC Davis
-Es un curso importante para iniciar en Tableu
 Many thanks to the professional instructions.
 Well set-up and good introduction to Tableau
 thanks for this wonderful  knowledge journey
@@ -726,14 +712,12 @@ Well balanced and excellently presented.
 EXCELLENT BASE FOR TABLEAU FUNDAMENTALS
 Great introduction to tableau and data.
 your course are very beneficial for me.
-VERY EDUCATIVE AND DESIGNED WELL COURSE
 great experience ...ready to thrill ...
 A bit more of practice would be better
 Wonderful course...Fantastic learning.
 excellent courses learn various things
 Very effective for introducing Tableau
 Nice introduction to basics of Tableau
-Excellent Tableau introductory course.
 Great Content ...Govind sir you rocks
 Awesome Course and great instructors.
 Excellent Course, Highly recommended!
@@ -748,10 +732,8 @@ It was an Amazing learning journey!
 Great heads on for beginners in TAB
 TO GOOD TO VISUALIZE AND UNDERSTAND
 A very good course for new comer. E
-Great Intro into data visualization
 Great entry level course to Tableau
 Awesome introduction to the course.
-perfect initial fundamental course
 Very good introduction to Tableau.
 Really enjoyed taking this course.
 It is a great introductory course
@@ -763,7 +745,6 @@ learning with Coursera was great
 Good Content with fantastic flow
 Excellent course and faculty....
 Nicely Articulated and Delivered
-An excellent fundamental course
 Great course,really enjoyed it!
 Great intro course for Tableau.
 Excelent course, shows the path
@@ -778,7 +759,6 @@ excellent Overview on Tableau
 Very enjoyable, well-managed.
 Good insight on visualization
 Learnt a lot from this course
-Excellent fundamental course!
 Easy to follow for the beginn
 Nice Course for beginners!!!
 It was great. Learned a lot.
@@ -786,12 +766,10 @@ very interesting course.....
 Very clear and to the point.
 good introduction to tableau
 Learned basics about Tabelau
-Boa introdução a ferramenta.
 Good Introduction to Tableau
 Good course, easy to follow.
 Very good course! Thank you
 The course was well taught.
-good platform for beginners
 A very good course,thanks!
 Great introductory course.
 Helpful and very organized
@@ -799,9 +777,6 @@ Great Course to begin with
 Really good for a beginner
 Good intro, well prepared.
 It was really interesting
-Well Done Course content
-Now i can visualize data
-cakep...................
 Good course! Thank you!
 Nice foundation course.
 Very attractive course!
@@ -810,36 +785,27 @@ the teaching is awesome
 Nice course! Thank you!
 Coursera at its best!!!
 Simple & Understandable
-cumple con su función
-excellent for learner
 Good for fresh start.
 It was fun to learn!!
 Good intro to Tableau
 Explained very well.
-Nice beginner Course
 Improved my learning
 Course worth taking!
 So love this course
 Very Good and clear
+Course is very good
 Awesome and amazing
 i highly recommend
-Nice demonstration
 perfectexplanation
 Simple and Elegant
 wonderful learning
 Nicely composed :)
 Ilike this course
-very interesting！
 Course is useful
 Course is great.
 Great to learn.
 Love the class!
-great program
 Good basics !
 best trainer
-Very  Good
 super easy
 It was sim
-Terrific！
-it' good
-god one

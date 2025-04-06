@@ -19,7 +19,6 @@ Finished the course, now have to wait 6 weeks to receive a certificate anyway.Th
 very poor quality. limited information and explanation. The staff makes us feel like they are not confident enough to answer questions. The only reason for going on is that I already invested a lot of money and time. definitely not recommended. It should be improved.
 Kindly don't waste your money in this professional certificate. It's of no use. You can get much better courses for just 12.99 on Udemy or you can do other specialization from U of Michigan or JHU. It is total waste of time and money
 Before taking this course I suggest you clear some basics of Machine Learninig (like Machine Learning by Andrew Ng) to understand, this is a very shallow introductory course. This couse can help with learning libraries like sklearn.
-No me permite realizar ni los laboratorios ni los exámenes, hasta dentro de un mes. No entiendo porque bloquean las actividades de un curso por el que estas pagando una mensualidad
 This review is out of this course scope.I heard it like 1000 times in this courseat least give us details where we can learn all of those out of the course scope information.
 Could not access the labs throughout the course, any query related to this issue posted on the discussion forum was completely ignored by the staff.
 Insufficient explanation, bad lab experience, and the final assignment was a nightmare.Video is short, so you got to figure out things by yourself.
@@ -82,7 +81,6 @@ course was fine, but the review process was bad organized. following the instruc
 This course is not as well put together as some of the other Python/Data science courses I've completed. In particular, the final assignment is not clear, as you can tell from viewing the week 6 forum.
 Mathematical basis of the algorithms were explained with less emphasis on coding. The coding part along with the algorithms were also not explained in the lab sessions.Needs improvement.
 Too basic. Also, its easy to pass this course without much efforts. Should include more assignments that require writing bunch of code. Also, should have different project for people.
-Очень поверхностный. Если вы - кухарка, и хотите пойти в датасаенс - вам сюда.Оценка курса не всегда очевидна, вас оценивают Индусы, которые сами в этом всем особо не понимают.
 Videos were way too long. They were only about theory and no code was featured. Labs were packed with code without proper explanation. That way of teaching is just not for me.
 Very basic course (which is OK) with a particularly confusing final project. Wasn't hard because of the coursework, but was hard because of poorly documented process.
 A lot of mistakes, typos, and misleading concept. I spent more time figuring out the wrong concept than actual learning. Course materials should be accurate!!!
@@ -99,9 +97,6 @@ not very detailed course and proper knowledge is not imparted
 It way to Basic. Industry demands of more depth knowledge
 Final exam instructions are not clear
 very introductory level course.
-NO DETAILED EXPLANATION
-Very vague course.
-Too superficial
 Good theoretical background on how some machine learning tasks actually work mathematically, but, to be quite frank, much of it is a) not necessary, (i.e. I've used regression as a prime aspect of my job for approaching 3 decades now, and have never known that it used partial derivatives to determine what elements to vary, but, quite frankly, that knowledge has never been required or even vaguely useful for either its use or explanation) b) presented in a way that, as soon as it begins to get interesting from an algorithmic standpoint, stops with a "beyond the scope of this class," (to be fair, I have a -major- pet peeve about that phrase from working with developers for decades) and c) if such depth of knowledge was considered important, it should have been split up amongst more classes - i.e. at the point someone takes this class, they've been through 7 other classes in the IBM Data Science track, and only 3 of them have presented enough and important enough info that I've even bothered to keep notes for future reference.  Instead of 4 classes that effectively wasted all of our time, (including the two whole intro classes) if the background mathematics is important, (again, I would venture that, to a non-expert-level general practitioner, which this class is aimed at, it's just not) move some of it out of this class and into some of the others so that we don't end up with effectively two important classes out of 9 - the Data Analysis with Python class, for being the most challenging mechanically, (i.e. what -exactly- should I be typing in at the command prompt to get what I want to happen) and this one, for being the most challenging theoretically.  Would very much like to see a re-work of the overall curriculum to better space out the effort vs time invested relationship.
 This was an extremely hard course to understand because of the very dense mathematics. The laboratories were filled with typos which made understanding the concepts much harder. Sometimes code would even be wrong. Please review the labs carefully and try to explain the concepts better. It also helps when you explain what your code is doing so students can understand what is being written.
 Very complicated subject. Many lines of code in the algorithms are not explained, and the learner is left to either figure out their function themselves or to memorize them.The final assignment was fun to complete.
@@ -109,7 +104,6 @@ This was a good course to see how the basic ML models can be used with clear exa
 Actual content is good, but i deducted two stars. One star because the pacing of the course is just too fast. The course could really be split into two courses: one on regression and one on classification/clustering. I deducted the second star because the assignments really need to be clearer, especially the final assignment. It would greatly help the people doing the assignment *and the people grading it* if there were more explicit prompts for where you wanted to see, e.g. jaccard score for the knn model, or if you said, "build a visualization that demonstrates the accuracy of knn models for all k, 0<k<20". Being more explicit about the expectations would make the assignment a better evaluation of the student's understanding.
 The Machine Learning with Python course was very challenging.  The final assignment, though, seemed to require knowledge not yet learned, which made it rough to complete.  Also, although I completed the notebook, all of my cells were not visible to the reviewer even though my settings were such that all cells should have been visible to him/her.  I restarted the kernels and re-ran my code a couple times and it was finally visible when I opened the shareable link.  That delayed my receipt of an accurate score for a few days. Ugh.
 The course covered quite a wide range of topics in Machine Learning, which was great. However, the sample code was not commented as much as I would have liked, at least for visualizations of the results of the machine learning algorithms, so I don't feel very confident that I would be able to replicate many of those on my own. The in-lesson exercises mostly consisted of following examples arranged by the instructor, there weren't many opportunities to challenge yourself with exercises and get feedback.
-O curso em si é bom, mas como a maioria dos cursos online não temos espaço para dúvidas (e não, o fórum não é suficiente). A tarefa final é muito mal explicada.Também senti falta de mais Python durante as aulas, que só cobrem o aspecto teórico. Embora muito bom, ao se deparar com o código, surgem muitas dúvidas.
 Could have explained a little coding in videos instead of putting it in labs...
 very bad course no proper instructions or explanations in videos
 labs are not easy to understand
@@ -126,7 +120,6 @@ The course presents a useful overview of basic machine learning techniques witho
 Very much enjoyed the course and am thankful for the great content, however the peer-grading process created some unnecessary headaches. On how to improve this I posted in the forum here: https://www.coursera.org/learn/machine-learning-with-python/discussions/weeks/6/threads/JmWRnLUqSfClkZy1Kinw6QThank you nonetheless for a great course!
 This course provides a great introduction to machine learning. The first 3 weeks are in detail and well explained. The 4th and 5th weeks are not explained as expected. The Labs helped a lot in understanding the practical implementations of the algorithms. However, there should be a little explanation of what is going on in the code.
 Material covered is substantial. You get a good overview of machine learning and some algorithms that are used. (Not always in depth.)My biggest problem with the module is with the end assigment which is not clear in my opinion (and of some fellow students in the forums who also passed  this module)  This unclarity is not addressed.
-Me gustaron mucho los temas del curso! Los videos son buenísimos para entender la teoría; sin embargo, en los laboratorios no está documentado el código y hay muchísimas funciones nuevas que son usadas y no hay ninguna aclaración de cómo se usan o para qué se usan. Sólo en un laboratorio encontré todo documentado y explicado.
 This was by far the most time intensive course, not because the topic is so difficult but because the intructions for the final assignment are so vague and unclear. Otherwise the theory sessions were good. But whole structure of final assignment from definition all the way through marking is not clear and VERY time consuming.
 The coding part should be explained as well. The autofilled code makes the learner lethargic and lazy to code himself. I;ve faced this difficulty and I cannot certify that I am 100% sure of what code I've learnt. Please take proper steps in order to teach CODING as well and not only theory.
 the level of the course was lower than I thought it will be.. especially comparing to the final assignment.nevertheless it did give me a strong basic for most of the materials at least to the level I will be able to explain each topic to one who doesn't know nothing about machine learning.
@@ -196,11 +189,8 @@ this is good course about basic machine learning..
 The Correction of assignment is not very correct.
 The course should have been designed better
 Labs Are not responding it sucks a lot
-不建议新人学，这个是系列课程的一部分，内容不多 只讲个大概给你听
 Practical Classes were Missing.
 can be done much better
-Lab are working worst
-Too superficial
 The courses are good, but they presume the student knows very good python programming. The lectures are nice and concise but they do not go in too much depth and there is some disparity between the depth of knowledge that is needed in the labs vs the lectures. The labs assume very good programming expertise.
 The content here is extremely valuable, I'm sure.  But for folks coming into the Applied Data Science specialization with no prior Python coding experience, the code here is mostly incomprehensible.   I got a 94% in the course with peer assessment of the assignments, but I think I understood maybe 30% of the coding, if I'm being generous.  The video explanations of the different statistical models are clear and easy to follow, and  the topics are fascinating.  I look forward to coming back to review and relearn this material once I actually take a course in Python programming.
 Concise presentation,brief and to-the -point explanations, great course for an intermediate ML developer looking to brush up their skills.Programming exercises should me more detailed.I liked the concept of peer graded final project allowing us to review the projects of other learners as well.
@@ -261,7 +251,6 @@ I think the course structure is great and provides a good overview of the variou
 I had an amazing learning experience in this course. Although, i had challenges understanding some parts of the code, i found that i was able to scale through the capstone project without much stress. To further improve on the experience, it will be nice if some strange codes are properly explained and documented.
 I liked the course but felt that a beginner would not be able to cope up with the speed. However, if someone already has a basic knowledge of data analysis using python, this course would be perfect. I especially liked how each algorithm was explained in detail, how it works and what parameters effects them.
 The courses prior to this course in IBM Data Science for Professional were simpler, and the codes were easier to understand. Some of the codes in the labs session for this course were difficult to understand. However, overall the course was a lot more effective and more in depth.Thank you for this service.
-Creo que este curso es muy avanzado para mi. Me gustó porque el instructor explicó muy bien de donde viene y como funciona las distintas metodologias, pero a nivel de practica algunas cosas no fueron explicadas y en el projecto final fue un poco confuso iniciar aunque realmente era aplicar las practicas.
 Material was great. Tutorial videos were great. The only improvement I would expect is on the Labs. Not only the lab environment was slow but there were certain errors in the questionnaire for final assignment for quite some time which no one seems to correct. If this is rectified, its a great course.
 Loved the content, there needs to be more explanation about what Python code is necessary to complete the final project. In many cases I had to convert strings to integers and use plotting codes outside of examples. Please provide references to use that are necessary to complete the final project.
 The course thoroughly teaches about all the mathematical formulas and theoretical explanation in creating and predicting of data in data models. But I think if he also teaches about various python modules used for data science too, then it would have been much easier to do the assignments.
@@ -292,8 +281,6 @@ A good course to start your AI journey with python and scikit learn. Four stars 
 This course provides excellent practical implemented datasets which gets you started but a person willing to do this course must have to learn various things on his own as well to completely understand this course.
 Videos contain great content, are very clear and to the point. However, the malfunctioning Lab environments really took the speed (and fun) out of the course. Overall it was an interesting and valuable course.
 if only financial aid was available for this course it would have been awesome, the content is pretty good, but the labs are pretty confusing as I haven't been able to figure how to register them as completed.
-Es un curso muy completo que cubre muy bien los fundamentos básicos sobre machine Learning. Al final de este curso tendrás una noción de que algoritmos son útiles para cada una de las necesidades mas comunes.
-Las explicaciones en los videos son bastante buenas,  aunque las actividades no permiten comprender del todo lo que se debe realizar para el examen final, cuesta mucho trabajo desarrollar la última entrega.
 The course was very concise and very helpful for people who want to learn ML for a career. It would have been even better if there were some OPTIONAL readings so that we can also learn the theory part.
 This course is suitable for beginners. One can get hand-on experience on creating machine learning model and basic working knowledge of some classical machine learning algorithms. Overall, good course.
 A very good and informative one comes with online lab service. But the price for earning a certificate in this course is bit high that's why i'm giving it a 4 star. But the overall experience is 4.5/5.
@@ -334,7 +321,6 @@ Course is very well structured. Some extra guidance and assistance would be nice
 Learned a lot in this course, I would've liked there were more exercises throught the videos rather than some questions at the end of the section.
 There were a couple of videos where the notes weren't separated with punctuations. But other than that, it was a really good course. Thank you.
 It was an awesome experience to learn machine learning. The instructor has explained every algorithm in a detailed way. It was very helpful.
-Un curso muy completo, aunque mejoraría un poco los ejercicios, que al estudiante se le diera más importancia en la resolución del programa
 It's so bad when someone reviews your assignment and gives you an unfair score. But this happened a lot because of this peer review system.
 Well Explained. Video lecs are very easy to understand and upto the mark...Assignments little bit need more clarification and explanation.
 The Course Could have been a little better if there were more theory and more illustrations at time a disconnect was felt in the Course
@@ -460,7 +446,6 @@ Recommended for machine learning using python
 Good guide through the ML different subjects.
 Instruction upon final assignment is unclear.
 There is need of more videos and mathematics
-课程讲的内容帮助我们理解了其中的原理，不过作业要用code打的步骤没有教，感觉没有头绪
 Okay, but the programs should be explained.
 An absolute perfect content for a beginner
 Nice course, and professors are also good.
@@ -485,23 +470,15 @@ Very many ML models for one course
 Concepts are not covered in depth
 Amazing Course !! Really like it
 Great course ! I recommend it !!
-Very Good!! videos are excelent
-Videos can be more interactive
-Visualization needs more focus
 Great videos and final project
 good course for the bigneers
 NICE COURSE TO START WITH ML
-recommended for beginners
 Quizzes are a bit tricky.
-Excellent for beginners.
-A very good one indeed !
 Some code can not work.
 Very difficult for me
-Useful for Beginners
 Ambiguous assignment
 A bit too detailed.
 Really impressive!
-great work
 is nice
 The course was highly informative and very well presented. It was very easier to follow. Many complicated concepts were clearly explained. It improved my confidence with respect to programming skills.
 This was my favorite course in the specialization and hence the only one that gets my 5* rating!Everything was well explained and thorough meaning I did not get lost. The quizzes were challenging but fair. The final project was spot on and related perfectly with what has been learnt (unlike many other final projects in this specialization). Overall a very good experience.The only constructive criticism I would give would be for the videos to give a quick overview/introduction of the code used in Python for the algorithms, which is then practiced in the labs. At the moment, the videos give an excellent explanation to everything but you don't see the actual code used until the lab.
@@ -555,7 +532,6 @@ This course was perfect, especially in my situation.  I know all of the math beh
 I really enjoyed taking this course. The instructor is to the point, crystal clear. Nicely explains the essence of the topics in 5 to 6 minutes. I recommend this as a good introduction course to get a basic overview of different algorithms. However, if one wants a deeper understanding with specific details, this is not the course. This course will definitely serve as a good introduction which help us to get motivated to do more advanced courses.
 I really enjoyed during this course . Gives you a lot of skills of how to deal with data ,predictions or recommendations. At the end i know how day to day life works based on machine learning as they quite kept few real world examples while explaining. Little bit of difficulty i faced while doing main project as there was less guidance on what we have to show at the end of project. But it was a great course. Worth spending time over it.
 This course will challenge learners to commit to learning about the key objectives for using algorithmic approaches to answering important business questions using data. The lectures cover the theoretical foundations of the "relationship" algorithms used for classification and clustering methods. Additionally, the labs provide a fully integrated environment in which learners can do hands-on investigations to gain proficiency.
-Hay un nivel de Detalle en los Algoritmos de Machine learning, que ayuda a entender como pueden aportar realmente en diferentes problemas de regresión, clasificación, clusterring y recomendación. y la plataforma es muy practica para lograr entender como un lenguaje como python puede aportar a hacer mas sencillo la aplicación y uso de estos sin necesidad de instalar herramientas ni conocer los detalles del lenguaje.
 A lot of ground is covered here. So it won't make you an expert, but will provide a great base from which one can build further expertise. The videos explain the concepts very nicely, so it is important to sit, listen and take notes. The labs are also very detailed and occasionally a bit advanced with the code. Overall, however, the course makes you work but you can choose how much work to put into it. Recommended.
 The best direct-to-the point instructor so far! After going through the major classes available on the net I found Dr. Saeed Aghabozorgi concise way of keeping videos short with no code and rely on labs with best example for each concept highly admirable in an intermediate course. It took me once 30 minutes for taking notes about a 5 minutes video, well worth it. I say keep it concise it becomes a reference!
 Fantastic course for quickly understanding the basic categories of machine learning algorithms and how they work. I would recommend this course to those who have some experience in computer science or software engineering with little-to-no experience in machine learning. Covered in this course: machine learning basics, data regression, classification algorithms, clustering algorithms and recommender systems.
@@ -565,7 +541,6 @@ This course gives a good introduction (theory and applied) to a variety of machi
 Excelente curso. Los contenidos se presentan de forma facil y comprensible. Hay un gran dominio por parte del instructor y ademas, los contenidos son cubiertos con suficiente profundidad.Excellent course. The contents are presented in an easy and understandable way. There is great mastery on the part of the instructor and also, the contents are covered in sufficient depth.
 I really enjoyed this well-organized and professional course. I would like to show my appreciation to the manager of this course, especially for a video presentation for each module. The technique to have Query and then Solution is the outstanding feature and helped me to cover all course materials and implement the Assignment tasks on a high level. Thank you so much.
 This Course is awesome to learn the theory and practice of some Machine Learning Metods.By the end I feel like I can tackle my own datasets and analyze them with various methods seeking the optimal one.The only thing that could be better is if the course could go a bit deeper into the optimization algorithms (like gradient descent) even if it's a bit mathy.
-[PT-br] Um dos melhores cursos onde se alinha teoria com a prática na área. Conteúdo bem completo, passando pelas diversas técnicas de ML, com vídeos muito bem explicados e conteúdos práticos que demonstram como aplicar cada técnica. Além disso, as provas são bem desafiadoras e o projeto final é bem completo, o que aumenta o valor do certificado ao final.
 The course was amazing to get started with machine learning. You are going to learn about some amazing machine leaning algorithms and for the capstone project you have to use them to find best accuracy for a dataset. Peer reviewed assignments are really good as they help every student to know different techniques each person use and can learn from them.
 Great introductory course. Clear explanations and good homework to get your hands dirty and see results of algorithms. 
 A rather minimal mathematical understanding is assumed by the course so begginers would not be overwhelmed.Keep in mind this course will not make you an expert or teach you how to write some of the more advanced algorithms by yourself.
@@ -604,14 +579,12 @@ Great course. Knowledge wise, just like Prof. Ng's, minus the mathematics founda
 It's a very precise and practical course. It focuses on the main ideas and application aspects of M.L., without drilling too deep into the math rationale behind.To get the most from this course, it's good to equip yourself with basic knowledge in numpy and pandas.
 Can include more details. Every time I was more interested in a certain topic it mentioned it was out of the scope of this which was disappointing. I absolutely loved the teaching and would like to hear more to his lectures and sessions! Amazing course. Thank you!
 The lessons are very simple to understand with both logic intuition and mathematical explanations. It is really the best course and beginner friendly. I strongly recommend this course for anyone willing to start a career in Artificial Intelligence technologies.
-Muy buen curso, se da información bastante relevante acerca de los algoritmos de Maching Learning. Debe tenerse en cuenta que después de este curso será necesario profundizar más en los diferentes algoritmos, pero en mi opinión esto se dará con mayor facilidad.
 Excellent Course.Really enjoyed it.Covers details of lots of machine learning techniques and their implementation also.A nice way to start Machine learning.Instructors are fantastic.Even those who already know machine learning can learn a lot from this course.
 The course is not easy, but it is a lot of work with dedication and commitment to the management of platforms, if the concepts are very understandable and the laboratories are very didactic, thank you very much for sharing the information and thanks again ...
 Excellent course on machine learning principles and various algorithms. It's a great start if you want to jump into the practical side of implementing ML using Python libraries, without getting too deep into the theory behind the most popular algorithms.
 It was a very good course having atmost knowledge about the machine learning with the help of python libraries. I recommend this course to the freshers in machine learning field having good knowledge of python libraries like numpy, pandas and matplot.
 Loved the course, got familiar with some the basic Machine Learning Algorithms. This course helped me in understanding how the problems are solved using Machine Learning. This course also helped me in understanding that how much the data is valuable.
 Very cool machine learning with Python. Really enjoy and like the machine learning techniques using python, program and plotting. Appreciated in IBM's instructor's kind instruction and guide. Have learned a lot from it and discussion with classmates.
-O curso é muito bom, os vídeos são conceituais então não espere ver nenhuma linha de código Python nas aulas, para isso você terá que fazer os laboratórios, e esses sim são bem detalhadas e mostram toda a construção do algorítimo. Curso recomendado!
 It gives a right sense of direction and orientation for any beginner aspiring to understand Machine learning. The final project, though simple, yet makes one understand the basic tenets of several ML algorithms. I really enjoyed doing this course !!
 I was always thinking ML is a very difficult course to pick up on the random, and would require so much than I just discovered. This course opened my eyes to the ML world, and now, I can make better decisions using the skills I have just acquired.
 Machine learning is not easy subject, but this intermediate level course covers enough for the its target.The strong part is belong to lab work and final assignment. They are real work with repetition helps to remember the theory and get skills.
@@ -659,7 +632,6 @@ A thorough introduction to Machine Learning for beginners. I loved this course b
 Challenging and fun course that took everything we learned previously and built on it. As someone coming in with RStudio experience, it still stretched out my ability to code in this different language.
 Very basic course which includes important machine learning models. This course doesn't go to depth of the topic.But overall I like the labs environment which feels practical because they are in python.
 Labs were incredibly useful as a practical learning tool which therefore helped in the final assignment! I wouldn't have done well in the final assignment without it together with the lecture videos!
-Excelente curso! Explican aspectos matemáticos y estadísticos complejos con mucha simpleza, lo que lo hace entendible inclusive para la gente que no tiene ancetedentes en la materia. Felicitaciones!
 This course is a great way to start learning about ML, as it sets out what you need to do step-by-step, explains very clearly why, and gives you a chance to experiment and practise.  Thank you IBM!
 This is an amazing course. specially for those with little knowledge with python. This course has helped with the basic understanding of Machine learning and usage of python as a data scientist.
 Excellent course! Easy to understand through the whole range of machine learning. However, some subjects are dealt in shallow, other subjects in depth! Anyway it must be great course! Thank you!
@@ -690,7 +662,6 @@ Excellent course and material is covered well! One complaint is that it would be
 It is a good start for ML with python. Give you a general description of each algorithm and show you the high level implementations using scikit learn in jupyter notebooks.
 The final assignment was challenging in a good way. It would have been nice to have more opportunities to practice in the labs to better prepare for the assignment though.
 The most challenging and at the same time interesting and satisfying course in the Professional certificate group of courses! I can't wait to use what I learned in action.
-Muy bueno, los temas son interesante y muy bien presentados. Igualmente se recomienda tener ciertas bases en estadistica y operaciones con vectores para entenderlo mejor.
 I enjoyed learning this course way more than the previous courses. The instructor was very clear on the topics. The lab sessions highly promote different techniques used.
 More than learning I seriously enjoyed the way our instructor taught .Gotta chance to learn many algorithms in a efficient way . A big thanks to Saeed Sir and Joseph Sir
 One of the best courses for Gaining  new skill's in Python.Also the Project provided at the end of the course allows us to test the skills we have learned in the course.
@@ -757,8 +728,6 @@ This course changed my life and view about Python and Data Analytics. I wish eve
 One of the best course for learning Machine Learning basics.Amazing instructor, good syllabus and labs. With interesting final assignment.
 Very well for beginners. This course gives a great insight to the new learners on how to implement machine learning algorithms in Python.
 Excellent class for machine learning beginner.  Lots of insight on the ML algorithms and what problem does the algorithms used to solve.
-El contenido del curso es muy didáctico, no es el primer curso que hago sobre machine learning y hasta ahora me pareció de los mejores.
-Excelente curso. Contribuye en gran medida al entendimiento de diferentes algoritmos de ML y por consiguiente algunos de sus alcances.
 Overall great course.  Some disconnects between the IBM platform and the example.  Otherwise good course with practical application.
 This Machine Learning with Python is one of the best course with lot of explanation and examples, students learn lot of new things.
 I really liked this course, the videos are well done and the exercises perfect, it gives you the chance to go as deep as you want.
@@ -844,7 +813,6 @@ Well structured course, very didactic, explained very well the models, no too mu
 Nice Course - Very informative and nicely explained Machine Learning complex concepts easy to understand
 course contains brief explanation of all Machine Learning Algorithms with beautiful hands on experience
 Good starting materials for experienced Python users who wish to learn the basics of machine learning.
-El curso tiene un enfoque equilibrado entre la teoría y la práctica que lo hace bastante recomendable.
 The best course of the IBM data Science Certificate. Thanks for all the value that you bring to me!!!!
 Very interesting course, full of items. A good introduction to machine learning algorithms with python
 A good comprehensive overview of ML Algos with enough details to get you going in the right direction
@@ -880,12 +848,10 @@ A very complete course for those interested in applying Machine Learning techniq
 The course tailored with simplicity. Its easy to understand and very interesting to work with.
 Those who want to learn or start on machine learning this course is very useful for learning.
 exelent way of explaining. I really enjoy this flawless way rather than filming someones face
-Très bonne introduction et très bonnes méthodes pour introduire les différents modèles de ML.
 A concise course for getting started with machine learning, things were explained very well.
 The level was good but most of the people are doing copy-paste while submitting assignments.
 was a good course. quick to finish and tons of useful examples for practice. Well structured
 This course really makes us familiar with many algorithms but still more practice is needed.
-Es un curso muy interesante y las herramientas que se utilizan estan a la altura de Coursera
 Its is good course , specially last exercise , try to understand logic and peers code also.
 BRILLIANT course, highly recommend. A great balance of theory, mathematics and programming.
 The course is informative and well-structured. I really enjoyed the peer-graded assignment.
@@ -931,7 +897,6 @@ Excellent machine learning introduction and python library for basic machine lea
 This course teste me the  machine learning it mikes to learn more in machine learning
 Great course! Really to the point, informative, technical enough, with good examples.
 Good explanation about classification algorithms. Looking forward to have challenges.
-Objetivo, direto, simples e útil. Explica com exatidão cada elemento a ser aprendido.
 The assignment was very much efficient and the lecture  was very much understandable.
 This content of this course was very hard going but very useful. Thank you very much.
 Great overall exposure to some machine learning techniques and how to evaluate them!
@@ -959,7 +924,6 @@ Some classifiers missing like Random Forest  but as a beginner course it is fine
 Extraordinary , Resourceful , Professional , Thank you for this exciting course .
 I learned a lot of new things that can be applied to the real world.Thanks a lot.
 Learning python data analysis with scikit learn is very intuitive and interesting
-Muy completo el curso de ML con Python, estoy feliz de haber culminado. Gracias.
 Excellent course for starters. Could be better with more programming assignments
 It was a great course for Beginners, I really enjoyed this course. Thank You :)
 This is awesome. I learned some model of Machine Learning . Thank you coursera.
@@ -989,7 +953,6 @@ Very good course for beginners looks to explore Machine Learning with Python.
 It's a great course with practical and very interesting projects. Thank you!
 this course is very interesting. lectures and videos are good also the labs.
 good course to become familiar with the basics of machine learning in python
-Me gustó el curso y los ejercicios, fueron de mucha ayuda. muchas gracias !!
 I recommend this course for anyone to head start a machine learning venture.
 Wonderful course. One must do it to enhance their career in Machine learning
 A brief revision or description of numpy and pandas function should be given
@@ -1088,10 +1051,8 @@ Complete course about ML tools and techniques using Python
 I use this information every day now. What a great course!
 Excellent exposure to various Machine Learning approaches.
 Loved the course. I will be looking forward to doing more
-Excelente curso para aprender algoritmos básicos sobre ML
 some of the video is bad quality .please check this video
 Very helpful! Great for Introduction to Machine Learning.
-El mejor curso que he realizado hasta ahora, me encantó !
 Best course with hands-on labs to learn Machine learning.
 A good overview of the main techniques and good resources
 Helps to build a strong introduction to Machine Learning.
@@ -1125,7 +1086,6 @@ Many thanks, dear Saeed. I really enjoyed the course.
 I Have Learned a very essential topics in this course
 Assessment is interesting and overall very usefull!!!
 Great explanation, and gradually increase difficulty!
-Estoy triste por que no me han calificado el trabajo.
 Excelent for beginers, great intro to ML with Python!
 This course was very good for me and  helped me a lot
 Clear and concise with good python notebook examples.
@@ -1155,7 +1115,6 @@ Best course till now in the entire specialization.
 great course, good content and organized material.
 good Machine Learning Course by IBM for Beginners
 It was a comprehensive course and I learnt a lot.
-Bastante bueno el curso. Herramientas muy utiles.
 Great Course, I learn so much with this , thanks!
 Will designed with very good practical exercises.
 Great course for beginners, definitely recommend.
@@ -1180,7 +1139,6 @@ An excellent course to start your journey of ML
 Thank you so much for the opportunity to learn.
 It helped me a lot to understand the concepts.
 Very nice course. I know now the basics of ML!
-Beautiful intro to machine learning techniques
 Really straightforward and easy to understand.
 A terrific course - really well put together.
 i liked the course very much. liked it a lot.
@@ -1192,7 +1150,6 @@ Very well structured and has lot of content..
 Very well designed and comprehensive course.
 This course was amazing, the labs are great.
 Excellent explanations. Very well developed.
-شكرا لكم على ماقدمتوه من معلومات قيمة ومفيدة
 Very well planned for application in python.
 Great course with easy to understand content
 Great experience . Good course for beginners
@@ -1229,8 +1186,6 @@ Great course thanks to saeed and Joseph
 Really nice and comprehensive course :)
 Great Course! I definitely recommend it
 Awesome course.Please also provide job.
-Excelente profesor, excelente pedagogía
-Excelente curso, asombrosa explicación.
 I love the course and the final project
 Very well organised and detailed course
 One of the best courses in this series.
@@ -1283,7 +1238,6 @@ Awesome course on Machine Learning
 Excellent experiance of learning.
 this course is very comprehensive
 What an excellent journey it was!
-Muy Buen curso, recomendable 100%
 Great course, very well designed.
 Very applied. I've learned a lot!
 excellent content! easy to follow
@@ -1292,7 +1246,6 @@ It was an excellent course on ML.
 Great Course! Easy to Understand!
 Best course on machine learning.
 Good in-depth technical concepts
-Excelent course! Great didactic.
 Best Course For Machine Learning
 Project based , very well taught
 Awesome course... on to the next
@@ -1307,7 +1260,6 @@ its a good course for begineers
 It's fine for a beginner course
 I really enjoyed the ML course.
 Well designed and informative.
-Excellent course. learned alot
 Great class - I learned a ton!
 excellent and thorough course!
 The course is nicely organized
@@ -1335,8 +1287,6 @@ Nicely articulated use cases
 Last assignment is very hard
 really nice course thank you
 great material and exercise
-Excellent! nice Explanation
-Excellent. My favourite one
 thanks and learn the bestly
 excelent! i learned so much
 One of the awesome courses!
@@ -1351,7 +1301,6 @@ Great Leaning Platform!!!
 great course .. thank you
 Great course. Very clear.
 superb work help me a lot
-Just great for beginners!
 very interesting! thanks
 Very good! Optimal works
 very knowledgable course
@@ -1368,26 +1317,20 @@ One of the very best !
 HELPFUL AND INNOVATIVE
 well design the course
 Simply one of the best
-Good course curriculum
 Learn some cool stuff.
 Exactly what you need.
 I liked the assignment
 rellyitsawesomecourse
 Very Practical course
 Enjoyable and useful.
-Deep and interesting
 Highly informative.!
 It was totally great
 It was pure quality
 Good Course and LAB
-nice and conceptual
 Nice course overall
 This was very good!
-Simple explanations
 Good interpretation
 Very good content .
-Excellent Course :)
-Quite an adventure
 Awesome Learning !
 Thanks to teach me
 Simple and elegant
@@ -1399,35 +1342,17 @@ Well paced course
 Got good exposure
 Great technology.
 Thankyou Coursera
-Excelente course!
-best course on ml
 full of knowledge
-GOOD best course
 Greate course!!!
 Well Presented !
 Great Learning !
-Demasiado bueno
 very practical~
-Curso increíble
-excellent curse
 great ,helpful
 Compact Course
-Excelent curse
-unbelievable!
-i am so happy
 good to start
 Apt as it is.
-Excellent...!
 Good content
-Love you IBM
-Well course
 leaned alot
 Good Stuff.
 good theory
-Amazingggg
-Very goodt
-nice job!
 LOVE IT.
-suberb!
-Good !!
-재미있었음

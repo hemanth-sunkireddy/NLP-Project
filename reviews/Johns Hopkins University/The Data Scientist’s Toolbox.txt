@@ -55,7 +55,6 @@ Students generally move towards online course to hear a human explaining them th
 $40 is way too much to spend just to learn how to install a couple pieces of software and sign up for a GitHub account. The entire course should have been the first week of the following course.
 Is this a real course for a data scientist just installing shit and a peer reviewing for that screenshot and forking all repos ...very bad not worth to be with rest course in specialization
 Good time of day! This course is great! But I can't finish it as I missed deadlines and can't switch session!!! I missed 1 month already because of this bug:(It's so frustrating...
-Me inscribí en el curso y solicité una ayuda económica porqué supuestamente se dictaba en castellano. Pero esto no es cierto y no puedo avanzar. Por eso mi calificación en baja.
 Too basic content.I have not learned anything with this course (installing R and RStudio should not be part of exercises or lectures).I hope R programming course will be better
 This is pure theoretical course, It's look like a Power Point presentation. Students can not easily understand this.I do not recommend this type of teaching on Coursera
 Some interesting concepts, but way to simplistic in my opinion. Only reason I see to pay for it is the fact that it is a requirement in the Data Science Specialization
@@ -66,7 +65,6 @@ It has almost no content and isn't actually useful. I've heard later classes in 
 Not really enough content to be a course in it's own right, should be additional material as is useful, but definitely not a requirement.
 It is really basic course, I expected much more even if this is offered only for $29.. (the cheapest course in the specialisation)
 I think a few people like to hear the mechanical voice. Some videos have really low resolution and it is hard to see the codes.
-Eu achei o site desorganizado, não sei se concluí ou não o curso. Não sei se executei todas as tarefas ou não. Decepcionante
 Completely useless. Just a number of boring videos of what you may possibly learn in Data Science Specialization.
 Not worth the price. Extremely basic stuff spread very thin over too much time just to be able to charge for it.
 Useless. The information content is close to zero. Just some blah-blah and a long tutorial to install software.
@@ -81,11 +79,9 @@ It's a course which is designed to preview the other courses. It could easily be
 This course could be summed up in one page or so. Very little content.GitHub lessons good.
 The robot voice is terrible. This needs to be fixed. I wish it was an actual person.
 By far to expansive for what you get. Anyway, thanks for the hint about swirl.
-Horiible, me volvieron a cobrar un cuando ya lo había terminado.  Una estafa
 Automated voice was terrible. - I didn't even last through the first video.
 This course was extremely exciting for me. I enjoy every bit of the course.
 Not worth 29$ considering you could take away very little from this course.
-No quiero terminar el curso porque no me gustó la metodología del curso.
 I have no idea why you called it course, since there was nothing inside.
 I do not recommend the whole program for anyone, it is a waste of time.
 waste of time. except for git and github ,nothing much is in it.
@@ -116,9 +112,6 @@ not much interactive
 Ass robotic stuff
 very basic.
 Robotic.
-annoying
-Not Free
-I'm
 Basic introduction for the specialization, principles of data science, and installing stuff, it's fine to get started but could get hands dirty with R more quickly.  Overall the plethora of 4-5 star reviews for this specialization seem generous.  You will learn a good deal but there is heavy focus on R and academics of data science (Rmarkdown, Knitr, shiny apps etc), only 3 courses (6,7,8) get into meat of statistics/regression models and ML; the capstone project is interesting but doesn't use much of this stuff, it gets bogged down in technical work with new R libraries for text processing.  The material is a few years old and not being maintained, discussion forums and interest/participation feels stale.  Take some time to look at syllabus and compare to other courses for what you want to learn before committing many months to this specialization.
 Good overview of the ideas/concepts in data science and the set of courses coming up, but mostly seems to be a place for people to work out any issues getting Git, R, and RStudio set up before they head into the R programming intro. Very light on useful content outside of that. Definitely not 4 weeks worth of course material - can do the whole thing in a couple hours or less.
 Robot voice should be replaced by the course instructor's face to face interaction.
@@ -239,15 +232,12 @@ it's not interactive at all !
 I didn't get much out of it
 i think was ok to start up
 The course is very simple
-Waaaaaaaaaaaaay too easy
 Extremely Git centric
 Too easy, very basic
 Too short and easy.
 Not really useful.
 Sound is too quiet
 Barely any depth
-Way too basic.
-Too basic!
 Very basic
 A bit basic, but a great start for beginners.
 The course contents are thorough and clear, but the UI and the platform of the web course could use some thought. I find it a bit tricky to take notes and copy url's and command lines from the video. Perhaps this is just a matter of getting use to the platform. Excited to proceed to the next course!
@@ -270,7 +260,6 @@ This course sets the stage for the rest of the Data Science specialisation.You g
 I have to say the text to voice translation of the text to video lacks good rythm,  sometimes it is not  easy to follow all the detial espatially there never is natural pause after some touch ideas or steps to me. As a class of introdution level to layman like me I think it could be better introducing more practical examples to practice, or I would like to see some links to external study materilal, that would make the class experience even better to avoiding frequently searching for troubleshooting.
 The initial lectures were good . The Git & Github part got me little confusing , a little detailed explanation with live examples would have really helped. The last conceptual part was interesting. Some reading material just to drill down on certain Data science jar-guns would really help though it is understood that best place to find answer to question is google / forums / stack overflow...Still some reading material would really be very helpful to maintain the interest in the course.
 Basically if you take this course you are paying money to create an account on a website and download some software (both of which you can do for free).  The rest of it is a preview of the other courses in the series.  The quiz questions don't correspond to the information on the slides.  I successfully passed the course, but I didn't really learn anything.  Now I am debating on whether or not to continue to the R programming course after reading through the reviews of that course.
-It's good only if you are already familiarized with Rstudio and GitHub. Otherwise you'll be completely lost, and better off looking for youtube tutorials.Es un buen curso si ya estás familiarizado con Rstudio y Github, de lo contrario vas a necesitar buscar tutoriales mejor explicados e intuitivos en youtube.En el fondo, avanzan muy rápido y se saltan muchos supuestos. De todas formas sirve para practicar con calma, en el caso de que se tenga más intuición sobre Rstudio y GitHub.
 This is a good, general introduction.  A motivated student can run through it very, very quickly.  As the first of ten courses, I understand that it is a very general introduction.  Still, I think it could be ramped up a bit.  Week 2 of the next course - R programming - is kind of a kick in the head if you're not a programmer.  I feel like some of the content from R programming could have be included in the toolbox course in order to take advantage of the relatively light load.
 This should be at most a 1 week course, that is free. Half the course is installing Rstudio and signing up for github. The other half of the course is simply learning what each course down the pipeline is about. Those lectures could just be tacked onto the description of each course and you would get the same thing out of it. I think this course would be improved by more instruction on what git is and how to use it and maybe going over some fundamental statistical topics.
 The course was exceptionally planned and executed. One big problem that I had with the course were the automated videos; I can't say for others, but I wasn't at all comfortable with an AI voice teaching me the course content. I don't think I can ever get used to that. I would rather take a course that's 10 years old, 80-90% valid but has a human teaching me the course content. Other than that, I enjoyed the course. Thank you!
@@ -282,7 +271,6 @@ Establishes an overview of what Data Science is and introduces some necessary vo
 I think first course is only about installing, installing and installing. If they cover more introduction to the field rather than only installing that would be nice. But to show how to install and perfectly run the software is very necessary and the did that job very nicely. looking forward for the next one hopefully that'll be also good as this. :)
 The course structure is really good. The content is good too. I found the speed a little too fast. Plus there should have been some small exercises in between before the quiz to make the lesson more interesting and intriguing. Another point that I would like to state is that, the slides could be even better and visually appealing than they are now.
 The content is fine, as an introductory course, however, the computer generated lectures are a travesty. There are enough mistakes in the text-to-speech translation that make for a distracting experience, and if you are really a novice, could be problematic. I wish that the teaching staff would go back to filmed lectures with a real professor.
-Es un buen curso al principio, un poco básico. Te enseña a instalar el programa R y GitHub, siento que si no estás familiarizado con programar, puede que no te sirva mucho. Por el otro lado, si ya lo sabes hacer, puede ser que sea repetitivo. Acabe el curso en 3 días, así que es un poco breve para el tiempo para el que está programado.
 i felt this course was very disorganized.  It introduces terms and concepts not explained before.  There was an assignment on creating forks. This process was not in any lecture.  Of course, with R and GitHub you can find anything on internet.The lectures narrated by Amazon Polly is very boring.  It also messes up some of the terms.
 It's ok. After the first lesson, I should be able to provide a clear elevator pitch with a high level understanding of what I can expect to accomplish (4 or 5 steps) as a Data Scientist. Instead, there was one slide that touched on this quickly, somewhere in the middle. What are the problems, how do I solve them, give samples.
 I guess this is the basis for the work to come in the program, but it should be called "installing RStudio and using Git".  Not useful for anything but getting ready for real work. The videos were annoying - I just read the text instead of listening to the computer voice and having to pause and restart as I did the work.
@@ -328,7 +316,6 @@ it is not the best way to start your data science career for me as a student bec
 Beginning course in Data Science spent too much time on tools and not enough time on concepts, possible solutions and application. Seems like I spent a lot of time in the weeds of application installation and repositories. humm
 I believe that in some of the assingments the student is asked to do a few  things that werent taught in the course.  And also during one of the quizzes the platform wasn't working propperly, and I had to answere it many times.
 I don't find the contents about R, git, and GitHub very helpful. They are way too brief and perhaps work better in those specific courses where we have a change to use them. Solely learning some commands is not very effective.
-A pesar de que el curso lo menciona, es demasiado introductorio, no profundiza nada y en mi opinión se pierde mucho tiempo viendo lo de GitHub. Aprendí muy poco de data science, lo demás lo sabía de los cursos de estadística
 Learned a bit but overall it is literally not worth the price of admission. I think that this course could be offered for free and maybe the others are worth paying for. Hope that the rest of the specialization is worthwhile
 Although the course is a good one to get you all set up for the upcoming courses from the Data Science specialization, the content of the course is very less to be considered as a separate course and charged money for.
 Though the course itself is introductory in nature, i wish there was a lecture on what and how exactly are these going to be useful with the help of a real life example and also an increase in the depth of the content.
@@ -400,7 +387,6 @@ THE COURSE IS GREAT BUT SOMETIMES IT IS HARD TO UNDERSTAND CERTAIN THINGS AS THE
 I think this course has too many theory, I think it should contain more practical example for us to try....and too wordyBut overall it is fine
 Too much material. Too soon. I am new to R and the stuff was a bit overwhelming. The course got easier as I advanced through the other courses
 The content is very basic. The whole course took my around 6 hours to finish. I think the instructor should add more solid training on GitHub.
-Estudar com essa inteligência artificial falando é IMPOSSÍVEL. E o material escrito só está disponível em inglês. Isso desvalorizou o curso.
 A bit odd this one. It hase some points, but most of the training is looking on what the other courses are.. Like paying for commercial :-)
 The course was just fine, but I don't think we should spent entire 4 weeks on it. One or two week for this course would be better I think.
 This course is very basic for a person with an IT background, but nevertheless might come in handy for people without relevant experience.
@@ -421,7 +407,6 @@ It is a good introductory course, but it could be optional for people with some 
 The real basics of data analysis. The course is not bad I would just say it may be too simple even for an introductory course
 Didn't get an awful lot from this course. The videos have a lot of information which are not directly related to the course.
 This is a good introductory course to some of the tools but it doesn't go into the details of R programming or Data Science.
-не представляет ценности в качестве отдельного от специализации курса. весь курс является просто введением по специализации
 It was too short and too easy, even though I didn't know how to use git. Only thing I learned is how to use git and github.
 Only include very basic contents, doesn't need 4 weeks to finish this course. More like a one or two day induction session.
 Basic introduction to the specialization. It was way too simple for me since I already have knowledge in machine learning.
@@ -455,13 +440,11 @@ Could be completed in a single day but spread across 4 weeks. I could understand
 It was great to know new terms and tools used in data science. However, the course is mostly theoretical.
 Needed a step-by-step information sheet about what R Software and Tools need to be downloaded with links.
 It's only enter-level for people who don't know R. For those who already used R, it's not a good choice.
-Buen tema y contenido pero muy resumido o simplificado, se debería ampliar mas la 4 semana como mínimo.
 Good course for supporting the rest of the specialization. However, it has very little use on its own.
 Would have loved it even more if there was an in-depth explanation of how to use GitHub using Git bash
 Course is good overall, but it could be more detailed and informative which is lacking at some topics.
 Needs examples and practical exercises. The videos are long and monotonus mainly because the speaker.
 One Could have introduced the basics of R in this course..The course was too easy..Even for beginners
-Es básico, pero cumple para empezar en el mundo de Coursera, espero mucho más del resto del programa.
 It's very very basic one.Some more topics should be added to this course.Otherwise it will be boring
 The video content is great, but it tends to have zero relation to the content tested in the quizes.
 Course doesn't seem to be of much use. Was not much informative. Only some information is relevant.
@@ -511,7 +494,6 @@ Too simple and most contents are overlapped (already covered) in other sessions
 Upgrade to submit? That's meaningless.  Especially for this fundamental course.
 It was good as an introduction , meanwhile its contents are little for 4 weeks
 It's way to easy to be a separate course. It should be part of R Programming.
-Conteúdo é bom, mas o fato de ser dado por um robô torna a experiência ruim.
 This first toolbox module is all about setting up. Not much programming yet.
 Decent overview, gave me some things to google. No real substance as of yet.
 I think this course needs to be much better in terms of adding more material
@@ -538,7 +520,6 @@ The instructions for using git and git hub left a lot to be desired.
 Very Basic Course. Doesn't require the time that was allotted to it.
 Probably more useful for someone with no background in programming.
 good for introduction. The sound quality is low. Can be shortened.
-Ne présente qu'un ensemble restreint des outils du data scientist.
 too easy,i wish we had more things do submit so we will learn more
 The introduction of how to use github is undetailed in my opinion.
 Too simple. Personally feel this can be clubbed with R Programming
@@ -601,19 +582,14 @@ Great course to begin with Rstudio and GitHub
 Great course to start a data science career.
 To easy :) but good start for the beginners!
 Too basic compared to courses that followed.
-作者没有留下详细的文档，泛泛的介绍很难给人留下印象。对于github的练习稍微有些帮助。
 i feel i just learn the superficial knowlege
 Very common curse about common data things.
-Demasiado básico para ser un curso formal.
 Good foundation for the following classes.
-Need deep use of rstudio. Work on project
 not much content in compare to time given
 SOme of the teachers' voice is too weak!
 Good walk through, could be compressed.
 Not very helpful. Unnecessarily lengthy
-A decent intro course to Data Science !
 A good beginning to a promising journey
-In Peer review task, take more time .
 Too little information and too basic.
 Really basic stuff. Good, but basic.
 Really hard to follow the lectures.
@@ -621,9 +597,6 @@ we need more explain in this videos
 Good Course, but needs more updates
 Basic introduction to data science.
 Just an introduction, not so great.
-Puede ser más dinámico y práctico.
-Should have been in more details.
-I am struggling to pass my quiz.
 Content for the course is less
 It was cool, but surface level
 Already had experience with R.
@@ -631,7 +604,6 @@ Getting started with the tools
 This course was far too easy.
 Human Interaction is missing.
 Students be more interactive.
-peer grading is a bad system
 I hate the automated videos.
 Easy but not terribly useful
 The sound volume is very low
@@ -642,7 +614,6 @@ Good as a basic over view.
 Very basic introduction...
 A very good for beginners.
 It's very straightforward.
-Deben incluir mas idiomas
 Couldn't hear the videos
 Good course for Starters
 automated  voice is bad
@@ -661,7 +632,6 @@ Pretty basic stuff.
 Good for starters..
 Very little content
 It is not worth 30$
-too less exercises
 I took the survey.
 Really easy course
 Very basic content
@@ -670,15 +640,9 @@ Its a good start.
 An easy start ;-)
 very basic stuff
 Could be better.
-credential Id?
-Not very good.
-Fairly good.
-Muito incial
-Yawwwwnnn.
 Motivating
 Quit easy
 To easy.
-good
 More clarity on creation of .md file should be included in lectures
 This course was in many ways the first day of lectures, get your syllabus, buy your books, install your tools, etc.  I would give it 5 stars but the lectures inclusion of internet addresses that aren't links and aren't included in the transcript led to a lot of time paused and typing out long addresses.
 Its a basic course to learn general terms of data science. It helps you to set up all the programs that you need to start in this discipline: RStudio, Github and some additional good practices. In general, its a good course. However, I missed coding and a person explaining the videos (i understand the idea behind this, but the concepts on this particular Mooc are so introductory that the argument is not valid for me)
@@ -705,7 +669,6 @@ A good introduction to some of the tools used in data science. However, it felt 
 I think there could be more lectures on programming related to R. After this course, I am now able to just link any R file(project, script, markdown files) to Github. I also got to learn various features of world's largest repository holder like steps involved in pushing any document to Github repository. Since I am little more interested in leaning the programming languages, so this course did not meet my expectations. Instead it turned out to be some course with greater emphasis on theory and working of the RStudio.Rest overall, it provided me with the base knowledge of data science. I am sure that this course will cater greatly to my foundation of career as a data scientist. Thank you.
 It was really good for a beginner's course. I thought that knowing how to code was the only limiting factor when it comes to learning R but this course showed me that as an upcoming Data Scientist, one needs to know what they want to do in R and decide how they want those questions answered. I got to learn far more about Git, Github and R Markdown which I think will really be helpful for the projects that I will set up during my PhD. The course was 4 weeks but I managed to get through it in 3 days. I am especially happy that my request for financial aid came through because without that, I would never have been able to start this course in the first place.
 Great review of the foundations of Data Science. I would have also included some background into the basics of database design, table construction, data file content examples from both relational/NoSQL (etc.) sources. Also, would be great to get a compare and contrast of the value of R versus, say, Python-Pandas and VBA because these are the other two free resources out there for handling data in some form (yes, I know VBA has limited applications in deep data science, but it IS still relevant in business analytics---a common launch point for the career of many would-be data scientists). All in all, superb work, folks. More please! Need input! (Johnny 5)
-Estoy bastante satisfecho con lo aprendido en este curso inicial del programa Data Science ya que es una buena introducción a todo lo que se verá más adelante. Debo decir como profesional de IT que me ha sorprendido cómo empieza desde cero explicando todo lo necesario para entender e instalar las herramientas informáticas necesarias para el curso con un nivel casi de principiante. Sin embargo en lo relacionado con métodos estadísticos y de análisis de datos el nivel no es tan bajo y los videos de la semana 3 han profundizado ya en algunos conceptos del análisis de datos. Espero que en los siguientes cursos se expliquen detalladamente desde cero.
 Overall an interesting program is offered. Just started, an update is expected towards the end of the course. So far found an issue w/ quiz #1 (incorrect grading due a broken internal logic (?) where 2 different 'correct' answers are offered during subsequent quiz sessions). Also, I would say that the intro videos are too short to be useful. Anticipated scope is well aligned w/ modern trends that are re-branded from the underlying concepts known for a long time; such concepts were always being in the arsenal of any serious practicing engineer or scientist. Modern packages though are a nice compact up-to-date tools collection.
 This is a very good course for beginners. The tools covered in the lessons and quizzes are indeed vital for contemporary data science. The suggested readings are very helpful and interesting, and the quizzes are also good. The only weak point of this course are the automated video lectures. They are quite boring due to the monotonic, computerized voice. Ok, automated lectures surely have some advantages, as explained by the instructors. But human emotions are key to learning. Thus, to promote accessibility for disabled students, there could be a mix of video lectures taught by human instructors and automated readings.
 I would recommend it to any one. The introductory course is so basic that some might see it not important but the course has done a well job by easily getting across the foundation of Data Science as well as helping non-programmers to easily drift into this field. I would have given 5 Star if i was allowed to attempt my tests even though i am auditing the course. The only thing coursera should benefit from is providing the certificate. By freedom of giving test and doing courses people will surely pay for one course or another when they get more confident with their results in audited course.
@@ -717,7 +680,6 @@ The Data Scientist’s Toolbox is a great way to dip into Data Science and the m
 A light introduction to the Data Science field, in many ways it can be difficult for inexperienced people with software or inexperienced with stats - in my case it was not very difficult since some of the topics were already familiar.The course can be done in a couple of days if the topics are already familiar, in my opinion the course's contents are perfect for someone very new to this field.I would have rated more stars if the course's content was more "objective" for people unfamiliar with the subject - other than that it's perfect.
 I got some bugs when running git bash and I had no clue how to fix them. I kept watching videos over and over but I couldn't find the answer. Then I tried google, reading many websites and doing trial and errors until the errors were gone.  I understand in real life this is what I need to do but it would be good to know some proper ways of fixing errors after I submitted the assignment. So I can learn and use in future! Apart from that, the course is really useful and prepares me for the next stage.
 It is a very good introductory course for anyone who would like to learn data science, or would like to use tools in data science for their everyday work (like me). In the course you will have some general essential ideas about what is data sciences and which tools are used in the science, and the most importantly, the concept of version control and the GitHub tool for the purpose. However, there will not be any in-depth knowledge in the course, which is determined by the introductory nature of it.
-Es un muy buen curso teórico práctico sobre la introducción a la programación en R. Sin embargo algo que me desmotiva mucho es que las constancias no proporciones ningún crédito. Éste curso tiene una duración de 4 semanas y no me parece justo que no se tome en cuenta si se acreditó correctamente no tenga ningún valor. es el segundo curso que tomo en coursera y me pasa lo mismo, dos universidades renombradas que no proporcionan ningún crédito. ¿Cuál es el objetivo de ofertarlo entonces?
 This course is a pretty good introduction to data science, although I'm not sure how useful will these tools be in the future. Also many tutorials were unclear and I had a lot of problems to complete some lessons, I had to solve those problems by myself (difficult task sometimes considering I know nothing about data science). Anyway, I learnt a lot of stuff, in the end I recommend this course for an introduction, but check the content first to see if it suits your learning interests.
 On enrolling in this course I knew nothing of the data science world and always wondered how  all that "jumble" of data was organized.  After this short course I am beginning to have a glimmer of how this is done.  I know there is more to learn and I am curious to know how.   I must say that I struggled quit bit towards the end of the course with the assignment, but I believe as I continue with the other courses I would become more proficient using RStudio and GitHub, etc.
 Important note: Opt for this course only if you plan to do the entire specialisation. It is developed solely for the specialisation and not as a standalone course. You will not learn much concepts or theories or practice any R programming here.
@@ -839,7 +801,6 @@ I don't feel as though the 16 minute video on command lines was efficient. I spe
 A very good course for beginner to start off with. This course really helps setup the fundamental toolkit to create a efficient workflow. The git/github version control linking with R/Rstudio is the best thing I got from this caourse.
 Excelent course. The schedule was basic however have approached a thematic complex and important.The time to complete the tasks week was great.But I felt need to learn more about git and github. I don't know if it was on follow weeks.
 Easy to follow. Might be too easy for some people with experience in data analysis. However, the instructors also talk about some frameworks and insights from their experience which could be helpful for even those who have experience.
-El método que sigue el curso me ha sorprendido para bien. Hay determinadas herramientas que aún no comprendo bien qué utilidad podría tener para mí. Quizá porque este primer mes sea muy general. Veremos qué aprendemos este nuevo mes.
 Very good composed, explains in a very good manner the complex topic, a general overview about the tools and their connection to each other would be great and helping, as there are many tools to install and understand the functions.
 A very good course to learn the different applications needed to start data science. Lectures and examples  are easy to understand. Highly recommended to those who would like to know and start a career in the data science field.
 The course itself only introduces the main aspects and helps with installation of the tools, while no actual programming is taught. But it is useful for having better understanding of the following courses in the specialization.
@@ -881,7 +842,6 @@ There were lectures about how to install R and RStudio on Mac and Windows. And t
 Seems like the lessons are using an older version of R. BioConductor repo packages instructions need updating. Otherwise, this course gives a good intro to Data Science and how to use RStudio with GitHub.
 This course gives you a nice overview of the very first steps in dealing with your data. It explains very well how to use GitHub and RStudio.The mini-quizzes (3 questions) are a bit useless in my opinion.
 Course was Excellent . I have learnt many things from this course which will be very helpful in future .My suggestions will be -framing of questions should be more exact.,so learner  will not be confuse.
-El curso tiene toda la orientación a ser la primera parte de toda la hoja de ruta de la especialización de data science... En solitario no aportará prácticamente nada pero como punto de inicio, promete.
 The course is in fact an overall intro to the full data science specialization. Some of the content are useful; but some of the quiz questions are not very informative, and don't really test on stats...
 It would be nice to have the R Studio and GitHub training with more guidance and proper syntax and coding for both and I would prefer it after the R programming course. Otherwise, good content overall.
 Yeah, the robot voice is annoying.  There needs to be better instruction on getting R Markdown to work.  I tried in vain and gave up on it after looking at multiple forums with my same issue.  Oh well.
@@ -915,7 +875,6 @@ A very easy course, can be completed in 3-4 days at max. Having done R programmi
 What I like (so far) is that you have to search for information via internet and by practising your knowledge in GIT and GIThub you can discover what you have learned or what should improve.
 Some detail of the Quiz and course project were not mentioned in those video courses, it made me have to google  or find out the answer in other ways. But through this, I did learned more .
 Good course for beginners to data science world. However some more application questions must be added in each section to acquaint the learners with a thorough knowledge and understanding.
-Describe aspectos básicos para la utilización de herramientas, tipo de preguntas y datos que debe manejar un científico de datos; es un buen abre bocas para el resto de la especialización.
 In generall it was a good course, but sometimes the instructions weren't sufficiently clear to me, and I had to figure things on my own which didn't always resulted in a positive outcome.
 Good introduction, although the teacher spoke in a very low voice (it was sometimes hard/impossible to catch what he said) and some of the videos could have been a little more exhaustive.
 A nice slow intro to Coursera, but not a ton of actual content.  Good to get your feet wet, but skippable if you are familiar with the basics of the toolbox or taking courses on Coursera.
@@ -934,7 +893,6 @@ All excellent and a very good introduction. I wish I was able to get my quiz gra
 This course describes the overview and useful tools for doing data science with less details. The material only prepare you for taking the other courses in the specialization track.
 Overall the course is very good and well paced, but I believe it could be a bit more clear in the git and github lessons on how to push from your local repository to your remote one
 Not bad to start off with! It teaches installation of all the required things for starting off R (e.g. RStudio, GitHub), and gives a basic understanding of experimental design too.
-Al inscribirme en la especialización figura el español como uno de los idiomas en los que se dicta, pero no estaba disponible para este curso, por eso lo clasifico con 4 estrellas.
 Great course. But sometimes it's a little bit difficult to follow, because the instructor just listed those Git commands without actually demonstrating how to use Git step by step.
 I was already familiar with the stuff taught for the most part. I think they should do more tutorials on how to install and do things though for those not experiecned enough in it.
 Good introductory course pointing to background reading materials and providing context for following courses as well as supporting the installation of the required software tools.
@@ -947,7 +905,6 @@ Gives a great foundational overview of what Data Science is, as well as getting 
 A great course content by using machine to teach you. However it is little fast and few things got unclear. Especially Rstudio and Gitbash. Need to study it from other sources.
 I have expected that this course would have given me the basics needed for my data science specialization I strongly recommend a new optional course which gives all the basics.
 Very good introduction to Data Science and I found it highly  useful and insightful.The main issue I faced is that problem statements are not always clear for programming tasks
-El curso me gustó, considero que fue una buena aproximación hacia el mundo de los datos y sus herramientas. Espero seguir aprendiendo en el transcurso de los siguientes cursos.
 Good introductory course, but could offer a bit more of a challenge, with actual (basic) problems. Learned about R, although not programming, and more about GitBash and GitHub.
 It's fairly good! Concise intro to DS. However, you will need to spend more time in CLI and GitHub by looking for information in the forum or googling step by step procedures.
 I was able to set all the programs up that I will need to program in R, but I still feel like I don't really know the basic overview of what I will be doing in this specialty.
@@ -1055,7 +1012,6 @@ Good crash course on setting up all the toolbox necessary for a data scientist. 
 In the course they use some tools' older versions and, for example, some Git commands shown on video are different in newer Git versions.
 Informative and helps people like me who are willing to learn from scartch. The course content though can do with a little more updation.
 This course is very good for introduction to Data Science toolbox . But there are some typing mistakes in the subtitles in some videos .
-Простейший базовый курс, не требующий никакой предварительной подготовки и минимум усилий. Указано 4 недели, по сути проходится за день.
 This was a very professionally done course.  It is *very* introductory, which is either good or bad, depending on how you feel about it.
 it introduces the basic tools that are frequently used in data science. However, it is rather baisc and the course did not go in depth.
 I didn't like the computerized voice.  The computer spoke a bit too fast and mispronounced some words.  Certain sections went too fast.
@@ -1065,7 +1021,6 @@ While this course is introductory to a specialization, I believe there is more c
 Helpful set-up course. Not too meaty & definitely didn't take 4 weeks but smart to have everything set up before diggin into the rest.
 Good beginner's course to start learning advance topics like R programming, etc. Very useful tools such as Git-hub were taught simply.
 Very basic stuff - if you've ever done any coding before & have even a rudimentary knowledge of Git/Github - you can skip this course.
-Una introducción interesante y valiosa para los interesados en incursionar y tener a la mano las herramientas básicas de Data Science.
 A broad overview of a vast subject. It gives its students a good platform to get started on learning the nitty-gritty of Data Science.
 Gives an excellent overview to Data science course and what it take to become a Data scientist. Well organised videos and instructions
 Pretty basic (from a software developer perspective) but can see the utility for newcomers to programming and informatics in general!
@@ -1087,7 +1042,6 @@ Ideal course to get you started for a data science specialisation. Informs about
 Overall, I liked being exposed to Github and GitBash. I felt this course gave me a broad overview of what to expect in the future!
 Even though the content was good, but this is more like a 2 week course. I finished it in 4 days spending on average 1 hour daily
 If you are completely new to Data Science, then this is very good course to start with. All the basics are explained very nicely.
-Me pareció un buen curso introductorio donde conoces herramientas que se supone te ayudaran en tu carera como científico de datos
 More number of hours are given than required. Good learning for non IT field people. For people with IT background, its too easy.
 A little basic, but necessary to get everything you need set up for the next classes in the series. And it does that well enough.
 Good course and it's great that Coursera has designed this course separately.Enjoying the journey of data science with Coursera.
@@ -1131,7 +1085,6 @@ I thought it was good until Week three. I found some of the directions on how to
 Really gets me, so I renew my interest in learning new things, It´s a well implemented course to introduce you to RStudio
 It forms the base. The examples should be recent and since its more from Bio stats etc, sometimes gets a bit confusing. .
 This is a very good introductory course for all those who are eager learn about Data Science. It gives you good insights.
-Es un curso muy básico, introductorio de conceptos, herramitas como git y github, las consolas... Sólo para principiantes
 The course was nice but seemed too trivial at times of discussion about basic tools like git and command line interfaces.
 It was really, a helpful intro to the concepts and tools to get someone - especially if new to the field - on the track!
 it could be better if there is a true human being teaching instead of a female ai. it seems a little bit indifferent lol
@@ -1140,9 +1093,7 @@ Very good place to start. Tells you just enough to get started and also just eno
 Should be able to optionally select viewing the Mac or Windows installation videos.There are no videos for linux users.
 Good overview of the specialization. Probably very good for someone new to R and software development tools in general.
 Assignments are useful, background is interesting, but meat of it is nothing you can't get from googling "Data Science"
-Excelente curso.  Yo ya soy usuario de RStudio y he aprendido bastante, especialmente del versionamiento de mi código.
 The really great material were in Week 3. The first 2 weeks are too basic for anyone with at least some IT background.
-El curso me parece excelente, pero tuve problemas con la plataforma, me borró todo lo que hice e incluso había pagado.
 The content of the course is quite enriching. Besides the robotic voice, I enjoy every bit of the course interaction.
 A decent survey of the material, which hopefully follows.  A good but almost too easy class  for such a deep subject.
 Course content is good. I was able to get the basic understanding of git and github and also understood how it works.
@@ -1155,15 +1106,12 @@ Great course to launch yourself into the data science world. Content is brief an
 Good Introductory course to dive into tools and materials for starting our journey on data analytics specialization
 I expected more but this is really just basics and this is little bit bored because of the AI was the instructor..
 Well structured and easy to follow. Most importantly, the onus is placed on the student to explore and self-learn.
-Buen curso sobre la iniciación a la ciencia de datos, las bases y las herramientas que se emplean para este mundo.
 A simple introduction.  Easy to cover very quickly, however important to understand the basics before progressing.
 You'll install 'R', 'R Studio'.Will link R Studio with GitHUBWill learn certain steps as introduction.[That's it]
-O curso é bom, mas achei a fala robotizada estranha e acho que a linguagem R está perdendo terreno para o Python.
 As a beginner, it was very instructive. New concepts introduced built-up on previous ones as the course unfolded.
 I think more info about git and other toolboxes would be interesting. It took 1 day to complete the whole course.
 I wouldn't really call this a course, rather it's more like an introduction to the very basic tools of the trade.
 Very clear introduction for those unfamiliar with R, RStudio, Git, GitHub and the basics of statistical analysis.
-Mucho contenido pero las explicaciones son difíciles de seguir en cuanto a instalación y manejo de los programas
 Some of the dictation should be changed so that the computer says "for example" instead of "e.g." (For example.)
 The course was great.  Wish there was more walk through general assignments to help you hands on with the tools.
 Good Intro level course to data science and provides a quick glimpse of the necessary tools used in the industry
@@ -1185,7 +1133,6 @@ The course introduced us to data science questions and got us to know collaborat
 Fine as a general introduction, but not a lot to it.  Good explanations of how to use github and get set up.
 A very good intro course but must be priced lesser when compared to the other courses in the specialization.
 Great introductory to the data science tool box and its usage and benefits __ data science 0 course really
-Algunas partes del curso deberían tener mas ejercicios para practicar lo visto y reforzar mas lo aprendido
 A good course to set up your software tool kit before you start your dive into Data Science Specialization
 This course is perfect for really newbie. However, it also answers the question of "What is Data Science?"
 Easy to follow for the most part. A couple of things were outdated so I had to figure them out on my own.
@@ -1199,7 +1146,6 @@ Good introduction to data science, however it should have more details and pract
 Super basic introduction.  I liked the last section reviewing data science methods and conceptual ideas.
 I think more detail statements are needed on PDF.Because I'm not good at listening, so I studied by PDF.
 Extremely informative & interesting, Instructions can be followed with ease. Worth the time and effort.
-Excelente curso, porem diferentemente da descrição, existe legenda em português, apenas para um modulo.
 Structure, content and step by step practice was good. Interface to browse the courses could be better.
 Good start, looking to dig in more, as I already have a background in stats data analysis and data viz.
 Quite simple. It could be more engaging.When downloading PDF slides, links in them should be clickable.
@@ -1270,13 +1216,11 @@ Good introduction to the tools that will be used in the rest of the courses in t
 This course would be quite helpful for those who step into data science for the first time!
 Good course, can be better with some small tweaks here and there otherwise well structured.
 This course definitely gave me a great overview of what to expect in the data science field
-Como curso introdutório das ferramentas muito bom. Achei um pouco longo desnecessariamente.
 very good starting point for people does not have any background in stats and R programming
 peers reveiw should be removed rather than that something other assingment should be given
 The course was super easy but super effective. Thank COURSERA for this amazing experience.
 Instructors could do more demonstrations to make things more clear. Other than that, fine.
 This is course teaches the basics and installation only but is very good for that purpose.
-Me quedó un poco vacio lo de GIT, tuve que averiguar más por mi mismo, pero esa es la idea
 This course appeared to have some irrelevant material, but perhaps it'll be useful later.
 A good introduction to the subject area. It would be nice to see more real-life examples.
 Gives a good intro to Data Science and makes sure you get the essential tools downloaded.
@@ -1338,7 +1282,6 @@ Very nicely presented... easy for a newbie like me too.Thank you for the effort.
 This was superb in order to create a basic understanding regarding data science.
 A solid course to kick off the specialization, but not worth taking on it's own.
 I would expect some more methodological material,\though everything else is fine
-Tuve problemas con Markdown, pero todo lo demás lo pude solucionar directamente
 The Course is very Good but requires more details during the practical examples
 It's fairly basic.  Completed the whole course in 1 sitting in about 4-5 hours.
 It is a good start with good background info of resources in data science field
@@ -1350,7 +1293,6 @@ Overall course is good but please decrease the communication speed of lecture.
 Course can go quicker, the content is useful but it is too little for one week
 I really feel the entire course is explained so thoroughly for the beginners .
 Decent introductory course to Data Science and setting up the necessary tools.
-Buen curso introductorio. Le falta quizás profundizar sobre algunas funciones.
 great course, hope professors talks more about github command line operations.
 Very basic. I am hoping it helps guide my time commitment for further classes.
 Some of the closed captioning on the videos does not match up with the audio.
@@ -1366,7 +1308,6 @@ Helpful introduction to people who have little experience with GitBash and R
 This is a really good course to begin with. I highly recommend this course.
 Good basics, but 4 weeks is way too long for such small amount of new info.
 Good class. Need to update the content though. Same from at least two years
-Com o curso conseguir aprender muito e hoje posso colocar em meu dia a dia.
 Good introductory course to get started on the Data Science Specialization.
 Good  and relatively easy course. Perfect to establish personal confidence.
 I've learned a lot taking this course and I look forward to learning more.
@@ -1382,22 +1323,17 @@ Detail tutorial on basic of Data scientist tools and good start up course
 Great way to get started on the Data Science course with the right tools.
 It was good, well-executed course, but it was too basic. I expected more.
 if live instructor leads the class would be much helpful than auto video
-Some quiz questions are a little out of data but overall a great course!
 SOMETIMES THE COURSE BECOMES VERY BORING .BUT OVERALL A VERY GOOD COURSE
 more hands on exercises (not just in the quiz) for Git would be helpful.
 very comprehensive and simple introduction to the basics of data science
 Good start for the specialization. Did not like the peer review section.
-Buen curso, ayuda a conocer diferentes herramientas para manejar datos.
 Best suited to beginners. U will get to know many informative concepts.
 More tools should be included in introduction such as python, hive etc.
-Algumas informações estão desatualizadas o que dificulta o aprendizado.
 This course is an excellent introduction for a Data Science enthusiast.
 Pretty useful, wish there was more practice build in on using terminal!
 A decent overview for anyone interested in what the topic is and isn't.
 Good introduction into the tools needed for understanding Data Science.
 A little bit simple, but maybe it is enough for an introduction course.
-Buen curso, aunque incomoda que todo sea realizado por una voz digital
-Claro, fácil de seguir y bien secuenciado. Una buena introducción a R.
 this course is very helpful.i gather many new things from this course.
 Very good course, need a little update but has very easy do understand
 It covered the basics of concepts and tools that Data Scientist needs!
@@ -1406,12 +1342,10 @@ It was a good introduction. Looking forward to the rest of the course.
 Covers the basic effectively.Hope it's useful for the upcoming courses
 This course is a very basic introduction, but I think it is an importa
 Very excellent startup to motivate a one want to become data scientist
-分かりやすく端的な英語での授業だった。内容も新しくためになった。日本語版がないこととTex環境の導入に触れられていないのは改善してほしい。
 It is very good course in a short time for all who love data science.
 The course should be more interactive. It's such an exciting subject.
 it could be better if the local repository in git was explained more.
 This was a good introduction. I would have liked to see more content!
-Está muy bien para iniciarse y tener en cuenta los elementos básicos.
 Could have used a little more details in explanations.  Overall okay.
 Git and Github lesson could use some better explanations and examples
 Basic information on data science and the toolbox of data scientists.
@@ -1420,7 +1354,6 @@ Very helpful introduction to downloading R and Data Science concepts.
 Nice introductive lessons on how to deal with R, GitHub and RStudio!
 I prefer non-automated video lectures over these automated lectures.
 Very good, concise overview of the burgeoning field of Data Science.
-Quick & simple (yet useful) introduction to data science principles.
 I enjoyed the course and the learned some useful skills.  Thank you.
 learn what basics you need to start as a data scientist. Really help
 Excellent introduction... Cant wait to get going on the next course.
@@ -1439,7 +1372,6 @@ course is good... need to include video on Rstudio setup on windows
 Excellent primer course....just the entree...harder stuff is coming
 Nice intro but i think only if you want   the whole specialization.
 A really basic course many programmers know all about this already.
-Interesante y algo para empezar que debería ser básico al aprender
 better experience and looking forward for more and more knowledge.
 Basic course.  Didn't really enjoy the automated voice from Polly.
 It is a good course. Can include some more topics and explanation.
@@ -1459,7 +1391,6 @@ Good course stuff. A little bit too fundamental for a programmer.
 should contain more tutorials about Git and GitHub functionality.
 It would be better if they are these practice teaching in detail.
 Good course, but it needs to be more difficult and more in depth.
-muy bueno, pero deberia estar tambien con subtitulos es español.
 i have completed my course  and not get my certififcate till now
 I got to learn new things which made me do better in DataScience
 A good introduction for getting started as data scientist and R.
@@ -1488,13 +1419,11 @@ Excellent for when you are starting in the Data Science world.
 Too introductory, but useful to start with the right framework
 This course is a great introduction to the Data Science track.
 Gave me a good introduction to basic Git and GitHub operations
-Debería estar mejor explicado como realizar el proyecto final.
 Too little information, i think course need to be a bit bigger
 Good course to start your basic understanding of Data Science.
 Very good explanations but quite basic so good for beginners.
 Well structured but basicThe robot voice is a little annoying
 Nice course for starting with the tools used for Data Science
-Un buen curso para empezar a adentrarse al mundo de los datos
 Quite useful for learning the basic toolkit for data science.
 Great introduction to programming software for Dara analytics
 Great course, but it still can be improved! It is too simple!
@@ -1507,7 +1436,6 @@ Great course, nice ease into the Data Science specialisation.
 Some Interfaces especially Gihub has changed , please check.
 Some of the material seems to be from an older version of R.
 Great course to start learning knowledge about data science.
-É uma ótima introdução, mas faltam mais exercícios práticos.
 As a new learner to data science, I find the course helpful.
 Very good introduction to each course of the whole program.!
 Simple introduction to the tools used in the specialization.
@@ -1533,10 +1461,8 @@ It teaches the very basics of R Studio and Github Account
 Good, simple and understandable but not too comprehensive
 Wonderful eye opener. Never used github until now. Thanks
 Content is a quality content, but not a quantity content.
-Muito bom o curso, para uma introdução a ciência de dados
 Simple, but the simplicity was helpful in getting started
 Great course to learn the nuts and bolts of Data Science.
-¡Buen curso para iniciarse en el mundo del Data Science!
 Very helpful introductory course for RStudio and GitHub.
 A lot of throat clearing, but I feel ready to keep going
 Very good course and useful for Data Science enthusiast.
@@ -1546,7 +1472,6 @@ A good course for a first step in learning data science
 The version did not match and caused a lot of problems.
 Good course , it really encouraged me to learn further.
 Very nice course to lead you into the fooling subjects.
-Excellent, but requires a bit more detail for Mac users
 It is good. However the git installation is out dated.
 Very nicely explained and lab exercises also very good
 Not very in depth, but then again, comes as advertised
@@ -1582,12 +1507,10 @@ Computer voice is special missing human intonation.
 I found this course was very interesting. Thank you
 It is a good setup course.  I didn't learn a bunch.
 Great refresher. Will really recommend this course.
-Simple, concis, efficacetout est prêt pour attaquer
 good course. gives the basic idea on Git and GitHub
 I liked the course, it was simple and to the point.
 Pretty informative, but I think it lacks practice.
 Great for comprehension, but a little bit shallow.
-Falta algo de detalles de los temas  en los vídeos
 This course gave me a comprehensive idea of the R.
 A bit simple, but it's intended as an introduction
 Very useful course to start learning Data Science.
@@ -1663,15 +1586,12 @@ Great for getting all your software set up.
 Good introduction to the fundamental tools
 The course material was simple and great!!
 It is a really initial course on the field
-Buen curso, bastante basico pero está bien
-Comprehensive introduction to data science
 Too basic, but I understand why it's here.
 Not as good as I expected, but still good.
 Very Bassic I was hoping for more material
 Fast tour around the Data Scientist world.
 Very Interesting and I continuing to learn
 Good. Have learnt basics from the course.
-more examples to use command line options
 Great introduction the Data science tools
 very basic, and not need prior knowledge.
 Great intro! but its just that, an intro.
@@ -1693,7 +1613,6 @@ Good starting point for the Data Science
 Videos have sometimes low sound volume.
 It was amusing to learn new things here
 Very instructive and interessant course
-对于程序员来说，这门课过一下就好，最主要是了解数据科学研究的任务和数据的概念。
 Good introduction to the Specialization
 Very good introduction to Data Science!
 Great class and understandable courses
@@ -1710,13 +1629,11 @@ Easy to understand and good guidance.
 Thank you very much for your support.
 It was a simple course to understand.
 Nice to get in touch with data scienc
-Curso introductorio. Muy interesante.
 Good course. I've learnt many things.
 Good course to start the data studies
 Very helpful overview of the subject.
 Decent starting course for beginners.
 It's a very superficial introduction.
-the assignment and quiz quite simple
 It was a useful introductory course.
 The course could be more interactive
 Basic understanding of Data Science.
@@ -1749,7 +1666,6 @@ Fairly Simple and Straight forward
 Great to develop the fundamentals!
 Good base formation for beginners.
 Audited the course successfully :)
-nice introduction to data science
 Nice and helpful to start with R.
 good but short need more detailes
 Thoroughly enjoyable introduction
@@ -1763,7 +1679,6 @@ Very helpful in getting started.
 It's basic for IT professionals.
 the course was very informative.
 Basics are given utmost interest
-C'est un cours très intéressant.
 Really good starting point for R
 I have learned a lot. Thank you
 I prefer human voice over this,
@@ -1777,7 +1692,6 @@ It is quite good for a start up
 quite a beginning to a journey.
 Good basic knowledge on data sc
 Was good, but too much Github.
-Está sencillo y bien explicado
 Very interactive and engaging.
 Useful but not very practical!
 Very good foundation material.
@@ -1794,11 +1708,9 @@ It was a good starter course.
 Great approach to the course!
 machine voice is irritating.
 Instructive, well explained.
-Introdutório, sem enrolação.
 I like the pace and content.
 Very basic, but interesting.
 A good theory on data usage.
-Good start for data science
 Nice lectures for beginners
 Very good session conducted
 Great Course. Well Designed
@@ -1816,14 +1728,10 @@ Well paced and well taught.
 A pretty good introduction.
 A basic introductory course
 A very good course, indeed
-简单的介绍了一些基本的课程，对于后续的学习是基础的。
 it could be more intensive
 good start and base for DS
-Brief but useful lectures.
 Too basic, but I liked it!
 It is a good Introductory.
-EL CURSO ES MUY ADECUADO.
-Need more detailed Videos
 GOOD COURSE FOR BEGINNERS
 It's a very simple course
 Good course for beginner.
@@ -1836,22 +1744,18 @@ overview of data analysis
 Needs updating of slides.
 Great start to the Tools.
 It was great experience.
-Buen curso introductorio
 Very good introduction..
 Easy to follow overview.
 Good cours for a starter
 Good introduction class.
 Easy, quick, effective.
 Good overview and intro
-Good start... looking f
 Good intro to R and Git
 Happy with this course.
 Fairly basic but useful
 An Introduction needed.
-Bom curso introdutório.
 Thanks for everything!
 Good course for begins
-i like it,so educative
 This is a great start.
 Detailed Introduction
 Nice overview course!
@@ -1861,7 +1765,6 @@ nice and short course
 Great initial course.
 Basic introduction...
 Content is very nice.
-课程设置得很合理，就是有些细节开展得不够。
 i learnt many thinks
 Good to start with !
 nice and informative
@@ -1871,24 +1774,18 @@ A good introduction.
 Basic but good start
 Great to start with.
 It's a good preview.
-Clear and engaging.
 an awesome platform
 Good to begin with.
 very nice and clear
-Amazing! Thank you!
 ta for all the fish
 Good startup course
 good starter course
 thecporsewasgreat!
 A very good primer
 Good, but shallow.
-Need More Content.
-useful but simple.
 not very practical
 Great basic intro!
 Good introduction.
-nice explanation.
-most useful for R
 Covers the basics
 Very introductory
 Good Basic Course
@@ -1896,20 +1793,11 @@ bery good course
 good explanation
 Good foundation.
 This was useful.
-Too elementary.
-decent overview
-Beginners level
-内容有一点简单，或者价格太贵。
 Value for money
-不是太有用，只是一个简单的介绍
-GOod for setup
 good exprience
 Rather simple.
 good teaching!
-Good beginning
-buen contenido
 can be better
-Un bon départ
 Audited only.
 was too easy!
 A good start!
@@ -1921,21 +1809,9 @@ Really basic
 Good info "!
 Great it was
 Good intro.
-was good..!
 Good conte
-keep it up
-Elementary
-Nice code
 low voice
-Helpful!
-not bad
-good:))
-good fo
 Normal
-Nice
-完成了
-df
-J
 This course was a good intro especially in setting all the necessary software for future courses. I suggest to read the manuals, books and other readings the profs suggest. The resources are helpful.
 Good to set you up for advance courses.
 Great Primer for what Data Science is about.  It also provides the infrastructure of tools needed.  This was what I was after, a way to provide other data scientist hardware and infrastructure support.
@@ -1972,11 +1848,8 @@ Great introduction. The lessons were clear and easy to follow. Github is a new t
 This course is a good first into to the topic. I think that the additional reading from the book and the Git manual will supplement it very well.My only complain is that in the first quiz, there was a question regarding some R packages used in Machine Learning that were not covered in the slides. It took me a while to find those so I had to take the first quiz 3 times. I think this question should be revised to guide the student as to how to find these packages. Another alternative would be that in the slides there some guidance in this matter.Otherwise, I liked to course and the final assignments.
 This was a great opening course for the Data Science specialization because it talked about the tools that will be used to illustrate the concepts that are coming later.  In other classes, the education on the subject matter is presented in the primary position, with tool instruction woven into those lessons.  That model gives me two different priorities ( learn the topic and learn the tool ) and that competition for attention is suboptimal for me.  I find myself having to revisit course content if it takes extra effort to learn some piece of technology used to demonstrate it.
 Overall the coverage of github was at an appropriate level for me to understand and for that I am very grateful, as I was too lazy to force myself into learning how to use it up to this point. The coverage of installation of important programs was also a great way to introduce a subject before diving into the details. The broad coverage of the overall core curriculum was nice, and I am excited to learn how to use R as it seems like it will be around for a while (even though i'll always be faithful to my C/C++/fortran roots). I look forward to enjoying the rest of the program.
-Conforme o proposto o curso é muito bom, a didática é muito boa. Mas, gostaria de deixar uma observação, em um determinado momento senti a curva de explicação muito alta. Por exemplo, no ultimo curso da semana 3 ficou muito complicado de entender, achei que entrou em alguns assuntos ainda complicado para quem está iniciando, até essa aula estava subindo numa constante mas depois parece que deu um salto muito grande, para mim, que fiquei um pouco "perdido". Fora esse ponto, gostei muito, parabéns pelo trabalho. Espero aprender tudo da maneira correta, Muito obrigado novamente.
-Es un buen curso introductorio, aprendes como instalar R y RStudio en Windows y Mac, si lo haces sobre Linux (mi caso) te tocará investigar por tu cuenta. También aprendes un poco de su interfaz, paquetes que se usan y su integración con Git y GitHub (si estas en Linux también deberás investigar por tu cuenta). Al momento de mi comentario esta todo en inglés y eso no es una desventaja pero si no eres bueno con el idioma como yo tocará hacer algunos pasos extra para traducir el texto, sin embargo no es algo que impida el aprendizaje.
 I love the course and the material provided. however the mechanical voice in the video is somewhat a weak point. when some real person read or present they use voice modulation as per various circumstances in the presentation, which is recognize by the listeners' brain and perceived accordingly. however, as you have mentioned the reason for use of this voice due to rapid changes, it a worth compromise. I had fun and learned a lot. Thanks to creators for their efforts and time they have put. Thanks to Coursera to bring this course.
 Nice course. I got basic idea about data science, R and Rstudio. I have previous knowledge about Git. Apart from the contents, the new way of presentation is not impressing, many of the lengthy videos, it was annoying. Like, if it is a real human video,  the instructor will change the tunes and it is more important in the communication. I am suggesting the same method with a human voice instead of computer generated audio/explanation. I rated 5 star for the way of progress, the context of each lesson. I felt I learned new things.
-Excelente curso!! Te brinda todas las herramientas y un muy buen material de estudio, además de enseñarte minuciosamente los conceptos y partes básicas para poder aprovechar bien los primeros recursos. Y me parece un buen enfoque ya que considero que no solo se debe tratar de una "transferencia de conocimiento", sino que los alumnos debemos despertar la curiosidad y hambre por investigar para profundizar más en la diversidad de temas que tenemos por estudiar.Muchas gracias por su dedicación y esfuerzo al elaborar el curso.
 I really appreciated that the instructors took the time to go into theory and history before writing a line of code. I think an introduction or more reference to necessary statistical/mathematical knowledge would be good, but I understand if that's outside the purview of the course. I also love the amount of extra, supplemental material you can review, whether it's a linked article or Leanpub book written by the lecturers. Would definitely recommend this course to other people interested in data.
 Providing feedback means giving students an explanation of what they are doing correctly AND incorrectly.  However, the focus of the feedback should be based essentially on what the students is doing right.  It is most productive to a student’s learning when they are provided with an explanation and example as to what is accurate and inaccurate about their work.Use the concept of a “feedback sandwich” to guide your feedback: Compliment, Correct, Compliment.
 I think that the course is effectively introduces students to the basic toolkit of data science--informative materials, good explanations, and the accessibility to knowledge sharing through the discussion forums.One suggestion please: It would be very convenient if you could put the links in all the videos in a place where the students could readily access them (contrary to needing to donwload the slide first to be able to access the links).
@@ -1999,7 +1872,6 @@ This is a nice course on getting and installing the data scientist's tool box. I
 This is a wonderful introductory course.  I allows one to get an idea if they would like to continue towards the specialization.  I would suggest taking this course with the R-Programming course.  I have a very basic knowledge of Data Analytics and I could have taken the first two course simultaneously.  However if you have a incredibly busy schedule just taking this course would be fine.
 This is a great course to help you set up the tools required to start a data science project. The pacing is perfect. Each lesson conveys just the right amount of information without being overly explanatory. I had some issues receiving feedback on my end-of-course project. However, this is not the fault of the instructors or course content. Rather, it is a flaw in the Coursera model.
 I recommend that beginners, coders new to data analysis and anyone seeking foundational experience with Git, collaborative coding or the R programming language start here. It does not dive deep, but does introduce interfaces, basic syntax, routine operations and some commands in the technical setup portion, and also goes into test design and glosses the general field of study nicely.
-Excelente curso. Brinda una introducción a la ciencia de datos (Data Science) y las capacidades de este campo. Se configura RStudio y se aprende a utilizarlo, junto con los repositorios de GitHub, y se muestra la  manera correcta de obtener ayuda con los  problemas que puedan presentarse. Al final, se crean archivos con RMarkdown, y se introduce Big Data y el pensamiento estadístico.
 This class is a great introduction to the tools needed to begin working on data analysis. The assignments provide just enough instruction to cover the basics and propel you toward uncovering additional information on your own. The assignments are structured in such a way that you must pay close attention to the lectures; then analyze and apply them on your own. Great course overall.
 Learned SO MUCH! I can't believe how much I actually learned. The course is set up so you are forced to download and practice using RStudio and Githun (both free), and are guided through it. Not too hard, not too easy either. Just challenging enough. Also appreciate that I didn't have to spend 10k on a bootcamp when I wasn't even sure that I liked data analysis. Now I know I do!
 Beautifully set series of lectures that gave an in depth view of what Data Scientists are thinking of in this modern era of human excellence. The slide font to be slightly increased and the sound quality too.My teacher of the course has given his best and their could be no comparison of his efforts.Thanks to team Coursera for setting up such a beautiful set of learning material.
@@ -2017,7 +1889,6 @@ The course has been designed in an optimum way so that no strong backround in pr
 This course is (as stated) suitable for beginners on the subject. It gives a very good introduction to it, and helps people learn more about what the data science is all about, how it works and which tools are usedby data scientists.This course helped me to determine if the path I was thinking of taking as a career options is really interesting for me at this point.
 Firstly, this course was challanging for me, especially to understand linking github in R. I have known R, however I never use git or github before.  I have stucked for little moment to understand about it and missed my deadline. It was because I'd need some times to understand and elaborate it. And now, I can passed the course, and I'am happy. Thank you Coursera.
 So far this course is given at a pace that is just perfect.  The instructors explain concepts in ways that make the subject matter easy to learn, particularly for someone who loves data, but is terrified of heavy mathematical concepts.  I've taken similar courses at local community colleges where class size is much smaller, and have been very disappointed.  So f
-Muy clara la explicación de las herramientas. Lo mejor es la introducción que se le da a herramientas como github para poder crear tus propios proyectos. Defitivamente es muy útil para los que no tenían ni idea de como ingresar a estas plataformas. El curso se puede terminar en 3 o 4 dias facilmente usando un par de horas por día. Gracias al equipo.
 This course gives a wonderful introduction to the world of data science.  You'l probably finish it with plenty of time to spare which makes jumping in the middle of the next course very tempting.  I did that and i had a hard time.  It would be best to familiarize yourself with the other commands in github and explore the many helpful sites instead.
 good tool tips but with some hard to make SSH and pull not working downloaded github desktop and take projects from RStudio and pull, using github desktop maybe add some tips for this program because to some person it will help like me, every have diferent PC and language.(Searched google every writing about some space not about solving problem)
 I would like to thank Coursera team for providing such a good opportunity specifically the mentors of JHU, for sharing excellent video lectures. I would recommend my friends, colleagues, and juniors about this course, who is having keen interest to grow into the field of data science. Looking forward to complete the upcoming series of sessions.
@@ -2045,7 +1916,6 @@ An excellent introduction to R, RStudio, Git and GitHub. The course content is w
 Very nice introduction to the subject. If you know RStudio and Git you can easily go throught it in a couple of days. You might really wanna go deep into R Studio features like markdown syntax and take a good look at Hilary Parker's work to see how a data scientist think and go through her process. Her blog is amazing
 I got a general idea about the work of a datascientist which laid a stepping stone for my further study.Further more, I think the lesson of "getting help" is quite helpful and practical for me and I enjoyed the whole class.I would recommend any one who is interested in datascience to take this course at the beginning.
 Info is compressed but it is still available for understanding and useful. But I think new students can have some difficulties with git or github, because theres some not so obvious commands like swap branch, commit changes etc...But it is also good for students to learn use Google and look forward for tutorials :)
-Este curso me permitió explorar algunas de las múltiples herramientas que tiene R y conocer su utilidad en la utilización y/o procesamiento de datos. Además el interés por seguir aprendiendo más sobre el manejo de R, puesto que es una excelente opción, para apoyar el análisis de datos en procesos de investigación.
 The new graphic is really nice and helpful. Even the fact that you can retake the quizzes after 8 hours is really nice. I have noticed that there wasn't  any possibility to download pdf files of the lessons (or I didn't see it), the last time I took the course there was this possibility and I found it so helpful.
 I found this course very interesting. The progression of course from week 1 to week 4 was very well paced. The study material provided in form of notes, powerpoint presentations and videos was adequate for understanding the topics. I would definitely recommend this course for people interested in Data Science.
 Well designed course; great for first in sequence. On a couple of parts I had to struggle to figure out how to complete an installation or proper launch of a program, but between the instructor's instruction, classmate's comments, and google searching, all was completed. Thank you for designing a great course!
@@ -2071,7 +1941,6 @@ I would like to appreciate the efforts of course instructors to start a new way 
 Very good overview of the basic concepts and tools required to delve into the world of Data Science. Explanations are easy to understand, lectures are easy to follow. There is far more detail and information involved regarding Git and R in general but are not necessary to complete this course.
 A very useful course with a lot to learn about the basics of programming and data analysis. I have learned a lot of things and also this course has enhanced my confidence level to a higher level. Thank you coursera and John Hopkins University for providing such a wonderful opportunity to all.
 This was my first experience taking a coursera course. I was impressed with the thorough and well thought out content. The course material was easy to follow and it was easy to stay on track. This was one of the best virtual classes I have attended. I am looking forward to the other courses!
-Un curso muy bueno para aquellas personas que no hayan trabajado antes con R o con RStudio. Abarca temas basicos pero fundamentales para empezar a trabajar con R y GitHub. Las lecturas no son muy extensas y estan bien explicadas, lo que facilita la comprension por parte de los estudiantes.
 Thorough course introducing all practices related do data science. A bit overwhelming but I mostly saw it as a lexicon of some kind; a resource to use again and again during the certification.Hates off to the speakers who made a great job in terms of pedagogy in all video.Max, form France.
 A very balanced and quick course to introduced R, R-studio, Github and other tools for data analysis. Also, the examples and methods of communicating critical terms are impressive and are forever etched in my memory. As a trainer myself, I will do my best to employ these in my workshops.
 I wish there was assistance from the instruction in case we come into problems. I did find a lot of written assistance, but in case of an issue I am unable to solve then I will need an instructor available that will go over the issue with me. I do not know if that is already available.
@@ -2082,7 +1951,6 @@ The course has an excellent organization.
 I am totally satisfied and will continue with the courses that follow.
 Thanks to the instructors for such an excellent course
 It is a nice course which smoothly familiarize a novice data science learner to the nature and tools of their job. Although I prefer it to be taught by a real instructor instead of a robot, apart from that everything was designed carefully to introduce data science toolbox to people.
-Achei de grande valia, no meu caso, especificamente, por me colocar novamente em contato com a parte mais técnica da TI - venho desempenhando papéis gerenciais a algum tempo e tinha certo receio de alterar a configuração da minha máquina para ser um "laboratório" de ciência de dados.
 Good course for begginers like me. All information is provided very simple and it's easy to understand. Also involves srudents not only looking videos but offer books. In addition you will need to search some information yourself to complete some tasks.Thanks for this great course.
 Even though it is a starter course to the specialization learned so many new things like amazon polly which is being used to generate these videos, R-markdown and how important is it to produce reproducible research. A must take course for any data science aspirantHappy Learning!!
 It's a great course for beginners. I had little knowledge about data science. I didn't even know what was R and GIt. After taking this course, I had a preliminary understanding of them. If anyone wants to learn data science without any experience, this one can be your start point!
@@ -2096,20 +1964,15 @@ It's an excellent introductory course for the specialization, I have recommended
 This is a nice course and well taught by all facilities made available by the facilitators. As soon as am financially able to start to finish from where I stopped, I will activate my remaining course left to roundup Data Science Specialization.I really appreciate. Thank you.
 Basic course introducing the minimum tools to start your journey in data science. The course was very important for me to get up to speed with Git and GitHub. All the information was given in a concise and objective way,  yet covered all basic important points of such tools.
 Might look trivial at first glance to more experienced users, but was very much essential for a complete beginner like me. Gives a nice overview of a somewhat overwhelming (and sometimes intimidating) field and equips you with the basic tools necessary (like how to use git).
-Excelente curso, aumentó de manera óptima mis conocimientos y resolvió todas mis dudas, ahora tengo gran parte de las herramientas para llega a ser una buena cientifica de datos y aparte de que aprendí mucho sobre el tema, pude practicar el inglés y aumentar mi vocabulario.
 The "Data Scientist's Toolbox" offered by Johns Hopkins University is a good head start for the newbies in the field of Data Science. The course gives the brief introduction to various software used by a Data Scientist that is R, R studio, Git hub and Git (version control).
 Very good introduction to data science. It gives a general overview on data and its problematics but also tips and help on how to start with the basic tools that will be needed (I haven't done any R programming and didn't have a github account so that was helpful for me).
 It is a very good course to get introduced to the world of data science. Working knowledge of R, RStudio and GitHub is covered in a very nice and organised manner. I feel more confident and equipped to proceed further and learn how to solve problems through data science.
-Интересно было посмотреть как работает один из лучших исследовательских университетов мира.Кроме настройки программного обеспечения много узнал об основных принципах науки о данных.Очень понравился пример с Хилари Клинтон.  Возможно это был роковой момент в её поражении.
 This is not a coding course. It is a course to bring you up to date with the logistics of using R: downloading packages, using RStudio, using GitHub version control, and familiarizing oneself with the overarching concepts of experimental design, statistics and big data.
 A very easy to understand, nice and simple course. ample quizzes and puzzles available. A recommendation : please include a thing or two about RStudio Cloud. Especially, please include how to tie up your github repo to RStudio Cloud; as the procedure s different for it.
 It's really enjoyable, a lot to know and a lot to discuss. The other links provided for more details are very much helpful.  The feature of the discussion form is very helpful. Thanks,  to Coursera and the team of Coursera for your high great work to open this platform.
-Muy buen curso introductorio en el que se pueden observar las herramientas necesarias para realizar análisis de datos, además de que muestran quienes son Científicos de Datos en la actualidad y qué tipo de análisis realizan, todo adquiriendo la información de internet.
 Setting up the environment is often the tricky part that deters people from moving into, or back into coding. This class provided me with a hand-holding needed to start coding again.  I recommend this course as a kick starter for those who were on legacy environments.
 What a great introduction. It needs a lot of reading and self developing to be able to do that project at the end. It's kind of difficult but you'll feel that you've really learned something that will be useful for the rest of your life. Thanks JH and Coursera staff.
-Es un buen curso. te lleva de la mano pero no te da todo digerido en cierto momento debes buscar alguna solución para las tareas que te piden pues por razones de versiones ya no funciona igual.Sin embargo el contenido temático es lo importante y me pareció perfecto.
 A good introduction to analytical processes and tools.  The course by itself, however, is only a first step.  I find many threads begun but not tied together.  I anticipate that the remaining nine courses will expand and consolidate everything opened in this course.
-Es un excelente curso, te insta a ser ordenado en tu trabajo con el uso de las herramientas que existente para que podamos a cada proyecto que tengas y podamos refrescar rápidamente todo el historial con el control de cambios. ¡Excelente introducción del Programa!
 The course is great at explaining the preliminary steps for setting up an R development environment and describing the basics of data science. Videos were paced well, not being too short or long, which allows the viewer to stay focused and interested. Recommended.
 Quite helpful course in teaching the fundamentals of data science, do not expect to use statistical analyses programs effectively with the help of this course. This course's main aim is on teaching the fundamentals of data science just like we see in a university
 Super!, I was an excellent way to start the certification, and also a very good motivation to learn about contents included ( R, R markdown, github, control advance) . At the final of all, it is not possible to run if we do not to learn to walk. Thanks for it .
@@ -2120,7 +1983,6 @@ I really loved the course. My peers were amazing. They always help and when they
 This is a fantastic way for individuals to get a leg up if they want a competitive edge in an ever-changing scientific environment. It is important to be able to use certain programs and code to some degree in order to be competitive using today's technology.
 The course was well put together and documented. My only critic is that I would like the lecturer to go over Git and Github more thoroughly as I had to do some extensive outsourcing to be able to figure out how everything worked. Overall, a very good course.
 Best in it's Class. Short but so much descriptive with a constant effort to deliver high quality teaching with easy understanding language and concepts!It's highly recommended to those who are new to Data Science, and want to make their Base strong( like me)
-Fue excelente la metodología utilizada para guiarme por este curso de manera introductoria. Comenzando desde la instalación de los programas, hasta la utilización de los mismo. Realmente para quien no conoce nada del tema y está muy interesado es muy útil.
 This course provides great insight into the use of Data Science and its future applications in the field of science and technology .The course also provided brief and necessary tutorial to use the R software which was of great help.Thankyou and Great job!
 Really nice intro to the set of tools to be used. Step-by-step instructions. It might be useful to have it called out that versions may change, but the basic video instructions will not. There were slight updates that made things look a little different.
 The only thing that might be tiring during this training, I guess, is the robotic voice that has been created to ensure the actuality of the course material.  As a result, this course was really helpful to get acquainted with the basics of data science.
@@ -2191,12 +2053,9 @@ The written instructions are very systematic and neat for me to procedurally com
 It gives me an immense pleasure to be a part of the course "The Data Scientist’s Toolbox ". It built basic knowledge on tools needed to become a Data Scientist. With the knowledge built and setup I would like move further.
 Very well structured and informative course. I started by watching the videos however I found the automated voice somewhat annoying so I switched to reading the lecture notes only, which was very comprehensive on its own.
 This is an awesome course for those who are learning the fundamentals of data science. The course offers useful lessons on basics of R programming, RStudio, and linking them with Github to create and manage repositories.
-Muy buen curso introductorio para saber qué es R y cómo puede ayudarnos a realizar diversas tareas, sobre todo orientadas a la respuesta con grandes cantidades de datos. Teóricamente muy completo para comenzar desde 0!!
 Good course for anyone new beginners with a good explanation. The assignments and quiz urge students to go through the toolkit. But the automated voice could be is a bit faster. I would appreciate it if can be changed.
-Es un curso para aprender a usar R y RStudio, es útil para poder der mas profesional con tu trabajo, no tiene ejemplos muy desarrollados de la estadística en R pero sigue siendo un buen curso si nunca tuviste una base.
 This course was a totally new subject for me but I truly enjoyed this course. The instructors had done a good job of providing a detailed step-by-step guide to the students on learning the course materials. Thank you.
 Good intro course! I never understood github well until I took this course. Now I understand how version control works and how it can link with Rstudio. I look forward to the next course and putting the tools to use.
-Este es un increíble curso, totalmente recomendado, aprenderás desde instalar todos y cada uno de los programas que utilizarás en el futuro, hasta comandos primordiales en el uso de cada uno de ellos.¿Qué esperan? :)
 This was a great introduction into a Data Scientist Tool Box. While I did enrolled formally in the class it provided me with the knowledge to understand better Data Science.  I would definitely recommend this course.
 It is an excellent course, it is very well explained and I understood it well even though my native language is not English.Congratulations to those who developed this course to Johns Hopkins and Coursera.Thank you.
 This is a wonderfully productive introduction to the Data Scientist Specialization. The course and materials are clearly organized, and the tools needed were easy to find and the final assignment was very practical.
@@ -2215,7 +2074,6 @@ This Course is very well structured and paced which makes students to analyse an
 Basic intro but good material and refreshers.  Git lesson is great for those of us that haven't been in that environment for a while or have never been there to start with.  Looking forward to the next course!
 Awesome course! I would say, I was dreaded github, it never made sense to me but now I know what it is, the course covers super basics and I recommend everyone who is new to data science or even new to coding.
 This is a very valuable course for the biology or health research background students or scientists who have great interest in data and analysis can learn and explore newer skills. Very well structured course.
-Es un buen curso para ser la base de todo el programa de especialización en ciencia de los datos en R. He aprendido mucho y vale la pena para quienes no conocíamos muy bien este lenguaje y sus potencialidades
 All information given in this course is very basic overview about Data Scientist. It covers basic requirements at macro level and helped me to understand what is Data Scientist. Great course to start with it.
 Most helpful for those who don't exactly know what they are doing and need help setting up R, R Studio, GitHub, and Git. Be warned, o actual programming here. However, I definitely appreciate what I learned.!
 It's really a great introduction to know the very basic things of Data Science. This course will be useful in setting-up the required tools of R programming on your computer. For the beginners this is a must.
@@ -2246,7 +2104,6 @@ Good Data Science Tools foundation course. You get your hands dirty a bit and yo
 Good introductory course. Gives you an insight into the courses and topics which you will come across in the future. Would recommend this for beginners who want to get an insight into data science.
 It covers pretty much everything basic required to start your journey in field of Data Science. It is not very difficult to understand, thereby boosting your confidence to give Data Science a try.
 This course is engaging and difficult to put down.  I was obsessed with completing this each week and actually finished a bit earlier.  I consider myself nontechnical but the format was well done.
-Ótimo curso e com uma extensa bibliografia que deve ser apropriada pelo estudante para se aprofundar mais no assunto. Um começo excelente para quem quer iniciar a carreira como cientista de dados.
 A great introduction to some of the tools of a Data Scientist. Just enough information to get you going, but still leaves enough mystery so that some investigating and problem solving is required.
 The Data Scientist's Toolbox is a comprehensive, yet succinct introduction to the wide variety of resources needed for Data Science. The delivery method is fantastic and the pacing is just right.
 Really great course for people who never touched R, RStudio, Git and GitHub before. Plus an introduction about what data science really is, to help decide whether it is a world you want to be in.
@@ -2277,7 +2134,6 @@ Very Informative but the quiz 1 had alot of issue some correct anwser came wrong
 Loved the format, I did find that in some cases I did need to use google and stackoverflow to get some answers forcing me to learn the subject.  Overall I enjoyed my first Coursera class.
 Very helpful! And so well structured to start knowing the tools that as Data Scientists we will be using daily. The GitHub section is so useful too as a definitive way to start using it.
 This course is a great place for ground-up introduction to the rudiments of a Data Scientists tool box. and its very good. Thank you Team from Johns Hopkins and Common wealth of Learning
-Muy buen curso para los que apenas estamos empezando a aprender a programar! Me gustó que además de los vídeos están las lecturas de lo que se explico en el video de manera más detallada
 It is a great course to learn about all the possibilities there are on the data science field and what tools are available right now to work on this area. The perfect introductory course
 This course is about the what you need to be capable of to become a Data Scientist and it may seem that it is too basic, but you can't just build a house without having the right ground.
 Genuine assessment by Coursera; Happy to enroll; Project is bit tricky to understand; There should be more questions in Quiz at the end of every week so that we can get more practice....
@@ -2286,7 +2142,6 @@ This was a good course that started me on the right foot towards data science. I
 As an introduction to the data science tracking system, the course itself is superb in terms on the way it was outline especially to students like me who is new to this kind of subject.
 Pretty straight forward class. Walks you through all the information you need to start programming in R. I still refer back to it every once in a while, going through the later classes.
 I have just started  the course but so far the videos and education background references are exceptional. I highly review this website and university for its great learning experience.
-Curso introductorio, que abarca el trabajo de proyectos y desarrollo de código/software, en base a Github, he introduce de manera precisa, los conocimientos básicos en minería de datos.
 Thank you very much for this course! It was very interesting and well structured! I will definitely continue my study of Data Science! Thank you to all people who prepared this course!
 Fairly straightforward, good general overview of data science, how to install the appropriate tools, very simple introduction to the most basic elements of the language and environment
 It very helpful course for first steps in data science. Moreover, It helps me knew about git, github and command line. Thanks to professors for handy materials and interesting quizzes.
@@ -2300,11 +2155,8 @@ Excellent course giving a high level view of Data Science and the tools that wil
 A great introduction to data science and also to the R Studio environment. R Studio is going to be very used through this specialization, so it is very useful to be familiar with it.
 Leveling course to start in the discipline of data science very interesting. It contextualizes in a simple and objective way the necessary tools and environment for a data scientist.
 Great Introduction to the tool's we'll need.  I like it as a separate class rather than trying to get new tools to work or obtain new material on a timeline during the other classes.
-É um curso simples e bem direto, porém muito útil para estudantes como eu que nunca tiveram contato com o conteúdo, os exercícios são ótimos, consegui fixar os conteúdos muito bem !
 Course teaches how to acquire the tools necessary to complete the Data Science specialization. Explanations were clear, and quizzes and assignments were straightforward to complete.
-Es un excelente  y necesario curso. Nos da luces sobre las herramientas que deberíamos usar para optimizar nuestro trabajo (en Big Data) tanto a nivel individual como colaborativo.
 Don't just rely on the lectures.  Use this course to introduce you to a bunch of tools that you'll need when doing data science, and then go study these tools in depth on your own.
-Para ser inicial, cubre amplios aspectos iniciales de la carrera de cientifico de datos, provee de manera clara esas herramientas utiles para el dia dia del ejercicio profesional.
 Great background on R and GitHub in general to prepare students like me when jobs require people to edit and improve their own project. Pacing is very good. Comprehensive as well.
 Awesome introduction to the field of data science.. good foundations that will definitely take me far as a data scientist contributing more responsively to improved health metrics
 A brief but comprehensive fly-over of the specialisation, topped off with some software previews and installations. Bit of practical hands-on and we're good to go. 1 down 9 to go!
@@ -2312,12 +2164,10 @@ This course was a very good intro to Data science for someone coming from a back
 I had so much fun learning from this course. I think this course has been constructively laid out and the quality of the presented materials are at it best for such a vital field.
 Excellent Course. It is the foundation course for the beginners who wants to learn Data Science. Thank you for the Johns Hopkins and the teachers who have prepared this syllabus.
 Excellent course. I am happy to have enrolled in this specialization and look forward to the rest of the courses. I liked how each topic was covered in video and text. Brilliant!
-Es un curso bastante básico para aquellas personas que nunca han usado la plataforma de Rstudio, sin embargo tiene unos conceptos interesantes que merecen la pena tener en cuenta
 This course is very good for somebody who don't have any experience for data handling.I think it gives me much help to let me go another step further in the road of data science.
 Good course, but maybe this course and the following course R programming could be combined into an 8 weeks course as that one is took longer than 4 weeks and this one took less.
 A great little course, quite basic but very informative if you - like me - do not have a lot of knowledge on the subject. It can be taken in a day if you have some time to spare.
 This course was a great start. It was simple enough to follow, I guess the real deal is in future courses. Definitely leaves a good impression for the rest of the specialization!
-Es un curso muy interesante, fue un poco laborioso  ya que el inglés no es mi lengua nativa aun así lo recomiendo, quedo con una grata experiencia y un buen conocimiento básico.
 Overall, a very nice introduction to the basic concepts. Although I've worked with R before, there were still things that I've never heard before (mainly Github and R Markdown).
 While this course is basic, it tells everything you need for the following ones. I'd add some more Git basics (other than read their documentation which is indeed a good point).
 awesome course for learning data science and R.It is really helpful for beginners who wanna start or learn data science.Recommended for anyone who knows basic programming ideas.
@@ -2331,7 +2181,6 @@ I liked very much, brought lots of information according to Data Science. Thanks
 Maybe a little slow if you already have some technical exposure, but pretty straight forward and easy to follow if you don't. A well balanced class in my not so humble opinion.
 This course is great, mainly for people without any experience in the field as it is very basic and introductory, I'm very anxious to see how we are going to advance from here!
 This course is the first step to dive into the data science course. One finds a lot of videos about how to create and use the tools to carry out the specialization.  Great job!
-Es una Especializacion muy importante y el manejo pedagogico y metodologico Que realizan los profesores,ayuda mucho a los que  estamos iniciando en este campo del conocimiento
 Great first course of the whole specialization! This basic one is very important for later study because "Grinding a chopper will not hold up the work of cutting firewood" : )
 Great overview to all the skills and applications we will be using later in the Data Science Specialization. It is brief but was great to get an overview of R, github, etc ...
 I found the course really useful. It helped me to develop a basic understanding of Data Science. I'm really looking forward to continue with the remaining courses. Thank you.
@@ -2350,12 +2199,8 @@ This was a great experience for me, I would personally recommend every data scie
 Give a brief and concise introduction to many of the tools a data scientists should be familiar with. It serves as a good starting point for someone getting into the field.
 As a novice to data science, this was an excellent introduction into the (very) basics behind how to get started in the field. Great way to begin an education in this area.
 I think that the course was great for a beginner. It explained things clearly and went through things step by step. While a lot was covered, it wasn't overwhelming at all.
-Es muy interesante, ya que se encarga de establecer los conceptos
-básicos de la Ciencia de Datos, y presenta una a una las herramientas que se requieren
-para este estudio.
 The Course Is well structured for beginners.The course content is well detailed and easy to understand.Quiz Modules are well designed with the pace of the course duration.
 An excellent course to start data science, it will clear all your doubts and help you to know main points related to data science and tool any data scientist would require
-Es un muy buen curso introductorio al Data Science. Es sencillo y te abre la mente al mundo de la ciencia de datos, despertando curiosidad en las herramientas que ofrece.
 This course is beautifully designed to introduce to the very basic concepts of how Data science courses begin. This is very much a Toolbox for an aspiring Data Scientist.
 Excellent course for Data Science Program and aspirants of the Technology. Periodic assignments and follow up activities would help in mastering the subject of analytics.
 It was nice but I would say could have been better if the instructor would have shown more interest in his delivery and focused more on essential stuff. Thank you anyway.
@@ -2368,8 +2213,6 @@ A great introduction to Data Science with R. It teaches the basic concepts to st
 This course really gives a good overview of tools data scientists will find useful.  It can actually be completed in a very short time (less than a week) fairly easily.
 I liked it a lot. It set me up to start learning R with confidence and, from not knowing anything last week to now having a basic understanding of it all is gratifying.
 What a great course. For being a data scientist is not enought to know the algoritms but the correct tools to share your results, so, this course results very practical
-Exelente didática métodos e ferramentas utilizadas, sou brasileiro, não falo inglês e estou conseguindo realizar com ajuda do Google Tradutor sem prejuízo do conteúdo.
-Excelente curso y buena información para iniciar en el mundo del Data Science, y como dice el autor, hay que ser un Hacker, investigar mas por nuestros propios medios.
 This is a nice, thorough and clear introduction to Data Science. The instructor provides all the details to get started in this specialization. Can't wait to continue!
 This Course helped me to understand the foundation skills. I practiced on GitHub with assignments and now I feel the flavor of getting things done in a systematic way!
 Nicely put together simple course for beginners and experienced as well. by starting with the basics they make sure  to create interest rowing in you as you go along.
@@ -2384,12 +2227,10 @@ It is a very good introduction course for those who are new in data science. Thi
 I am delighted I took this course.  It gave me confidence to continue in the full certification program.  I was able to learn the information stated in the syllabus.
 The way the course depicted syllabus and classes and tests is awesome. It is much easier and understandable.thanks for such a course.now It was one of my best ones.
 Good course with plenty of information on the Toolbox required to be a Data Scientist. Also, good for getting to know your toolbox and how to tinker around with it!
-O curso me deu uma perspectiva que diversos outros não me deram, que é a quantidade de métodos estatísticos que podem ser utilizados para resolver um problema real.
 I liked the fact that only nominal numbers of tools are explained with clear reasons. So, I can trust the recommendations and spend my time on learning these tools.
 Great basic information (or review) of the basics needed for data science.  The short videos allowed me to break up the weekly work into easily manageable segments.
 It's a fantastic journey! It explains the foundation of Data Science and introduce the R environment. It's a systematic lecture and it's helpful for the beginners!
 A great introduction to Data Science. Excellent explanation, content and assignment for beginners. Looking forward to complete more courses in this specialization.
-¡Excelente Curso para introducir los conceptos básicos de Data Science y aprender a utilizar RStudio y Github. Muy Recomendable para quienes parten en esta materia
 Good starting block for those who are new to sharing software development.  I'm a tactile learner and it enabled me to do that as I progressed through the courses.
 The videos were thorough and clear. This made learning easier. I also appreciate the informational tid bits about the data science field, including the history. :)
 Very fundamental but also covers essential materials. Friendly level of difficulty which motivates you to learn. Recommend to everyone who is new to Data Science.
@@ -2404,8 +2245,6 @@ The course is smooth and exciting and the lecturers know what they are doing ver
 I fell very good with this training in fact it is very well explained an in a way a person like me ( non English native language ) easy to catch the instruction
 Course provides amazing understanding of data and how it works in real world and what importance it has in core areas like healthcare and many other businesses.
 This was a great starter for me. I have very little experience with Data Science, especially the practical work. This provided the foundation I was looking for.
-Este curso es la base para un mejor manejo de R, RStudio y de sistemas de control  versiones como GitHub. Esencial si se busca entrar en el mundo del big data.
-Un buen curso básico para entrar al mundo de la programación. Te enseñan a usar la plataforma de GitHub, descargar R y usar comandos en la Terminal de una Mac.
 Its level of difficulty and simplicity is extraordinary well balanced. Totally recommend this course and probably will recommend the whole especialisation too!
 Good as a first course. Breaks up the content so that you can understand straight out of the gate if you will have an issue with the tools and software or not.
 Interesting and straightforward introduction to main concepts of data science. Gives comprehensive outlook on complexity of working with data and analyzing it.
@@ -2428,7 +2267,6 @@ Gave me confidence to use toolboxes available to work with Data Science problems
 As the first course of data science, I feel it is very clear and attracts me to do further study, I cannot wait to continue my journey of data scientist now.
 I like how the course is structured. I learned a lot. I was able to set up a github account and download R, R studio and all the tools I need to get started.
 Great introduction to the different statistical software packages, Git/Github, intro to data science terminology, and basic command functions to get started.
-El curso es muy dinámico, equilibrando bien la exigencia con la motivación para seguir atentamente el desarrollo de los contenidos. Totalmente recomendable.
 This course was a quick and easy introduction to the Data Science Specialization.  I am looking forward to taking the other courses related to Data Science.
 Good start in data science, I learned basic principles of R, using RStudio, integration with GitHub and also basic principles of Data Science and Big Data.
 In this course I have studied the basic tools which will be used further in Data Science specialization. It was not difficult, but was very clear and brief
@@ -2436,7 +2274,6 @@ Clear instructions for the practical work. The option to use the text file or vi
 Learned a lot of really useful stuff about version control with GitHub that I had not encountered in my PhD training , but that seems crucial for industry.
 It was an informative experience, learned loads about basics of Data Science and the introduction to R was really helpful especially for beginners like me.
 It's the best course i have come across. If someone want to become a data analyst, this is the true platform for him/her to show what he/she is capable of.
-Excelente curso y excelente didáctica, aunque requiere para mi de un ezfuerzo extra, ya que el Ingles no es mi lengua principal, lo recomiendo ampliamente.
 Excellent introduction to Data Science, I've learned a lot and I have installed R and R Studio. Finally, I have all books to study. Thanks you very much!!!
 This is a very elementary course for those who would like to start learning about Data Science. Absolute basics from which you can build up your knowledge.
 Great intro. Having no coding background, this was still a good blend of being shown the basics but still having to figure out a few tiny things on my own.
@@ -2448,7 +2285,6 @@ Excellent Course with simple and informative materialsthe educational process ve
 I think it is a good introduction to the data science specialization. It made me understand a sufficient concept about the courses of this specialization.
 It is a simple and good course; starting from the tools you require, going through the installation , githhub and other basic items required to progress t
 It's a good introductory course to get those who are unfamiliar with this topic and type of learning environment acclimated with the necessary skill sets.
-Es un curso muy completo. Al principio puede ser un poco complicado para principiantes como yo, pero si te lo tomas en serio se puede aprender muchísimo.
 This course is very easy to follow, even for a first-timer like me. I recommend it to everyone who wants to develop their basic skills in R data science.
 A perfect introductory course to get started with R and data analysis - simple enough to not lose interest or momentum but with all the relevant content.
 informative and detailed.explained simply and efficiently by the lecturer.for someone with bad learning difficulties it was easy to follow and understand
@@ -2482,9 +2318,7 @@ I give 5 stars to the course because it offers different perspective to my curre
 I have never learned programming and totally new to this field. However, this course really served its purpose of teaching me the data science tools.
 Great course as it shows you the basics of what the Data Scientist needs. It is easily understood and you can review lessons after you have taken it.
 Very basic, but gets you up and running with R, Git, and Github. I was self-taught, so this course was good to consolidate and refresh on the basics.
-A pesar de no tener todos los videos subtitulados al español, la plataforma cuenta con distintas herramientas para poder entender lo que te explican
 It's a great course to introduce some data science topics. All the contents are very explained and I'm excited to learn more in this specialization.
-Muy buen curso inicial. Muy contento de haberlo finalizado  Te permite disponer de las herramientas necesarias para continuar a cursos más avanzados
 Course was quite amazing but i had problem with computer voice it was fast and I was not use to it due to which my last assignment was not that good
 The Data Scientist's Toolbox was a great course. There was effective exposure to each of the elements that will be of importance to Data Scientists.
 Actually I have learnt many important think especially GitHub and R Studio linkage. Great Course. Thanks Coursera  and JOHN HOPKINS University......
@@ -2495,7 +2329,6 @@ This is an excellent work done by the Coursera people for letting the interested
 Jeff did a wonderful job with respect to his teaching style(pace,course structure,concise).I've recommended this specialization to my peers as well!
 Very helpful. Thank you very much for this initiative. Elements that I did not know exist and useful to launch a career in data science. Keep it up.
 I think that it is a very well structured course and that in an orderly way it allows to go through the concepts of Data Science, Rstudio and GItub
-Siempre evalúo los cursos con base en las cosas nuevas que aprendo y en este curso aprendí muchas cosas que desconocía. Vale mucho la pena tomarlo.
 This is a very useful course. I learned all kind of things that I really not have idea and that can be very useful in my academic and laboral life.
 Very good ground floor introduction to Data Science and the tools and types of questions one will face. Information was helpful and concise. Bravo!
 Thank you for the opportunity of taking this course.  It was challenging for me. I found it to be very user friendly and inviting to investigation.
@@ -2517,7 +2350,6 @@ Great tool to break down the different skills needed to become a Data Scientists
 Like it very much, getting all the tools needed for the next part of the course and getting a sort of background or introduction to data science!
 It's a very good course for beginners. If you already hace R and gihub it may be a little boring, but remembering the basics is never a bad idea.
 This was such an explanatory step by step course. So well arranged with even a bit of humor. Thank you for making this available for many of us.
-Ainda não tinha feito nenhum curso nesse tipo de plataforma e posso dizer que foi ótimo, o método e a flexibilidade da plataforma são perfeitos.
 This is a very comprehensive course which lets you set up fundamental concept of data science before just running into any programming language.
 Very good for the basics of data science. If you have no idea where to start, or what tools you need to use, this is the perfect course for you.
 This was a great course! The beginning of the course was a little heavily focused to the rest of the specialization, but otherwise it was great!
@@ -2543,7 +2375,6 @@ From the course, I have learned how to use Git, RStudio and R together. It is a 
 Is a course with appropriate content for beginners. I recommend this course if you want to have a real good introduction in the Data Science.
 Very helpful since it is an introduction to the tools we are going to use and does not assume you know everything before starting the course!
 Excellent course, very clear the information and presentations, my favorites parts were Data Mangement, Rtsudio (Markdown, Git), and Git Hub
-Excelente aprendi, como integrar Github con Rstudio herramientas necesarias para continuar desarrollando mis habilidades como Data Scientist
 I loved this course , it has step by step explanation to install the software and also to get handson on Command Line Interface and R studio
 Very useful and comprehensive introduction to all the tools! Loved it. Moving on the rest of the courses in the Data Science specialization!
 Great course. Very nicely laid out and provides many resources for background reading that backs up the material in the lectures. Great job!
@@ -2614,7 +2445,6 @@ The Course was so interesting..Learnt new concepts like version control using Gi
 Great course for introducing about data sience, exploring the tools for using and  explaining how to use and why we have to use it.
 A nice introduction to data science and associated tools in general. Moreover, it will spark your interest for further exploration.
 As a beginner in programming, this course will touch base the basics of R programming which is motivating to proceed other courses.
-Rapido y sencillo de aprender cada topico enseñado. Siempre teniendo en cuenta que no solo basta con material en slides. Muchas Gra
 A very good preparatory course, setting one up with the necessary software while introducing the basic way-of-thinking around data.
 Thanks for precise and enabling course , It helped me lot to set right approach towards tools required. Best RegardsNitin Nagargoje
 This course is great because it really sets you up with everything you need to continue your journey in the field of data science.
@@ -2626,7 +2456,6 @@ Great introduction course. It doesn't take too much commitment either, so gettin
 Excellent introductory course, I learnt a systematic way of using several tools that surely ease my data science journey. Thanks!
 Good introduction to DS tools like: Rstudio and GitHub. Also it covers some basic explanatory concepts of big data and statistics
 This course is awesome and help us to learn from the core. For those who need to be a data scientist, It would be a good startup.
-Excelente introducción a Data Science y R studio. La idea de automatizar las lecturas es increíble y, a mi parecer, acertadísima.
 Excellent, step by step guidance provided by the instructors throughout the course. That being said, learning can't get any easy.
 An excellent introduction to Data Science, perfect for beginners and would pursue the other courses to finish the specialization.
 This is okay to get an introduction to the main tools and ideas in the data scientist's toolbox and for installing R and RStudio.
@@ -2644,7 +2473,6 @@ It is a very nice introductory class. It starts with a good background leading t
 I liked it the way the content is presented, because it is easy to remember which topics have been seen as the course continues.
 I learn lots of basic things about data science and get exicted about learning more! Thanks for everybody who manage the course.
 It was one of the best courses regarding the Data science field. The reading material and the videos were crisp and to the point
-Excelente curso para aprender a usar Git, Buena Introducción a Data Science y buen tutoría para instalar R y su Interfaz RStudio
 Videos provide a useful overview. The week quiz kept me accountable to finish my work. The final assignment was straightforward.
 i learned about the git and github and it's uses, helped me to get an overview of the working environment of an data scientist.
 This was an excellent introductory course for learning more advanced courses in R. Learnt some really useful concepts and tools
@@ -2671,7 +2499,6 @@ The name is very apt for this course as it gives you ample information about the
 Great course to get you started with R, Rstudio, Git, and Github. Lots of great info to learn about the data science process.
 Awesome Course and great platform to learn. Thanks to Coursera for giving me this opportunity to learn and develop my skills.
 Great introduction to the Data Science world. The tools described here are very useful for anyone interested in Data Science.
-Excelente curso. Nociones básicas de la ciencia de datos. Óptimo para las personas que están comenzando. Excelentes lecturas.
 The course gives you a brief idea about data science and installation of all the necessary tools and software and IDE for it.
 Perfect start to a great course.This has to be the best learning experience everMy best regards to the team from John Hopkins
 Excellent course, I learned so much in such a short time. You can tell that it is one of the best universities in the world.
@@ -2683,10 +2510,8 @@ Good to understand the first concepts about the course and the tools that will s
 Great course in getting set up to take the following courses in the Data Science Specialization.  Class went at a reasonable
 I was able to understand it easily, and I feel that I have learned all the important data tools needed to continue further.
 Gud but please update the course structure and make it more user-friendlyAlso make the instructions further more in clarity
-Es un muy buen curso introductorio, muy buenos textos y actividades.Se puede observar que hay un gran equipo tras el curso.
 Though the voice was hard to get used to, it was easy to understand and learn the concepts. The course was very enjoyable!!
 Instructions to set up R and everything necessary for the course were very clear. Lessons were engaging and easy to follow.
-Curso excelente, que fornece uma boa visão inicial das ferramentas e passos iniciais para o candidato a cientista de dados.
 Well designed course and Have learned a lot about data science and also knew about the tools that are used in data science.
 Very helpful course that gave insight into Data Science Specialization. Sets you up for next courses in the specialization.
 The content regarding Git and GitHub was interesting and new for me. Great introduction to the Data Science Specialization.
@@ -2699,11 +2524,9 @@ Easy to learn and follow, definitely would recommend to anyone wanting to wet th
 The course was very usefull and interesting. It was a good start, I hope it helps me a lot to move forward in this matter.
 A good primer to getting started working with data science tools and understanding approaches to tackling your own studies
 As someone who knows little to nothing about computer language this is very easy going and the TA's are very knowledgable.
-Es un curso excelente para conocer las funciones básicas y las partes mas útiles para el flujo de trabajo con R y Rstudio
 Such a wonderful course, Good way of learning practically. I learned to use RStudio, GitHub and Version Control practice.
 Some of the videos which had the screenshots were not clearly visible. Also the sequencing of the course can be improved.
 This course got me excited for more things to learn and discover about data science. It's really very helpful. Thank you.
-O curso é muito bom!Ele faz uma introdução aos principais conceitos de Big Data, mais especificamente a análise de dados.
 This is a great way to start learning R. Of course, it should not be taken as a stand-alone course as it is quite basic.
 Strongly recommend to anyone involved with Data Science in the graduate level. Many important concepts e tools to learn!
 This was such a well laid out course, and my first I have taken on Coursera. I am looking forward to future lessons now!
@@ -2721,7 +2544,6 @@ I would like to know if there is someway I can defer the deadline for this cours
 This course is perfect for beginners.  It contains basic topics to learn but the content may be covered in 2 or 3 days.
 It was a really good course for a beginner who is new to both the world of data science and R programming! Recommended!
 Good introduction especially for new people like me on R. It introduces you to data science in concise but clear manner
-El primer curso que realice formalmente en Coursera y quien me abrió los ojos aun mas en el analisis de datos. Gracias!
 The sample RStudio interface in the lecture videos needs an update related to the current version releases of RStudio.
 This is what you have to know before starting data science path, Thanks to whom contributing to this very good course.
 Coursera is the best way to gain knowledge and there modules and assignment make our study easier and more interesting
@@ -2733,7 +2555,6 @@ Great overview to Data Scientist and the tools used. Looking forward to the rest
 The course was helpful as an introduction to the tools/programming softwares and code sharing tools that will be used.
 This course gave you a general introduction about Data Science. but you need study much more to learn about this área.
 This was my first experience of a Mooc and I was impressed. In particular, I enjoyed the guided use of Git and Github.
-Me gusto mucho pues no sabia nada de este tema y hasta ahora estoy comprometida con aprender todo lo que mas se pueda
 This was my first online course on Coursera and it was an amazing journey where I learn a lot of data sciences tools.
 It is a good start for a beginner, this course covers very basic things required to get started for a data scientist.
 Great overview of the tools.  I like the way the content and technical work is broken up into very manageable chunks.
@@ -2744,7 +2565,6 @@ A excelent assembly of statical experiment design and data science modern tools 
 The course was helpful as thought me the basics of Data Analysis, RStudio as well as the importance of using GitHub.
 Great explanation and straightforward. Easy to understand for those with minimum programming skills. Thanks so much!
 Very nice course. Gives concise and good summary about Data Science, Big data and introduction to some useful tools.
-Ce cours est une présentation complete des outils à utiliser et des notions abordées dans le domaine data scientist.
 I would like to learn more about the knowledge of the data science and will complete all the courses of data science
 Very intuitive and exceptionally good training material which helped me to understand the data science key concepts.
 I took me step by step, just what I needed since I do not have any previous education in statistics and programming.
@@ -2774,8 +2594,6 @@ A good introduction to the basic toolset you need for the rest of the specialisa
 Good, Good! My first try at Coursera classes. A well organized class and real field data samples to practive with.
 Beautifully Explained!!!! Cleared each and every concept related to data science, want to meet the instructors...
 I now have new skills to beef up my career. The pandemic has been a burden but I have gained something out of it.
-Gostei porque mostra o passo a passo de tudo.Os videos de robô incomodam tudo mas dá pra aprender da mesma forma.
-Fue una muy bonita experiencia, aprendí mucho y deseo seguir aprendiendo. Gracias por haberme dado la oportunidad
 Great introduction to data science and most especially to the various tools and concepts used by data scientists.
 Was great to knock the rust off my IOP degree from 2001!Thanks to George Mason for embedding Stats into my brain.
 Fantastic course. Highly engaging and serves as a great introduction to the subject area. Would highly recommend.
@@ -2798,7 +2616,6 @@ Very briefly introducing the background of data science, it is very suitable for
 Got to learn about various tools and their uses.So it was a very informative course to start with data analytics
 Straight forward instruction which easy to follow. Provide practice to get familiar with the course environment.
 4.5 Stars. Decent introduction. Good reading material and quizzes. Would like to have more hands-on assignments.
-Me encantó, a pesar de que el idioma podría parecer una barrera, me fue bastante fácil y divertido de aprender.
 I Liked the course a lotbut I needed to look for complementary information about the R programm in other sites.
 I'm so happy and grateful with the skills I've learned in this course. I already want to start the next module!
 It was really useful experience for me.  This course gave detailed knowledge concerning basics of data science.
@@ -2810,8 +2627,6 @@ The course has new future, automated instructor, that feels amazing, as it is co
 it was great experience form me as a data scientist newbie. with structured lesson make me easier to understand
 Excellent overview course. I was much more familiar with the installation issues associated with RStudio and R.
 It i s a good beginning chapter for a beginner like me. I learned a lot about the introduction to data science.
-Me pareció interesante en el sentido de ejemplificar y explicar los conceptos y teorías que abarcan este curso.
-Muy buen curso introductorio, es un vocabulario fácil de manejar, explican muy bien cada termino. lo recomiendo
 Learn what is needed to become a data science, some trivial but all must have tools to become a data scientist.
 A really good introductory course. Explains quite a number of important concepts in a simple and clear manner.
 Best way to teach the lesson. Perfect use of amazon Polly. I am pretty much interested to be a Data Scientist.
@@ -2823,7 +2638,6 @@ I found it to be a very complete course, and it provides enough tools to work as
 This course is useful as a fundamental learning tutorial for anyone who are interested to learn data science.
 Very well structured, I liked the audio and visual content. I think the monthly charge is a little expensive.
 course evaluations provide an opportunity for students to reflect and provide feedback on their own learning.
-Ótimo curso! Bem estruturado e progressivo e com conteúdo extremamente relevante! Parabéns aos idealizadores!
 Wow!!! Amazing intro towards data science. Must for beginners in data science and version control management.
 Coursera i a good approach of learning for those who want  to make her carier in the field of data scientist.
 Very clear instruction and organization.  Good way to get tools installed for following courses.  Enjoyed it!
@@ -2834,7 +2648,6 @@ Absolutely Fantastic Experience, solid pedagogy, crystal clear instructions and 
 it was an excellent journey and i have had acquired a good introduction to data science through this course.
 Good platform for beginner also, with examples and detailed explantions and quiz, task for our performances.
 Short and to the point, The Data Scientist's Toolbox sets you up really nicely for the whole specialization.
-Este es un curso básico pero necesario para las personas como yo que no tenemos base alguna de programación.
 Thorough and concise. This module gave a practical insight into the tools and how to assemble and pair them.
 This course gave a nice high level overview on some of concepts and tools you will need as a data scientist.
 Great introductory course for Data Science. Got me all excited for the next course in the specialization! :)
@@ -2844,13 +2657,11 @@ More like intro to Github and RStudio, but useful for the sequence so a gentle i
 Clears the basic GIT bash commands and helps to install the basic software required to analyze data properly
 Its very very easy and covers the basics. However 2 hours are enough to cover all topics instead of 3 weeks.
 Great intro course.  Good overview of why you need what you will need for the Data Scientist specialization.
-El curso es bastante bueno, las explicaciones y la información ( video, resumenes) Son claro y  de calidad.
 Topics are comprehensive and easily understandable even when the automated voice over can be very annoying.
 Fantastic course to get the overview of what a data scientist aims to accomplish and how they accomplish it
 The presentation of material is logical.  I receive enough step by step information to start something new.
 Nice review to get me started.  Excited about what I will learn in the other courses in the specialization.
 this was a great experience for me.... Recommend that every data scientist aspirant should start from here.
-Très utile pour une introduction en douceur dans R. Met très bien en exergue les infinies possibilités de R
 Great starting point for Data Science. Gives a very good intro to all the tools used for working with data.
 Its actually a good course for beginners. As the course is made from R there is machine voice rest is nice
 Very clear and comprehensive basic introduction to R Studio and GitHub tools for Data Science application.
@@ -2884,7 +2695,6 @@ An excellent tutorial explaining the steps to set up the tools required. Easy to
 I liked the course. Is the introduction to the data statistics specialization so it is brief, but is fine!
 Very informative, does a great job setting the foundation for studying data science and R in more detail.
 Helpful instructions to install R and RStudio + useful guide to Github. Basic introduction to data types.
-Excelentes instruções iniciais sobre ferramentas que o cientista de dados poderá usar para seus projetos.
 Exceptional. This is my first course. The language which I learn is used to create what I teach? amazing.
 Very easy to follow, with loads of useful information. A good foundation to begin learning R programming.
 I was already familiar with R and RStudio and found the portion on using Git/GitHub particularly helpful.
@@ -2897,8 +2707,6 @@ Great way to star on the subject, complemented by the book "The elements of data
 Useful. I have learned interesting topics, like Github, version control, colaborative work, R markdowns.
 Wonderful course with premium knowledge delivered. I look forward to go through complete specialisation.
 It is a very interesting introductory course, very well explained and consistent with the topics studied
-Muito bom, material excelente. Acessível e bonito visualmente falando. Os professores são ótimos também.
-Un curso muy útil para reconocer las características más importantes con respecto a la ciencia de datos.
 The fundamental toolkit before the engineer hits the ground. Quite step by step & coverage wise balanced
 A very good introductory course that gives you a groundwork for the other courses in the specialization!
 Some lecture wold be better if it were given by lecturers, not the software: basically the third module.
@@ -2908,7 +2716,6 @@ A good basic introduction to the types of skills, and the tools required for dat
 Awesome content,  Self understanding videos, Assignments increases the confidence to a different level.
 One of the best courses I have ever taken. Even considering all that I took in the undergraduate course
 That is an awesome course that helped me a lot to understand the essential tools for wotking with data.
-es un curso que me aporto mucho a entender cual es el camino para convertirme en un científico de datos
 The explanation was great and i got new knowledge about data scientist's toolboxes and how to use them.
 This my first contact with R and RStudio and it encouraged me to continue discovering the world of Data
 This course inspired me a lot, I definitely want to complete the specialization. Thanks for everything!
@@ -2943,7 +2750,6 @@ A useful and helpful introduction to use the tools of Data Science, I am so grat
 The whole course is fine. I have got initial knowledge about Data Science and Tools needed.Thank you.
 this course is very good for people who have no experience with R or how to use git or GitHub before.
 Thanks for everything, I really enjoyed this journey. Text note after video tutorial helped me a lot.
-para los que no manejamos muy bien el ingles se dificulta el aprendizaje, pero con esfuerzo se logra.
 I got to know why is Data Science important and also what is Data science and its important features.
 Great start to my Data Science journey. It pretty much covers all the pre-requisites of Data Science.
 This course is very important for me and all video and lecture are too good. Easily to understanding.
@@ -2954,8 +2760,6 @@ This course guides us through all important concepts. Was great overall !!! Alth
 This was a very helpful introduction into setting and getting started to use the programs neccessary.
 This is one of the most important course which describes the essential tools used by data scientists.
 Very useful to know, how to install R Tools and Configure GitHub pages. I satisfied with the course.
-Muy bueno el curso, y el como estructura tu mente para poder pensar y realizar un analisis de datos.
-Es un curso realmente bueno que te enseña herramientas y competencias básicas para análisis de datos
 It's a great course for someone who just started learning about the R Programming and Data Analysis.
 This is a very good course. I 've learnded so much. Thanks to Coursera and Johns Hopkins University.
 Very practical step by step course getting us up to speed on the necessary software for data science
@@ -3011,9 +2815,7 @@ It is an excellent entry level course for data science tools, specially for non 
 Although lecture videos were generated by AI, there are easy to follow. The explanation is good.
 Very good!!! one of the best ive taken... love the way you can watch a video or read the notes..
 Unlock your potential with Coursera. Learn at your own pace and get started. Thank you Coursera.
-Curso para aprender lo básico de la ciencia de datos: definiciones, sofware, conceptos teóricos.
 Tutorials are good. Not a lot of wasted time. Made it easy to learn with no background in Github
-Buen curso! excelente introducción para iniciadores en el uso de herramientas para Data Science.
 This is amazing course, that provides you with all the basic information about the data science!
 This helps me learn how Github can benefit me for job search, form a startup or improve a skill.
 Great Overview of introductory topics and good tutorials to start on learning Data Science tools
@@ -3021,7 +2823,6 @@ It's a great course to get someone start who has never working with computers an
 Excellent introduction to Data analytics and computer sciences ! Easy to follow and pedagogical.
 It is much needed course. Helps in setting the environment for smooth flow of the later courses.
 I liked this course, I know it is basic but I found a lot of ineteresting things I want to learn
-Excelente! Gran Curso te da los conocimiento básicos y las herramientas necesarias para empezar!
 Great Introductory Course, strongly recommend anyone thinks to pursue their career in this area!
 It is very intresting and the jobs of the instructors are interesting as well as amazing too! :)
 Excellent course showing the basics of the tools that will be needed for applying Data Science.
@@ -3030,7 +2831,6 @@ I'm new to this. It was perfect for me. I'm very encouraged to continue learning
 It was a great, and well planned course. I specially love this new concept of automated videos.
 Excellent course. Well-structured and explained simply so even beginners can easily understand!
 The modules are well-structured for anyone who wants to learn the fundamentals of data science.
-É um bom curso introdutório que permite preparar os ambientes que serão necessários aos testes.
 The course is great, i recommend for the people that beggining in Data Science. it´s very clear
 Great course to introduce topics about data science. Thank you guys for content and the ebooks.
 It was an excellent tool for learning and understanding basic concepts of Data Science overall.
@@ -3077,24 +2877,20 @@ Explaining everything that needed to start the course. To the point and easy to 
 The course is really great and videos include step wise step process and complete details...
 clearly detail introduction to R. A most to understand the tools that we will be working in.
 Very well designed course that is easy to learn and pickup. Thank to the team who made this.
-Dan muchos recursos, muy claros en todas sus explicaciones. Recomiendo totalmente este curso
 Very instructional and easy to follow. Material is well organized and plenty of help around.
 As a start, it was a handful of abstract and hand on tools course and I saw it really useful
 Great overview of Data Science. It helped me prepare my mindset for the rest of the courses.
 An ideal course for intending data scientists! It's very engaging. Thanksto the failitators.
 This course was very well explained, the quizzes were in accordance with the material given.
 good solid intro to the tools and concepts.  Descriptions and information is well organized.
-Curso objetivo e bem estruturado, mostra com clareza os pontos centrais da Ciência de Dados.
 BASIC KNOWLEDGE OF DATA SCIENCE AND USEFUL TOOLS FOR INSTALLING AND USING, VERY NICE COURSE.
 I feel comfortable using all the tools to achieve my goal of becoming a real data scientist.
 good course provides the basic platform for a starter in data science field. must recomended
 very good course. if you are looking for a overview of tools in data science  specialization
 Brief, to the point introduction to Data Scientist's Toolbox. Simple to follow instructions.
-Excelente curso, muy productivo y sobre todo en la parte de conceptos en los tipos de datos
 This Course is very good for the students who want to start their career as data scientist.
 I'ts a very good option if you want to start learning something about data and programming.
 This is a good starter course with lot of information that will be useful on the long term.
-curso muito bem estruturado e com uma duração muito correta. Melhorei os meus conhecimentos
 Perfect for beginners and easy one to kick start and set the theme for Data Science Course.
 good course, very complete and basic for those who are not involved in software development
 The course is very structured and  helpful to have basic knowledge related to Data Science.
@@ -3122,7 +2918,6 @@ Good understanding build up on best practices among data scientists' day to day 
 it is a very great beginning course for people who want to start their data science study.
 Perfect course for the person who wants to expand his or her career in Data Science field.
 This is an excellent and well put together foundational course for data science. Awesome!
-Excelente curso para empezar a manejar las herramientas que se manejan en el data science
 all the video are helpful and easy to learn about a r progamming and R-tudio using github
 This has been a huge experience. I did not have any experience before about these issues.
 Great introductory course for R programming, version control with Git and data statistics
@@ -3139,7 +2934,6 @@ A very useful brief summary about the tools and the environment thas is necessar
 Learned a lot! Great interactive way to follow classes and i like the peer-review method.
 Great beginning class to Data Scientist work.  Am very excited about this specialization.
 It was a short and sweet course really to the point to set you up for the coming courses.
-Excelente curso, uma grande base de conhecimento, com grandes tutores!!! Excelente curso!
 Quick, great intro information to get an understanding of the expectations of this course
 Simply great, I loved the way it was made the videos plus a reading page accompanying it
 Great way of breaking the lectures down. i find the lesson to be detailed and educative.
@@ -3151,9 +2945,7 @@ The perfect place to start with.. for beginning your Analytics journey. Very Ins
 Very good course. I really enjoyed it and the provided course material was very helpful.
 This course offers a solid introduction to the tools that are commonly used in industry.
 This course was the perfect introduction to the world of using data to answer questions.
-Sensacional! Prático e detalhado o curso oferece rapidamente uma base sobre ferramentas.
 very nice explanation. Professors' knowledge is quite high. im completely satisfied with
-Me gustó mucho el curso. Fue retador y a la vez era posible realizar lo que se proponía
 The entire course is well organized and gives a unique perspective towards data science
 Clear steps, lots of real world examples included. LIked the git element to the course.
 Very clear and helpful course. Will recommend to anyone willing to learn data analysis.
@@ -3179,7 +2971,6 @@ awesome course structure and proper way to begin data science journey with this 
 This is an Amazing course! I was able to learn so much!Thanks for all in this project!
 An useful introduction to Big Data, R and RStudio. You don't need to know how to code.
 for me, it  was an excellent and practical course, to learn softly from the ground up.
-Um curso incrível! Permite ter um primeiro contato com o universo da Ciência de Dados.
 Very good as a starter pack for somebody completely new to programming and R language.
 Straightforward and intuitive. Great way to get an introduction to the specialization.
 It provides a really good foundation for the courses following in this specialisation.
@@ -3193,7 +2984,6 @@ Excellent short course for getting introduced to essential tools for a data scie
 Great intro to the tools of the trade and what you need to get started in Data Science
 Excellent introduction to the Data Science world. Smooth path. Very good for beginners
 It was an amazing start can't wait to learn more and finish the entire specialisation
-Adorei, bem simples e prático. Ótimo para começar de uma maneira leve e descontraída.
 This is really helpful, keep impacting life into men that will build their generation
 Even with audio transcript ,you still can get the insight from the lecturer ,clear !!
 Introduced concepts which are very essential for building the basics of data science.
@@ -3215,11 +3005,9 @@ The course was highly useful. It helped to set all the basic tools for Data Scie
 I really loved the idea of using Automated  voice, It was much simpler to understand
 "Great Course" Thank You, Dear Coursera!Your's Student:Shubham Songire+91-9075127545
 Very good introduction to help you setting everything up and to continue from there.
-Gran curso, muy util para un primer acercamiento al mundo de los datos y el análisis
 Very practical course, with a lot of essential content for the Data Science beginner
 Very nice course and I liked the quiz questions a lot. duration is also appropriate.
 This course teaches very practical skills which we need to reproduce course contents
-Muy buen curso introductoria a importantes herramientas como lo son GitHub y Rstudio
 A very good introduction to the toolset needed for performing data analysis using R.
 Good course. It provides a nice overview of what to be expected in upcoming courses.
 The introduction to the data science really got me to love this field more and more.
@@ -3228,7 +3016,6 @@ It's simply awesome. Looking forward to other courses in the specialization. Tha
 Well organized and straight to the point with the various introduction to the field.
 I finally have the info to start my journey towards the hottest job of data science.
 This course has been very informative and come with a lot of learning opportunities.
-Ótimo curso, percebe-se uma grande dedicação dos criadores para a sua implementação!
 Very interesting ans simple enough for a non science or statistics person to follow.
 Extremely useful and informative. The use cases are extremely explicit and practical
 It really provides the essentials (toolbox) to get up and running with data analysis
@@ -3239,13 +3026,10 @@ Excellent introduction to the ideas around what data science is and useful softw
 Basic course into the tools needed to form the foundation of data science learning.
 Very good course for beginners. Lessons are easy to understand and very insightful.
 its very interesting course to get started with if one aims to be a data scientist.
-Nice course for a beginner. qualitative design and must-do course for data science.
-excelente curso, te muestra una amplia variedad de herramientas que puedes utilizar
 Structured well and very informative. A good foundation for things to come, I hope.
 Excellent guide to set up a DS environment. Easy to follow with minimal experience.
 it s really helpful , and offered me a great chance to know more about data science
 Great introduction! Cannot wait to explore the other courses of the specialization.
-Отличный курс, который дает необходимые первоначальные навыки для понимания языка R
 The course I have been looking for a while, well organized and provided the basics.
 Great introduction to everything we will learn for the Data Science Specialization!
 This course is such a great motivation to begin the journey of data science. Cheers
@@ -3261,7 +3045,6 @@ This is the most easily understandable Coursera course I have entered and studie
 The Amazon Polly voice is a bit annoying at times, but I understand the necessity.
 Very quick and to the point, made it very easy to get set up and ready to learn R.
 The course is excellent entry for the world of data science. Strongly Recommended.
-Ótima introdução ao assunto. Estabelece um bom padrão metodológico desde o início.
 Good structured , well organized, flexible course sessions, material. Thank you.!!
 Great Introduction. More Exercise to help us build strong foundation in the course
 An introductory view of what is to come and look great, first notes made! Keep up!
@@ -3293,7 +3076,6 @@ This is a very essential course for a person aiming for a career in Data Science
 This course is good beginning in Data Science. It's necessary complete with more.
 Super interesting and easy to understand even though is pack full of information.
 It was a great and intercative course! I enjoyed every moment! Highly recommend!
-É muito bom, mesmo sendo em inglês, utilizam uma linguagem de fácil compreensão.
 All very clear, and it was manageable to complete it. Thank you for this course!
 It was a wonderful course. I learned a lot about Data Science tool fundamentals.
 Very informative! Now i know how to use git-hub with RStudio and that's awesome!
@@ -3306,16 +3088,12 @@ This was a great introductory course on how to setup R and an account on GitHub.
 Good course to help get a jump start in learning data science. highly recommend.
 Very useful to get started with Data Science.Can wait to follow the next courses
 Excellent class. The instructors put in a lot of thought in creating this class.
-Muy buen curso para principiantes en manejo de R studio y github, recomendado!!!
 Excellent introduction into some of the tools used by effective Data Scientists.
 The course covered every aspect of data science basics leaving nothing untaught.
 Very helpful and well explained for a beginner to this kind of software like me.
 Gave me great insight into the field and I know for sure I want to be a part of.
 I enjoyed learning new things and starting my journey to being a Data Scientist!
 Easy to follow, and a nice difficulty ramp so you never feel you're in too deep!
-Excelente sistema de formacion, muy completa, amena y lo principal constructiva
-Excelelnte introduccion e interesantes herramientas. Espero seguir aprendiendo.
-Muy buen curso, con una mezcla equilibrada de teoría con herramientas prácticas
 This course has been so great as far as gaining programming skills is concerned
 very informative although i would have liked to have some practice examples too
 Nicely explained and well-created videos easy to understand and learn Thank you
@@ -3398,7 +3176,6 @@ This course covers lot of ground up knowledge on theory and essential tools.
 Very good course. Just a little outdated, though, but overall, really good.
 I liked the course. Thank you very much for developing and implementing it.
 Excellent introduction. It motivate us to keep going into this world of DS.
-Muy buen curso! completo y se cumplen los objetivos planteados inicialmente
 A very nice course of introduction to Big Data, RStudio and Version Control
 The content is very clear and precise. Best for who is starting to learn R.
 Although this course does need to be updated slightly, good course overall!
@@ -3420,8 +3197,6 @@ Appropriate level of difficulty for those who are not used to Git Hub and R
 Great introduction to Data Science and the steps to get the tools installed
 Excellent course, very useful to lay the foundation for the specialization.
 Really great introduction to Data Science and the basic tools and concepts.
-Excelente curso introductorio, muy útil la introducción a GitHub y RStudio
-Boa didática, curso atualizado, fácil de entender e informações completas.
 This is really an awesome course for a basic introduction to data science.
 Best step by step document where we will be shown details from the basics.
 Excellent building block for someone coming back to coding after a decade!
@@ -3437,18 +3212,15 @@ I like the notion of presenting Data scientist's toolbox in a concise way.
 It is great to have this course as the introduction to the specialization.
 This course is very helpful for helping me walking through my Ph.D. thesis
 Interesting information about data, statistics, and programming. Loved it!
-Excelente curso, só senti falta da legenda em português em alguns vídeos.
 this courses teaches you the pre-requisites required for the data science
 Could be more interactive, like maybe an intro would be nice. By a human.
 Great initial Course for data science looking forward to do more courses.
 I've really enjoyed and learned how to handle the tools for data science.
-El curso muestra un panorama general de la ciencia de datos. Excelente!!!
 Great introduction to Data Science, and I'm excited to continue studying.
 Great and simple lectures, fits even people without analytical experience
 Very easy and useful for beginners, a brief introduction to data science.
 Very good to understand in a nut shell all the tools for data scientist's
 Course is very simple and motivates well enough to continue the learning.
-Excelente curso!! Quisiera poder completar el programa. Muy recomendable.
 Great first module. Challenging and well presented and instructed course.
 perfect way and guidance to start using Git, Rstudio and other softwares.
 I am very satisfied to prepare myself very well for the following courses
@@ -3469,14 +3241,12 @@ Clearly explained all the basics and I learned a lot from it. Thank you.
 good course we can know foundation about datascience. Thank you everyone
 I really enjoyed a lot and hope to be a data scientist in coming future.
 this is just a tip let me see how hold up for the future of data science
-Deberian explicar un poquito mas Github, del resto es excelente el curso
 Excellent course. I'm proceeding to the next one in this specialization.
 really helpful course , covers all topics in brief. thanks alot for this
 very basic course. can be done in 2-3 days if you study 3-4 hours daily.
 it's a great course to learn the basic tools and setup for data science.
 Excellent intro. The author(s) do a good job of showing the big picture!
 This is a very good introduction to big data basics i.e. tools involved.
-Está bien para quien comienza y se adquieren compromisos para perseverar
 The course is very useful and nice,it's not difficult and easy to study!
 This is a great introduction, thank you for making time for this course.
 Very thorough overview  taught by passionate professors about the topic.
@@ -3486,7 +3256,6 @@ Thank you son much!!!!
 I really like the course.
 It help me in my job =)
 Excellent Course for Introduction Related to Github,Tools of R language
-Experiência incrível! Didática excelente, simples e prático! Recomendo!
 Very well explained with examples for the clear understanding of topics
 A good introduction to Data Science with R and tools - rStudio, GitHub.
 Neat, well organized! I will totally recommend the course to my friends
@@ -3494,7 +3263,6 @@ A good headstart to Data Science. Looking forward to the courses ahead!
 Amazing, the way they used the ML and data science to teach this course
 I think I got the gist of what is data science but it was fun learning.
 Excellent overview of the subject. Looking forward to continue learning
-Curso muito bom!Nunca soube como conectar com o Github e agora eu sei!!
 A good fundational course for students who want to be a data scientist.
 Packed with great introductions about data science. I commend this one!
 Amazing for learning and set up the basics for starting on Data Science
@@ -3507,9 +3275,7 @@ The course is very explanatory and collaborative to learn.  I loved it.
 Good to give you and overview of what this course is going to take you!
 This course is an excellent introduction to the basics of data science!
 This class makes the whole pictures of R clearly and simply understood.
-Muy bueno el contenido y explicacion para  lo susurarios principiantes
 great starting point for people who want to learn to use R and RStudio
-Buen curso, completo y muy claro. La modalidad facilitó mi aprendizaje
 Excellent Course. Good to have hands-on exposure on R-Studio & GitHub.
 Great course to get familiar with tools used by modern data scientists
 It helps me gain basic knowledge about R and other data science tools.
@@ -3527,13 +3293,11 @@ Easy to learn. Highly recommended for those who are new in the field.
 Great course and amazing content to start learning about data science
 This course introduced me to the fundamental concepts of data science
 This course is Excellent.I learnt about how to use data science tools
-Buen curso útil para conocer las herramientas de la ciencia de datos.
 The course was very good and teaches everything from the basic level.
 its great to have data science course on coursera. thank you coursera
 crisp content and on to the point without any fluffrecommend it 10/10
 Good way to get started and get some insights on the used vocabulary.
 The course is perfect,it teaches the tools very effective and simple.
-Simplesmente incrível, uma base muito boa para iniciar esta formação.
 It's a nice and very helpful course about the tools in Data Scientist
 Good course for the beginners.Really loved all the topics!!Awesome!!!
 Really this course was very useful as an introduction to data science
@@ -3542,12 +3306,8 @@ Gave me basic introduction on the tools required. Good for beginners.
 This course is well organised to start the journey of data scientist.
 I learnt new things.. I am super Excited to move on to R Programming.
 Everything was explained well in details. really good for beginners.
-Excelente curso introductoria al mundo de la ciencia de datos con R.
-Buen training, muy adecuado para principiantes que comienzan de cero
 Awesome beginner course. I learnt a lot and I hope to learn more. 👍
 This course Was very helpful, I learned a lot throughout the course.
-Excelente curso para introducirse en el mundo del análisis de datos.
-Excelente curso para aprender los fundamentos de la ciencia de datos
 Thank you! Coursera for giving such great content to learn and grow.
 Great course for starters. A must have for aspiring Data Scientists.
 great start for whom who want to learn data science from scratch....
@@ -3566,10 +3326,8 @@ Great introductory course into the world of Data Science, Git and R!
 Great for beginners to take an idea of using R, Rstudio effectively
 Complete, useful and interesting. It has a good level. Recommended.
 Very good...But the robotic voice has been becoming so annoying. :(
-Explica desde cero las herramientas R, RStudio y GitHub. Excelente!
 Excellent course material with easy to understand videos and notes.
 So easy to follow, thanks! Appreciate the video and printouts, too.
-Muy bueno, recomendado para iniciar en el mundo del data scienttist
 Very well designed.  Slower pace for the first course is excellent.
 Great ! This course gives many insights in the way of data science.
 Good introductory course to start your data science specialization.
@@ -3588,25 +3346,19 @@ More of a warm-up than a course. Great intro to the specialization.
 highly recommend for people that they want to be data scientist  .
 Great course to start with when you want to go into data analysis.
 Provides essential knowledge about setting up Github and R-Studio.
-Buen curso para iniciar el aprendizaje de R, RStudio, GitHub y Git
 It is actually a great course to start feeling comfortable using R
-Excelente curso, bem didático e completo para quem está iniciando.
 Very helpful and has helped me begin my journey In Data analytics!
 Very well explained lectures about key tools used in data science.
-Excelente método e excelente material. Muito instrutivo e prático.
 i love the content and  delivery .Worth spending my precious time!
 excellent course to get started with in the field of Data Science.
 The course is a great introduction to Data Science Specialization.
 At this very early stage the courses are really well structured!!!
 It is wonderful course which help me learning Data Science better！
-Es un excelente punto departido para aprender la ciencia de datos.
 Very well designed for beginners in Git, GitHub, Unix commands, R.
 Good basic intro. Love the ability to set the video speed to 1.5x.
 Thank you coursera for the studies, it was all a great experience.
 Very intuitive and technical as necessary for a beginner's course.
 Great course to get you started on R and GitHub for data analysis
-Aprendi habilidades nuevas que me pueden ayudar en investigacion.
-Good course . Gives detail intro for data science specialization.
 Thank you madam and helping teamI am thankful for learning GITHUB
 This course Is very super i improve my skill . then useful for me
 Really insightful and informative! Thoroughly enjoyed this class.
@@ -3657,7 +3409,6 @@ I like this course. It is very informative though rather simple.
 This course was well paced and provided clear learning material.
 Very good course materials, videos and quizzes. Learnt a lot. :D
 A good course with high quality information and good presenters.
-Excelente para entender lo básico sobre el uso de repositorios !
 Get way to quickly familiarize yourself with the specialization.
 This course is the write spot to start the data science journey
 Great modules. Easy to understand and user friendly. Thank you!
@@ -3667,7 +3418,6 @@ Well guided course, evaluates on time according to lesson level
 Basic but very well organised Thanks To all JHU Faculty & Staff
 very clear introduction and step by step guidance on setting up
 Good basic introduction to R, Github and Data Science analysis.
-Goooooooooooooooooooooooooooooooooooooooooooooooooooooooooood~!
 It is a good course with a good instructor and useful material.
 very straightforward and easy. instructions are very clear too.
 Great starter course. Looking forward to learning more about R.
@@ -3691,7 +3441,6 @@ Great introduction to the used software such as R and Git(hub).
 I found this course very helpful and I had learned a lot of new
 Very informative on the tools and basic elements of the course.
 Great course with de basic topic about data scientis's toolbox
-Otimo curso, ideal para os iniciantes na área de Data Science.
 I loved the course. Looking forward to more courses like this.
 Excellent introduction!, I´m really excited about this course!
 A great course for beginning with Big Data, RStudio and Github
@@ -3740,7 +3489,6 @@ Very good, well structured and grading by peers is a good one
 Really good course to shed the light on R and Git for newbies
 That's a good startup to excite you about the coming courses!
 Very good, but i missed portuguese subtitles in many videos.
-Excelente curso para iniciarse en la vida de un data science
 Great introductory course to data science and R Programming.
 I have learned interesting lesson on this one attempt alone.
 It is an excelent course, I learn the basics of data science
@@ -3774,19 +3522,15 @@ Excellent course, really easy to understand, very detailed.
 I like this online course very muchThe most suitable for me
 Vwery nice course. Great if your are doing a specialization
 The course is very good and its lecture pace is all so good
-Muito Bom! Aprendi bastante sobre coisas que nem imaginava.
 Great introduction about data science, gitHub, and RStudio.
 Very good beginning for this specializing. i am enjoying it
 Good overview of all the skills necessary for Data Science.
 Very interesting course to start on this field of knowledge
-Importante introdução para iniciar na área de Data Science.
 very nice lessons and very enjoyable.i enjoyed the lessons.
 Amazing intro to the basics of data science and tools used.
 Did the job of introducing and teaching me how to use tools
 The course lectures are very well designed! I just love it!
-An essential course if you are a complete beginner like me.
 The course provide insights about Data analysis in general.
-Para ser una introduccion a las herramientas esta perfecto.
 I am liking the way the training imparted by the educators.
 Great introduction for beginners to the data science field.
 Very nice introduction to data science that the tools used.
@@ -3796,7 +3540,6 @@ Definitely useful to get a start in the data science stream
 Excellent Introduction with brief descriptions of subtopics
 Very good introductory course to start with on Data Science
 Very easy to follow. Quiz are really helpful to do a check
-un curso muy bueno, empezando desde lo básico en R studio.
 Very objective courso to introduce you to the Data Science
 The course was very insightful! Learnt a lot about GitHub.
 Great start looking forward to complete the specialization
@@ -3822,13 +3565,11 @@ It is one of the most interesting lesson I have ever take.
 Excellent course to start my journey towards data sciences
 Nice, reasonable introduction to the tools of this series.
 Good start for freshman to get into the data science field
-Excelente forma de introducirse al mundo del Data science
 Good course to learn about data management and processing
 Excellent course. Nicely explained for beginners like me!
 some ambiguity at the end ...but I like it thanks for all
 Super practical and hands on. Great course for beginners.
 It was awesome i am really enjoyed these organization...!
-Fue una grandiosa experiencia. Espero seguir aprendiendo.
 Good introduction into the Data Science methods and tools
 The assigned works were nicely presented and done. Kudos!
 Thanks to instructors for giving headstart to Datascience
@@ -3865,7 +3606,6 @@ Great, informative, updated. easy steps to follow along.
 This course is excellent because show many tools about R
 A course with the lot of actual work life related topics
 Great starting point and solid fundamentals for growing.
-Excelente curso de preparación para la Ciencia de Datos.
 It opens your mind to totally new world of data science.
 Amazing course to give hands on experience to a beginner
 Great for the newbie to learn and understand the basics.
@@ -3885,7 +3625,6 @@ Very Nice Course to start the journey on Data Science..!
 Good course to kick start your interest in Data Science.
 it was great and every concept was explained very well.
 one of the beginners tool! A starting step for success.
-muy bien estructurado el curso, y oportunas las pruebas
 It starts with fundamentals and It's an updated course.
 Good Course for a data scientist who is starting out !!
 Great course, especially your AI that read all of that.
@@ -3964,7 +3703,6 @@ A good course for someone starting with Data Science
 very well taught and helped me to learn Thank You !!
 Excellent learning session of Data Scientist Toolbox
 Good for basic understanding of Data Science Toolbox
-Simple presentation and lecture, excellent exercise.
 Extra sources this courses has is just mind blowing.
 A comfortable introduction to a lot of useful tools.
 Very informative course for beginners in datascience
@@ -3998,11 +3736,9 @@ Great and very useful to get started in R + Github!
 Thanks for lectures hope this is very useful course
 really nice course to get started with data science
 Thanks for clearing basic doubts regarding R Studio
-Um começo pra quem está inciando em data science...
 Great approach to set up yourself for a good start!
 Amazing... I really love this course.Thank you guys
 Learned a good foundation and better understanding.
-Excelente contenido  y los temas muy bien llevados.
 I thoroughly enjoyed this course and its challenges
 Very accurate designed course for the given topics.
 Great introduction course to tools of data science.
@@ -4026,7 +3762,6 @@ Really nice and understandable. Thank you so much!
 It is a very good guide to start using data tools.
 Excellent course that motivates you to learn more!
 The course is great to understand the fundamentals
-excellent course to begin your data science career
 This course is a good introduction to Data Science
 I learned some hilarious ideas about data science.
 Coursera really provides very good online classes.
@@ -4044,9 +3779,7 @@ Easy to understand, and follow. It's a good start.
 An elegant start to Data Science tools. Great Job!
 It was  nicely  conducted  and the flow  was great
 Great introduction into the field of Data Science!
-muy buen curso para iniciar en la ciencia de datos
 Good course with very good foundation information.
-muito bom, apesar deu eu não conseguir terminá-lo!
 First course of specialization easy for understand
 Very basic and helpful to new learners! Thank you!
 Course content gives a clear and easy information.
@@ -4055,7 +3788,6 @@ Excellent pace and clarity. Well, design program!
 It's a great course for beginner in data sciences
 Great course, very informative! Highly recommend!
 I like it very much. It's a course for begginers.
-Very well done informative intro to data science.
 Nice Course to get introduced with all the tools.
 A very good course to start of with date science.
 Was fun throughout, very productively structured.
@@ -4075,7 +3807,6 @@ very goo starting course, it helps set oneself up
 good introduction and presentation of Fundamental
 Very good start , excellent support and materiel.
 I learned a lot about Git and GitHub.Thank you!!!
-Excellent content. Simple language to understand.
 Great introductory course for the specialization.
 Very informative.  A great start to the sequence.
 Course is very descriptive. One can easily learn.
@@ -4089,7 +3820,6 @@ Gets you all set up! Essential if you're new to R
 Good foundational understanding of tools required
 Good introduction to basic tools and future work.
 am grateful to had joined this course. thank you
-Excelente curso, tutores con muy buena temática.
 It is a great course, very useful for beginners.
 Very helpful course and designed systematically.
 Loved this Course.. Thank You to the Instructor.
@@ -4139,7 +3869,6 @@ Nice faculty and very practical way of teaching
 Great intro to data science and relevant tools!
 Good accumulation of all the required material.
 An excellent beginner course focused on basics.
-Boa introdução de conceitos de ciência de dados
 Excellent!! Waiting for the others 9 courses!!!
 A good intro to the tools used in data science.
 Good introduction and instructions to get ready
@@ -4148,7 +3877,6 @@ Good ground level introduction to data science.
 Great Start to a an informative specialization!
 IT PLEASURE TO CONNECT WITH YOU AND GIVE ENJOY
 good experience to learning school is coursera
-Muy buena la preparación para las herramientas
 Simple, cool, can´t wait for the other course.
 Well explained and great Data Science concepts
 Very simple, neatly explained and informative.
@@ -4189,7 +3917,6 @@ Very nice course, learn alot from this course
 Excellent course different from other courses
 It was very instructive and details was good.
 The course greatly helps with GitHub. Thanks.
-Como puedo recibir mi certificado ? al correo
 Good foundation for analyzing scientific data
 Great and focused overview. Helpful overview.
 A mandatory to keep you on Data Sceince Track
@@ -4208,8 +3935,6 @@ Setting up Github is so important. Thank you!
 It was a great introduction to data scientist
 Good Introduction For Data Science Beginners.
 This is a great introduction to Data Science.
-Excelent introduction course, useful content.
-a useful introduction course for data science
 Excelent, very simple and good to understand
 Even though is a lot of information.......-)
 Very easy to follow course, I learned a lot!
@@ -4223,7 +3948,6 @@ The way u deliver the content is really good
 I really like the part about Git and Github!
 The best starting point for a Data scientist
 Excellent course.got very helpful knowledge.
-excellent.... course to enter data arena....
 It is great because it discussed the basics.
 Met my expectations of a data science course
 Great intro to R programming and Git/Github.
@@ -4233,8 +3957,6 @@ Excelent course! Great introduction.Thanks!!
 Insightful course with a good understanding.
 Gives nicely the introduction to statistics.
 Perfect Introduction to R based Data Science
-Curso excelente, superou minhas expectativas
-Amazing start! To an amazing specialization!
 A clear introduction, prepped for whats next
 Awesome content. I'm happy with the results.
 It is ok...Good overview of what is to come!
@@ -4247,7 +3969,6 @@ Good first steps with R, Rstudio and Github
 Detailed, does the job. Need Update though.
 Course is easy to understand and implement.
 Its a very helpful and easy to learn course
-Excelente curso para iniciar en este mundo.
 Great explanation for studying dat science!
 Great refresher on git and version control.
 good overview of RStudio, git, and Big Data
@@ -4259,7 +3980,6 @@ Nice course, with a lot of basic knwoledge.
 Very good course and very good instructors.
 Good introduction to data and data science.
 An excellent course for a beginner like me.
-Très bon cours pour débuter en Data Science
 Very good introduction to the Data Science!
 I enjoyed this intro course, very basic but
 Thank you for the great course and content!
@@ -4272,7 +3992,6 @@ Simple, intuitive and fun to learn process!
 It's well structured and I've learnt a lot.
 Fantastic course - serves as a basic block.
 Excellent Course. Will highly recommend it.
-Excellent course suitable for new learners!
 So far it is great...just starting week two
 It is good, but I think they speak so fast.
 wonderful foundation to the specialization!
@@ -4281,7 +4000,6 @@ The lessons are perfect for understanding!
 Very Well Structured for Skill Enhancement
 A very good starting point to Data Science
 Great course to begin with data science...
-Aprendí mucho, es un curso para todo mundo
 I learned a lot of things from this course
 Very Simple but very nicely planned course
 Very well designed for first-time learners
@@ -4293,12 +4011,10 @@ It's a entry point to be a data scientist!
 The content  is very good and easy to lean
 Great introductory course to data science.
 This course give me a way to my new career
-Ótima Didática, um introdutório muito bom.
 Great Course for Beginners in Data Science
 one of the best introductions to a topic .
 I really learned a lot! Thank you so much.
 Great introductory course for Data science
-Good overall introduction to data science.
 An excellent introduction to Data Science!
 Great Introductory course to Data Science.
 Good and easy introduction to Data Science
@@ -4329,13 +4045,11 @@ Great course, materials are well prepared
 A good course as an intro to data science
 Good course. makes acquainted with basics
 Very clear with basic information require
-amazing course for data science beginners
 Very concise and articulate and engaging.
 Excellent start point to learn the tools.
 Extremely well explained and informative.
 Good course, very helpful to get started.
 Very helpful in understanding the essence
-Excellent introduction into data science.
 Good introduction to data science using R
 Perfect start for the Data Science course
 Nice build-up to the courses that follow.
@@ -4350,7 +4064,6 @@ sample,it is fit the first study student.
 As advertised, satisfied with the content
 very helpful. and Easy to understand! :)
 Very easy to follow and very insightful.
-Excelente metodología, muy comprensible.
 Its a very knowledge full course for me.
 Good foundation into this amazing field.
 Excellent platform to learn new subjects
@@ -4362,7 +4075,6 @@ Very helpful to get a good start with R.
 Great fundamental study of data science.
 Everything cool, taught in a simple way.
 Good one for a beginner in data science.
-Muy bueno para los que recién comenzamos
 It was great course for someone starting
 Sets you up for success in other courses
 Loved it. This was a very nice overview.
@@ -4388,10 +4100,8 @@ Very useful for introducing data science
 Good start to R, GitHub and Data Science
 Brief Explanation about git and GitHub.
 Good introduction, perhaps too general.
-Excellent course for beginners like me.
 Very nice introduction to Data Science!
 Very nice course, glad to had taken it.
-Excellent course for neginners like me!
 loved the robo voiceover please keep it
 Best course for basic knowledge so far.
 Awesome write up and explanatory skill.
@@ -4415,16 +4125,12 @@ Great basic explanation for the course.
 Very basic and insightful introduction.
 Very well organized course. Well done .
 Excellent introduction to R programming
-Justo lo que uno necesita para empezar.
 Nicely taught and good course contents.
 The course is excellent for beginners!!
 Very well though through and organized.
 I really liked it and understanded it.
-Excellent course for a Data Scientist!
-es muy interactivo y facil de entender
 Cool course, very basic but necessary.
 Fascinating course for data starters!!
-Basic of data science r studio and git
 This is the best course for beginners.
 Best course for intro to the toolboxes
 best material for enhancing the skills
@@ -4433,14 +4139,12 @@ I have learned a lot from this course!
 Nice, simple, and comprehensive course
 Very informative course. Great Content
 Excellent introduction to Data Science
-Interesting and engaging for beginners
 Very good introduction to Data Science
 good starting course for the beginners
 good course, good focus on the basics.
 Very informative and organised course.
 Very informative and straight forward.
 It's basic lecture for data scientist!
-A useful introduction to data science.
 Thanks for helping me learn the basics
 Good starting course for data science.
 I really benefit a lot for the course！
@@ -4449,10 +4153,8 @@ thanks for the course. It was helpful.
 Good introduction for the whole course
 Great beginning to the specialization.
 Simple to follow, highly recommend it!
-excellent course in R and data science
 Very good practice about data science.
 Amazing Experience of Online Learning.
-非常好的入门课程，深入浅出的讲解和理论与实践相结合的课程设计，学习效果非常好
 great introductory course. enjoyed it.
 Great for beginners to start off with!
 Excellent intro to Data Analyst tools!
@@ -4461,7 +4163,6 @@ Very nicely put together. Enjoyed it.
 Perfect introduction to Data Science!
 It was really an interesting course .
 Amazing teaching...worth every minute
-Buena introducción a ciencia de datos
 A great course for complete beginner.
 Amazing course. Tools well-explaines.
 I leartn a lot. Thanks everyone here!
@@ -4481,7 +4182,6 @@ Covered all basic about data science.
 Just the introductory course I needed
 Baby steps to become a data scientist
 Amazing info for the beginners !!!!!!
-A must do for a data science student.
 Very nice introduction to this world.
 It boosted my career in data science!
 Very good introduction to the course.
@@ -4490,13 +4190,11 @@ Good introduction about Data toolbox!
 Awesome! It's a good place to start.
 Presents the course with excellence!
 excellent course. thanks to coursera
-helpful course to basic data science
 exceptional course for a beginner !!
 It is very useful for the beginners.
 This course is very useful for me...
 The best course offered by Coursera.
 Totally worth the time and effort!!!
-Excellent course, I have learnt alot
 The right way to get into the field.
 Very Informative course to start by.
 EXCELLENT AND AWESOME WAY TO EXPLAIN
@@ -4509,7 +4207,6 @@ very helpful..teach you step by step
 Excellent introduction to the tools!
 Finished in a day or two. Very Easy!
 Awesome Content and Awesome Course!!
-作为专项课程的第一门课程，对于了解后续学习内容，了解R语言的应用非常有用
 Basic, but excellent course. Thanks!
 This is awesome learning experience.
 Necessary Basic Tools for the course
@@ -4528,7 +4225,6 @@ Excellent courseware for beginners.
 Very simple & easy to learn course.
 Very Helpful and Clear Instruction!
 Very Nice Course highly Recommended
-Very useful course on data science.
 I like the new version using polly.
 Very good structure and information
 Good introduction to R environment.
@@ -4565,7 +4261,6 @@ Excellent Course I learned so much!
 Good introductory weekly lessons ..
 A good starting point for beginner.
 Very usefull to start Data Science
-Completo y enseña desde el punto 0
 It was a very useful basic course!
 Great learning from this course...
 learnt so much definitely worth it
@@ -4597,13 +4292,11 @@ Just love the notes, helps a lot.
 Very good course for Data science
 Thanks for uploading this course!
 The course structure was awesome.
-Muito bom, excelente metodologia!
 Thank you for helping this course
 Great foundation building course.
 Good introduction and an overview
 Great and structured introduction
 Good introduction to Data Science
-Very great intro to data science.
 Good introduction to Data science
 very simple lol, very descriptive
 Perfect for Data Science beginner
@@ -4643,9 +4336,7 @@ Interesting start on the subject
 nice course for initial approach
 A very nice introductory course.
 I hope I get my certificate soon
-Wonderful intro to Data Science!
 Great Course, Excellent Delivery
-Excelente curso.excelent course.
 Very basics explained very best.
 Well, a good introductive course
 really useful for fresh learners
@@ -4653,11 +4344,8 @@ Very well organized and helpful.
 Course was good. Well Structured
 I am enjoying this course a lot!
 Awesome for learning.........git
-Well done for beginners like me.
 Great course - highly recommend.
-for beginner like me, it's good.
 Great  course! Plan to continue.
-Very helpful start for begginers
 It made my life easier on Github
 Leart very much from this course
 Good but it still too much basic
@@ -4671,7 +4359,6 @@ Excellent intro course! Thanks!
 it's good to start data science
 Good to be part of this course.
 Very good and enjoyable course.
-Excelente introducción al campo
 Admirable novel way of teaching
 Well structured, useful course.
 This a Great explanation course
@@ -4680,9 +4367,6 @@ Good, detailed course material.
 This course was simply amazing!
 A solid course. I learned a lot
 Amazing concept clearing course
-wowwwwwwwwwwwwwwww.just awesone
-so useful to basic data science
-Self-sufficient course. Kudos!!
 A Very good introduction course
 Very good course for beginners!
 Nice stuff! I´ve learned a lot!
@@ -4691,7 +4375,6 @@ Very good introductory courses.
 Nice insight about data science
 Easy to follow and very helpful
 I've learned lots of new things
-Excelente cursoexcellent course
 excellent course to begin with.
 I had fun learning this course.
 Precise and perfectly executed.
@@ -4704,7 +4387,6 @@ Version control well explained
 Thank you! It was very helpful
 Very good introduction course.
 Great beginning for learning R
-Great course . One must do it.
 it is a good platform to learn
 Good course for data analytics
 The course was well structured
@@ -4716,7 +4398,6 @@ Clear and simple explanations.
 Amazing course. Just loved it.
 Very good learning experience!
 Straightforward and practical.
-Excellent introduction course.
 Very Helpful learning about DS
 Good for start in data science
 Great course and simple to use
@@ -4736,7 +4417,6 @@ Good information, good format.
 It is proper for the beginners
 very good introductory course!
 A real science that I enjoyed.
-Excelente curso para iniciar.
 Great Course, Learned a lot .
 It was a good detailed course
 Such a well organised course.
@@ -4747,16 +4427,13 @@ Great and challenging course!
 great place to learn and lead
 Perfect course for beginners.
 Very useful course! Thank you
-Excelente curso, mu completo.
 That was great as a beginning
-Perfect program for beginner!
 Awesome course for beginnners
 Great course and instructors.
 Interesting and clear course!
 Easy to follow, correct pace.
 Very nice. detailed guidance.
 Great MOOC, and very helpful.
-Excellent start for a layman.
 Good start for Data Science!!
 Great intro class! Thank you!
 Excelent course, very usefull
@@ -4768,11 +4445,9 @@ Very friendly to the biginers
 Git setup lesson was awesome.
 Great course for a beginner !
 Perfect start for the followu
-Muy útil y bien estructurado
 Thorough and easy to follow.
 It's really good thank you!!
 easy and as starter its good
-Un curso muy bien explicado.
 Great material easy learning
 Good foundation and start up
 Easy, but great explanations
@@ -4786,11 +4461,8 @@ thanks for letting me do it.
 I really benefitted from it.
 it was a very helpful course
 Good for an introduction!...
-Very good detail for starter
 Very Basic and easy to learn
 Good teaching, good material
-Excellent prep course for DS
-中文字幕很不方便看。。最终只有看英文字幕了，期待中英字幕
 Awesome course to start with
 very good, concise and clear
 excellent introduction to R!
@@ -4803,18 +4475,15 @@ Great and interesting course
 It was a good starter course
 Very interesting and useful.
 Good intro. Very motivating.
-EXCELENTE !!!!EXCELENT !!!!
 easy to understand and nice
 Excellent course. Thank you
 Very interesting experience
 The learning curve is high.
 Excellent, very explanatory
 this course is very rich <3
-I like amazon Polly, Thanks
 Very practical introduction
 Very user friendly course !
 Nice and interactive Course
-Useful course! I recommend.
 Easy to learn and useful...
 Very en-lighting, thank you
 NIce background information
@@ -4822,7 +4491,6 @@ This course is very helpful
 A very good introduction :D
 Very helpful to a beginner.
 Very useful starting point.
-very good for me, i like it
 Great course, thanks a lot!
 Excellent training approach
 Really a course to pursue!!
@@ -4831,10 +4499,8 @@ Excellent one to start with
 Great course to get started
 great to start with basics!
 It was great for starting !
-Very helpful for beginners.
 Very useful and insightful!
 It introduces useful tools.
-Excelente, muy recomendable
 A great course.Erwan Bonnet
 maybe this review will hold
 good and easily manageable.
@@ -4842,7 +4508,6 @@ great learning experience.
 Good  introductory course!
 This was really insightful
 very good start to course.
-Good intro to Data Science
 very easy to follow course
 This is a great beginning.
 very useful course for all
@@ -4855,7 +4520,6 @@ Github part is very useful
 Excellent to begin with...
 Good Overview of the tools
 Nice course. Helped a lot.
-Excellent overview course.
 This is nice for starters.
 amazing courses  thank you
 Great start to the subject
@@ -4865,11 +4529,8 @@ Get started and feel good.
 Excellent thanks very much
 Simple Intro and effective
 very fundenmental courses.
-a good start for beginner
 easy to follow and learn.
 Great starting experience
-Good start for beginners.
-Good start for beginners.
 Very good Intro DS for me
 Easy explained and useful
 good content.To the point
@@ -4882,27 +4543,20 @@ good set-up to the course
 Good start. R seams good.
 Very good starting tools.
 Basic intro for begineers
-Quite good for beginners.
 Very good beginner course
 Easy to follow and useful
 good introduction course.
 Good and Elaborate course
 Useful as an introduction
-Don't wait!!! just enroll
 Really nice introduction.
 Get my feet wet with Git！
 Nice flow for the course!
 Great course for fresher
 A very wonderfull course
-Nice and valuable course
-Good Start for Beginners
-Excellent initial course
 Excellent course. Thanks
 Good assignment practice
-Best courses by coursera
 it's too easy and simple
 Very good starter course
-Excellent Study Material
 Great beginners course!!
 Great way to get started
 Quite detailed yet easy.
@@ -4912,7 +4566,6 @@ Nice course! I liked it.
 A thorough introduction!
 Nice introductory Course
 A real pleasure to learn
-excellent starting point
 Sets a great foundation!
 good introductory course
 Great course!!!!!!!!!!!!
@@ -4924,11 +4577,8 @@ Thanks for great course
 Interesting and useful!
 An extraordinary course
 the best course ever!!!
-Excelente, ótimo curso!
-Excelent for begginers!
 very nice and healpfull
 Thank You Team Coursera
-Best course don't miss.
 Good Learning Platform.
 Very nice introduction.
 Excellent in Everything
@@ -4940,18 +4590,11 @@ good coverage of basics
 Well structured course.
 good intro to R and GIT
 Good intro to the tools
-Excellent for beginners
 It's a very good start!
 it's a very good course
-Great for beginners ...
-Very dense! I loved it
-Muy buena para iniciar
 This is a good course.
-Ist an excelent course
-Very efficient course.
 Nice introduction to R
 A well curated  course
-Gracias muchas gracias
 It's amazing course...
 A good initial course.
 Good and to the point.
@@ -4961,10 +4604,8 @@ best for the beginner.
 Enjoyed the experience
 learned basics clearly
 a very good experience
-excelent introduction!
 Awesome introduction!!
 You are awesome Bro!!!
-Wonderful experience !
 Good course for start.
 Really a good course!!
 love coursera,my crush
@@ -4973,13 +4614,9 @@ Insightful and Handson
 Covers the basics well
 Very useful and basic!
 Useful insight into DS
-介绍DATA SCIENTIST的入门非常棒
-Excellent instructors!
 its so so inteeresting
 learnt a lot! thanks.
-Excelente Introucción
 Very helpful, Thanks!
-Well designed course.
 Easy to follow along!
 Fantastic opportunity
 Great Study Material.
@@ -4991,44 +4628,34 @@ Great starting tools!
 Very good Experience!
 A very nice over view
 Really good material.
-Excellent Course!thxa
 Going great till now.
 Its a Great course...
 Very Good for basics
 Very well explained!
 Great Starting Point
-A must for beginners
 A good course indeed
 good course to begin
-Fundamental but nice
 Great Course Indeed!
-Amazing and singular
 Such as great course
 I liked it very much
 Great starting point
 The course is great.
-excellent  resources
 great preview course
 proffesionl training
 Useful and interacti
-Useful and engaging!
 Great to start with!
 It helps me a lot!!!
 Its wonderful start.
 extraordinary course
-great for beginners!
 Nice Overview course
-Brilliant kick start
 totally worth it !!!
 I really enjoyed it!
-Execelente. gracias.
 Great kickoff course
 A great introduction
 Very nicee course!!
 Thank you Coursera.
 it was a great time
 Its very good learn
-Splendid experience
 Really Nice course.
 very good explained
 Very Helpful Course
@@ -5037,37 +4664,27 @@ Exceptionally Good!
 It's useful for me.
 Great basics course
 Very good content..
-nice course design.
 truly enjoyed it :D
 Very good ! Thanks.
 Interesting courses
-对整个系列进行了介绍，是个好的开始！！
-Nice basic tutorial
 Good for newcomers.
 interedting  course
-Excellent programme
 Meets expectations.
-Excelente Course!!!
 It is a good start.
 Great way to start!
 I liked the course.
 Good to get started
 Thanks for your job
 This course is done
-Best course ever...
 Great Introduction!
 well guided course
 useful information
 Exceptionally good
-Best For Beginners
 Nicely structured.
 it was my pleasure
 Well taught course
 It is really good!
-A practical start.
-Very, very good..!
 Good intro course.
-Buena introducción
 Thank you coursera
 good to start with
 It's very helpful!
@@ -5081,65 +4698,41 @@ Great toolbox!Tnx!
 good and very easy
 Its a good course.
 It's good but easy
-i have leant a lot
-Beginner friendly.
 very good material
 Thank you a lot!))
 Good prep for R!!!
-Great Startup kit.
-Muito didático!!!
 clear and helpful
 very goodl course
 very professional
 Goof for starting
-excelente content
 wonderful lessons
 awesome xperience
-WITH SATISFACTION
 Nicely Structured
 concise and clear
 I love Github now
 really good couse
 Good intro class.
-So far so good :)
 It's a good start
 a little bit easy
 insightful course
 I like the course
-Excellent course.
 Amazing Teachers!
-nice intro course
-excellent module!
 amazing course!!
-Curso excelente!
 nicely explained
 Ideally for begs
 that's very good
 Very cool course
-Great material !
 Well illustrated
 Good Course Here
-Woohoooooooo!!!!
 Very beneficial.
 Easy but helpful
 Great Instructor
 good foundation!
 Totally loved it
-excelent aproach
-Excellent intro.
-Excellent course
-还不错，简洁明了，课程覆盖面广。
-Nice material:)
 Well explainned
-good experiment
-best experience
-Util y práctico
 Great learnings
-Ótima didatica!
 Very intructive
 basic and clear
-对于生活是十分具有参考价值的。
-比较简单，但是好像涉及方面很多
 Just the basics
 Good easy intro
 Very intuitive.
@@ -5147,115 +4740,50 @@ Perfect Course!
 A good start :)
 Great Course.!!
 Good for start.
-Cours impécable
 A good start...
-Excellent...!!!
 Good and simple
-Nice job guys.
-Excellent.!!!!
-good overview.
 good structure
-clear guidance
-Very Excellent
 Awesome Class!
 A great start!
 A great intro!
 help me a lot.
-très détaillé!
-Great Overview
-interesting :)
 Great, Thanks!
 good courses .
 Great support!
 Great start :D
 Awesome intro.
-Very good work
 It is perfect!
-flexible hour
 GOOD COURSE!!
 Perfect intro
 i am thankful
 Very Nice!!!!
 great course！
-Amazing start
 Great intro c
-I love it! :)
-Ótimo Curso !
 Good Course !
-VerygoodStart
 Great class !
-i'm loving it
 Easy and fun!
-comprehensive
 It was great!
-Appropriate !
-been amazing
 Its so great
-Buenas bases
 very uselful
-Awesome work
 Solid Course
 Great intro.
 thank you :)
 IReally Like
 really good!
-非常好，很适合从零入门
-Greatful!!!
-great start
-so interest
 good start!
-excepcional
-Great Stuff
 Very Nice!!
 Nice Start.
-grate couse
 Thats great
 basic stuff
 Great Class
 Good Tutor!
 Brilliant !
-Nice cource
 Learn a lot
-AWESOME!!!!
 it was nice
 it was fun~
-nice class！
-excelent!!
-intriguing
 ENJOYED IT
-Best basic
-Jelly good
-good begin
-amazing =D
 Completed.
 LOVE IT!!!
 Good Start
-h很好的R学习途径
-Aamazing!
-很基础，收获颇多。
-基础，详细，实用。
 It superb
 Greats!!
-so happy
-非常有用的课程！
-很棒的入门课程！
-5 stars.
-good...
-Grate!!
-课程结构很清楚
-很好的入门课程
-checked
-nice !
-交不了钱呵呵
-a good
-心好痛...
-mmhmm
-Liked
-很有帮助！
-非常不错！
-Had
-ver
-exc
-很详细
-ni
-Ni

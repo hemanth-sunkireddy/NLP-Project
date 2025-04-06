@@ -10,7 +10,6 @@ Use of Duke own specialised librarie ~ not the best way of learning progamming f
 Impossible to download anything from the resources website
 This is all teached in Bluej which is tough to understand
 Had to buy a SECOND JAVA book to get through this
-Too hard for beginners.
 This is not a beginner's course and some questions are not easy as the staff rated, I think is a good course for intermediate people. To answer all the quizzes section you might investigate a lot. We got a life too! Many of us are not in school anymore we have a job and a family. My recommendation, please explain a little more the programming structures like CSVParses is a list or something? I never got it.  PD: The way you use tricky questions is not good to improve programming skills, please put hint at least i.e. " What is the number of boys' names in the file yob1905.csv?" Regards.
 I Just can't understand why the instructors make simple concepts difficult to understand. Take the example of functions video, why you need nesting of function, calling function inside a function when you explaining function for the first time.  for God sake this course required no programming knowledge. I learned programming (10 years ago) and yet i am feeling difficulty to understand your complex definition and explanation of a simple language concepts.  i am doing this course for the sake of DUKE Certificate otherwise i give this course 1 Star.
 The course is just terrible.
@@ -44,16 +43,10 @@ Very confusing. Assignments went over concepts explained later in the course.
 Hard to understand the concept, the explaination is so vague.
 Old course doesn't work on ubuntu as it needs obsolete JFX
 The course is really bad for begineers
-prograaming enivironment is not gpod
 My expectations were different
 i want to unerolll how to do
-Not friendly for beginners
 NOT FOR BEGINNERS AT ALL
-honour certificate!!!!
-NOT FOR BIGGINER
-Not fruitful
 worst course
-titd
 The assignment questions were very repetitive. A lot of times the assignment questions weren't clear. As opposed to spending a lot of time learning  and debugging my code, it felt like I was doing rote work. The worst part about the course experience was the BlueJay IDE. It requires you to manually compile  your code, then create a new instance of your class, then run the test method, after EVERY change.
 I signed up for this course because I really liked the first one regarding HTML, CSS and JS. I was very happy with that one,I felt I learned a lot and was well organized(I gave it 5/5). This one, however, is the opposite. The gap of difficulty between this course and the previous one is abysmal. I am aware that they are completely different things but both courses are categorized as for beginners. I ended up being able to finish the course but only because I have a friend who's a programmer who helped almost every step of the way. The teachers are still really good and the forums help, but the difficulty and the fact that at times the course feels out of order (I found week's 3 and 4 easier than 1 and 2).So I would recommend you only do this course if you have an intermediate level (what is explained in the videos will seem basic but the assignments will be challenging). However, you're a beginner, I'd recommend you do their first course on HTML, CSS and JS and find another course to learn Java.
 This course teaches some basics, but it doesn't really explain them. The pace is also quite fast. Additionally, there is too much focus on importing libraries and using functions/methods from those libraries. The course should be focusing on methods, variables, strings, etc, but instead shoves obscure methods from the libraries down the throats of the students. The instructors of this course do this so that the students can feel like they're coding something important using predefined methods, but in reality they should be focusing on the basics instead.
@@ -81,7 +74,6 @@ Fantastic course. Great assignments and lectures. Low score because the workload
 This  course is really hard, and I am having ALOT trouble understanding it. Overall, it is not one of the best courses I have taken.
 Not a very good course for Java. The introduction in week 1 is taught roughly.
 I do not think it is helpful enough.It just tells lots of basic things.
-hard to get help, its not very beginner friendly..
 This Course does not cover the Java Basics at all
 Videos are not okay. Could be more explanatory.
 The course is good, an excellent way to improve Java programming skills. But it is definitely not meant for beginners. I learnt Java years ago, and i took up this course with an intention of picking up Java again and to continue coding in it, that is why i found it slightly confusing at the starting, but after which i managed to follow through. Though this course is excellent to improve coding, It is not meant for those who have general programming experience, I would say it is more for those who have "Java" programming experience beforehand and a strong grip over the basic Java programming.
@@ -234,7 +226,6 @@ this course is very helpful for computer science students. It helps us to improv
 Good content but I wish the topics moved a little quicker. Seems like there is more hand holding than necessary.
 Good course for new programmer. Enough exercise for basic programming though isn't what I am looking for.
 The first week was a bit rough, learning curve was way too steep. It gets better on the second week.
-Все прекрасно, но на второй неделе нечетко сформулировано задание, оттого потеря кучи времени)
 over all good course for intermediate students and it extracts problem solving skills from us
 you need some basic of java for this program. Assignments are bit hard if u are new learner
 Excellent concept based learning and reinforcement of the same by assignments and quizzes
@@ -243,7 +234,6 @@ It is a practical and short course to learn the basics of Java Programming. I li
 Coding was lengthy, and I have to right similar codes repeatedly. Overall l learned.
 phenomena of teaching is Good for logic development and practice exercise are good .
 There could be a better way to examine our programming assignment than using quizs.
-我是一个java的初学者，我学起这个来有一定的困难。我不太推荐初学者学习这个课程。这个课程比较注重java实际运用，如果有一定java基础的话，这个课程非常适合你。
 The Course was very good organised. The digital library and material are useful.
 Can be a little bit to hard for beginners but great and interesting assignments.
 Great course its better if they explain further more before that much hard Quiz
@@ -263,7 +253,6 @@ Overall the course if great for beginners who first wrote program.
 They make programming look so easy! Enjoyed the course! Thank you!
 It's a very good course and have good programming practicals....
 The projects in the course were the best. I really enjoyed them.
-Muy buen curso para comprender y mejorar las estructuras de Java
 A very elaborate course with an efficient teaching methodology.
 Good course for building problem solving skills for a beginner.
 it would be great to add getName method to FileResource class.
@@ -288,15 +277,12 @@ Good online course for learning new thinks..!!
 I really enjoyed to take this course ! Thanks.
 very nice coaching i learning skill Thank You
 Some questions can be described more clearly.
-Excelent for lear good java programing skills
 use my analytical skills with this course.
 It Was A Great Experience. But Hard Too!!
 nice course with amazing resources online
 Very resourcefulness and helpful course.
 its a excellent teaching awsome faculty.
 I think this is quit tough for freshies
-I got little confuse due to no basics.
-Extremely help for beginners in java
 The homework is too time consuming.
 u shd improve in teaching clearly
 need more tips for quiz of week 2
@@ -306,22 +292,15 @@ Good i learn some basics of JAVA
 Excellent course for begineers.
 I struggled doing the exercises
 Great platform for learning.
-Doesn't suit the beginners.
 great, I enjoyed learning!!
-nice course for java .....
 A little bit simplified...
 Worth For Money..Valuable
 Full Practice ...liked it
 Nice Teaching Process.
 better course than edx
 Nice short and simple
-I don't like BlueJ
 very good course.
-Not for beginners
-too for beginner
 it is so useful
-比较实用的入门课，例子简单易懂
-Usefull
 You need a little more experience in coding that just the first course, or try not to leave everything by the end of the week(as I did) to find what you need for the assignments. Great course !
 Great course, it does help to have some background knowledge in another language but it is doable without any.  goes through some fun projects but also some work usable items such as CSV parsing.
 This is an Awesome Course . The best thing About this Course is that It has weekly quizzes and Assignments as well as Practice Quizzes for particular Topics which helps in learning it more easily .
@@ -335,7 +314,6 @@ The course content was excellent. I highly recommend taking this class for anyon
 I already had some programming experience - a semester of C (I can use pointers!) and some web development and I found this course very, very challenging and time consuming but ultimately very rewarding.  The problem areas covered are really interesting and it is obvious that a lot of thought and effort has gone into making this course. I would not recommend this course or specialization to a complete beginner unless they have a lot of spare time and are prepared to go slow and deal with a lot of frustration. There seems to be some excellent courses for complete beginners out there that would be a better place to start one's coding adventure.
 Though the course name includes java,it's more of a problem solving course using some functionalities form the edu.duke library designed to supplement the course.This course may not give you knowledge of java that much but it will surely improve your problem solving capability by introducing some interesting problems such as finding all genes from a DNA strand or making conclusions from large amount of data read from CSV files or converting an image to a gray-scale or inverted image.Nonetheless, for anyone interested to solve creative programming problems  this is an absolute goldmine
 Excellent explanations and amount of course work for practice, the tests made good use of the examples and work given, I am satisfied with what I learned in this course and see it's real world usage.
-Понравился курс, все понятно и подробно объясняется. Очень понравились практические задания!
 I really learn about clear concept of Java
 I had been out of programming for many years, and decided to try this 
 Java Programming: Solving Problems with Software course by Duke 
@@ -420,7 +398,6 @@ This series of courses are perfect for whose are learning and starting from zero
 I would have liked to see how to do proper testing, e.g, JUnit, but I'll just assume that'll be covered in a later course. Also, there was no use of recursion and no data structures. Otherwise, good instruction and interesting assignments/quizes.
 Excellent course content the assignments were well designed to help me learn a lot. There could have been additional materials to help me with assignment towards the end but still I was able to breeze through the course in a short span of a week.
 Each element is thoroughly worked out, there is a conceived semantics of the user's actions. Tooltips and popups make it easy for the user to interact with the program. Multimedia interface meets the needs and interests of the user of the site.
-Excelente forma de aprender a programar en Java. Los módulos están bien detallados de forma que es cómodo el desarrollo de los mismos.  Y los videos de los instructores son excelentes y bien explicativos para poder realizar las asignaciones.
 The programming exercises are very good to reinforce the concepts learnt in the video lectures. The guide lines in the programming exercise  are very clear and helpful making the problems not that hard to deal with  and yet very enjoyable.
 Excellent teaching ....The way the videos were arranged and the content is really awesome,,,,,,The programming assignments were really good and challenging..They are helpful for getting familiar with programming.........Overall Loved it..
 A very complete course, here you learn the basics and also the applications of java nowadays. I strongly recommend this space to expand your boundaries of knowledge and also try one of the most used programming language of the world.
@@ -535,7 +512,6 @@ Great course with challenging assignments. If you want learn Java seriously, you
 Great course, walk through several examples and let you work with some real tasks on your own. Learned a lot as a Java beginner.
 Another great selection of topics and problems. I enjoyed this course. Very good balance in terms of concepts and test problems.
 Great course for Java beginners, excellent for understanding all you need to know. The assignments are well done and engaging.
-trés belle expérience avec beaucoup des informations bien expliqué par les profs et bien détailler grand merci pour les profs
 very useful course and have so many examples and practices, I advice every one want to start coding with java to enroll in it
 This is a good course for getting started with java programming. Especially, seven steps of problem solving is very useful.
 very informative and well explained. I liked that they use real life examples to introduce you to a subject. Big thumbs up!
@@ -727,7 +703,6 @@ I really liked this course, diverse and challenging ;)!
 Good Start, I have got so much, it's a great experience
 Great course for getting started with Java programming.
 Another great course form Duke University!Thanks a lot!
-Mil gracias coursera, mil Gracias universidad de Duke.
 I feel very satisfied after completion of this course.
 Great course! Got familiar with solving real problems!
 Awesome course. Perfect blend of theory and practical.
@@ -745,7 +720,6 @@ Demanding and application-related. Very good course.
 Great Course for an initial idea of Java Programming
 One of the best educators with mind blowing concept
 This was a very informative and well-taught course.
-Excellent course! The best Java course on Coursera!
 Real life applications of projects and assignments
 Great course. Let the students dedicated to coding
 Very nice course - but you need background in JAVA
@@ -791,16 +765,13 @@ The course is fun and you can learn fast
 Very Good course with good explanations.
 Superb knowledge and hands on experience
 Great course, loved the course structure
-Muito bom! Organizado e bem estruturado.
 Great for introduction to this language.
 Excellent starting point to learn Java.
 The contents are really useful to me...
-Excellent content and clear objectivs!!
 A really nice course for the beginners.
 A good course to get started with Java.
 Very well explained and good exercises.
 This was more challenging than course 1
-通过小型的案例可以逐步提高对JAVA的理解深度以及熟练度。非常好的课程，谢谢！
 Nice course for practicing programming.
 Nice course with concept & assignment.
 It has been a good experience studying
@@ -814,7 +785,6 @@ Great course and I really enjoyed it.
 Thank you so much for your courses!!!
 Extremely useful! Highly recommend! )
 Good for Hands On Coding Experience .
-Excellent course to learn Java Basic.
 this course is help me to learn java
 This course was really useful for me
 vvery good but tough and challenging
@@ -831,13 +801,11 @@ Wonderfull start for the begginers
 This is a really amazing course!!!
 It was a beautiful journey.Thanks!
 Easy to follow with great examples
-motivent et il permet de réfléchir
 Very useful  very orginal lecture.
 amazing course takes great efforts
 one of the best cours in coursera
 Perfect and so academic thank you
 It's very helpful for my studies.
-Interesting doing problem solving
 Amazing problem solving tutorials
 Very instructive and nice course!
 best course i have learned online
@@ -851,19 +819,16 @@ A good choice for the first time
 Perfect course for java novices!
 Great course and Specialization.
 thanks for upgrading my level ;)
-واحدة من افضل الدورات التدريبية
 Very useful for analyzing data.
 Great course I liked it so much
 Very very helpful -- thank you!
 Excellent introduction to JAVA.
 Comprehensive and so enjoyable.
 Very informational and helpful
-Very useful practical examples
 This was an great experience !
 best for intermediate coders!
 Very tough than usual cources
 Useful, although a bit basic.
-Nice fundamental level course
 The projects were interesting
 love it. challenging and fun.
 Great platform for learners.
@@ -872,7 +837,6 @@ It's easy to undersatand !!!
 it's good but can be better
 Good courser for beginners
 Very good for fresh people
-very good course,I like it
 It was an amazing Journey!
 Very awesome and creative!
 was  a fantastic course :)
@@ -884,31 +848,23 @@ learnt alot of grayscale
 Great challenging course
 very intellectual course
 It is a wonderful course
-Most excellent material!
 Great Learning with Fun!
 Very accessibly! Thanks!
 I love this course much.
 I increase my knowledge
 good course for learner
 very nice course it is.
-excellent Keep it up!!!
-brilliant intro course
-Wonderful !!!!!!!!!!!!
 Finished on 07/04/2018
 LOVE IT! Really fun :)
 good lecturing videos
-c bien pour minecraft
-Best Experience ever
 good and informating
 too hard for beginer
 Exceptional learning
-ideal for beginners.
-Very useful lessons!
+Challenging but fun!
 Interesting starting
 good point to start.
 A good refresher...
 Clear, informative.
-Amazing Experience.
 well-rounded course
 Simple and elegant.
 Amazing Course!!!1
@@ -916,21 +872,8 @@ Nice and effective
 Short and detailed
 The course is nice
 Got me thinking :)
-qiuz is difficult
-Best course ever!
-so far so well...
 Very rich course
 Very Intuitive..
-well designed. l
 Good Courses...
-i loved it :)
 Very Nice!!
-AAAAMAYZING
-very Good
-Is noice
 Perfect
-Nice
-Java
-很棒！
-")
-g

@@ -118,7 +118,6 @@ Looks to hard for me at this current stage.
 Very difficult to follow for begineers
 Read my week 5 forum post.
 Boring and tasteless.
-LAB HAVING ISSUES
 Very very basic
 As in the other parts of the certificate, the tasks are simply too easy. The content in the videos (many typos!!!!) are really valuable but the tasks man... Only the surface of the surface will be discussed, no deeping down into the wild. In this course the libraries numpy and pandas are presented but in the final assignment we actually don't needed the libs... When I read the description of the final assignment, I was excited because I assumed we will need to code EVERYTHING ourselves. So really do the thinking of how to solve the requirements, testing it in a notebook out, reading the docs, discovering new cool stuff... But unfortunately my dream did not come true. The most exciting function was already provided and some of the answers were little bit of copy and paste instead of really recalling newly learned knowledge. Before this review I really wanted to give 4 out of 5 stars but after writing this review I will now give only 2 stars. Actually, 2 stars are in my opinion unfair, since the creators have put a lot of time and love in the course content. Unfortunately, so much potential is thrown away
 The programming assignment had errors and it took a long time to figure out  (e.g. wrong endpoint was specified).  I ended up having to waste a lot of time on this.
@@ -155,7 +154,6 @@ The course was not designed and taught properly. Although python language is ver
 I feel overwhelmed by the amount of information presented in the course and frustrated that you don't really get to practice what you learn. Most of the labs (if they load) already have the code entered and you just run it. You can play with it if you want, but I don't feel like I really retained all the coding and syntax that was presented.
 There are simpler ways to present information.  The narrative was extremely fast paced.  I found myself having to slow the narration down quite a bit.  The course was not for me and I will seek to learn Python through a different means.  I do appreciate the limitless opportunities to test and run your code, which is why I gave two stars.
 The course is too easy, there are not enough examples for self-practicing. The examples should demand enough effort to get rid of people who are just "certificate collectors". After all, the value of the certificate will be almost zero, anyone how just wants and has money to pay the fee is able to get it.
-Cours intéressant mais pas très concret dans son approche. Evaluation très décevante ne permettant pas de mettre en oeuvre le langage mais encore une fois tournée vers une publicité déguisée pour IBM. Le fait que l'entreprise soit à l'origine du cours ne devrait pas impacter la pertinence de son contenu.
 It jumps to some slightly more advanced code without enough explanation or breakdown to explain how to use it for other things. A ton of stuff in the labs does not work when trying it out for yourself. Seems a little packed with information that should be expanded upon over the several more weeks.
 Good course but needs a major review. Some things are wrong, others not very precise and vague. Video lessons are often a bit sloppy (misaligned graphics, questions come seconds before the answer was given and the like). Overall feels a bit unprofessional and could use some polish...
 felt very unprepared for final assignment. Week 5 assignment would only be appropriate if we had a video walking us through, and explaining the specific requests, and the why and hows of each point of the task. then it would potentially be a great way to finish off this course.
@@ -186,7 +184,6 @@ Badly outdated and full of confusing typos, lazy display production, and useless
 The lab has to tie more into the coding part of Python rather than the theory and basics of it. Took awhile for me to grasp it with the help of other books.
 The pre-work and video modules do not prepare you for the final assessment well enough. Lots of external videos and conversations within the forum required
 This IBM Watson an the whole ecosystem is not documented well and too complex for this beginners course. This course has taught me to avoid IBM software.
-paginas de  https://labs.cognitiveclass.ai/ esta caída algunas veces, los ejercicios no están bien explicados no se parecen a lo real q se pueda aplicar
 I found the course not suitable for some one with no knowledge about data science . Some of the course material was not for someone with no experience
 Assessment was more to do with publishing on IBM Cloud rather than Python. Time consuming trying to clarify instructions rather than learning Python.
 Theory, practice, evaluation: video, lab, quiz - nothing unnecessary, straight to the point. Great! But the final project was very difficult for me
@@ -224,12 +221,9 @@ Only worth an introductory course.Better avoided.
 Good for basics. I was expecting something else.
 There is no deep contents for AI in this course.
 Lots of typos in labs, which are not graded.
-so fast for a beginner to understand
-Exercise a little bit disappointing
 the lab is not clear and missing
 to many time spent on IBM Watson
 Very confusing final assignment
-Not very user friendly
 poor instructing
 robotic teaching
 Overall, the course lectures are highly condensed and fly by very quickly. I'm familiar with Python but I still had to go back and review them a few times. Would prefer the video materials to be reviewed more slowly and deliberately.The final project is a mess. The instructions don't direct to the correct notebook (U.S. GDP data) and that link has to be found from the forums. I could never figure out how to get the JSON credential data of my IBM Watson "bucket", so, my "dashboard" never got generated for my project. After spending several hours on this, as I had scored 100% in the rest of the course, I decided I was going to lose just a few points for this, so, in the interest of time, just moved on.
@@ -365,7 +359,6 @@ Good course but very superficial, in order to truly create skills to find a job 
 A fast paced course. Good in some ways. But I feel the course is missing a lot details. And there are waaaaaaaaaay to much typos for a coding course
 class is not that much challenging but it's okay maybe this is for beginner but IBM lab tutorial needs some effort to let user use it in daily work
 I hoped to have learnt a bunch more stuff on programming in python.It was a nice start though. Full with some nice and practical tips and methods.
-Trés bon cours en terme de comprehension, parcontrel es exercices Quiz sont parfois banal, je propose qu'on y ajoute un peu plus de complexité.
 Decent intro to python programming. The videos and labs need additional proofing.   The labs need some off script activities in the later labs.
 It's an okay course, but it can be betterAnd I wouldn't advice it for total beginners cause they skip steps and sometimes write wrong syntaxes
 There's no fun in doing assignment in lab as almost all of the coding is done by them only , although we can learn lots of syntax and tricks .
@@ -420,7 +413,6 @@ Basic Course - I would modify the title to reflect something like "BASIC / FOUND
 The python part is good but the pandas is outdated.. df.ix for instance has been deprecated.
 it was very easy ,it had just simple concepts which many know ,very less new thing to learn
 Pretty basic. Few items, for instance the endpoint link in the assignment, need correction.
-Не хватает практики. Советую скачивать ноутбуки себе и дополнительно работать с ними ещё.
 Just basics of python. Would appreciate if related more hands-on exercises were included.
 Great Course For beginners. I give three stars because i already know all the concepts.
 Content is good but course needs to be updated to reflect the changes to IBMs platform
@@ -472,7 +464,6 @@ More coding related demonstration should be included
 Last assignment seemed disconnected from the course.
 The labs final project could be more challenging .
 more help required for finishing the assignments,
-muy complicado, no empienzan con cosas basicas
 level too low. would have liked to learn more.
 This course needs some advanced python for ML
 Some of the things can be simplified more.
@@ -482,8 +473,6 @@ The course should be updated with time.
 Difficulty level needs to be increased
 Detail level level is not really high.
 Too fast paced. Labs are very helpful.
-GREAT PROGRAM BUT KINDLY LOOK AT LABS.
-certain courses have poor explanation
 Very little content for Data Science.
 2 stars' deduction for the last lab.
 Too general and basic introduction
@@ -500,9 +489,6 @@ Very basic and too easy
 it was kind of basic
 could be better
 we need Chinese
-Ok not so good
-can do better
-Less content
 It's Ok
 Shallow
 It was basic Python. You need this to be able to use Python for data science, however the name of the course could have been Python 101.
@@ -608,7 +594,6 @@ Very well written, great for beginners and early intermediates. I find the video
 The course content was concise and easy to follow. The simplicity offered by this course came at the expense of in-depth knowledge, whose pros and cons can be debated. Overall, a good appetizer for a beginner aspiring to explore data science with python.
 Very good couse to get started with Python in Data science field. However, the instructor could have added more detailed lessons. Other than that i highly recommend this course to anyone who is starting their Data Science career/ exploring Data Science.
 Very good course to learn Python and libraries to work with Data Science, like NumPy and Pandas. The IBM Watson labs need a little more effort to understand and to complete every step, so don't skip previous labs and pay close attention to instructions.
-Muy buena informacion de las estructuras , capacidades estructuras, funciones , etc .Los laboratorios estan bien , alguna que otra actualizacion de los ambintes para que las versiones de los laboratorios esten actualizadas con los videos Lo recomiendo
 Overall great course with good explanations, examples and teachers. However, the external online tools often had long loading times and were quite buggy (even though my internet works perfectly fine). Also some typos here and there but that's okay.
 The Course Is perfect for those who have little insight about programming and library like numpy and pandas but if you are complete beginner it might get difficult because its on very fast track nad for beginner its a little hard to stay on track.
 Overall good material but need many more practical exercises. Some of the labs walk you through the steps that are covered in the video, but they do not have a practical section that has the student write their own code to reinforce the material.
@@ -668,7 +653,6 @@ Great Course work just more needs to be explained. I searched a lot to find more
 Extremely helpful for those who are new to the python and the concept were explained in a very sophisticated manner . Thanks for the tutor and the course era for providing this great opportunity.
 Could be a bit more advanced for those who have programming background. I also felt the practical work in the lab could have entailed more quizzes to let the students apply the new concepts more
 This was a pretty good course, But there were some mistakes here and there with the text that the bot speaks and also in some of the slides. It'd be better if some instructor records the videos.
-Muy bueno, pero siento que se deberìa explicar como usar los APIs y demàs desde el Python que uno descarga localmente, y no a travès de Jupyther notebook. Y explicar el graficar en el mathplot,
 There are some drastic leaps in learning between modules. It would make it easier to have additional information explaining a lot more of the concepts, rather than just running a block of code.
 I am reducing 1 star because of the issues I faced during the exam. Kindly update your instructions as per the updated IBM cloud website, or any other third party tools  employed in the course.
 This course strengthen your knowledge for python, and it requires lots of understanding, time to do lab and practice to become better. However, I hope some issues with the lab can be improved.
@@ -854,7 +838,6 @@ The instructors made the course too easy. Completed all assignments and quizzes 
 Gives the basics of Python used for data science, a good course for beginners to start with.
 The courrse is good just need a review in the finnal task because some links are not working
 Pretty good into to Python. But I'd already worked with Python before so it was nothing new.
-Te permite interactuar con Python de manera fácil. Los ejercicios propician el aprendizaje.
 The end part was quite tedious (the peer based one)But other than that the course is great
 A great course for a beginner. The visual method with blocks of code is extremely helpful.
 Great course. I learn a lot and I feel a have a solid foundation to work with Python, now.
@@ -931,7 +914,6 @@ Course is very well and easily understood. And topics are excellent.
 Great material, but IBM offers the same course at their cognative.ai
 Good understanding on the basics of python required for Data Science
 Informative. Suggested to people at beginner and intermediate level.
-Muy bien en general, pero creo que faltan más ejemplos y ejercicios.
 There are many mistakes in the slide and are not corrected properly.
 Good course for anybody looking to get a beginner's grip on Python.
 I enjoyed the class but the interface for labs could use some work.
@@ -972,7 +954,6 @@ It's ok for one who has no clue about Python and dataframes
 Question should be more diverse and make students research.
 project stage having too much ambiguity.pl change 5th week
 Very helpful to clear the ideas about the basics of python
-Algunas fallas para abrir los LABS, fuera de eso muy bien.
 Good hands on Python for beginners. A bit too easy though.
 The last project using the interactive interface is buggy.
 There has to be simplicity when explaining some concepts.
@@ -1029,7 +1010,6 @@ The course is good, but slightly to basic.
 too fast. Wish I could get more exercises.
 Basic Structure of Data Science in python
 Easy course. It lacks some major content.
-Merci pour ce contenu. C'est intéressant.
 needs more content about pandas and numpy
 Little of difficulty will be more helpful
 Very useful course to learn data science.
@@ -1084,32 +1064,27 @@ week 5 instructions are trash
 IT was very helpful for me .
 good course basic will clear
 Was a ood experience for me.
-some small errors in videos
 I understand python clearly
 it need to be more advanced
 Good introduction to Python
-Excellent course structure
 So good and practiced alot
 Good stuff well explained!
 Very basic and easy course
 Great course, very helpful
 good course for beginners!
 Great course for starters!
-Ok quite good, thank you.
 Good entering into Python
 Overall, a great course.
 Good course! Thanks IBM!
 Teacher speaks too fast
 could be more in detail
 Course content is good.
-more practice exercises
 good hands-on completed
 good course, I liked it
 Great and nice course.
 good hands-on approach
 Problem with some labs
 good practice session
-GOOD ONE FOR STARTERS
 project can be better
 Nice for basic python
 Needs more material
@@ -1122,11 +1097,8 @@ A good Course!
 very simple...
 Easy to learn.
 Basic stuff
-Nice Course
 its good..
-Good flow
 learning
-만족합니
 Every course has offered something interesting, challenging, and surprising.  I am glad I have spent the time with this class.  I would strongly recommend it to others with an interest in data science.
 Very good course for people who do not know Python. It just starts with the basic and focuses on data structures which is essential for Data Science. Does not teach you any unessential Python syntax which will not be useful in this specialization course. If you know any programming language, you will get it (because Python is easier and simpler than the language you know :)
 The final assignment changed during the course from fake album cover to economic data analysis and dashboarding.The code provided in the work book was incomplete and not sufficient to generate the dashboard in the note book.Instructions were not sufficiently clear to help the students figure out how to create a url link to their dashboard.
@@ -1148,7 +1120,6 @@ What a brilliant way of learning. This course  proved a real treat for me. I rea
 There are some issues related to the last assignment. Some more clarity about the use of IBM watson studio would be useful for the students who attends this course.
 Compared to other introductory courses, I liked the things taught. Simple yet very useful and seamless to learn. Could be even better with more practice or labs.
 Great class! it would be better if the final task instruction could focus more on python itself than on the storage system.
-Lo unico que puedo decir es que amo Python, es un lenguaje super potente para el analisis de la informacion
 Very comprehensive and the format was able to get me using Python right away.  The hands on is fantastic!
 outstanding hands on training, very easy to understand how to apply the theory on the class labs
 I've never touched Python before this course. I'm so glad I started with this specialization!
@@ -1177,8 +1148,6 @@ Brilliant course for beginners.
 Such a nice iinstructor it was
 great learning experience..!!
 Great for a beginner
-Awesome lesson
-all awsm
 This course was a perfect introduction to python for data
 science. I already have a B.S. in political science which required a few
 semesters of statistics. We mainly used Excel and SPSS. I wish I had taken a
@@ -1217,7 +1186,6 @@ Excellent Course. The lab session helps to understand the concept in details. Ju
 My heartfelt thanks to the course era team & IBM team by providing such huge opportunity to learn the Python by simple video explanation and continued with practice method. definitely this learnings will take me into next level of my career. After completing this course i completely admired about your team efforts by the way of syllabus framing and simple video learning cum quiz approach, Cloud practices.ThanksSilambarasan K
 Very intensive course with lots of new and essential information for newbies in Python. Gives if not enough knowledge to start (which is hardly achievable within short course) but gives enough understanding of direction where to search and how to do things. Final assignment appeared not to be clean and straightforward but all my questions were answered in forum (hence I suppose it was not unclear not for me only). Good luck!
 This is a great way to learn Python for beginners. The videos are short and to the point. Instead of just showing the raw codes, the course helps you visualize how the codes are operating in the background using very simple figures/animations. The intermittent quizzes in the videos and the quizlet for each section was super helpful too in keeping track of your understanding. Highly recommend this course!
-Muy buen curso, de los mejores que hice on-line. Las explicaciones son muy claras, la pedagogía es excelente, todas las clases tienen su notebook. Realmente excelente. Seguiré adelante con los cursos de la especialización. Poder probar Watson es un plus para conocer la herramienta con un pequeño contacto. No participé de los foros pero por lo que vi los responsables del curso contestan mucho.
 This course is really amazing. Anyone who doesn't know about python a Lil bit can also be master in python with this course. The instructors were really amazing and taught each topic clearly. I would recommend this course to everyone who wants to learn python basics as well as explore what python can do in Data science and AI. Thank you, Coursera and IBM for providing such a great course.
 I can imagine the amount of effort put by authors to teach the Python basics even for people with limited programming experience. Hats off to the authors and team which put together such an easy to understand notebooks. I was able to generate the URL for the dashboard though it was optional. So inspiring was the quality of teaching material, I didn't want to disappoint my masters.
 I am a new learner in the field of Data Science , this course will help me a lot in understanding the basic concepts of python & data science also the instructor of this course will explain the things very well , very clearly & have very good course content in terms of quality. So overall this course is amazing for any one who wants to start carrier in the field of Data Science
@@ -1233,7 +1201,6 @@ Whatsapp : + 91 8017648297
 Not an easy course, yet a truly excellent one!  It is a solid starting point on mastering advanced concepts related to understanding and using Python programming language to manage data. Not only you learn the Python libraries involved in data science, but also how to work work with APIs to connect to other platforms or web services to build a powerful application.
 Eventhough this is not my first time to learn python, I found the course could define the terms of python pinpoint and helps our brain to use the terms correctly. However, updating the materials such as hands on lab is essential to reduce the time learning (as there's one or some files are no longer exist but still need to use in the final assignment)
 A good course to learn basics of Python so as to facilitate analysis and visualization of data to make effective decisions. I thank the professors to make this course interesting and worth it. Only thing is, videos can be made in a better way so as to facilitate people with non programming background. Maybe some basics of programming would help.
-Es un buen curso para introducirse a la programación en Python, mi recomendación para los estudiantes es replicar los laboratorios en su computador variando los casos, así aprenden más. El nivel de ingles en los vídeos es comprensible para los que no manejamos completamente ese idioma, pero sí sería muy bueno colocar los subtitulos en español.
 This course provided me an ample of basics knowledge in python for data science. I surely recommend everyone to take this course and it's not necessary that you must have a computer science or IT technology related knowledge to take this course. Everyone who has inspiration to learn about python in data science can take this course.
 Earlier I was keen interested in doing this course and thought what I will learn in just a small video but I'm amazed how good the course is structured and learned a basics of Data Analysis. The project at the end was really helpful. It was my 3rd course in a row and happy to learn more. Thanks faculty members and Coursera team.
 I think overall the course is fairly good in teaching the fundamentals of python. The only thing I'd say is that you get to learn a lot of codes during the lecture, but examples aren't that abundant or challenging to really test the skills. I think there should be less coding more practicing to learn these fundemantals by heart.
@@ -1279,7 +1246,6 @@ It was a good experience to learn and get to know about the Python for Data scie
 Excellent course. This course teaches plenty about the introduction to using common data science analysis tools like Python. Anyone would benefit from taking this course and learning to use amazing frameworks like Python's pandas or numpy frameworks.
 This course as part of the IBM Data Science Professional specialisation is a great way to learn foundational Python skills for applying in data analysis and AI.  The resources provided by IBM offer a great opportunity to practice on your own time.
 It was good experience of learning, the way course has been designed and very good point is the interactive part, where immediately there is question answer session. Specially the course content and gradually moving towards detail, i like that!
-Muy buen curso. Es totalmente disruptivo e innovador.Recomiendo a cualquiera que quiera iniciarse en la temática.Como estudiante de Ingeniería Industrial, es de gran ayuda tanto como para complementar estudios, como para explotar nuevos rubros.
 The course was very knowledge-enriching and easy to follow. Most of the concepts in Python necessary for Data Science were covered, and examples were practical. Videos were also explained very well, and the exams were really highly thought-of.
 Easy to understand, this course is very suitable for beginners. Quickly understand the basic syntax of Python and interesting IBM cloud, and the labs provided.There are many very good practice questions to help students understand the content.
 A bit slow for me in the beginning since I've had experience with other languages but would defintely benefit anyone new to programming in general.It picks up at week 3 and I learned ALOT specially about Pandas and Numpy. Great course overall
@@ -1297,14 +1263,12 @@ That is amazing and really most valuable course for me! Thanks a lot for your co
 I loved how the Object-oriented programming part was explained. A little more emphasis on Pandas and Group-by in Pandas would have been really good. Overall, a very good course for beginners to start their data science journey.
 Great slides and explanations. Excellent dashboard to keep track of your progress. Maybe the instructions for creating the final project with Watson Studio could be a bit more clear but they are manageable. Overall a 5* course.
 This is a good course to take for beginners. It has complete lessons from basic python to Jupyter lab and API that are really useful to start as fundamentals in Data Science. Highly recommended for new comers to Data Science.
-Este curso entrega las herramientas básicas de Python para Data Science, no necesita conocimientos previos y dedicando unas dos horas diarias puede ser terminado en menos de una semana. Muy recomendado, vamos por el segundo.
 I liked this material a lot. Being a beginner in Python or any programming language, I have been able to push myself gaining knowledge from zero to 60%. This course has helped me in increasing my confidence level on coding.
 I've studied a bit of Programming at the university, but didn't have a chance to try Python. This course turned out to be a good entering point for someone interested in using Python for Data Science and Machine learning.
 I want to thank Coursera for this course and the opportunity that they gave me to learn and do my best to finish this part of the course. I am applying what I learned from this course and I will do my best to learn more.
 Very interesting course material!  Great introduction to Python's capabilities.The final project was fun and solidified the aspects taught in the class.  
   Recommend this for anyone interested in programming in Python.
 This course provides an excellent introduction to the language through video lectures, quizzes, and labs. Mathematical functions and visualization examples enable users to understand practical applications of the tool.
-Un buen curso de Python aplicado a la ciencia de datos. Recoges una buena base del lenguaje Python en cuanto a su sintaxis y facil de comprender. El curso esta muy bien estructurado y las laboratorios son muy buenos.
 it was a great experience and i want to thank IBM and Coursera fo presenting these valuable material and i highly recommend it for all people interested in learning Ai and machine learning to start with this course.
 the course is very good, pays attention to detail as not all learners are the same in grasping materials.Also, it is very demanding and requires continuous studies.Overall it's very educative, and engaging plus fun.
 Very interesting course to learn the essential concepts of Python. The examples and the exercises provide a clear view of this programming language and how to apply it to extract, manipulate and present your data.
@@ -1338,7 +1302,6 @@ I'm very impressed with the clear instructions given. At some points, I got anxi
 this is good for those people who wants to understand the basic of python,numpy,pandas and file handling.you also get knowledge of IBM watson cloud service and get the knowledge of API .
 They teach basic steps in python, also using the library panda and numpy. The classes are very well organized. I wish they could disponibilize and pdf material to review when necessary.t
 I have learned  syntax and the basic technique to deal with data-frame . It is very nice introduction to data science world . I am very  thankful to instructor Joseph Santarcangelo  Sir
-Buen curso si no tienes nada de conocimientos de Python. Muy básico y bien explicado. Para mí ha sido demasiado fácil ya que tenía bastantes conocimientos previos. Aún así recomendable.
 Great introduction to Python.  Obviously this course couldn't teach you everything about Python, but had just enough information to get you started and peek your interest to learn more.
 This is one of the finest and best courses to be enrolled and get  started to pursue our careers as Data Scientist ,Absolutely loved it ,and its very interactive in terms of everything
 The course address the basic python for data science and AI. It laid down a solid foundation to build on in the journey of becoming a professional data scientist in the nearest future.
@@ -1366,12 +1329,10 @@ it's really awsome course for beginners i learned basic python from this course 
 The course is well planned and taught with videos explaining the concepts and code briefly such that, the learner has a prior idea while practicing using the notebook lab file.
 Really well presented. As an experienced engineer, it was just what I needed to pick up Python but I imagine it can work for beginners too with a bit more homework and research
 Python course was nice from IBM. The instructor was good and you will learn a lot from these short videos. I recommend to take this course and find out yourself how good it is.
-Curso muy completando con una buena introducción al lenguaje Python, que te dará los conocimientos necesarios para comenzar a desarrollarte en el mundo de la Ciencia de Datos
 This was amazing. I already have 2 years of experience with Python, but only in a very limited functionality. And this made me fall in love with Pandas and Numpy. Thank you!
 I find it neccessary to say that the course was great, anyway a little bit more of practical exercises will be excelent anyway, focused on apply tehm in our day to day jobs
 The course is good enough for beginners and the final assignment was related to the topics reviewed trough  the classes.  I do not find any difficult to complete it at all
 Awesome and very helpful. This is my first step towards the Machine Learning & AI path. I am very much confident on my journey now as I got the kickstart with this course.
-Creo que está muy bien enfocado para personas con pocos conocimientos de programación y da unas nociones básicas pero muy concisas con las que puedes comenzar a trabajar.
 Great learning experience. I appreciate the  way of teaching and tests taken place. Now I am able to understand what is Python and how we can use for Data Science and AI.
 Very clear, even though sometimes quick (you can always have the chance to get back). Enjoy the final assignment (a bit more of a clue on scraping would have been handy).
 This course provides with the required knowledge about python programming and also helps us to study the course very easily and implement the techniques in our problems.
@@ -1451,7 +1412,6 @@ I really enjoyed learning and solving, as I progressed through the course it bec
 This Course helps me to put down my phobia of programming... Now I am more confident to continue programming way... Thank you Coursera & IBM.
 It is the best course and I learned a lot, I can remmember other things about developer and I am very happy for stay here. Tnank you so much!
 It was really cool. It was quite difficult to register everywhere in IBM cloud etc., but in general the course is strong enough and detailed
-Excelente curso, aprendí más de lo que esperaba. Buenas explicaciones y el curso cuenta con los temas mas importantes para iniciar en Python
 I enjoyed it. Good for beginners. As an experienced programmer, I completed all the assignments and quizzes n 12 hours. Would recommend it i
 Detailed explanation of Data structures, Libraries and APIs is provided with Jupyter Notebook files.  Thanks a lot to IBM and the Teachers.
 Covers basics of python in a single course. Much interesting. Both content and labs are informative and useful. Recommend this to everyone.
@@ -1524,12 +1484,10 @@ Python Course was very informative. After completed my assignment successfully I
 I loved the course but still figuring out the relevance of final assignment compared to the material thought in the course
 I am very happy for this course and Thanks full to Coursera and my experience is very good.and thanks again of coursera.
 A very basic introduction to python. Good course structure. Manageable even without any previous programming experience.
-O curso é bem completo. Apenas achei que os vídeos eram rápidos demais. Ficando a cargo do Lab um estudo mais detalhado.
 It was a good and crisp course which taught me fundamentals of python with two additional libraries of pandas and numpy.
 This Course is very helpful for all those who want to step into the world of Data Science and AI using Python language.
 Overall great content, but technical difficulties with accessing labs were painful and resulted in slowing the process.
 The course framework is very well designed. Introduction to the tools like IBM Watson studio will be very much helpful.
-Un curso introductorio que cumple con su objetivo, familiarizarnos con el uso de Phyton para realizar análisis de datos
 IBM has great courses. They are clear and concise and saves a lot of time compared to courses provided by universities.
 as beginner it was helpful for me i learn so much from this course. thank you Coursera for organize this course for us
 Very informative and well structured. The course gives all the basics for analysing data with Python. Excellent labs!
@@ -1545,7 +1503,6 @@ This course is as simplified as it can get and packed at the same time. Focusing
 Useful course. If some of the instructions for the final Dashboard assignment are made clearer, it would be helpful
 The course is helpful and essential to understand the basics of python and how its applied in Data Science and AI.
 Thank you very much for offering such an amazing course. Resourses and Practicals are very easy and user friendly.
-los videos y la metodología están bien didácticos fácil de entender, excelente trabajo con el material de estudio.
 Useful course. I learned the basics of programming in python, how to manipulate data file and extract information.
 This course is really helpful to the beginners.I learned basics in python for AI.I wish it would be useful to you.
 Good for starting level people like me to get a bite of python. Need more practice after this orientation session.
@@ -1656,7 +1613,6 @@ Really good course who wants to learn basic python operations and dive deeper to
 Excellent course, I enjoyed it and learned a lot interesting and useful stuffs. Very practical!
 Good explaining of python basics, good enough to start. Looking forward to have more challenges
 Nice course with challenging quizzes and well explained lectures to learn the basics of python.
-Me encanto el curso, el lenguaje de programación Python es muy potente y bastante comprensible.
 A really good course to brush up on your python skills and get introduced to Pandas and Numpy.
 Excellent to introduce you in the use of Python libraries and applications with Watson Studio.
 This course was very helpful and gave me a good understanding of Python and working with data.
@@ -1692,13 +1648,11 @@ I really like this course the curriculum is excellent and explains everything in
 Fully appropriate for new beginners, practical and systemized. recommended with full heart!
 Course is good, though video lecture could be more practical instead of being much robotic.
 I like the way they covered all of the topics needed to get started with numpy and pandas.
-muy buen curso, falta más ejercicios, no es necesario que entreguen la respuesta enseguida
 It was a great course although the final assignment was a bit though but really enjoyed it
 The course was give a better idea about python. this course is  really good for beginners.
 good course beginners can also take this course. Instructor explains very good evrything.
 I marked 4.5 for little difference between video and audio. Some small mistakes in video.
 end of the chapter assignment is challenging for a beginner level which is a great thing!
-Muy buen curso. Es claro y muy completo. Los videos y todo el material facil de entender.
 nice course, giving good knowledge of basic pandas and numpy needed for handling datasets
 Great starting to learn Python. It explains clearly pertaining the construction of codes.
 This is a good introductory course for those not knowing the python programming language.
@@ -1741,7 +1695,6 @@ Does not fully explain the dashboard project at the end but otherwise a great co
 The course is great in general, but I think the last assignment has to be more clear.
 Highly informative and great introductory exposure to Python applied in Data Science.
 A well designed course for introducing python basics and even data science libraries.
-Bien, un buen curso te lleva, paso a paso y te invita a profundizar en la literatura
 All the basic required for Data Sciences have been covered thoroughly. Great course!
 It is a  very comprehensive course. All the topics covered are explained preciously.
 Great environment CC - labs for learning python. Examples are great enjoed very much
@@ -1789,8 +1742,6 @@ Please put end project as per the content of the course with relevant material
 A Good Intro course for pandas and Regression Models. Simple and easy to learn
 Excellent, the labs are very useful, the information is clear and interactive!
 Great course for beginners.  Not too easy, not too difficult. Learned plenty!
-El curso me ha entregado herramientas muy útiles para mi desarrollo personal.
-Первое знакомство с библиотеками Pandas и Numpy. Попробовал поработать с API.
 a great course to give fool insights about the use of python in data science.
 Best course to get started with python in inclination to data science and AI.
 A very challenging course for beginners like us, I liked it,  encore! encore!
@@ -1807,7 +1758,6 @@ Thank you for building my confidence and great course and great lab sources.
 Very informative course. i thoroughly enjoyed this learning journey. thanks!
 Really nice course. Well explained. Gradually takes us from zero to expert.
 Informative and beneficial.A great introduction to Python for data science.
-Gracias por ayudarme a comprender mejor estos temas sobre AI y Data Science
 Course content was very good and explanation of the content was very useful
 Another Course completed and its time to enroll on next course!Great Course
 Good intro to Python - labs problems are great practice to cement learning.
@@ -1815,7 +1765,6 @@ The Python Basics course was very good. Quite a bit of work, but worth it.
 Good course material, which helps learn topics in a simple and easy manner
 This is a very good program for students from non-programming back ground.
 For learning basic python, this course is very good and simple I must say.
-Um ótimo curso para iniciar o entendimento de Ciência de Dados com Python.
 Very good as a starting point for a curious mind in the field data science
 awesome course  i will definitely recommend to my classmates in my college
 A very well organised course. Thank you for making such wonderful course.
@@ -1823,7 +1772,6 @@ It gives a very good overview of Python. Really beneficial for beginners.
 Thank You - I have learned a lot and cannot wait to start the next module
 It was a good course, though addition of a few examples more can be done.
 I liked this module a lot better, we are getting into the important faces
-Excelente curso para principiantes. No se olviden de tomar notas siempre.
 Very good course for foundational skills in Python for working with data.
 I have learnt a lot. Thank you Coursera for the opportunity. Great tutors
 I thank the coordinators for this wonderful course and the financial aid.
@@ -1843,7 +1791,6 @@ Simple and fun course. Well explained the basics for Python. Thank you!
 its superb i never done such a good and as well a cpmlex one like this.
 It's a very cool course ,I learned a lot from him ,Thank you for that .
 Good for someone who's looking to understand the very basics of Python.
-Muy recomendado, ha colmado mus expectativas y me ha servido de mucho!
 Must learn this cource, who convert your career into Data science & AI
 Good Course ,simple to understand core concept with good hands on lab.
 The content was very beautifully delivered. Could grasp every concept!
@@ -1857,7 +1804,6 @@ informative but not in depth, one without prior knowledge would suffer
 I enjoyed a lot with this course, learnt new concepts in data science
 Thank you! It was really helpful and made me get the basics of Python
 You will learn a lot from this course than a bunch of youtube videos.
-Este curso es muy bueno, si eres nuevo en Python debes verlo Si o Si.
 Great Videos and Exercises . Most informative course in series so far
 Very much helpful for me to start a career in the data science field.
 Excelent course to learn the basics python in focus to data science.
@@ -1865,7 +1811,6 @@ Great course, very well structured, fantastically designed exercises
 Demonstrated in simple examples . Very easy to understand and follow
 Excellent Course - Python for Data Science & Artificial Intelligence
 Thank you for your amazing course and generosity that you showed me.
-Aumente mis habilidades de programación de Python con Pandas y Numpy
 Good introductory course for python basics and related data modules.
 It is very good class. I really enjoy it. I learned a lot of things.
 Very fun and engaging...this makes learning a wonderful experience!!
@@ -1902,7 +1847,6 @@ learned me understand python more.and easy to learn and practice .
 A great intro and all around tutorial on Python and data science.
 Amazing, but could you help us install python and related modules
 Good content . The learning track is smooth and very informative.
-Me gustó mucho, aunque me gustaria que fuera un poco mas practico
 One of the best courses until now! I feel really happy of took it
 This course is the best fit for Beginners.  A content-rich course
 Good basic introduction.Excellent course material. Loved this one
@@ -1956,7 +1900,6 @@ very nice to learn easy things like python and pandas, numpy
 Great. Really helped me get going in my journey into python!
 Best course for python basic understanding using IBM Watson.
 Very complete course ! Great structure and support materials
-ce cours a été très bien  dispensé ,bravo aux instructeurs!!
 beautiful and simple introduction to Python and Data science
 the course was interesting i get my information about python
 Very good into to Python and how it's used for Data Science.
@@ -2004,7 +1947,6 @@ A very clear content , thank you for this amazing course
 Amazing course content! Had a great learning experience.
 Good course to learn or refresh on the basics of Python.
 I was a math major and this one is a good bridge course.
-BETTER APPROACH FOR LEARNING DATA SCIENCE THROUGH PYTHON
 good course! good introduction to python and its syntax.
 Great introduction to Python and Python for Data Science
 Really teaching was awesome. Enjoyed alot while learning
@@ -2012,7 +1954,6 @@ This lectures and his contents is too helpful.Thank you.
 Great for beginners, brushes up the python skills too!!
 i think it gives a good introduction for data handling.
 Awesome and very helpful platform to learn and upskill.
-Muy bueno, requiere mucha autodisciplina para practicar
 Good Course to get started with python for data science
 Its really Good Course to learn and Explore the Python.
 One of the wonderfull course and looking for job in IBM
@@ -2038,7 +1979,6 @@ the overall course was very dynamic i enjoyed it a lot
 Best for learners who're interested in AI or ML or DS.
 Learning this course made me competent in the industry
 Great course. I especially liked the final assignment!
-Útil. Te permite tener un primer contacto con Python.
 simple step by step explanation with usefull examples
 Gentle introduction to programming basics with python
 Explanations are very helpful and easy to understand!
@@ -2078,7 +2018,6 @@ Very helpfull if you are a started in the subject.
 Indeed a good and informative course for beginners
 Quite fun and discovering Watson was a nice bonus.
 It is a beautiful course.Lot of learned from this.
-Все понятно и очень удобно, спасибо авторам курса.
 This is one of the finest course I have ever done.
 This is a great course. It's easy to understand :)
 Pretty Decent Course in Intro to Python and AI ...
@@ -2204,7 +2143,6 @@ Comprehensive and very well framed course
 Very basic and simple course for beginner
 Good start for a beginner in Data Science
 Excellent fast track learning for python!
-这个对新手非常有用，讲的很详细啦，就是最后的作业最后一题貌似没有在课上提到过哈哈哈
 Need more dashboard examples and lectures
 A great course to get exposed to python!!
 Good overview of the programming language
@@ -2310,7 +2248,6 @@ Thank so much for this online ....
 It's a good start for Data Science
 Good course for beginner in Python
 great course! learn from practice!
-Very Interesting ang user friendly
 Pretty good package for a beginner
 Highly interactive Python tutorial
 Great course. SImple and efficient
@@ -2321,7 +2258,6 @@ Very good course! I learned a lot!
 Interactive and effective learning
 very helpful! thank you coursera,
 Amazing Learning Experience!!! :)
-Best Course available till now!!!
 It was educational and beneficial
 Awesome course for Python Basics!
 Good course.... lots of material!
@@ -2340,10 +2276,8 @@ A lot to learn from this course.
 Good Course for learning Python.
 Easy to follow and very engaging
 Its really great course by IBM .
-For Beginners level is excellent
 The course was very much useful.
 best course i have seen till now
-excellent for beginner in python
 lovely n i enjoyed learning it.
 This course force you to learn!
 Very helpful course. Thank you!
@@ -2376,7 +2310,6 @@ Very well structured contents
 A very great course .Loved it
 It was really great to learn!
 This Course helped me a lot .
-Excelente, i have learn a lot
 Good course to take up Python
 Very good course for beginner
 perfect course for beginners.
@@ -2389,7 +2322,6 @@ Great and complete course¡ :)
 best course for python basics
 Very simple and useful course
 big oppurtunity to learn....
-Well organized and delivered
 It's a great course. Thanks.
 great course and well taught
 Very useful and nice content
@@ -2399,7 +2331,6 @@ Good and Neat Ordered Course
 it was very excellent course
 Good for the Beginners like.
 good course for basic python
-merci coursera pour ce cours
 Great lectures for beginners
 Brilliantly crafted course!!
 Amazing course for Beginners
@@ -2415,17 +2346,13 @@ Very nice structured course
 Very good platform to learn
 Nicely tailored curriculum.
 best course to learn python
-Excellent Python Experience
 Very Challenging Course!!!
 Good comprehensive course.
 Nice content to start with
-Excelente, recomendadisimo
-Very useful for a beginner
 wow!!Great course to study
 Excellent Course, Thanks!!
 It's best to get knowledge
 Really good for beginners.
-IT'S A VERY AMAZING COURSE
 this is very helpful group
 THIS COURSE IS AWESOME !!!
 Very interesting course !!
@@ -2433,10 +2360,7 @@ Exceptionally well drafted
 EXCELLENT,NIMBLE AND AGILE
 Great course, recommended!
 Good learning and practice
-Final Assignment quite con
-Very Useful for Beginners
 had a great experience...
-Challenging for beginners
 Best learning experience!
 nice design of the course
 Learn a lot in this class
@@ -2447,18 +2371,14 @@ A challenging experience!
 Great course!  Thank you!
 good training for newbies
 Thanks so much! So great!
-EXCELLENT LEARNING COURSE
 Amazing course.Loved it!
-Excellent course so far!
 Fantstic and easy going.
 Excelent course. Thanks.
 best introductory course
 Course content is good!.
 very very usefull course
-Great course, excellent.
 good introductory course
 The course was great...
-muy util. aprendí mucho
 very good, thanks a lot
 Goodintroductorycourse.
 Great Experience Thanks
@@ -2481,7 +2401,6 @@ Good for Introduction.
 simple and informative
 Pretty amazing course!
 Great intro to Python.
-great practical course
 Nice, explained course
 good intro to py + ds
 it is mindblowing ...
@@ -2490,55 +2409,40 @@ Great beginner course
 Grat teaching method!
 Very use full course.
 basic clear on python
-Excellent intrduction
 Great python intro!!!
 Great lessons and lab
 Very useful material
 thanks for teaching.
-21 st  century skill
 nice teaching videos
 Absolutly fantastic.
 Easy and Effective!!
-A very good overview
 Simple and efficient
 Awesome learning :)
 Fantastic Course !!
 Very easy to follow
-Good course design!
 This Is excellent!!
 Very Comprehensive.
 very good, thanks!
 Very useful class!
-uno de los mejores
 Nice Course by IBM
 Nice!! I loved it.
 Very Professional.
-EXCELLENT COURSE!!
 Thank you coursera
-Excellent approuch
-best for beginners
 Its a great course
 Thanks so much IBM
-Great fundamentals
 Greate course!!!!
 very easy  course
 Very Good Content
 One of the best !
-So useful course!
 thank you Joseph!
-Excellent course!
 tough to complete
-great great great
-Course is superb
 Good course work
 inspiring course
 really practical
 Great course !!!
 Well Done Course
-Very convenient.
 Its very useful.
 Muy profesional
-Nice Experience
 100% satisfied.
 Easy and useful
 Awesome Program
@@ -2546,43 +2450,13 @@ I LOVE THIS ONE
 Really Useful!
 Really Helpful
 good course ..
-just awesome !
 Great insights
 Good Lectures.
-very good one
-课程内容很有用，很有实践性
-Nice content!
-i like this:D
 It is helpful
 Good- overall
-it was graet
-Grate course
 recommended!
-good program
-quite useful
-IBM is best
 Chat bot *)
-intéressant
-Awesome!!!!
-nice cousre
 Nice basics
-challenging
 Loved it !!
-good stuff!
-outstanding
 easy course
-Great job!
-Execellent
-Exccelent
-Help full
-difficult
 awsm one
-Good! :)
-amzing
-happpy
-AAA+++
-good!!
-ossum
-GOOd
-Goog
-III

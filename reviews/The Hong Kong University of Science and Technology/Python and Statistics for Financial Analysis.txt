@@ -106,7 +106,6 @@ More explanation were required on the codes, being a beginner level course.
 Pretty solid course, kind of difficult to grasp at times to a newcomer.
 No coding based assignments. Not too useful.
 The videos could have been more explanatory.
-Es un curso para interesados en trading
 its a good learning experience for me
 the content is amazing but outdated
 It was a bit hard to follow
@@ -128,14 +127,12 @@ A wonderful course to get an introduction into financial statistics and a few py
 This course is a good starter for you to apply financial analysis by using Statistics models with Python programming.  If you have experiments in either programming or statistics, you will find lessons are quite easy to understand.  I recommend classmates could take a look at some python plugins such as flask, yfinance.  They are wonderful tools for further study.
 The course was helpful and definitely interesting. The only problem I found was that a lot of pre-existing knowledge was required and I had luckily studied some of it but the course did not cover it, It would also be helpful to add more indicators to show what each variable stands for in the formula since I found myself forgetting and had to rewind.
 The course provides a very good learning experience. The course explains the various statistics that go into evaluation of stock data and further its execution using Python. The explanations could be bettered as there were many instances where pronunciations could not be comprehended. Overall the course provides a good learning experience!
-전공이 금웅공학이나 금융분야는 아니지만 관심이 많아 찾아보던중 이 강의를 들어보았습니다. 결과적으로 말씀드리면 이 강의는 대학교의 명성만큼 어느정도 수준이 높은 강의이며, 기초지식으로 파이썬과 통계학을 요구합니다. 저같은 경우, 전공이 IT여서 파이썬과 통계학을 배웠음에도 불구하고 금융적인 해석능력이 부족하여 많이 고생하였습니다. 만약 이 강의를 듣기를 고민하고 있다면, 자신이 통계학과 파이썬을 어느정도 할 수 있는지 자체 레벨테스트를 할 필요가 있습니다. 강의의 구성과 교수님의 설명은 전체적으로 만족스럽습니다. 이 교수님이 조금 더 낮은 레벨의 강의를 개설하여 입문자를 더 많이 늘렸으면 좋겠네요.
 Great Intro. course to Python application in the Financial domain.  It will be beneficial to have some Python and Pandas background.  Good examples, very practical. It's a great course - with many practical examples.  But this course needs some basic Statistics and Python knowledge to really follow along with some "deep concepts".
 It is a short and well organized course with a gently introduction to the popular Python's data analysis library, Pandas. In addition, the course shows sufficient statistical and financial tools to build simple and practical strategies that put some light on the obscure (at least for some people) market stock analysis.
 First course I've completed using Coursera initially found it difficult to get to grips with embedded python, but quickly got to grips with it, really interesting course and a brilliant introduction to python and statistics for financial analysis think the course was really well structured.
 Generally a very informative course on how to use python for financial analysis. Some of the concepts are not clearly explained. Would recommend to have a little basic finance background and to have some ideas about statistics as these concepts are only vaguely explained during the course.
 Good and quick course for beginner to use python for financial analysis. The Jupyter Notebook is advanced development environment for python and academic/scientific researcher, but difficult for beginner. Would suggest to have a summary card for all the commands used during the course.
 Good pace, instructor at times is hard to understand, had to look at the transcript to understand some parts.  Course only scratches the basic parts of python and statistics -- good beginner course, but may require small knowledge of python and basic statistics before beginning.
-Es un curso que presenta conceptos interesantes sobre el mercado bursatil, y explica de manera clara la manera en que se pueden analizar los comportamientos de diferentes indices bursatiles. Es importante tener conceptos previos de estadística y algo de logica de programación.
 The content of the course is really good.The amount and density of the information for the last week is high. Specially compared with first week. Would be great if it could be balanced information per week.Time to time the (English) pronunciation wasn't good enough.
 The course has offer me a insight in Python in Statistics and how I can implement in the field of Finance.Overall difficulty was moderate to high, Week 4 was way to difficulty, I would suggest that  a person with Knowledge on Statistics should apply to this course
 I agree the content is extremely useful, especially, for people who are starting to learn about finance, and statistics. The only complain was that my expectations were rather a focus in python than in the finance concepts themselves. Overall, a great course
@@ -156,7 +153,6 @@ Great fundamental course. However, some codes are outdated and it is somewhat tr
 The linear regression part is useful and the trading strategy is also very helpful and inspiring. But statistics knowledge is definitely required to gain a thorough understanding of the topics.
 Gives a good introduction to the topic but I needed to allocate time for further reading on the topics presented and to fully grasp the concept, which is more or less expected of any student.
 This course explained the Python code in great details and the forum for support was great. I would like if there were more materials to read to understanding the statistics that were used.
-Deberían actualizar los codigos que cambiaron porque es muy dificil sino para alguien que no sabe de python buscarlo por su cuenta. Por ejemplo, el codigo para importar archivos csv cambio
 It was a very good course that gave me quick and dirty tips on how to use python to generate statistical analysis of finance data. Need to update some of the course materials though.
 Some spelling mistakes in the course materials, but otherwise a good overview of the topic. Would have liked to see the notebooks be more interactive, like for weeks 1 and 2.
 The study materials and lectures are really helpful to gain the required knowledge of Python and its application in financial field. The model creation was the best one.
@@ -166,7 +162,6 @@ Is a good course for begginers in python, but you should really have a backgroun
 Good introduction to Python. Need aforelearnt competencies in statistics. Course goes a bit too fast concerning the translation of statistiques to python
 It was an interresting course which helped me to discover statistics and financial word and to learn how to use python to deploy analysis of the markets
 There should be 2 programming assignments as well. That will make the course more challenging and difficult to pass by just skimming through videos
-Muy buen curso sin embargo tienes que tener un poco de conociemiento de python ya que con el transcurso del curso el enfoque es más en estadística.
 Some statistical concepts required more explanation than provided. Often I had to learn about the concepts myself. Otherwise, it's a great course.
 I thought this offered a very valuable introduction in to the use of Pandas within Python, with work through notebooks and examples in the videos.
 Overall the course is good but the python codes used are not explained properly. So for python beginners like me, it was difficult to understand.
@@ -217,7 +212,6 @@ Clear and good for people without statistics and programming background.
 Great course. Probably one of the simplest and easiest to understand.
 Exceptionally good and great to be part of such knowledgeable study
 I expect that this lesson will follow multi-lingual up from now on.
-Si buscas un curso de introducción rápido, este esta bastante bien.
 Good content but no one to answer questions in discussion forum.
 A very useful course for python and statics financial analysis!
 HI, This course is amazing but i need more practice in it.
@@ -226,16 +220,12 @@ Course was useful but English level was not very good
 A little short and sparse on the financial analysis.
 A great introductory course to Python and Statistics
 The course was very informative and knwoledgeable.
-很好的了解python在投资领域基于统计学应用的基础全景。关键内容部分还可以讲的细致一点。
 Great Practical Learning,less theoritical
-Lectures can be a bit more descriptive.
 Overall good, efficient and quick.
 Should have been more brief!!!
 It is a good course
 i have learned alot
-Fundamental level
 Lovely couse
-pros(1) h
 this course is very practical! it explains how statistic concepts can be applied into financial-related examples using python. some argue the course do not cover enough of python nor financial, nor statistics concepts. hey man !!! this course is not a baby intro course!!! it assumes you are either strong in one/some of the aspects (either you are strong in computer, or stats, or finance), and you want to see how the other aspects can be combined to work out something valuable. do you need to learn everything about a car before driving it? you just learn what you need to get the car moving man!!This course is not spoon-feeding like your elementary school teachers!!! Professor taught you something, and you are expected to study further on your own. i am not good at stat, but I know programming reasonably well, I know where i should pick up some statistics to understand the materials.you will be able to find tons of courses that introduces programming language/statistics, but they never tell you how useful the programming language/statistics is in real life. But this course is so practical that I can pick up the knowledge and use immediately. Highly appreciate professor xu's effort in creating this valuable course!
 This gives a application of all the three famous sectors viz, finance, python and statistics. Actually speaking i am searching for these kind of courses and did not get one. Atlast got this one for my solace.  This suited my need.  This course cannot be easily designed as other courses . This really needs one time . Thanks to the person who devised the course and also to the instructor Mr. Xuhu Wan for his meticulous time to provide the information in a precise way. Infact the while explaining errors actually in a very short time he explained the unexplained, explained and total error in a concise and apt way. Really this a wonderful course. ThanksSabarinathan alias Cheryn
 I have no finance background. But i have some extent of programming knowledge. I learn a lot from this course not only finance terms, meaning behind them and how we apply statistic using python to analyze, evaluate and predict market. This course is very pratical thank you Professor Wan!
@@ -248,7 +238,6 @@ The course is highly practical and teaches useful skills in programming, statist
 This course takes you from the basics to the more advanced stages of statistics, while teaching you python (even if you have never used it before) and how to build your own financial strategy. It is well rounded and pushes you to learn.
 A very good introduction course to python programming and it has a perfect combination with statistics, which makes financial analysis more interesting and refresh my mind on it, thanks.
 The videos in this course are exceptional and very interesting. The Jupyter notebooks provide a good template for applying the methods and techniques.
-Verywelldone
 The Coursera overview of this course is exactly what it turns out to be.  Prof. Wan does a nice job of balancing this 3-legged stool:  1) a bit of Python (mostly about the pandas and numpy libraries), 2) basic Financial modeling for informed trading, and 3) the long leg of the stool - statistics! If you haven't had like stats 101 and 102 you will be running hard to digest this intensely powerful information.  For me this was first a review but then took me into places I hadn't been yet. I'm still going over it.  The statistical principles shown here can be applied to many different real world situations. It could be categorized as 'supervised learning'.The Python coding (library implementations of the math formula/equations) is made seamless with the Jupyter notebook examples.  Drink the Kool Aid!
 I audited the course for free and I liked it very much. I feel I learned a lot.   I wanted to purchase the shareable cerfitificate, after I completed all my work and passed all the tests (I didn't purchase it when a message offering the cerfificate kept popping up during the course).  However, the instructions to purchase the cerficate after having taken the course leave a lot to be desired.   It should be easier.  There should be a button, right on the course's page that I could just click on in order to pay and then be  done.   The instructions sent me all over the place,  from page to page.   I'm still not able to find a way to purchase my cerficate .   Frustrating!  I guess I can do without it.   Other than that,  Great Course!
 I, Anjali Krishna R, after completing this course can say that this course really helped me to have a clear understanding of my knowledge in the field of statistics and cleared some doubts which I had earlier.  It also helped to know some more concepts of using python. Earlier I thought python is so difficult etc. Totally, I am really thankful and sincerely thanking the professor for everything ie in the field of your explaining those facts and the subtitle. Really I enjoyed doing this course and may it help me to achieve a career with this course. Thank You.
@@ -268,17 +257,6 @@ I am a student in his Statistics class at the Hong Kong University of Science an
 A very informative course, getting more intense every week.The professor goes through the statistics needed to understand end evaluate linear models using stock data and at the end it guides through building a daily prediction for SPY.The only drawback are that the video might look short, but they are dense, and sometimes the professor use different names for the same concept, leaving you to connect the different names, e.g. Error ≈ Residual.
 A short course that shows how to handle time series data, run a multiple linear regression on it, and evaluate the results. This is only an introductory course, and as such it is clear and concise and thus deserving of 5 stars. However it only touches the surface of Python, statistics or trading. As for trading - before risking Real Money - it is strongly advised to learn much more on the subject of stock markets.
 Learning Python for statistics and its power through real life examples of Stock markets maintains the interest in learning uninterrupted. Thanks to Prof. Xuhu Wan for making the learning so interesting and simple- minute details of both, the Stock market and Python, I owe all my knowings of market and trends to him for simplifying the most confusing statistics in the world.
-Bonsoir, 
-
-vraiment avec une immense joie que je vous écris ce message, merci à toute l'équipe qu'a su faire preuve de professionnalisme, vraiment c'est été un contenu incontournable, qui va m'aider beaucoup de mon travail de recherche, je vous encore une fois pour ce cours et je vais rester fidèle à tous vos cours en ligne.
-
-
-
-AMZILE Karim
-
-Rabat,Morocco
-
-+212600652676
 Good course! It demonstrates how python can be applied on financial analysis. Better to have some prior knowledge on python and statistics before taking the course because this course seems to aim at showing the relationship between textbook statistics and python in financial analysis instead of teaching you basic concepts from scratch.
 very good. more description of each of the words, atleast definition would be helpful. Use a white board to draw a picture or show something relevant to the words/subject.  I don't know, this correct approach or not.I did not buy the certificate, It cost a lot $50. If it is $5. I would consider. thank you
 A complete course about Statistics and Econometrics tools for finance. I appreciated Jupiter notebook that made it very useful and full of practical applications. The level of the course is bachelor's degree. Recommended for whom who have a previous experience with statistics and wish a refresh on it.
@@ -297,8 +275,6 @@ Overall, the course was good, but I felt that the course was a bit abrupt in its
 I'm a Finance student and given the current job market, programming knowleedge is more valuable than ever, you need to know how to code if you want to be in this sector, at first is a little bit difficult but then you catch on
 If your major is Economics or Finance and you want to apply programming skills to economic data, this course will suit you. I am in my last year of BSc of Economics at Barcelona University and this course met my expectations!
 It is a great course to learn the core concepts of statistics (or review them in case you already knew), apply linear regression models to stocks markets real data and to understand why and how we should apply all together.
-Apesar de estar um pouco defasado (utiliza recursos de Python 2 e alguns comandos obsoletos), o curso é excelente e serve como uma ótima introdução ao uso prático da linguagem e de análises no mercado de finanças.
-ha sido fantástico poder aprender por esta vía. agradecimiento total por dar esta posibilidad. el material muy bueno he interesante para mayor desarrollo, ya espero el siguiente curso mas avanzado. MUCHAS GRACIAS.
 I have had an interest for Fintech and this course helped me a lot.The language is very simple the assignments were perfect to judge our knowledge and the jupyter environment is awesome too.Enjoyed learning.
 Although some updates in libraries are missing, the course has very good material. If want to get the best of the course  you have to do some research by your own to understand clearly all the concepts.
 Very clear explaining of the significant aspects when structuring a financial analysis, applicable in many forms of data if you don't want to make predictions only for the stock market.
@@ -365,12 +341,10 @@ Quick access to python syntax. Basics in statistic and finance implemented. good
 Really great resource for learning how Python can be applied in the financial world!!!
 Good course for a python programmer to get up and running with financial data analysis
 Very nice course, helped me a lot find the materials i need to understand statistics.
-El curso es bastante interesante y cuenta con una metodología de enseñanza muy buena.
 Great course for someone who wants to learn basics on the topic. Really useful stuff.
 It was awesome all the information I learnt about how applied Statistics to Finance
 Is a great introductory course about the statistics behind the financial analysis.
 Nice course for a novice to gain some techincalities which can be used on trading.
-Muy buen curso para introducirse en la programación aplicada en finanzas en Python
 Very clearly taught. Thank you for offering me such a good beginning for Python.
 Very useful course for the python program aspiratnts related to Finance stream.
 One of the best course for a beginner to learn Financial Analysis using Python.
@@ -378,7 +352,6 @@ Thank you very much for this useful course. I hope to join many course from you
 well structured and easy to follow. Very clear and descriptive lecture videos.
 Clearly and not boring. A good course to start a deeper dive into the subject.
 I learned new concepts and practiced Python along with many Python libraries.
-Bastante didáctico, te recomendaría complementar con otros cursos de python.
 The course is great for anyone interested with some basic python knowledge.
 I great and easy-to-understand course to learn python for basic statistics!
 The course content is awesome. Jupyter Notebook files are super helpful...
@@ -386,7 +359,6 @@ Hard subject to grasp for a novice, but material and professor was superb!
 very clear. covered all topics from basic statistics. highly recommended.
 I have learned how to use use python to build and validate leaner model,
 Great class, and useful material that has engaging Jupytr interactions!
-Enriquecedor y muy completo. El profesor explica súper bien los temas.
 First coursera course, definitely a great preparation for deeper study
 Clear instruction and very useful python code for applied case study.
 Basic and great course with practical learning. 10 out of 10 for me.
@@ -394,7 +366,6 @@ I learned a lot related to regression models and taking predictions.
 One of the best courses, teaching about the applications of python.
 Good Course for the Finance person who wants to know and use Python
 Excellent! Very complete course, I would definitely recommend it.
-Este é um dos melhores cursos que eu já fiz. Obrigado Coursera.
 You can learn a lots of practical knowledge from this course.
 Very useful overview of dataframe analysis and visualization!
 Great set of materials and practical examples! Very useful!
@@ -408,10 +379,8 @@ Excellent guide for freshman to financial analysis.
 I liked it, simple and nicely explained. Practical
 More python courses with finance topics, love it!
 Good course help me in learning skills of python
-Excellent. Very important for financial analysis
 Its good for career development in stock market
 It was an amazing learning Financial Analysis.
-Lo encontré completo y evaluaciones muy amenas
 Excelent material, and very good explanations
 The teacher is very clear and go to the point
 Thanks for teaching in easy and simple words.
@@ -423,17 +392,14 @@ Very nice and practical course. Loved it.
 Nice introduction to trading algorithms
 This course is really nice for beginner
 Great class for quick dive into python!
-Muy buen curso, nada mal para iniciar.
 Course materials were really helpful.
 well illustrated and practical skills
 Great course with practical material
-VERY EASY TO UNDERSTAND AND HELPFUL
 Great course by a great instructor.
 Very helpful course for my career
 quite a good course for beginners
 Excellent and really Insightfull.
 Very good course and informative
-Me gustoEs un curso muy completo
 Good knowledge. Great concept!
 amazing learning experience.
 Thanks, it is a great course
@@ -443,17 +409,11 @@ Great job! Learned a LOT!
 Such a very good course!
 Outstanding This course
 Amazing Course to learn
-nice course and content
 Very interesting class.
 Good course. thank you
-friendly to beginners
-Videos were  good ..
 Good introduction..
 Great! Thank you :)
 Power of knowledge
 Nice Introduction!
 I enjoy very much
 whatta wow :D
-很不錯，但最後的回歸有點難
-Very usseful
-good !

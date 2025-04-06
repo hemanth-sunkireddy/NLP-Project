@@ -61,7 +61,6 @@ Interesting things to know. Important concepts, not too difficult.
 liked the peer reviews, discussions and practical assesments
 Hope the SLI/SLO samples could cover more secenarios.
 Too Simplified explanation
-Excellent study Containt
 This course was the kickoff I needed on SRE. It was a really fast way of learning the ropes, and enough to get me super invested and love the free books. After going through the Course I saved money and bought the SRE book, the work book, and the Seeking SRE book.
 Super course very much interactive, it is not only course, but it will also help us to improve our skill in SRE, this really good and good course for day to day work on the production system and monitoring Good I am part this course
 The exercises for defining SLI and target SLOs were helpful in understanding the theory better. The videos run through the material rapidly and I had to typically review some critical ones more than twice. Well structured course.
@@ -83,7 +82,6 @@ Very well structured course with 4 peer-graded exercises with the right level of
 Excellent course. This course sets the right expectations on what an SRE is and the key focus areas. SRE is widely spoken of, but every one may have a different idea. I got clarity on what an SRE is actually supposed to concentrate on, and do. The assignments give more in-depth
 This is one of the most important course for any Systems engineer to take. It is intense and pushes you to the limit. But most importantly you will walk away with a very rare and important skill that only a few people in this world have. You can tell yourself  "I am an SRE"
 With this course, I was able to learn the core concepts of Site Reliability Engineering.I was also able to put those concepts into practice by completing the assignments.The assignments were very challenging but they are worth the effort!
-Es un curso que ayuda a visualizar de mejor forma la manera en cómo nuestros sistemas operan ante los usuarios, lo confiables que son, qué tan rápidos funcionan e identificar puntualmente en qué áreas hay mejoras por realizar
 The course is well crafted in a sequence which guides one to understand how should one create and manage SLIs for SLO. Would recommend this for others to take this course and get to know about another dimension of Support.
 I found this training very engaging, the content was good and the tasks we were expected to complete reinforced the learning. Reliability is a feature and everyone has a responsibility to make our users happy!
 SRE is not 100% technical course like other cloud services  ( VM Instances, Storage , Compute ...etc) .   It is very well designed and explained .  Very very interactive and thought provoking
@@ -126,11 +124,9 @@ This is a truly informative course. I learned a lot about SLI & SLO.
 Effective course to get a good overview on Reliability Engineering
 Very informative and recommended for SREs and Management Teams
 Too good training with excellent assignments. Very useful !
-Excelente curso para entender e iniciarse en el area de SRE
 Excellent course to understand and practise SRE principles
 Great intro into SRE mindset and reliability perspective.
 Very methodological but interesting ideas and concepts.
-It's unique course structure and enjoyed the learning
 The Risk Analysis Module really helped me a lot.
 Great course for SRE to understand the need.
 Very Useful course and Clear explanation
@@ -139,7 +135,6 @@ Thanks a lot for the excellent course.
 Very good course on SRE concepts.
 Very useful in my day at work
 Very useful and insightful.
-Very practical exercises.
 Great course and material
 great learning experince
 the best course of sre

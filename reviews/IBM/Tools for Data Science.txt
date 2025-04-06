@@ -105,7 +105,6 @@ Absolute waste of money and time. The videos are outdated and can not be followe
 The course felt poorly structured. Quizes ask questions that have not been covered yet. Have had to use a lot of secondary resources, googling,  to understand terms. The videos would reference tabs that didn't actually exist in the jupyter workbooks. All in all a rather unsatisfactory experience compared to the first course.
 I'm sorry but I felt like there was not much guidance in using the tools you introduced us to. I was able to get 100% on all my tests while not being able to press single button on apache zeppelin - still completely don't know how to use this program. Your links don't work, videos are outdated and forum doesn't help either.
 During the final portion of this course, it got confusing and their was no one to help.  I stumbled throw this course.  Even when I tried to email or text or go to the discussion page, no one to help me.  I am not sure I want to go any further using your course.  I guess it's like the old saying "You get what you pay for".
-No puedo calificarlo bien, por mas que quice hacerlo . Si hablas español es mejor no cintinuar el curso, puesto que el Programa Watson studio está muy desfasado en actualizaciones de una región a otra He batallado mucho en enviar tareas etc .  al final me decidí por otro curso en ésta plataforma
 A very bad course!!!Extremely disappointed  by this course. It was meant to be for beginners, but the explanation was not understandable for beginners. Even the videos were very short and didn't explain some of the very basic parts. Worst experience I every had with any of the coursera courses.
 Not very useful at all. Basically just a marketing campaign for IBM. The fact that they dare charge for this course or any of the other in this specialization is outrageous. Most of the content is outdated and the tools they force you to use have been updated so the content is not aligned.
 Coursera needs to update the material and almost all of the videos. It is frustrating and time-consuming to figure things out on IBM Watson Studio when the instructions are non-existent. You need to go through the forums and discussion-threads to figure out how the Jupyter notebooks work.
@@ -141,7 +140,6 @@ The information is given in such a boring matter that it's impossible to keep yo
 The course material (the videos) do not match with what IBM Watson Studio offers online. I wasted a lot of time to figure out some technical details which is not clear in your videos. So I gave up...
 The course study material is outdated and there is no support for the issued faced during the assignment. I am unable to complete the the assignment and have to move forward without the certificate.
 The course needs more instructions on the basic and more study materials. As the course suggests, you do not need programming background, but it was taught like one understands the basics and more.
-al comienzo dicen que es para principiantes pero las explicaciones están por la mitad,  y cuando realmente un principiante quiere aprender se ve atorado con el contenido por que es muy técnico.
 The information was random and did not match up with the videos. This was not taught as a beginner's class. The instructions were unclear; was missing parts and needed a lot of clarification .
 The topics are not covered from the base which makes it difficult for the beginners. Further the videos on the application are very poor as they are all out dated. Kindly update the videos.
 Awful course. IBM Watson Studio, the platform where you are supposed to do the final assignment, doesn't work properly and nobody cares. There are no instructors or moderators on the forum.
@@ -189,7 +187,6 @@ videos are not helpful at all. you have to find other sources to complete this c
 Totally redundant.. I get the IBM promotion agenda, but it is not useful in this stage
 Update the videos, I do not understand how can you charge for an non updated ourse,
 Watson studio connectivity is poor. Lectures are not in-depth and not professional
-Mi certificado no aparece el nombre de IBM en grande solo se ven rallas azules
 The instructions of the videos for completing the graded project are outdated.
 Not too much things introduced. Just let you open an account in IBM cloud.
 Poorly explained. The Git hub part needs to be rethought.  Disappointing.
@@ -222,8 +219,6 @@ very simple and limited skill
 Out of date course materials
 so unnecessary learning path
 THE LAB CANNOT BE ACCESSED .
-You have to update video!!!
-Le cours n'est pas a jour!
 Marketing, not education.
 No depth whatsoever.
 watson studio sucks
@@ -231,11 +226,8 @@ Need to be updated
 out of date links
 So outdated... :(
 update the videos
-Quite Useless
 Not updated
 Very bad
-so bad!
-useless
 the videos are outdated.if you register watson studio with default settings (your country insted of USA) chances are it will not work
 Course videos are outdated as of 1/14/2019. This lead to a lot of time wasted checking the discussion boards for answers. Otherwise it's a great course.
 Very meager overview of tools. No explanation of what you are doing, videos are outdated, no explanation of the differences between the tools (when do you choose which tools), system was down for a long time, links are not working correctly. It looks as if this module was made years ago and then systems developed but the course was never updated. Course leaders is not working anymore for IBM already for more than a year. IBM you can do better!
@@ -321,7 +313,6 @@ This course is very short, and, moreover, I had met some negative moments such a
 annoying that you need to upload your jupyter notebook via watson studio. besides that the data science experience doesnt exist anymore, so the last week was not great material in my opinion.
 For me better if it will be some docker image with required tools. But there is a promotion to use some external tools, that, as for me, not suitable for some research and development.
 I'm afraid I did not enjoy this course because I spent more time with IBM tech support that with the actual learning activities. And by looking at the forum, I wasn't the only one....
-La explicación de los videos y la realidad no se parecen en nada. Sin actualización si hay cambios,  el esfuerzo es muy elevado. He estado muy a punto de abandonar el curso entero.
 the course is not up to date with the latest interfaces of the open tools sites, causing a lot of confusion and need to wait for an instructor/mentor to reply in the forum section.
 The courses "What is Data Science" and "Open Source tools for Data Science" could be merged in one, there would be a better explanation about the tools available from IBM....
 Some useful explanation of how to use Jupyther/Github/R but also lots of time wasted on presenting, over and over, IBM's tools and some very poor quality videos for Github.
@@ -371,7 +362,6 @@ Unfortunately a lot of this course is dated with instructions that no longer wor
 Videos and text is redundant.  Project is too easy.  Course should be complete-able within one week, not three.
 Confusing sections because interfaces presented are different than the current tool.Needs to to be updated!!!
 course videos are outdated. hence its tedious to follow the assignments and software by watching the videos.
-Las plataformas de IBM dejan mucho que desear, tuve muchos problemas iniciando sesión en IBM watson studio.
 Need to update videos. Not the same as current webpage layout. I love Jupyter Notebooks though!Keep it up!
 The course is outdated. It was very different to work on it now compared to what is shown in the videos.
 Please Update Watson videovery old links and informationthe reward link for 6 month promo does not work
@@ -433,7 +423,6 @@ not that clear for new.
 only basic information
 Mainly self-promotion
 too high syllabus
-Outdated slides.
 Outdated
 While the content was informative, the tutorials are not well matched to the work required and there is zero support available, other than the discussion Forum where many others have been waiting weeks for helpful responses.  I have learned from this course to look outside Coursera for support when trying to accomplish the course objectives.  This is not what I expected.  You will see, if you search the internet, many other tutorials exist which actually provide feedback in real time..especially for working in R.  I come to this course with no prior computer programming experience which is likely the reason I have struggled and been so lost. This was promoted as a beginner course but you will see, if you go through the lessons yourself, as if you were a new learner, that suppositions have made about the learner possessing prior knowledge to succeed in this course.  If you read the discussion Forum you will see several people expressing surprise that IBM is associated with a course this poorly organized and supported. I was excited to learn about the many Open Source Tools available for Data Science, and did appreciate the exposure to Watson Studio. I plan to revisit IBM's videos on youtube to gain more experience. For the problematic disconnect between the instructions given and the assignments expected I would not recommend this course to anyone.
 Videos are bit out of date so could be sometimes tricky to find the needed instructions!
@@ -497,7 +486,6 @@ The videos are not updated. I know the people in the texts say so but it was ver
 The instructions on IBM Watson studio aren't very good, given that the tool has changed. Spent over an hour trying to create a new Jupyter Notebook. During the storage selection, after clicking 'Add', you need to pick existing and not Create New. Then select the storage, go back and click 'Refresh' on the Notebook creation page.
 About half of the lessons are useless, as the lecturer jumps into topics that never came up before and starts coding stuff, without any explanation. He seems to be a good data scientist, but lecturing people is not his thing. There are hundreds of complaints in the forum about these lessons, but nothing was updated so far.
 Links and screenshots are badly in need of being updated. I had to find my owns way to sign up for IBM Watson, and it still took over 24 hrs for me to get my login verified. Then when you are finally signed up, the video tutorial isn't relevant because it's not the latest version of IBM Watson Studio being discussed.
-Die ganzen IBM speziellen Tools halte ich für unnötig. Es hat ein bisschen den Eindruck der Werbung für die IBM Produkte. Wer wirklich Interesse an den Produkten hat, der wird sich von selbst darüber informieren. In diesem Kurs sind die Videos uninteressant.Der erste Teil des Kurses mit Python und R ist gut gemacht.
 The course was good although I felt that some elements which were difficult to grasp could have been elaborated more. Also, the videos are I assume old, so the actual site which is now IBM Watson has completely changed, so it became difficult initially to get to it. But, it got great when the actual work started.
 Decent overview of the open source tools used in Watson Studio. I would have liked a more hands-on approach, but considering that this course comes after the "What is Data Science?" introductory course,  it fits the purpose of broadly understanding what Jupyter Notebooks, Zeppelin Notebooks and RStudio is.
 I changed my mind. This course is not so bad. I don't rate it 4-5 because I don't like the fact that the interface in IBM Watson Studio is not the same as the current one which makes it a little bit confusing and because some of the videos have audio issues and introduce some concepts without explantion.
@@ -543,7 +531,6 @@ The instructor could do a better job clearly explaining the topic and/or materia
 In general the contents of the course are good, however, I thinkg that there's too much time waisted in promoting IBM products rather than actually teaching some more introductory things about all the tools mentioned in the course.
 Hi,while it was good learning about the tools and platforms that exist, I was a little confused by the IBM Watson Platform that did not function that well. That was not the best experience, so I hope the creators can address that !
 Good course to understand the tool set and learn basics. However, the site used in the course is now updated which made navigation very difficult. It would serve the student to update these videos and make the most of their time.
-Les première semaines sont pertinentes. Le IMB Watson Studio est très désagréable à utilisé. Le fait qu'IBM soit à l'origine du cours impacte très négativement la pertinence des informations et l'utilité que l'on pourra en tirer
 They information in the course is generally very useful as well as the tools introduced. However, some of the videos need to be updated to match the latest version of IBM Watson Studio and specific guidance should be provided.
 Very informative course but the instructor should update the videos related to the IBM Watson studio there is a lot of confusion as the video which are available shows the earlier version and currently the version is changed.
 It's like a huge advertisement class for IBM. I want to learn some really skills and theory, not how to sign up for a IBM account, which is so complicated, almost took me half hour to figure out how to sign up this account.
@@ -553,7 +540,6 @@ Although the core material is very interesting and well-explained, the fact that
 The course are good, but in China I can't get connected to IBM Watson Studio, even creating a normal account because I can't click my account [confirm] link.What a pity to give up my whole certificate for that.
 I think that this course needs to be re-engineered. The videos are outdated and the videos jump right into the programming without explaining why you are typing out this code. It is not a course for beginners.
 This course needs update. The current IBM environment and Tutorial examples are not matching and confusing. It also leads to crate multiple account with IBM. Otherwise good intro to the tools and environments.
-Interesante porque dan un panorama general acerca de Jupyter, compilación y lenguajes que soporta como Phyton y R. Al ser un curso ofrecido por IBM la herramienta para las tareas es de ellos, Watson Analytics.
 A good overview of the various open source tools available. The videos, however, did not always match the material which made it confusing here and there. I am aware they are currently working on fixing this.
 this course had a lot of items that I did not feel were beginner level. Most of the labs involved some coding, or language that was not discussed prior to the labs. I felt lost multiple times in this course.
 Please try to make more details lecture on specific IBM data science tools and short brief for others rather than short brief for every tool. Six to seven week video lecture  will be better in my opinion.
@@ -732,7 +718,6 @@ Just OK. Good course instructors and good introduction to open source tools
 I would like to learn more about Jupyter Notebook. Thanks for your course
 Very not in depth and too fast run through these amazing tools. Too bad.
 Learnt a lot of tool s that are valuable.Some vedios need to be updated.
-Los vídeos están desactualizados. Y es difícil seguir las instrucciones.
 Watson experience could have been better. seems video is a bit outdated.
 Waste a lot of time in doing final sharing Notebook....What's the point?
 DSX is not working as shown in video. The course was useful. Thank you
@@ -796,7 +781,6 @@ It is a lot of trouble to use IBM studio
 The tutorial videos need to be updated.
 Just some basic knowledge is provided.
 Should contain more reading material.
-Manque des tests en images pas à pas
 The course materials are out-dated.
 poor experience in using IBM Watson
 superficial and need more in depth
@@ -814,7 +798,6 @@ UI changed from the recording
 some content not very clear
 Class material is outdated.
 need more practical samples
-slow going but good so far.
 Some videos went too fast.
 Need update for assignment
 lot of content is very old
@@ -825,25 +808,18 @@ videos need to be updated
 Videos should be updated
 It was not very exciting
 good, informative course
-Simple trivial materials
 Brief and introductory.
 Courser needs updates!
-Poor quality tutorials
-didnt add much value.
 Introductory and easy
 Outdated instructions
 Too basic of a course
-Best Experience Ever
 it has to be updated
-Please update video
 Needs to be updated
-Videos are outdated
 Course is outdated.
 Its a bit outdated
 old information.
 outdated content
 It is too basic
-Videos outdated
 It's too easy.
 not clear it
 Actually in this course the videos which are provided are of older version and now the version has changed its getting difficult because its the first time learning new tools and accessing the tools.Try and provide videos for the present version of tools.
@@ -949,7 +925,6 @@ I found the course to be informative and covering a variety of tools. However it
 I thought the class was good and well organized. Polong Lin was very good. The only downside is that the video was dated when it came to IBM Watson studio. That was a bit confusing. But manageable. Thanks again.
 This course was really helpful. It gives you insight for the data tools used now days. The only reason I did not give it 5 stars is because the video is not updated as per the creation of project in IBM Watson.
 Very educational course. However, the interface on the videos are quite different from that of cognitive labs or IBM Watson. This made site navigation very difficult.All in all, it was a good one. Learnt a lot.
-Muy buen curso me ayudo bastante que tengamos las herramientas disponibles en la plataforma de IBM solo que algunas se han actualizado y los videos no, pero solo Rstudio IDE y Experiencia de Ciencia De Datos
 Need to update guideline for IBM Watson Studio. I spend lot of time myself to figure out how to use the latest IBM Cloud. However, it is quite an amazing course to have R, Python & Scala in an environment.
 I learned a lot from this course. It forced me way out my comfort zone. However, some of the videos need to be updated. Some of the videos had Data Science Experience interface rather than Watson Studio.
 This is a good course, but need some update. The transition from week 1 to week 2 is a bit confusing and there are mentions to old names no longer in use. Overall, I really liked and learn a lot. Thanks!
@@ -978,7 +953,6 @@ Detailed Introduction to Tools used for different Data Science tasks, how to man
 Great content. Week 1 github labs were pretty poorly organized, and could use improvement. The rest of the course (Jupyter and R Studio) was great. Thanks so much to the instructors!
 Good material and pace, good selection of tools. Some of the video material was outdated (IBM Watson software now looks different and has slightly different steps for signing up).
 There exist a need to update Watson Lab video to be in-line with the actual page access through web. It took me awhile to figure out how to register and create a jupyter notebook
-Del momento en que se hizo el curso a la fecha, algunos recursos han cambiado de nombre y esto es mencionado en el curso de manera confusa ya que no está debidamente actualizado.
 Some of the teaching videos are outdated. I guess if I couldn't problem solve around that then I probably wouldn't be a great fit for this course. Otherwise, I would give it 5/5
 I would give 5 stars if the material would have been updated and would present screenshots of IBM Watson Studio instead of the previous version which has a different interface.
 It's very complete, give you a nice notion of the tools for data science. The problem is that the video is not updated to the websites so it gets a little confusing sometimes.
@@ -1040,7 +1014,6 @@ Do we really need to know both Watson studio and Skills network lab?Maybe it wou
 IBM Watson has had many changes. The videos in this course when tackling this project does not match with the current IBM @Watson studio setting.
 I love the source but I hope in the future it wil get more in dept. For a compleet novis like me it's not always as obvious as they make it seem.
 I wish there were more labs and more elaboration as to how to connect these tools to daily activities or useful things to broaden understanding.
-Curso interessante e globalmente bem estruturado, com detalhes suficientes para a iniciação nas ferramentas open source que foram apresentadas.
 Covered lots of ground. As someone without a CS background it was great to learn more about the tools and terms that are common in this field.
 The course's contents are not updated to the changes of tools. I got some bad experience in this course and I had to deal with them by myself.
 The course is good but it would be great if the nomenclature of the cloud-based applications would match the current version of the toolkit!
@@ -1136,7 +1109,6 @@ The videos shared can be upgraded to IBM Watson Studio. It still continues to ha
 Content is out of sync with the IBM Watson tool. Very difficult to navigate initially and thus frustrating.
 It is good in general. However, some video tutorials are out of date. Please update week 3 video at least.
 Great syllabus design . Amazing instructors . Had fun learning .thank you coursera and IBM or the course .
-Je pense que vous devez actualiser vos videos, car le DATA DATASCIENCE EXPERIENCE n'est plus d'actualité.
 It was good.But every tool was completed in a hurry.Hope detailed information is given in further videos
 Although concepts are nice and neat its very hard for beginners. Also, the course is not up to  the date
 The course need an update, Zeppeling is no longer on Skill Labs and IBM Watson has change a little bit.
@@ -1148,7 +1120,6 @@ IBM WATSON is not up to the mark creating account and all are very hectic otherw
 Good introduction to Open Source tools for data science, including: Jupyter, Zeppelin and RStudio IDE.
 Very short and clear introduction to relevant tools. Videos about IBM Watson Studio could be updated.
 Some of the videos did not align with the look of the web interfaces but overall it was a good course
-Por favor actualizar los videos tutoriales a la nueva version de IBM Cloud. Muy buen curso, gracias.
 An interactive course that gives resourceful insights to the tools available online for data science
 Can work more on notebooks and things have been updated so there is a need for steps to be updated.
 A great deal of information where you can learn the basics and most important tools in this filed.
@@ -1166,7 +1137,6 @@ IBM account instructions should be updated - took a long time to figure out how 
 It needs to be more challenging but happy to be introduced to various helpful tools nonetheless
 It is good Course for understanding data Science open source tools and practical use of tools.
 Last part is a bit out of date after IBM changed the interface of IBM Data Science Experience.
-Un cours vraiment tres interressantj'ai beaucoup apris sur Jupiter Notebook, Rstudio, Zippelin
 A very brief overview of all the open source tools required for Data Science. Well structured.
 Course is not updated to the IBM Watson Studio interface. Good material and exercises though.
 Nice course for learning the basics of open source tools required in the data science field.
@@ -1202,7 +1172,6 @@ good course for the beginners who want some hands-on experience in data science 
 Course was well laid out. Systematic and detailed. helps any new bie to Data Science.
 Some videos are not very clear, the sound is awful and the sequence is not adequate.
 This course basically explain the tools for data science.And it is pretty much cool.
-Hay videos desactualizados en la semana 3 y me costó poder seguir las instrucciones.
 High-level introductions of the common data science tools and analytics environment.
 Nice intro to different tools. If only it gives more examples or exercises to drill.
 You will not really be using these tools in this course, they are simply introduced.
@@ -1245,7 +1214,6 @@ Introduction to these open source tools is well presented in this course.
 the demo tool version was not the same we used for doing final assignment
 A bit repetitive on the IBM Watson piece but a good overview nonetheless.
 Videos could be longer to help folk who have zero programming knowledge.
-Cuesta trabajo el ejercicio porque no esta cual como indica el ejercicio
 IBM Watson related content needs to be updated and be more comprehensive
 Week 2's quality should be improved, make it more friendly for beginner
 Good course, explanation about Git Hub could have been more detailed...
@@ -1284,7 +1252,6 @@ I would like to see this course give more hands on assignments.
 I finished the course with the understand of doing basic stuff.
 We need more tutorials on all tools demonstrated in this course
 The lab exercises should be more interactive and better planned
-Necessario atualizar o curso para nova versao do Watson Studio
 Basic knowledge of tools were to given for different analysis.
 Was glad to exposure to some of the different tools out there!
 Good intro though a bit rushed. More hands on would be better.
@@ -1319,7 +1286,6 @@ Interesting course ,learn more basic from this course.
 IBM Watson Data Science Experience needs to be updated
 The course is good, but need a update in the IBM part.
 Really Amazing flow of training materials. I liked it.
-lab videos are not updated to IBM Watson studio else n
 good for the basic knowledge of the data science tools
 Good overview of all the available open source tools.
 Needs to update. Some videos outdated but works well.
@@ -1346,7 +1312,6 @@ I think Coursera needs to work on video lectures.
 Some files are not working. It was disappointing.
 I found the course helpful. The flow is also good
 Overall pretty good. Week 3 needs to be updated.
-Me gustaria que tuviera mas ejercicios practicos
 Watson studio expertise steps should be updated.
 There can be more explanations to use the tools.
 Needs to be updated. Everything else very good.
@@ -1421,13 +1386,11 @@ great to see how the IDE's work
 This course is well delivered.
 Good tools, good explanations.
 Relatively easy to understand.
-REQUIREMENT OF MORE EXPINATION
 Unable to see all interpreter
 Week 3 was not easy to follow
 The videos need to be updated
 The tutorials needs updating.
 Course needs little updation.
-Could have given more tasks !
 Need more interactive videos
 The lab design needs updates
 It is a very helpful course.
@@ -1450,7 +1413,6 @@ very much helpful course
 Some content not updated
 It was fun coding Python
 Very general information
-How i cant get my badge
 Basic, but informative.
 Needed more  exercises.
 It needs to be update!
@@ -1459,28 +1421,21 @@ Much more practical.
 Outdated Information
 Not enough practice
 good intro. thanks!
-I find interesting!
 Need more exercises
 It's good to start.
 not too technical.
 need some updates
 Very Nice Content
-Nice  Course..!!
 Great! Course...
 Ａ good starting.
 Too few attendee
 the right pace
 quite too easy
-very detailed
 A little easy
 Great Insight
 So many tools
 It was good!
-Too simple.
-Haaa heavy
-eXCELLENT
 Outdated.
-its okay
 Very informative... But the instructor could have given a proper link in the description as it was very difficult to navigate through and have lost a lot of time figuring the way out
 All the tools required for ML kick starting was explained very clearly and it helped me a lot in building the understanding of what tools need to be learnt in the field of ML and Data Science.
 To the contrast of other reviews, I find the content very well bifurcated and fed to the learners. The course very easily digestable and I have had a great amount of fun learning it.. Go for it!!!!
@@ -1561,13 +1516,10 @@ The course introduced me into a variety of tools and languages which I found ver
 It is an easy and quick overview of popular tools for data science. Learners can know the basis of these tools and how to get access to them. Most importantly, IBM introduces their platform and one can write Python and R without downloading them to the desktop.
 I have to admit, I was a bit skeptical before starting this course. However, the more I get into it, the more I realise why this course alone teaches you more than hours and hours of youtube videos. Props to the course creators. It is very interactive and fun.
 A perfect wonderful course for beginners. The "IBM data science experience" has been changed now to "IBM Watson Studio". It will be little helpful if we get a new videos about how to operate the instances and add notebooks, as some of the GUI has been changed.
-O curso mostra diversas ferramentas interessantes para a Ciência de Dados e possui uma ótima organização. A ferramenta de laboratório disponível e utilizada é ótima para a prática do conteúdo e até mesmo experiências na criação de notebooks e bases de dados.
 This course gives you an insight into the different tools available in different platform like Microsoft, Amazon and IBM , This course talks in details about IBM Watson and different services  available. like Jupyter notebook and SPSS, data scale up others.
 The course is amazing however the layout is a bit confusing especially with the platforms that were introduced on Watson studio. I feel like they need to introduce all the platform but choose one that will be used for the module. But overall it was awesome.
 This is a great intro to a couple of the tools that one would need to be familiar with in order to be successful in Data Science.  This area is going to require some extra work on the students' part to get familiar with the tools but is a great lead-in.
 I enjoyed this course. The opportunity to work with Zeppelin notebooks, R, and Watson studio was great! The only small stumbling block was the old videos on Watson Studio. But you know about that and I'm sure you are actively working on it.  Thank you.
-Este es un curso introductorio a las herramientas de analisis de datos, especialmente la de IBM. Me agradoó mucho porque se sentraron en la herramineta mas que en los lenguajes que se deberian manejar, los cuales serán abordados en los proximos cursos.
-Ce cours est utile pour se familiariser rapidement avec un certain nombre d'outils data utilisés dans le monde à l'heure d'aujourd'hui. Les explications sont assez claires. Pour les labs et les devoirs, il faut juste suivre les consignes à la lettre.
 It is quite god to get to know the tools availableRecommendations, there are some changes to the current platforms, that information should be updated.Question, why did we sign on to cognitive lab if the assignment will be completed in Watson Studio?
 It was awesome learning from coursera. Contents are well created to be understood by anyone easily. It's amazing and i wish everyone who is interested in data science should take up this course. Looking forward to take up more courses in course era
 Very good intro to the tools available.The improvement to the training would be also how to do it in my own computer without connecting necessarily to an external tool and then once I'm ready use the tools IBM provide for a professional deployment.
@@ -1584,7 +1536,6 @@ Very good explanation of all tools that is available to users to enable them to 
 Nice review of existing open source tools and free to use web services implementing those tools. Personally I would also enjoy some introduction to either how to set up those open source tools on a personal computer or private cloud.
 this course I good enough to under stand which tools are applicable in data processing in data science . thanks Coursera for providing such a course that was very funy I enjoyed my valuable time learning with Coursera and faculty
 Fantastic course it was. I got overview of most of the open source tools for Data Science.The Assignment at the end of the course was also interesting as it summarizes all the things we learned.Thank you for such awesome content.
-Eu adorei esse curso. Me ensinou muito mais do que apenas ferramentas de código livre para data science. Aprendi também sobre computação na núvem e ganhei vivência na IBM Cloud, além de aprender sobre como baixar dados públicos.
 The course is quite technical but very educational and instructive. Though I got a bit confused when I created the Watson Studio, because the platform was different from what the instructor used. But it is an interesting course
 This course was good It will teach you various open source tools that are being used in data science fields like RStudio, Jupyter notebooks, Scala, Hadoop,Apache spark etc. I would definetly suggest you to take this course .
 Just enough to know the different types of open source tools that can be used to data science. to learn the tool completely, we need to refer to many tutorial materials within.Good Introduction session for tool applications.
@@ -1612,14 +1563,12 @@ This seems to be a good start to know the tools in the field and have a brief in
 Very nice course. This course gives a detailed introduction to the IBM Watson Studio along with other important tools for Data Scientists. It's a must do course for all beginners in the field of Data Science
 I have made a rock foundation after taking this class! It gives you a guide that you can expand it with other resources over the internet and books. It is an excellent guide and content is also fun as well!
 It's easier than it looks. I was anxious when the mini lessons started using jargon that was unfamiliar to me. But when I started watching the demonstrations and doing the exercises, it all made more sense.
-Excelente curso para aprender quais são as ferramentas mais utilizadas para ciência de dados. Além de fazer um Overview sobre essas ferramentas  o curso vai além e dá dicas de como começar a utiliza-las.
 ONE CAN ACQUIRE BEAUTIFUL KNOWLEDGE TO THE TOOLS USED BY DATA SCIENCE COMMUNITY ALONG WITH APPLING THEIR SKILLS ON  PRACTICAL ASSIGNMENTS AND PROJECTS ON THE USEFUL PLATFORMS ,ITS WAS A NICE COURSE .
 It serves perfecty its aim that is giving a first glance of the open course tools for data science. Of course each tool is briefly touched and it hands over the student the duty to deepen each tool.
 Absolutely Loved this course!! Challenging at times to keep up with all the terms and processes. The course provided great insight into Data Science. Would highly recommend it as your first course.
 This course is awsum and well explained. Some portions needs to be updated based on the current platforms. i.e Lab instructions should be inline with the current screen, e.g. Watson Studio.Thanks !
 The course is interesting. It presents large spectrum of tools. It could be more helpful to provide general information on different tools and focus on few of them such as R, GitHub  for example.
 Good to overview web-based data analyzing tools like Jupyter notebook, Zeppelin notebook and R studio IDE by getting access to virtual environments like Skills Network Labs and IBM Watson studio.
-Es un buen curso para esclarecer cuales son las herramientas que se deben dominar en la profesión. Funciona bien como introducción practica a calentar motores para ver que es lo que se viene.
 The videos in this course are outdated and the content in videos doesn't match with the reality because the videos are old and Watson studio got updated.  Course content must be updated ASAP.
 Useful, quite a bit of practical. I've learned a lot of new tools and possibilities to use them for free; although based on IBM infrastructure, they're open source and may be used everywhere.
 Does a good job of showing areas to obtain access to use Python, R, and Scala. You can however tell they're pushing IBM products when in reality there are many other options such as Anaconda.
@@ -1670,7 +1619,6 @@ Clear and easy to follow course. very rich in resources and self-learning materi
 I enjoyed this level a lot and am astonished by the capabilities of the Watson Studio. I am really glad that I can finally find my way on these powerful tools.
 I found this course very useful. I especially enjoyed practice with new markdown tools in Jupyter which were very useful for creating well formatted notebooks.
 As elementary as it could be, it's a great introduction to Jupyter Notebooks indeed. But starting from this, I could see farther the reaching of Data Science.
-São muitos recursos e um mundo de ferramentas. O curso passa pela mais relevantes e propõe atividades práticas em cada uma delas. Muito bom ter este panorama.
 A great course especially for starting with Jupyter Notebook, Zapellin or R studio. IBM Watson Studio is definitively the most crucial aspect of this course
 Awesome course. Lots of Learning. These free sources adds lots of ease to your work, its like everything tool you can think of is present in a single place.
 Really helpful in terms of getting a knowledge about the main core technologies used in Data Science.I would recommend this course to the absolute beginner.
@@ -1681,7 +1629,6 @@ This course help open a very broad area of tools to use for Data Science I had n
 Excellent introduction to basic open source tools used in data science; however, the content needs updating since the UI of IBM Watson Studio has changed.
 I liked very much the content. I know is an easy course, but I'd like to see more of what can be done, the languages etc. Thanks IBM for all this effort!
 This is very useful course because I am only know the tool like juypter notebook , but course tells me about other tools like zepline , R studio , Amzing
-Muy recomendable, me encanto la oportunidad de poder hacer uso del Jupyter, Zeppelin, R en los entornos como el Skill Network Labs y el IBM Watson Studio
 This course of Open source tools for data science was very helpful in knowing about the tools and technologies which are used in data science techniques.
 Very informative course, It offers a gentle introduction to machine learning. And IBM has provided tools worth thousands of dollars for free to learners.
 Very informative, organically designed, and has useful lab work to make a great start. I particularly liked the crisp content along with precise videos.
@@ -1705,7 +1652,6 @@ This Course is very important if you want to learn for data Science tools, there
 Videos are outdated, as well as its very hard to figure out that how to work with Watson studio, because there free version is full of issues,
 I really enjoyed this course. I loved the explanation of the videos and the assignments weren't too hard either. Overall, I really loved it.
 I found this course very informative... I knew very little about all these Open Source tools available to Data Scientist for analyzing data.
-Me pareció excelente, porque he aprendido mucho, además que he podido conocer herramientas que son Open Source y que puedo usar cómodamente!
 Great Introduction to open source tools for data science. The hands on labs they were informative and just perfect for introduction purposes
 Excellent! I learned various open source tools for data science successfully and now am able to use the tools. Thanks You IBM and Coursera.
 Great to separate the tools and environment in this way, so that working out the tool doesn't get in the way of learning the content later.
@@ -1728,7 +1674,6 @@ Nice course! Good overview of the tools available in market as well as the use o
 Very good course to introduce us on tools we should use to do data science jobs, such as jupyter notebooks, r-studio and IBM tools.
 A very nice course! Exposes one to the numerous resources out there to help make a data scientist's job easier and more efficient.
 The Data Science experience change to Watson studio is great. However, the videos and instructions need to be updated for clarity.
-Curso muito bem feito que apresenta de forma clara e direta ferramentas open source que auxiliam o trabalho do Cientista de Dados.
 I really appreciate this introduction course, it introduces popular tools which a data scientist would use definitely..Thank you .
 Great course to learn about open source online tools and the basics on what Data Scientists are using to develop their researches.
 I discovered new tools that I did not know.IBM Watson and Cognitive Lab are awesome. Plus, the benefit of being part of coursera.
@@ -1784,7 +1729,6 @@ I had Jupyter Notebook installed on my laptop for months. Thanks to this course,
 I learned a lot about what tools are available to do Data Science, and what IBM has to offer for the same purpose.
 This is a great class for those who want to become familiar with the tools and software that data scientists use.
 Excellent. I suggest to update the slides with Watson studio. It took me a while to find where the notebooks are.
-De maneira rápida e didática expõe as ferramentas abertas disponibilizadas pela IBM, na área de Ciência de Dados.
 This course gave me the confidence that I can in fact learn about Data Science and excites me to learn even more!
 Its a fantastic way to start learning about R, Python, Spark, R Studio. Watson Studio is such a great interface.
 Course very thoroughly describes all the open-source tools for Data Science. Guided notes as well. Very helpful.
@@ -1812,7 +1756,6 @@ Thank you very much for the excellent presentation of the material and the avail
 This course help me to understand and used to all the necessary tools which are required in data science
 Description and practice of the main data science tools. Great introduction to the world of Data Science
 Greate way to teach tools for data science.Thanks Cousera & IBM for adding addional value in my career.
-Excelente curso que me ha permitido conocer amplias herramientas para desarrollar mis futuros proyectos
 Pretty good overall, was a little bit confusing at times(change between ibm watson en data experience)
 Very useful and very informative course. Thank you very for coursera for making this course available.
 Its very nice and easy to learn course. Easy steps r given .for beginner we should go for this. thanks
@@ -1838,7 +1781,6 @@ It introduces the different tools and the platform which you can use the tools. 
 A lot of insights are shared in this course. Can feel a little bit overwhelming but just persevere.
 Really informative course for the beginner to learn about the free tools available for data Science
 Very well explained...It will help in clearing doubts about tools and technology available for ML.
-Muito didático, vai aumentando o nível de dificuldade de forma gradativa e confortável. Recomendo.
 instructor is very good. Explaining all the concepts very clearly and pace of course is also good.
 Great  introduction to the Skills Network Lab. Also, the quizzes and assignments were interesting.
 Good introductory to various open source tools with examples. It's not overwhelming for beginners.
@@ -1854,7 +1796,6 @@ That was an amazing course. The tools that I've learned is very useful.
 Thanks Coursera and IBM.
 Amazing learning material. Very detailed curriculum designed for students to learn with concepts
 Developed preliminary understanding of open source tools used in data science. Good for a start.
-Curso bastante informativo para el uso de herramientas open source en proyectos de data science
 Excellent course to get hands on experience on open source tools available for data scientists.
 Thanks to coursera and IBM for letting me this opportunity to take a step forward data science.
 It is an excellent course for people with zero experience in this field, absolutely recommended
@@ -1942,7 +1883,6 @@ Really good program for learning truly useful open source tools for Data Science
 Good short introduction to using notebooks across various data science platforms.
 Thank you for the great content, keep improving if there's any room for doing so.
 The IBM Skills Network Lab keeps disconnect and is insanely slow. It's stupid af.
-Excelente curso para tener una visión general de las herramientas en Data Science
 Useful intro to the tools & good to get access to the free IBM Cloud environment.
 Fun course. Explored more data science tools to use outside of python/R/Jupyter.
 Good introduction to the currently available diverse pool of data science tools!
@@ -1963,16 +1903,13 @@ This is a basic course for a beginner level learner to get hang of Data Science
 Brief introduction for where to find and how to use the open source data tools.
 Course so far so good. The course navigation on Coursera is not up to the mark.
 Very good for beginners. Overview of the open source tools to get familiarized.
-Os vídeos precisam ser atualizados para acompanhar a nova versão da plataforma.
 Easy and fast way to learn the introduction of the cloud tools for data science
 Interesting tools have I ever seen in the first I become join to Data Science.
-Bastante autodidacta, muy buenas explicaciones, quiza muy falto de aprendizaje
 I learnt something new order than Jupyter Notebooks, learnt Zeppelin Notebooks
 Great online Data Science course, open my view about the data scientist world.
 Kindly update the videos in the course to match the changes in IBM watson site
 Excelent Course. Very practical, a different course . Very Fast and intuitive.
 Great introductions to some widely-used open-source tools for data scientists
-Buen curso para ver todas las posibilidades que hay en cuanto a herramientas.
 Very helpful to understand different IDEs that can be used for data analysis.
 An excellent introduction to IBM Watson, RStudio, Jupyter notebooks and more!
 Very usefulI had to work really hard, so I've got so much knowledge from here
@@ -2053,7 +1990,6 @@ This. Course gives you all tools you will need to be a data scientist
 This course so amazing, everything tools ini this course so powerful
 Everything is explained very well, just pay attention and take notes
 A very well-organized course. Full of free resources to get hands-on
-Agradezco mucho a Coursera por el apoyo en esta hermosa experiencia.
 it was a great course in which the best part was of jupyter notebook
 Thanks for the coursera for providing a wonderful learning platform.
 Quite a gap between this one and the first one, taking some momentum
@@ -2093,14 +2029,11 @@ This is good course for data science. I learned from this course.
 Give me a good knowledge about tools we can use for data science.
 Good course on introduction to open source tools for data science
 Good start to have an understanding of tools used in Data Science
-Te enseña lo básico de las herramientas open source de Notebooks.
 Great course for learning about the common tools for data science
-Muy completa la guía para empezar a implementar las herramientas.
 It was very nice course on introduction to the open source tools
 The course was excellent covering all the basics for a beginner.
 Good and very informative module. Well explained all the tools .
 Videos should be updated to the new version of IBM Watson Studio
-una buen experiencia para empezar a analizar al ciencia de datos
 Awesome course for beginners who want to understand data science
 It was very helpful for me to be able to know all these sources.
 Good introduction of the tools to start working on data science.
@@ -2122,7 +2055,6 @@ A great course on open source tools available on IBM platform.
 Very helpful and give me a sound picture of data science tools
 Great course, gradual and engaging pace. Love IBM and Coursera
 It is very informative.. Hands-on practices are very helpful.
-Excelente introduccion a las herramientas notebooks y Rstudio
 excellent course with great and clear understanding of topics
 After using these tools I know how to program in these tools.
 A lot of useful information presented in a very simple way :)
@@ -2150,13 +2082,11 @@ I enjoyed the course. This one is my first Coursera course.
 Great course to start to know the sources for data science.
 Excellent course to learn the basic tools of data science.
 Great Experience about Data Science And Thanks to Coursara
-Excelente!muy bien estructurado y enfocado en la práctica.
 The Watson Studio and the last weeks labs are not parallel
 Learnt how to use Watson Studio.It was a great experience.
 Excellent intro to the open source tools for data science.
 I obtained the knowledge of various tools for Data science
 A great course to learn about the basic open source tools.
-Excelente curso, con ejemplos claros y dinámicas practicas
 Awesome course and well designed curriculum for beginners!
 Nice breakdown of some of the tools used for Data Science.
 keep me in context of the tools used for doing datascience
@@ -2206,7 +2136,6 @@ Great introduction to the various resources available.
 Well organized and easy to follow all the instructions
 course really helped me in learning Data science tool.
 Great overview and hands on of the Data Science tools.
-Excellent presentation and exercises! Very complete!!!
 A great course with simple but useful practical tasks.
 Great. Lots of new tools info are provided. Great work
 Great introduction to various tools for Data Science!
@@ -2252,7 +2181,6 @@ Say hi to virtual environments just with internet.
 Covered a good range of tools in reasonable detail
 Great Class if you are trying to get new skills !!
 One of the best course for tools on data science.
-Still at very beginners level, but step by step..
 Very good understanding of tools for data science
 A good intro into open source data science tools.
 Great source of knowledge to step in Data Science
@@ -2295,7 +2223,6 @@ this course is basically all about IBM tools
 Very clear and simple to follow instructions
 Thank you for this opportunity, it was 10/10
 Informative and hands on experience on tools
-Me gusto, simple y contundente para iniciar.
 Learn a lot here and expected to learn more.
 very interactive and detailed for a beginner
 It is very cool source. I love it very much.
@@ -2348,10 +2275,8 @@ Great introduction especially to Zeplin
 Good for Basic Understanding as a theme
 A great overview of the available tools
 Highly Skill oriented and Informative..
-very  helpful skills labs and notebooks
 nice introduction to the tools required
 Great Course and very fast for learning
-Less content but provide good exposure.
 great introduction! very easy to follow
 very nice videos for tools introduction
 Practical, useful, step-by-step Course
@@ -2360,7 +2285,6 @@ Amazing course thanks to all teachers.
 very interesting and hands-on practice
 It's too useful step towards my career
 I thought the course was very helpful!
-Great starter program for data science
 Introduction of plenty of useful tools
 Simple and Quick Overview of the tools
 Course is designed well for beginners
@@ -2378,7 +2302,6 @@ Great overview of Data Science tools
 Good content and very well explained
 thanks for the important information
 Excellent, easy to follow very clear
-De los mejores cursos que he tomado.
 A good start with data science tools
 Accessible for different backgrounds
 Good Informative Course about tools.
@@ -2399,7 +2322,6 @@ Content was perfect &  informative
 Really nice tool for Data Science.
 Very well structured and delivered
 I really enjoyed doing this course
-elementos visuales desactualizados
 Very general overall but necessary
 Excellent and hands-on experience.
 awesome course, great expalnations
@@ -2416,7 +2338,6 @@ Good course for meeting new tools
 Easy to follow and nice tutorials
 Great intro to IBM Watson Studio.
 Great Course with Deep Insights.
-Excelente curso. Muchas gracias!
 I was more involve in practicals
 good guidance with the materials
 Great. It's really fun to learn!
@@ -2426,7 +2347,6 @@ Good teacher and good references
 Lots of fun and I learned allot.
 Thanks for the best explanations
 good explanation of latest tools
-zeppelin notebook was wonderful!
 Fun and easy project at the end!
 Great  with interactive handson
 Nice videos about Tools. Thanks
@@ -2434,28 +2354,22 @@ Nice content and representation
 very good and intresting course
 Pretty simple, but pretty good.
 This was the great experience.
-amaizing for starters like me!
 Superb explanation and content
 Amazing, comprehensive course!
 Introduction are well prepared
 Good Starting for data science
 Interesting and informative :)
-Best course about Data Science
 Easy Understanding and useful!
 Pretty good course recommended
-Excellent course, good content
 powerful tool and ease to use.
 I had fun doing the assignment
-Excellent introduction course
 Good Content with Hands on !!
 This course was very helpful.
 good course for the begineers
-Curso muito bom e proveitoso.
 Easy, clear, and to the point
 Introduction to DS & ML tools
 The screenshots are outdated.
 Exceptional on hands training
-Wonderful start for beginners
 it is an overall good course
 The teacher was really nice.
 The assignment is very cool!
@@ -2466,7 +2380,6 @@ This course was very useful!
 Nice mix of theory and labs.
 Good intro for all the tools
 Great and challenging course
-Un curso introductorio bueno
 this is many helpful  for me
 Every to understand course/.
 I really enjor this process.
@@ -2482,16 +2395,13 @@ was really good i like it.
 the course is just awesome
 great explanation of tools
 Learn a lot by this course
-deeply enlightening course
 Content is up to the mark.
 Good one to start hands on
 Thank You, Amazing Course
 thank you, this was great
-Good practical experience
 beautifully taught course
 Well details and hands on
 It was a pleasant journey
-Este curso es excelente!!
 Perfect for new learners!
 it was great learn center
 Great course - thank you!
@@ -2500,8 +2410,6 @@ It was great learning..!
 Really useful grounding.
 Excelent course! thanks
 Great Course I Love It.
-Data science my place .
-Nice final deliverable!
 Well thought out course
 fairly basic and simple
 Very well I learned lot
@@ -2510,126 +2418,71 @@ Very good introduction.
 nice platform to learn
 Learnt some new things
 Cool foundation course
-These courses are fun!
 Really great course !.
 Very practical course!
-very valuable material
 more than expectation
 Just awesome .... !!!
 it's very nice course
 nice tools and tricks
 Mind-opening material
-Excellent instructor.
 An awesome experience
 Good hands on tools !
 Exactly what you need
-Struggling, but fun.
-Excelente contenido.
 Very Nice to explore
 very good resources!
 Excellent! teaching.
 It was a great class
-good course content!
 Educational Indeed !
-Very good overview !
 Perfect as promised.
 Interesting Course!
-Excellent explained
-Excelent experience
 Enlightening course
 Hands on trainning.
 perfectly explained
 Wonderfully created
 easy to understand
-GREATTTTTT..!!!!!!
 its really helpful
 Excellent teaching
 It's very helpful.
-curso maravilhoso.
-Want to keep going
 Great course guys!
 Very useful tools!
-Essentials covered
 Thanks so much! :)
 Very useful tools
 VERY USEFUL TOOLS
-Brilliant course.
-Good skills learn
 Wonderful course!
 Very good content
-great course..!!!
-it is indeed good
-Awesome tuturoial
 Easy but powerful
 Good Information
-Best Ever Course
-Curso muito bom.
 Awesome content.
 perfectly taught
 This is awesome!
-awsme experience
 Awesome Delivery
 Learnt new stuff
-Awesome course,
 awesome course.
-GREAT LEARNING,
 Recommended!!!!
 Very good class
 great learnings
 Its really nice
-Excellentcourse
 Easy to follow!
 Very Practical
 Worth the time
 Great insights
-Nice tutorial.
 Enjoy learning
 Pretty Helpful
-very good one!
-Nice course .
 Muy intuitivo
-Well designed
 Crystal Clear
-Best one yet.
 good toturial
 Interesting..
 Good overview
 A Great one.
-VERY USEFULL
 great tools!
-Best Course.
-best website
-good preview
 Great Tools!
-Well defined
-GREAT JOB!!
-Spectacular
 Great...!!!
 good course
 Nice tools!
 wounderfull
 That's good
 Great Corse
-IBM quality
 It was hard
 It's great
 Good class
-very nice
 very Nice
-much good
-Splendid!
-Nice One!
-vERY Good
-Nice!!!!
-Good..!!
-Exellent
-alles ok
-Helpful.
-Genial!!
-Mantull
-perfect
-v.good
-Yehey!
-NIice
-yeay
-Nic!

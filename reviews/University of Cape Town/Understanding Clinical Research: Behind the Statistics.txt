@@ -12,7 +12,6 @@ The course is presented by an engaging and likeable lecturer.  Moreover, the cou
 Nice introduction into medical statistics for non statisticians or physicians. Lector has hard accent, but all necessary info is doubled in text (why course contains video then?). And peer reviewed task is a pain in the ass. Why it became so popular?
 Great introduction to the clinical statistic usually encountered while reading medical or biology literature. However it would be much appreciated if more calculations could be incorporate into this course.
 I believe this may be a more helpful course to those already quite familiar with statistics and for those who use statistical terminology daily.
-Curso válido como introductorio, muchos tests no profundiza en su contenido.  Para iniciarse en la temática es válido.
 its ok, stays some time on a lot of concepts and then goes on to very brief explanations of other ones.
 Thank you for your course. Teaching statistics to the ones (majority) who do not have maths background is incredibly hard and the works for teacher is humongous. Few flaws to highlight:  some parts where a little bit too "simplistic" like for instance; sampling and frequency distribution , ANOVA Z and T tables.  These parts I believe requires a little bit more insight in the nature of the maths behind it to grab a better understanding of it.  I have to say I had to integrate your material with other you tube videos on the web to get a deeper sense of it.  An introduction to ROC curve and Meta-analysis is something to consider for future courses  I have also noted a lack of reply to many questions written on the Forum. But overall a very good course which delivers basic concept of statistics. I think I have improved the ability to better understand the methodology behind research and research manuscript.
 I'm thankful for the fact that there is little mathematical detail about the statistics, which is indeed a good choice for anyone who just want to correctly "read" a clinical research. The knowledge of the last 3 weeks is, however, too concise. I would love know more about story/nature behind each test, or at least, some good material too read or listen to. But I think, the course is very well structured, lectures are short and clear, examples are interesting and practical.
@@ -67,7 +66,6 @@ Great job. Of course, there is room for improvement
 Well understandable INTRODUCTION to med statistics.
 interesting but tough course.. lots of statistics.
 A good overview of medical statistics...
-plus d'exercise à faire chaque semaine.
 A well designed introductory course.
 Excellent and concise. Thanks a lot.
 Great course so far..
@@ -110,7 +108,6 @@ attained from basics to more complex terms. These terms were then explained
 starting from the primary components. Very easy to follow and a pleasure to be
 a participant. I encourage many of my colleagues, even those young researchers
 to be enrolled. Thank you and may you have a great experience.
-Un excelente curso de inicio a la metodologia de la investigacion, donde necesitas pocas horas efectivas y la retencion es excelente una vez que inicias diariamente o por un periodo constante de tiempo, el esfuerzo es minimo y el entendimiento, reitero, es excelente, no va mas alla ni tiene la profundidad de un curso avanzado, sin embargo, estudiantes de medicina o recien iniciados en ciencias de la investigacion son bienvenidos en un curso de excelente talla, para los mas avanzados, les ayudara para quitar algunas dudas que hayan tenido desde la facultad. nunca es tarde para revisar este rapido, divertido, y util curso.
 Maths is really not my strong point, yet Professor Juan Klopper explains the course content in an uncomplicated and understandable way.  The use of video and reading notes helps set the topic and then cover in more detail. The weekly tests ensure you have understood the topic before moving on.  The tests also explain why the question was right or wrong, again to help understand further.  The whole course made me feel supported and I w and I am certainly better equipped to do a better job. Thankyou Dr Klopper for making it possible for me to finally have a better understanding the statistics in the literature.
 This course was such a perfect and well-structured introduction to the statistical analysis that's done in clinical research papers. I appreciated the fact that the instructor also made sure we learned how to search for research articles efficiently, and tasked us with searching for our own examples which helped me in navigating research articles and picking out information even better. I am so happy to state that now I have a better and deeper understanding of the work that goes into a clinical research and now I won't just be skipping to the results section but actually understand the whole article.
 This course is really good. It allows you to understand deeply the statistics behind the articles and results we have contact every day when studying. Also, gives you a hability very important nowadays: you become capable of reading articles and analyzing them, formulating you own opinion and judgement of what is being presented. And all of that in a intuitive way, based on science and good methods of statistical analysis. I consider this a fundamental hability, essentially when we are facing a pandemia like we are in this moment.
@@ -132,11 +129,9 @@ i found this course very intuitive in leveraging the basic understanding of stat
 A beautifully designed course that improved my ability to orient myself in the results section of biomedical papers. The course covers a lot of material and is focused on giving insights into general principles the what's and why's in statistical analysis. Therefore, I would recommend it to both students and researchers aspired to gain a better understanding of data analysis in medical research. Without correct data interpretation using statistics, it worths almost nothing.
 This is one of the best Online Course I have ever joined fully until completion.I absolutely recommend this course to my friends and anyone else in the area of Public Health, Medicine even Veterinary Medicine.There is so much to learn for so little time but Dr Juan is absolutely amazing in his way of handling this course that made it look simple and he has truly made  it so much easier to comprehend. So much better than learning from Statistical textbooks
 I found it very useful to have written notes after the explain videos (since English is not my first language, sometimes it is easier for me to understand written things).  Also, I think that the exams were very accurate to test my knowledge since all the questions were applied to practice and not just theory questions. I think that now I definitely have a better understanding of the papers  I read. The most important topics were covered in this course.
-An excellent course,  definitely  the perfect introduction to understand the methodology in medicine and dentistry journals. It´s also a course that motivates you to delve into the beautiful field of statistics.Un curso excelente, definitivamente es la introducción perfecta para entender, de mejor manera, la metodología investigativa en publicaciones periódicas, además es un curso que motiva a profundizar en el bello campo de la estadística.
 A thoughtful organization of theoretical knowledge in reasoned lessons that are masterfully performed by an excellent teacher who leads you through the study of Statistics from a very initial understanding of it until its practical implementation. And the icing on the cake... this knowledge is put into practice also making students compare each other while actually let them grow by increasing their awareness towards themselves and the topic.
 Dr. Juan Klopper provided concise information in an engaging manner that enabled me to finally understand clinical research. I appreciate his gentle teaching style, and the overall self-pacing system of this program. Keep on doing the good work, sir. This is one course that I would definitely recommend to my peers, so that they also may develop the same understanding of this crucial subject as Dr. Klopper enabled me to. Thank you.
 After completing the course, I've seen a significant difference in understanding of statistics. I used to skip the section of the statistical analysis in every research paper because the names of the test always goes over my head. Now I can confidently correlate the statistical findings with the given data in the research paper. Thank you Dr. Jaun Klopper for all the valuable information. This course is tremendous.
-Me encantó no sólo repasé conceptos básicos de estadística, sino también aprendí nuevos conceptos que nunca entendía cuando leía artículos científicos en investigación con humanos. Está muy intuitivo y simple lo que te permite aprender la información y no olvidar detalles. Lo único que mejoraría es un poco la ortografía y la redacción ya que solían haber varios errores que llegaron a confundirme en algunos temas.
 The course is very helpful to those who work in clinical trials but do not have a mathematical background. I am a former biology student, we had a course in biostatistics. Many subjects were similar, but we were never given examples from clinical trials. It was great to have this refresher course and deepen my knowledge in clinical statistics.  I am very grateful to the creators of this course. Thank you!
 The course has addressed all the fundamentals and has given me direction and the information I required as a person that is not in the medical field, making it easy for further research.  Some additional numerical examples in the keynotes would have added  great value. The use of actual journal articles added a practical twist to the theory and applications of statistics. I am proud te be South Afriv
 This is a great course for workers in the medical field and health sciences, it assumes no prior knowledge in statistics and proceeds with step by step intuitive explanation of concepts with virtually no math. It has great optional practical videos on how to search for papers online and how to do statistical tests using spreadsheets software. It is quite through in scope, recommend it strongly.
@@ -183,7 +178,6 @@ A THRILL of a course, absolutely very well planned & thought, with a great deal 
 So so good! All concepts explained very clearly and concisely. Questions are very good for applying key concepts and assessing understanding. Practice quizzes are very helpful. Wish I had found this course when I first started Medical school - would've saved me A LOT of sleepless nights.
 A fantastic intro to the statistics behind clinical research! I haven't done much of my own research, so I am not really familiar with data analysis yet, but the course gave me a great panorama of the basic key concepts and how to think about results more critically. Totally recommend!
 Excelent course for those who want to employ statistics but get confused by theorems and proofs. You will learn habilities like: how to draw experiments, how to calculate statistical significance, how to evaluate statistical models, etc. You'll also learn a lot about medical research.
-Fiz esse curso porque precisava revisar alguns conceitos de estatistica. O curso explica bem os tipos de estatistica em artigos científicos, sem muitos detalhes de calculos. Tenho certeza que vou voltar algumas vezes ao curso, para rever detalhes. Valeu muito a pena ter feito o curso.
 Fantastic course, probably the best lecturer I have seen, very engaging. Course content ideal in terms of challenging but achievable, the tests required real thought, the videos were broken up into bite sized chunks with excellent complementary notes. Very impressed with this course.
 Having no knowledge of the actual types of statistical research, I felt I gained a wealth of knowledge that will help me in my social science research as well.  I believe that this was a great introductory course, however, I do feel as though it is a more advanced beginner's course.
 I have taken "Understanding Clinical Research: Behind the Statistics" course and I found this course very useful and easy to follow critical topics of medical research. The instructions and course materials are well organized. I am greatly benefited from the course. Happy learning!
@@ -240,17 +234,14 @@ I highly recomended this course, the explanations and the material are so clear.
 It was well organized and learnt the basics of the statistics used in medical literature. Case study was very informative and gives a overview of all that was discussed. The excel spreadsheet demo was very useful and informative.
 Great introductory course with concise descriptions on commonly used statistical tests. Allows students to gain comprehensive foundational understanding of both research methodology and statistical tests used for data analysis.
 This is one of the best courses on the clinical statistics for biomedical researchers. After this, you will be way more confident in the statistics behind your research and in the material and methods section of a publication.
-C'était hyper intéressant le cours de recherche clinique avec le formidable Dr Klopper. Merci à l'équipe Coursera. Je sais actuellement quoi, comment et pourquoi faire n'importe quoi en recherche clinique. Go ahead the team!
 Excellent course and Excellent coaching by Dr. Juan H Klopper.  I am a Chartered Accountant.  I had put in additional efforts, by repeating some of the lessons and got certified today 23rd May 20.  Thank you very much Doctor
 For people who cannot know where to start learning basic statistics, it is a great course! it definitely gave me a comprehensive overview and I think that I'm not going to skip the chapters on methods and statistics anymore.
 Very easy to follow and instructive teaching. I have a much better understanding of the statistical analyses being performed (as well as their underlying assumptions and limitations) in clinical research. Thank you so much!
 A thoroughly enjoyable course that explains fundamental statistical concepts in an accessible, common-sense way, illustrated by examples from medical research literature. If you're intimidated by statistics, Dr Juan can hel
-Excelente curso, estoy completamente agradecido, he aprendido bastante y ahora me siento capaz de analizar mas a fondo y con mas confianza los articulos cientificos necesarios para mi desarrollo personal como futuro medico
 It gives me a greater pleasure to attend this valuable ,concise and easy understanded course and I would like to thank everyone contribute to make this work came to the light  special thanks to Dr.Juan Klopper best regards
 After this course, you'll understand the basic knowledge, common statistic methods and which one to use for different data types. Note that the detailed math calculations behind the methods are NOT the aim for this course.
 This was a a great course that started from basic Information to more In depth Information throughout the class.  I learned quite a a bit and have already been using this knowledge to help me understand different studies.
 An excellent course as a foundation to understand statistics and the data behind clinical research. Very clear and interesting lectures from Dr Klopper. The quizzes keep you on track and reinforce learning. A well struct
-Creo que es un excelente curso para poder empezar a ver las minuciosidades respecto a ciertas pruebas estadísticas, sus alcances y limitaciones. Además maneja ejemplos sencillos y concernientes  los temas de la semana.
 I thoroughly enjoyed this course . The material is very informative, easy to understand and I really liked the analogies and the images along the way. Juan really makes the content exciting and I'm eager to learn more.
 It was very well laid out and easy to follow. It helped me to understand medical journals tht I have read and reading. It also helps me to be more aware of the right analyses to perform and better way to present data
 This is an excellent course on the foundations of bio-statistics. Very intuitive understanding on statistical tests and their interpretation. Reading exercises and case studies are very good. I totally recommend it.
@@ -310,7 +301,6 @@ Wonderfull course to understand the basics of clinical research in the light of 
 Thanks, Dr. Klopper for this great course. I have learned a lot. If anyone is willing to learn biostatistics this course is the recommended first step for sure.
 Astounding Course From Dr Juan and team, it made me understand about parametric non parametric and basic concept . Respect to all the team who made this course
 Excellent course. Concise and to the point. Easy to understand. Made things very much easier for me. I am now well equipped to start work on my thesis project.
-Realmente muy interesante el curso, aprende todo lo que un médico tiene que saber para interpretar correctamente un artículo sin agobiarte con tantos números.
 Dr Klopper should consider starting an online journal club! His teaching style is simple, practical and easy to understand. Definitely worth taking the course
 This course was well organized and I really enjoyed studying it. Prof. Juan easily explained some of the concepts of statistics that I use to find difficult.
 Excellent course to understanding medical statistics. Don't even think twice to start the course if you are looking to improve your knowledge on the subject.
@@ -322,7 +312,6 @@ I found the course to be really good for beginners. It was well explained, with 
 This Course is Excellent. Dr Juan Klopper have  structured and explained the course in very systematic manner with simplicity. Thank you Dr Juan Klopper !
 Thank you very much. It is one of the most brilliant courses I have ever taken. It shows how passionate Mr. Klopper is about mathematics, just like I am!
 Very clearly explained course content, easy to understand and relevant to clinical inclined people who does not like complicated mathematics calculation.
-Claro y coniso. Simple y especifico. No se puede pedir menos. Ha alcanzado mis expectativas para recordar todo el tema de la estadistica practica basica.
 Amazing, concise and tailored for all clinicians/health care professionals. If you love research, it will get you hooked in no time. Highly recommended!
 Good to study when you are first starting to learn about clinical research. More learning required when you are trying to start a research on your own.
 It was very good, simple and easy to understand. I thank Dr. Juan Klopper for making it easy without compromising the importance of the topic. Cheers !
@@ -367,7 +356,6 @@ Thank you for providing the course. it was really helpful for me as a clinical s
 Interesting and easy to follow-up. This course gives me a better understanding of how to read articles. Thank you, teacher!
 i enjoyed every moment and didn't feel any effort acquiring this huge amount of information and skills, thank juan klopper.
 An excellent course! I would recommend it to anyone interested in statistics or who needs to communicate with statisticians
-Un curso magnifico. Muy claro y explicito en la cual se aprende mucho siendo muy didáctico y entretenido. Muy recomendable
 Such an excellent course. I thank the course instructor Dr.Juan Klopper for making this topic so simple and interesting.
 Excellent introduction (or refresher) to statistics for the non-statistician! Dr. Koppler is a very compelling speaker!
 It is Very simple and useful. I recommend people who want to understand clinical  research to begins with this course .
@@ -407,7 +395,6 @@ It is really a great course, It's helped me a lot. I totally recommend this cour
 It filled some of the voids i had in regards of statistics, recommended for any psychology student.
 Simplified outline course, short videos that target the main questioned point ! Highly recommended.
 The instructor engages really well and helps to understand complex terms in an easy way. Thank you.
-Muy buenos y detallados los videos, ejemplos claros y ejercicios que complementan tu aprendizaje.
 the course is nicely structured both as an introduction and the summary. I absolutely enjoyed it!
 Thanks to the team for putting together this course. Dr. Klopper to was excellent in the delivery
 Very useful course for healthcare researches..Also well organizedMany thanks for the conductors!!
@@ -416,8 +403,6 @@ Really enjoyed learning about clinical statistics from a reputable doctor! Thank
 Good descriptive course for a better understanding of the statistics behind a clinical research.
 Great course to understand statistical concepts! Very straightforward and concise explanations.
 nice course, easy to understand, especially the video parts excellent in term of point by point
-Excelente curso para entendimento da estatística básica utilizada em pesquisa na área da saúde.
-Excelente Curso Full Recomendado, Sencillo, Práctico y Adecuado Evaluar Artículos Científicos.
 My understanding of the results published in the journals has improved, thank you Dr. Klopper.
 It is definitely a one of the best course for understanding use of statistics in the research.
 Excellent for those looking for a basic understanding of clinical research design and results.
@@ -449,7 +434,6 @@ Indeed a very interesting course. Well designed and explained by Dr. Juan Kloppe
 Awesome course. Covers many topics that are in my opinion essential for clinicians
 Nice course to better understand the statistics behind the clinical trial reports
 so far enjoying the course in the way it is trying to make statistics accessible.
-Excelente curso, tiene todo lo que se necesita para iniciar en Clinical Research
 I have learnt a lot! more then I expect. People who created it made a great job!
 A good introduction with couple nice examples on statistics in medical article.
 Excelent course ¡¡. Very clear explications- Personally I think I learned a lot
@@ -473,7 +457,6 @@ Thank you very much for this course. I have learned a lot from this course.
 It is a great course. Teacher is very clear and good examples and exercices
 Good basic overview of the concepts behind statistics. Enjoyed this course.
 This course helps me to understand the essence of statistics thoroughly.
-I am feeling like I am transformed.Like I have learned reading just now!
 Excellent introduction, takes away the fear of all these names of tests.
 i learnt a lot about research and the basics needed in my field of study
 clear and well-organized. It is ideal as a first approach to statistics
@@ -488,7 +471,6 @@ Amazingly good lectures, easy to understand and thorough. thank you
 A very good introductory course on statistics in clinical research!
 Very informational, exactly what I was looking for when I enrolled.
 A wonderful course with a great instructor. I highly recommend it.
-Excelente curso, la información muy bien planteada. Lo recomiendo.
 It's really good to get the basement in reading clinical research.
 a very useful and insightful course.really helpful for beginners.
 Thank you for this course. The knowledge learned was invaluable.
@@ -550,7 +532,6 @@ very useful and systematically designed course.
 A very useful course. I do highly recommend it
 the best simple online course in this category
 I do enjoyed the course, thank you very much!
-Super buen curso. Muy explicativo y práctico.
 The course is very good, and I learned a lot.
 Excellent course, bio statistics simplified!
 Wonderful, easy, basic course to start with.
@@ -586,11 +567,8 @@ A very good and effective course.
 its a great course for students.
 Amazing, I totally recommend it!
 Very well designed and Explained
-Excellent structure and material
 very good and informative basics
 i really loved like that course.
-很系统清晰的课程设置，可惜没能及时完成进度·下次一定要按时完成
-Excellent and enjoyable course.
 very systematic and knowlegable
 Very interesting and practical.
 Wow, this course is amazing!!
@@ -599,22 +577,16 @@ Excellent, highly recommend
 It was an excellent course!
 This course is excellent!!!
 Very interesting lectures
-Excelente curso de verdad
 Perfect for beginners! :)
-ExcellentBest all In one
 Awesomely designed Corse
 Simple but comprehensive
 Very recomended course
-An excellent course .
 excellent one really
-great simple content
 highly recommended.
 Good enough for me!
 Hard but rewarding!
 i love this vcourse
-Excelente gracias.
 very good, Thanks
 Short and sweet.
 Worth the money.
 Great & helpful
-Great lectures

@@ -23,15 +23,12 @@ No systematic teaching. Only pick a few pebbles and assume you can build a palac
 worst everthe greatest thing i have learned here is patience and searching online
 Shambolically organised, an overt plug for IBM's barely functional cloud systems
 Hardly challenging. No programming practice and all MCQs.. unstimulating.
-Salta dei pezzi. Spiega troppo veloce e non ti lascia vedere le slide
 Nothing explained in course, nor even exercise for practice any good
 The course is interesting, but those who check are inattentive
 Worst mooc I ever taken, they just advertise about IBM
 so confused and several errors , pls correct them
 I would like to give it a 0 but it won't let me
 the explanation isn't good
-根本就打不开任何视频
-V.Bad
 Very low quality of the course. The structure of the course is illogical. Also it takes too little effort to accomplish the course. In the beginning  of th course labs contain all the code so a pupil doesn't have to do his/her best to solve tasks. I can just constantly press ctrl+enter and get my certificates. It is not what I expected from the course. Also quizes never contain  coding practice, so to accomplish I just need to show the understanding of the basic aspects of the topic, not the coding skills. The, at the end of the course (after I have lost all the motivation during the first weeks you give us difficult function, including custom functions, never explaining them at all). Have a huge doubt about buying the subscribe for the next month.
 So many mistakes in videos and labs, including spelling errors, misnaming functions and code that causes errors.These have been listed extensively in the course discussion forums, with some complaints from over 6 months ago, and have not been addressed
 Many typos and other errors. My favorite was the video where they said "150 - 50 = 50"
@@ -182,7 +179,6 @@ why is sharing of the notebook worth 3 points? That has absolutely nothing to do
 Model creation and analysis part are too short, should have more details to understand the concepts better.
 This course seems to have an exponential increase in a learning curve. It seemed to be all over the place.
 More explanations would be great. Its very difficult to understand Data exploration / evaluation sections
-Creo que le hace falta unas guías, toda la información se da por videos. Recomendado para principiantes.
 As always, the final project always ruins good courses. LAZY design of the projects is unacceptable.
 Week 4 is somewhat hard to follow - Here, an overview over the different concepts would really help
 I would like to see a final project in this course. It will encourage the learners to do more work.
@@ -226,7 +222,6 @@ Quizzes are too easy. Don't even need to watch the videos
 Mostly theoretical; very little to implement on our own.
 Please update and explain Rigid Regression a little more
 The kernal is stuck for some questions and its annoying
-Kurs gut organisiert aberdie Fragen sehr oberflächlich
 It would be more useful if labs were be rated as well.
 It would be nice if the course had more assignments.
 It was difficult to retain the knowledge imparted.
@@ -235,21 +230,17 @@ There are lots of mistakes throughout the courses
 Not very interactive with fewer help to learners
 Too fast and could have included more examples.
 Copy of videos, not a fan of tools used in labs
-Un cours riche et adéquat pour les débutants
 Very nice course. It gives you what you need
 Notebooks are sloppy, with typos and errors
 The course didn't seem challenging to me.
 More examples and detailed explanation
-More examples and code examples needed
 The course needs a final assignment!
 exercises could have been better.
 I felt it was too fast to grasp.
-Final assignment is quite messy
 Not clear on the last part
 This course is very tough
 Lots of technical issues
 Exams should be harder
-la lala la la laa aaa
 Not easy to follow.
 Very Math!
 Does an excellent job in providing the Python commands needed to do data analysis, along with some descriptions of what the steps actually involve. Has quite a few typos and minor issues -- looks a little sloppy.
@@ -290,7 +281,6 @@ Well design for beginners with a scientific profile. The course starts moderatel
 Covers a lot of content very quickly with not enough opportunities to practice using and applying the code. Having lots of quizzes is good for testing passive knowledge, but more active hands-on application in labs would be most welcome. Useful content, but I am going to go take an intro to Python course so that I can actually follow and use what is presented here.
 The course videos were excellent! The final project did a good job in covering the course material. However, the support  to the course was unacceptable. I never got a response to any of my questions after posting them twice and waiting for a day. I then just decided to submit my project without waiting for a response since I felt my wait will be in vain.
 This is a well organized class and consistent with the rest of the course series so far. One improvement could be to reinforce the concepts more such that we can create our own projects and decide what we need to do. At this point we're just performing methods for the class, but I don't yet feel comfortable starting my own project using these methods.
-Es un curso introductorio, realmente no es complejo, solo se trata de entender las bases del análisis de datos. Sí, es cierto que los videos y los laboratorios tiene algunos errores (que si has pagado por el curso no serían aceptables en ningún momento). Es básicamente una introducción para saber como se trabajan en el análisis de datos.
 Some of the course skates over pretty difficult information really quick and then gives you challenges that haven't really been that well explained, so some self-research is required. The assignments are also pretty copy/paste + modify a couple of variable names so you have to put in the effort to really get good value out of the course.
 The course is very interesting and concise, it has a very logical flow. The best parts about the course are quiz embedded in the lectures and detailed lab assignments. However, there are few errors in the lab and assignments, which need to be rectified. Otherwise, it would have been 5star from me. Thank You for desiging this course.
 Easy to understand and grasp for a beginner. Good refresher for those who have some basics of programming down. Typos in the reference codes here and there but no major problems. Other than that the Watson interface is alright to work with however there will be some lagging some times. I enjoyed the process of learning this course.
@@ -340,7 +330,6 @@ This course helped me a lot in solving my basics about data cleaning, Visualizat
 this course finally gets to some key Python functions for data analysis. Some of this may be difficult without a basic stats background. Only knock is there are MULTIPLE typos in the slides and labs. Needs to get fixed.
 This course went fairly well, I just hope that the information will be repeated in the next course in the certificate program (IBM Data Science certificate) as I don't feel like the information has really sunk in . . .
 The Model Training and Evaluation weeks could have been more elaborate. Instead of just telling to do something, it would've been better to explain why we are doing it and how is it working internally, at a high level.
-Tuve problemas con crear la cuenta en IBM cloud con mi correo personal primario , no pude encontrar  soporte ni orientación de que hacer , me toco ingresar con otro correo , no se porque no fue posible con el mio
 This course is pretty good and give a good introduction to data analysis with python. However, there is a problem in the course's methodology : functions are given without any introduction...just implementations.
 The course was good in introducing Pandas, Numpy and Sci-kit to beginners. Adding more graded programming activities would be a great addition to this course, as there is only one graded programming assignment.
 Certain parts were too fast, and there were some technical issues with the labs at times, but there's always the possibility to look up the blurry parts online. Overall it was interesting and well put together.
@@ -359,7 +348,6 @@ It will be helpful if a video is added on:1) how to store multiple results from 
 Great course, you can understand in a general way the use os Python to analyse raw data and organice it to create a better model. However I couldn't use in a proper way the external tool.
 Theory and examples are good. Suggest having full and complete Python course code with more examples of each coding. So we can get more ideas and understanding of the Python environment.
 Questions while listening to lessons in some of the lectures are coming before theory explained by the teacher .Better if question is at least 10 seconds after related theory explained.
-Los temas tratados son muy útiles y se desarrollan de gran manera. El herramienta de LAB es la más completa del curso. Considero que se puede aumentar la rigurosidad de la evaluación
 This was pretty good, I think maybe the best in the IBM machine learning certificate.  I took Andrew Ng's course prior to this, so to watch python sklearn in action was a real treat.
 It is a good course for beginners but I feel that the quizzes could have been a  bit more challenging. And if the codes were executed in the Python domain , it would have been nice.
 Very interactive and informative content.Covered all the data analysis related concept. I would suggest that spare some more time on Regression techniques to details information.
@@ -384,7 +372,6 @@ The course is a good start for beginners. The course contained everything useful
 Most of the course is very easy to understand, although the exercises in the notebook can become complex, the exercises do not always run and must be done again.
 Fun course! Lots of interesting content. It could've been more interesting and challenging with addition of a couple of marked assignments or a capstone project!
 This Course was very informative and beneficial and conceptual too, being newbie i personally feel that this course has taught me alot. Thanks to team Coursera
-Muy buen curso, por mejorar: varios errores en los talleres y también no fue posible ingresar a estos durante varios días lo cual atrasó el proceso de estudio.
 I found this module very difficult to understand as it was loaded with high end concepts and coding. Might have to redo this course to understand even better.
 Course content is very good but I feel it can be more improved if the training is provided at slower pace. Also the examples should be in detail. Overall good
 I think it would be good if the units had activities to deliver mandatory since that would allow to strengthen the knowledge acquired. Thanks for the course.
@@ -410,7 +397,6 @@ Good course for beginners. Can introduce little more concepts such as multi-coll
 It was a good course overall. Would prefer explanations at a slower pace and more examples for each of the techniques explained.Thank you!
 Content : 5/5Labs : 5/5Final Assignment : 3/5   (It was quite easy to complete as there we instructions and code already written for you).
 Great material. Very comprehensive. The only knock is sometimes the slides, notebooks, and quizes have typos or are not super-organized.
-Una visión muy amplia con acercamiento a una amplia variedad de herramientas. Faltan más ejemplos de uso, ejercicios y casos prácticos.
 The learning are too basic, trust me in real world things are much critical. Probably coursera can help us with that kind of knowledge
 One the greatest course of Data Analysis. The info given about statistics is very important and accurate.Thank you to the instructors.
 The more advanced portions of the course felt a bit rushed without enough examples and hands-on work to really reinforce the concepts.
@@ -419,7 +405,6 @@ There should be another grading method for the final task, that a system is in c
 The course is well designed, however, in some videos exist misspelling functions that may confuse when you try to test on your own.
 Some areas were a bit complex and required additional reading outside of the content provided but overall I enjoyed the course.
 Great course explaining some data analysis techniques. Some minor errors in voice track and material, but overall good content.
-muy bueno, este curso deberia ser el 2do o tercero en esta seccion, se ve bastante de lo que usa un data science normalmente!
 Good for an individual who is passionate about data scienceThanks course era for providing the course#datascience enthusiast
 This course give a brief Understanding Of Data Analysis with python. Thanks to the IBM for making us part of The IBM family.
 This is the good course for beginners. Great Explanations for pandas, EDA and scikit learn model analysis. Good to try this!
@@ -454,7 +439,6 @@ Would be better if some underlying theory of advanced topics is covered, such as
 week5-6 labs were tough for writing own code and for understanding. However for awareness, it was OK.
 It is a good course but -1 star because many typos/errors/unclear tasks in the assignment submission.
 Very good course! I just missed more deep content as optional reading in Ridge, Grids and Pipelines.
-Muy buen curso y muy buenos laboratorios! SIn embargo a veces no explican la teoría tan al detalle.
 My assignments with the correct answers were only given partial marks.Pls do the need for the same.
 I think it should have a higher level of difficulty, not so much more difficult but a little more.
 Great! Still thinking in go back to review the details that maybe I missed.. But excellent course.
@@ -479,7 +463,6 @@ nice and balanced course i like the assignments in this course a lot to learn he
 Good course, more explanation of the interpretations of the results will be great
 Better explanation could have been given for beginners, otherwise, it was good.
 I think needs to append more exercise. Too much content for a few of exercises
-Una muy buena opción si se quiere empezar con el análisis de datos con python
 Great but it has lots of information and require simple statical background
 This course is very useful if you want to learn the field of data science.
 Quizs could be more practical. The part of explaining models is amazing!
@@ -510,7 +493,6 @@ Great course, but the number of errors in videos is tremendous
 This is a good course for beginners, but not enough in-depth.
 there are some errors in the code lines through the lecutres.
 Typos in the videos and notebooks should have been corrected.
-Buen curso, los talleres permiten la aplicación de conceptos
 Quiz sections are very simple in comparison to the lessons.
 Final assignment could be better thought out. very simple.
 Very Helpful course..and very good contents..learnt alot..
@@ -544,9 +526,7 @@ Good Understanding of Data Science concepts.
 good course with almost all topics covered
 Easy to follow. Comprehensive explanation.
 concepts were not explained very carefully
-Excellent course with detail description.
 Best data analysis course for beginners .
-Excellent ! Helped me discover new tools
 It's very good start into data science.
 Wonderful course, I really enjoyed it
 Average Course with simple learning.
@@ -554,25 +534,19 @@ linkage between each module require
 Too easy. Make it more challenging!
 should have more thorough examples
 There are some errors in the labs
-you can explain more efficiently
 It took me longer than estimated
 Missing a Peer-reviewed exercise
 Where good to start for beginner
-it felt very dry for some parts
 Great Learning from this course
-Modules 4 & 5 need more detail.
 there are some bugs in the lab
 No linter was used by authors.
 it was worst experiance !!!!!
 Good but need to improve labs
 labs can be more explanatory
 It's a little hard to learn.
-Fantastic coding experience
 This course taught me a lot
-课程的视频部分讲的比较简单，阅读材料值得认真完成。
 Complex topic simplified
 Final test had bugs.
-can go more deeper
 was really nice
 informaive
 I am working through the IBM Data Science Certificate courses (in order) and this is easily the best one I have taken so far. Once again, the labs provide a variety of hands-on exercises that help to cement the topics introduced in the lectures (which, to be fair, are very fast-paced). Everything taught is practical and relevant. One request would be to fix the pacing of the videos and lecture quizzes, which often appear to test students' comprehension mere seconds after the topic was discussed! I did also notice a few errors in the labs, but they did not stop me from learning the material. Overall, great course.
@@ -580,7 +554,6 @@ perfect for beginner level. all the concepts with code and parameter wise have b
 Great introduction to data manipulation and analysis for common problems that arise in data science. Also allows you to gain a further understanding of Python syntax, specifically the pandas library.
 Very serious, professional, empowering course. Clear straightforward detailed explanations. A good deal of practice.
 A seriouse deal of statistical modelling taught with a perfect content. I really appricate the effort put in order to not being "hard-to-understand", but still finding the way to teach complex statistics. You will have a very good useful knowledge of statistical modelling without getting lost through too many greek symbols and long explanations.
-Thank you so much! - Oana
 I have really learned many things in this course which are meaningful and helpful in real life. It is not just lines and numbers , it is exciting how you can apply these methods to find solutions in your real life problems. Combined with strong Python skills , you will enjoy more..Thank you
 This was a great review of stuff math I learned in high school and college. Of course it's all easy now because it's baked into Python. We used to do it by hand and with slide rules back in the early 1970s
 It is really a good course, simple to understand and very complete. Thank you !
@@ -667,7 +640,6 @@ The videos explained carefully the structure of the codes and explained the resu
 It was a wonderful experience in learning the course. It was completely a practical approach. I enjoyed the process of assignment submission and reviewing peers assignments. I would highly recommend the course for everyone. Thanks once again.
 Outstanding course! Valuable information and methodologies all with clear and concise presentation. The labs are detailed and filled with awesome examples. Coursework is intuitive and easy to understand. I would highly recommend this course.
 Its very nicely designed course .Its designed such that you get brush up your fundamentals and get to know the real taste of statistics and probability applying practically to real world. i really enjoyed and earned a valuable knowledge.
-La calidad de los cursos de coursera es excelente. Obviamente tienen detalles que se deben trabajar como algunas presentaciones que no coinciden con las voces en off. Sin embargo con suspicacia se pueden solventar estos infimos detalles.
 I learnt a lot in this course, the teaching way is quite good with animation and real life based example. I must say the course is designed very carefully. I want to thanks all the course creators to gave us such a great opportunity..
 Very helpful and useful course especially for beginners who are willing to gain knowledge on Data Analysis. I would recommend starting with this course for those who are interested in mastering their skills in Data Science later on.
 This course is based mostly on very basic concepts , it's good for those lacking the slightest knowledge in the field of statistics , but yes for beginners it's pretty fine.I loved the presentation of those labs,quite useful
@@ -691,7 +663,6 @@ Grate course. Really straight forward. I live the design of this course (a lot o
 One of the greatest courses to become familiar with different Python libraries for machine learning, more specifically, the Pandas library, in which we should have the ability to work with "dataframes".
 This course is very good and it covers all the fundamental concepts used by pandas and numpy. It covers the linear regression, ridge search, grid search, polynomial regression and Pipeline construction
 It gives a very good introduction on most of the basic statistical methods. It is a bit challenging to absorb it all, but all by all very doable. I enjoyed this one and learned a lot from it! Thank you
-Me gustó aprender procesos de análisis de datos, algunos un poco complejos de entender pero se saca el tema. Seria bueno colocar algunas referencias para ir mas en detalle en algunos puntos complejos.
 perfect for beginner level. all the concepts with code and parameter wise have been explained excellently.overall best course in making anyone eager to learn from basics to handle advances with ease.
 Great Introduction to Data Analysis, the concepts going from the basic to deep in data-testing and data-training, as well as several applications linear and polynomial regression to data analyze.
 Data analysis with python has a high standard of content.I hope this is useful for me to crack DS interviews.The content is well structured.Quizzes,assignment and video lectures are corelated.
@@ -705,7 +676,6 @@ I like this course more than anything. As this course give me many useful insigh
 The course is very hands-on focused and that's great. Nevertheless, if there were some documents that summarize the week content (attibutes or codes characteristics) would be fantastic.
 It is a good course on Data Analysis for both predictive and descriptive analysis. I think there should be more practice assignments for more hands on experience on predictive analysis.
 Great content, clear video and concrete examples. One may wish to have more mathematical justification for some computations and functions, but it is the subject of a different course.
-Muy bien explicado, con las herramientas necesarias para adquirir habilidades en modelamiento por medio de regresiones lineales simples y multiples asi como la evaluación de los mismos
 The course helped refresh some of math and statistics learnt from university and provided a good overview of using python codes and functions to analyze complex data science projects.
 Lessons of the course are easily understanding with great explanations. Exercises are practical and easily applied with a free online website. I am greatly satisfied with the course.
 This course introduces the different pandas libraries that are mostly used in the data analysis using python. The student will learn about data wrangling, exploration, modeling, etc.
@@ -714,7 +684,6 @@ This course has given me skills to clean data, visualize data and evaluate model
 Superb explanation of the topics required for data analysis with a thorough hands on training of Python programming makes this course one of the best courses I have done till now.
 The course was very insightful, coming from knowing almost nothing about data analysis of python, it was easy to understand while not feeling  while following the steps provided.
 It is very interesting course. Before taking this course, I feel Python is complicated programming language.Now, I feel interesting about advancing technical skills with coursera
-Este curso es un gran acercamiento inicial al tema de Ciencia de datos, es muy intuitivo para las personas que no tienen conocimientos de Phyton, estadística o ciencia de datos.
 I have learnt new things in python, like Linear regression and Ridge regression. Through different projects I gain an insight of how I can manipulate data and predict variables.
 A course that goes direct to the point saving you loads of time of researching and learning things alternatively. In simple words, this course was CLEAR and DIRECT to the point.
 Really this course shows the full path to master the Data Analysis with Python. This path is short, helpful, and rich information their. thank you at all  and thank you Coursera
@@ -738,7 +707,6 @@ Good mix of Python programming and libraries, data analysis, and linear regressi
 The course was interesting and slightly challenging. My favourite course on Coursera so far! Even as a qualified chemical engineer, I learnt a few interesting things.
 This has been by far the most difficult course I've taken. I guess that if you have some background in statistics, this will be easier for you. Quite the challenge!!!
 This is an awesome course for anyone who wishes to start a career in data analysis using python.The tutorial is well organized and structured with detailed materials.
-Iimportar, Domar, Explorar y Seleccionar datos y para entrenar un modelo de regresión lineal, evaluar y seleccionar hiperparametro adecuado para tener un buen modelo
 I learned a lot from this course, especially on data preparation, wrangling, analysis and understanding data modelling. Thumb up to the instructors and IBM, Thanks!.
 Another great course to learn more deeply about Data Analysis with methods that beginners are able to understand. Keep the good work up! Thank you Coursera and IBM!
 This course provides a good understanding of different steps involved in data analysis.The labs provided help us to see the output of our code which is very useful.
@@ -761,7 +729,6 @@ Good overview of statistical analysis with python. I'd recommend having at least
 Best part of this course is that it is designed in a way that the student is able to get a clear view of topic on course completion. Well designed module.
 Good course if you need to start your career in Data Science. I recommend to take all courses in the specialization. Five stars for everyone. Good Luck :)
 Very well structured course to learn the whole process of Data Analysis and get hands dirty in the field. Recommend to anyone interested in Data Analysis!
-Curso muy completo, repleto de información útil con problemáticas reales y ejercicios de aplicación espectaculares. Sin dudas voy a recomendar este curso!
 A very good course for anyone who wants to get started with pandas, NumPy, SciPy, sklearn.. and learn how to look at data and meaningful insights from it
 Amazing content. I learned a lot of concepts used in analyzing data in Python. Examples in the course made it simple and easy to practice and understand.
 This course is  good for someone who wants to start learning machine learning. It covers all the relevant topics which will help you in machine learning.
@@ -783,7 +750,6 @@ Great course, I loved the final project because it really puts what you've learn
 One of the best course for data analysis with python. It covers the concepts to start working on a project and has well detailed explanation to all.
 Excellent combination of core statistical concepts being translated into digestible python codes.!! Yes I can comfortably use linear regression now!
 Great hands-on lab examples and step by step teaching which makes the content easily digestible even to those without much prior python experience.
-Muy didactico y util, recomiendo repasar algunos conceptos de estadistica para que sea mucho más comprensible los analisis que se estan realizando.
 Amazing course! I was looking for a comprehensive course which takes up step by step process for Data Analysis. I hit a jackpot with this course.
 All the content was brilliant and complete, The teacher was quite amazing and he actually complete almost every thing in this course perfectly.
 This course is very helpful as it is more industry oriented. I have personally found this course to be very smooth and beneficial for learning.
@@ -847,7 +813,6 @@ Very good. lots of methods are covered in this course. Should include 1 complete
 One of the best courses I have ever taken. Gives a complete hands-on experience of analyzing real-world data with python
 It’s a very fundamental course for newcomers. I enjoyed a lot from it. And the lab provides greatly functional practice.
 This was my first time learning to do visualization with python and it gave a clear idea about how to do visualization.
-Gran curso, muy bien orientado a dejar claros todos los conceptos, con herramientas muy bien integradas al aprendizaje.
 Good course to start with. Course deals with basics of Python, Descriptive Analysis, Exploratory Analysis and Modeling.
 It is a good course. Why it is not possible to teach everything in Python in small modules but it gives a great start.
 A well and vast explanation and review on Statistical Data Analysis with Python. An awesome course!!! I just loved it.
@@ -869,7 +834,6 @@ This course perfectly explains many concepts about data analysis and presents a 
 Very interesting course. I learned how to analyze data with some statistical tool to retrieve useful information.
 There is errors in the course assigment in last 4 tasks. This is why it is so difficult for people to solve them.
 Very good for basic level understanding. I'm hoping IBM would introduce an advanced level version of this course.
-Es realmente un excelente curso para iniciar en la parte de IA y entender cómo mejorar los análisis estadísticos
 The course provides a detailed and comprehensive content and practical approach of using python to analyze data.
 Informative elearning. Good overview of using Python for data analysis / visualisation / machine learning basics
 I enjoyed learning Python by taking this course and I love the interface to practice Python programming! Cheers!
@@ -889,7 +853,6 @@ Great course! It provides the tools you need to start your carreer as a Data Sci
 The course is outstanding, so much information compacted into small bits that makes learning fast and simple.
 This is very useful course for data analyst which provide the most important knowledge for the data analysis
 This course is very insightful. Improved my knowledge on data analysis and helped to understand python codes
-Excelente curso, soy colombiano y aprendi mucho, ademas tambien que practique mucho mi ingles en este curso.
 This was definitely the best course! I enjoyed learning! A big thanks to the instructors for this course! :)
 THIS COURSE IS AMAZING ,I WILL RECOMMEND TO THE BEGINNERS TO TO THROUGH THE LAB EXERCISE AND PRACTICE HARD.
 Really enjoyed this course - got a good insight into how we can explore and manipulate data for analysis.
@@ -923,7 +886,6 @@ A lot of information presented in a concise format that was easy to follow.  Lab
 Great hands on experience with python implementing fundamental analytical processes with data sets.
 Excellent way of explaining! I like the narrative along with the graphics rather than someone face
 Great course. Cuts the BS and gets straight to the point. Also very effective in course outcomes!
-Curso que cubre de manera completa lo necesario para iniciarse en el mundo de la Ciencia de Datos
 Such a complex and effective course with good course work. Thank you for teaching me this course.
 Really enjoyed all the different type of models and the statistical evaluations for those models.
 Very good course!! great stuff, could've been even better if the questions had been a bit harder
@@ -974,7 +936,6 @@ This course was challenging and a great course to prepare us for the capstone pr
 A lot more challenging than the other courses I've taken on the subject. Learnt a lot.
 THERE ARE  SO MANY THINGS I LEARNED FROM THIS COURSE AND IT WAS VERY BENEFICIAL FOR MR
 I love this course, it sequential.  Now i have a foundation towards my tinyML journey
-Très bonne formation pour les motivés souhaitant débuter leurs carrières dans la data
 Knowledge was amazing and fun. These contents are ready to use in real-life problems.
 I enjoyed it and learned a lot of new skills from this. Worth every minute and penny.
 Very clear presentation, highly pedagogical. Thanks for the efforts for preparing it.
@@ -986,7 +947,6 @@ This course  is  very helpful for Data Scientist aspirants.Thanks a lot to Cours
 I will give 5 star to this course which will help to learn data analysis with python
 A good course which gives exposure to various data analysis practice through python.
 Amazing course ! Fantastic specialization focused the applied side of data science .
-Excelente curso, con ejemplos reales que pueden ser aplicados a el estudio de datos
 Good for my beginning! it's really basic. If I want to be an expert i must try more
 A very well structured and interactive course. The content was very well explained.
 Overall great course. Only con is that the lab assignments aren't very challenging.
@@ -1021,31 +981,25 @@ Very thorough material. Absolutely recommend it to anyone new to this subject.
 Good introduction into data analyzing with python and choosing the best models
 well structured course, and easy to follow, altough it gets tough ar the end:)
 Very well explained, with all the concepts reinforced with practicals and lab
-Excelente curso! el aprendizaje de consejos y optimizar el código fue genial!
 It is an awesome course. But the practice is the only key to strengthen this.
 A complete journey throught Data analysis and a refreshment about statistics
 It's an extremely useful course to make you more familiar with data analysis
-Excelente curso introductorio para la analítica de datos y el uso de Python.
 The practice after the lecture should be more difficult. This is too easy...
 it is not a very organized course, the material is not explained explicitly.
 This course helped me to enhance my knowledge of data analysis using Python.
 It would be nice if teaching staff could correct notified errors in quizzes.
 course was very informative and very well organized. Full credit to teacher
 Neatly structured. Great course. Will recommend to anyone interested in DS.
-Muy buena visión de los pasos a seguir para generar un modelo y verificarlo
 this course is very excellent they give you depeath knowledge of statistics
 This course is great, it covers the foundation of Data Analysis with Python
 More than sufficient overview of SQL and how to use it in jupyter notebook.
 Awesome course data enthusiast must take this course . Best course content
-Excelente, felicitaciones a los creadores del contenido y de los Notebooks
 A very good course to start learning Python and, of course, data analysis.
 It's Good for people who wants to know python and data analysis for newbie
 The course is unique in it's own way, simple in understanding and applying
 One of my favorite courses on Coursera. I have learned a lot about Python.
-Es un curso completo, con el recurso del laboratorio de IBM es excelente.
 The topics are well explain to catch up in statistical terms and concepts
 Well thought off module as well inputs and project work are well designed
-Excelente curso, los laboratorios brindan una mejor comprensión del curso
 Probably the best to teach data analysis using Python. Thank you so much.
 Hands on and practical course, Lab exercises help to drive in the methods
 Tough course but a perfect one for becoming an effective Data Scientist!
@@ -1131,7 +1085,6 @@ The course was awesome and delivered in an efficient manner
 Extremely good course to begin your Data Science Journey !!
 Good course to quickly learn basics and start experimenting
 The best course I've ever had on Coursera, very insightful!
-Excelente, muy agradecido por los conocimientos adquiridos.
 This course is providing valuable insight in Data analysis.
 Great Course! A lot of advanced knowledge. Very valuable <3
 Very thorough teaching of statistical analysis using python
@@ -1158,7 +1111,6 @@ Good start to learning about linear regression in Python
 Exceptional course. Kudos to the instructors. Thank you.
 Strongly recommend if you need basic knowledge of python
 Very nice combination with statistics and data analysis.
-VERY GOOD I  HAVE LEARNED NEW THINGS THANK YOU VERY MUCH
 The best gentle intro on creating and evaluating models.
 Complete coverage for all important topics with examples
 It was  one of the hardest course among all the courses.
@@ -1176,7 +1128,6 @@ The course content is great. Thank you for the support
 great course, it really hard but you obtain new skills
 I like this course. Plenty learning for future skill !
 Nice overview of data analysis capabilities of python.
-A big TNAKS to Joseph Santarcangelo, amazing training.
 It's very helpful to kick start career as Data Analyst
 The statistical concepts are well and simply explained
 Highly recommended for beginners and intermediate!! :)
@@ -1185,7 +1136,6 @@ Thanks great course I learn a lot about data analysis
 A very well composed introduction into Data Analysis.
 Excellent course to learn Data Analysis with Python.
 It was perfect course for beginner in Data Analysis.
-Muy buen curso introductorio, va directo al objetivo
 Very good for beginners with basic Python knowledge.
 Excellent course structure with hands-on exercises.
 A great course to learn Data Analysis using Python.
@@ -1210,7 +1160,6 @@ The best course to start.well explained content.
 Good value for your time and money. Recommended.
 I think that this course is useful and well done
 Good course a little difficult in terms of math
-Excelente curso de introducción a Data Science.
 It's the best data science course for beginners
 Foundation course for Data Analysis. Great ...!
 Excellent content; learnt a lot in this course.
@@ -1222,7 +1171,6 @@ Amazing course for beginners in data analysis.
 very nice course!! very nicely explain concept
 Thank you Coursera for this wonderful course !
 A quite practical introduction to the subject!
-Excelente, muy bueno. Se aprende bastante!!!!!
 Awesome course! Really happy with the content.
 Excellent course. Very informative and precise
 This course is very hectic and lots of fun. :)
@@ -1240,10 +1188,8 @@ The whole was very informative and helpful!!
 great content, I have learned amazing things
 great course , i learn a lot , thks coursera
 Thanks.  Great to cover lots of topic in DA.
-Starting to dig deeper into data analysis :)
 very concise script - time saving and clear.
 One of the best courses about Data analysis.
-Fantastic experience. Great video lectures!
 Thank you very much for this amazing course
 I am veri exiting about taking this course.
 Wonderful course. Thanks to the instructors
@@ -1265,9 +1211,6 @@ Informative course which is easy to learn
 Thank you coursera & IBM for this course.
 Excellent course and great labs. Thanks.
 Really good course! Thank you very mcuh!
-Excelente curso... excelente metodología
-Buen curso, muy didáctico e interesante.
-En general muy bien explicado y conciso.
 The course was very helpful for practice
 Very interesting, challenging and useful
 Good course with detailed explainations.
@@ -1302,8 +1245,6 @@ Very insightful to start with Python
 Great Course to develop you concepts
 everything is perfect in this course
 great skeleton for the course design
-Excellent course about data analysis
-Me encantó este curso, aprendí mucho
 good training to leard data analysis
 exhaustive study and great materials
 easy to understand and very engaging
@@ -1312,7 +1253,6 @@ Was actually hard but great content!
 Challenging task, Make  it perfect!!
 A very good course on Data Analysis
 Very suitable course for beginners.
-Great course for data visualization
 Fast paced, lots of topics covered!
 Nice course structure and tutorials
 Nice presentation of the materials.
@@ -1329,7 +1269,6 @@ good . Lot of things i have learnt
 Practical intensive and engaging.
 Interesting and consistent course
 Watch videos and practice a lot!!
-Muy practico y fácil de entender.
 Extremely helpful for beginners !
 Could have been more explanatory.
 Hard work pays off!!! do the work
@@ -1344,12 +1283,10 @@ Very good class. Very foundation
 Good teaching thank you coursera
 We need more practice, projects.
 good and very informative course
-Best IBM course for me so far !
 The best course for a beginner.
 Challenge and very informative.
 Excellent! Good Course Material
 Nice course on data analysis !!
-excellent content and delivery!
 Strong tools for data analysis.
 Great course to get you started
 Great Course, Very Recommended!
@@ -1384,7 +1321,6 @@ Very good labs and datasets
 a very informative seesions
 very nice and easy language
 I learn a lot in this class
-excellent course i loved it
 very good. I will continue.
 Thank you for the contents
 Very useful for my project
@@ -1392,16 +1328,12 @@ Really nice taught course.
 Great course for beginner!
 Excellent course , thanks!
 Very systematic and clear.
-Best data analysis course
 very easy learning portal
-good practical experience
 Good foundational insight
 Easy and nice training...
 Must read the full course
-lab materials are helpful
 Great Hands-on Experience
 Delighted with the course
-通过这门课程, 我学到了很多关于数据分析方面的方法
 Easy but very instructive
 This is a helpful course
 Very good course design.
@@ -1409,19 +1341,14 @@ The Lab was very helpful
 Really helpful materials
 Good Course, Must for ML
 Another great course....
-FANTASTIQUE VRAIMENT !!!
 Amazing course. Best yet
 Amazing! In everything!
-Excellent experience!!!
 i learned a lot, thanks
-great course and detail
 Very good to the course
 very clear and helpful!
 Great to develop basics
 not so "easy"! thanks!
-Very didactical course
 its very usefull to me
-Very excellent course!
 Informative and Useful
 learn a lot things!!!
 Fun and Useful Course
@@ -1429,66 +1356,34 @@ very good experience.
 Easily understandable
 Excellent coursework!
 Practical and Useful!
-Completo y funcional
 Got to learn a lot!!
 Simple and Efficient
 Fast and efficient.
 focused on practice
-best course:)))))))
 was nice experience
 the hardest so far!
-Excellent Course..
-GOOd FOR BEGINNERS
 Very good course !
-Quite interesting.
 learn a lot THANKS
 Great and helpful
 Toughest one yet.
 very challenging.
 well-structured!
 Great learning !
-NIce experience.
 Perfect to start
-Good Content..!!
 It's Good Course
-Amazing content.
 Please fix typos
 greatcourse aerg
-EXCELENT COURSE
-Muy Recomendado
 Well Elaborated
 IT WAS AWESOME.
 Very practice.
 Good contents.
-clear syllable
 that was great
-Simple, clear.
 Thanks to IBM
 It was Great.
-hard but good
-I feel strong
-Simple GREAT!
 ohh great!!!
 Perfect..!!!
-vary good :)
-Nice Course,
-Nice Classes
-very nice...
-BEST course
-Excellent1!
 helped alot
 Its Great.
 its great-
 GUD COURSE
-usefull!!
-Concluido
-perfect !
-Was good.
-s实际的案例不够多
-课程节奏太棒了！
 Great :D
-great!!1
-Completo
-Greaat
-zaebis
-Happy
