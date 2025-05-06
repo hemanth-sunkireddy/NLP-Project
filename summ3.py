@@ -1,9 +1,11 @@
 import pandas as pd
 from transformers import T5Tokenizer, T5ForConditionalGeneration
+import pickle
 from tqdm import tqdm
 # Load CSV
 tqdm.pandas()
-df = pd.read_csv("merged_clean_english_only.csv")  # Ensure columns: 'course_id', 'reviews'
+with open("data.pkl", "rb") as f:
+    df = pickle.load(f)
 # Initialize T5 model and tokenizer once
 model_name = "t5-small"
 tokenizer = T5Tokenizer.from_pretrained(model_name)
